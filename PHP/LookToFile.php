@@ -16,8 +16,8 @@
  */
 
 function getDatForFileNumber($fileNumber) {
-    # $VTableFile = "E:\SquareEnix\SquareEnix\FINAL FANTASY XI\VTABLE.DAT";
-    $FTableFile = "E:\SquareEnix\SquareEnix\FINAL FANTASY XI\FTABLE.DAT";
+    # $VTableFile = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\VTABLE.DAT";
+    $FTableFile = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\FTABLE.DAT";
 
     $FBR = fopen($FTableFile, 'rb');
     fseek($FBR, 2 * $fileNumber, SEEK_SET);
@@ -41,7 +41,7 @@ function getDatForFileNumber($fileNumber) {
 }
 
 function getFileHeaders($dat_path) {
-    $dat_path = "E:\\SquareEnix\\SquareEnix\\FINAL FANTASY XI\\{$dat_path}";
+    $dat_path = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\{$dat_path}";
     $handle = fopen($dat_path, "r");
 
     $slotBytesOffset = [0, 4];
@@ -138,6 +138,69 @@ $model_id_list = [];
 // The total number of files to look for, if we hit the end of the vtable, it will stop anyway.
 $maxFiles = 1000000;
 
+$ffxi_scan = "6j0";
+$ffxi_results = [];
+$ffxi_rom_root = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\";
+$ffxi_rom_folders = [
+    "ROM", "ROM2", "ROM3", "ROM4", "ROM5", "ROM6", "ROM7", "ROM8", "ROM9"
+];
+
+function findDatFiles($dir, &$datFilesArray, $parentPath = '') {
+    $files = scandir($dir);
+
+    foreach ($files as $file) {
+        if ($file === '.' || $file === '..') {
+            continue;
+        }
+
+        $path = $dir . DIRECTORY_SEPARATOR . $file;
+
+        if (is_file($path) && pathinfo($file, PATHINFO_EXTENSION) === 'DAT') {
+            $datFilesArray[] = $parentPath . DIRECTORY_SEPARATOR . $file;
+        } elseif (is_dir($path)) {
+            findDatFiles($path, $datFilesArray, $parentPath . DIRECTORY_SEPARATOR . $file);
+        }
+    }
+}
+
+foreach ($ffxi_rom_folders as $rom) {
+    $ffxi_rom_path = "{$ffxi_rom_root}{$rom}";
+
+    echo("Building dat list: {$ffxi_rom_path} \n");
+
+    $ffxi_rom_dat_folders = [];
+
+    findDatFiles($ffxi_rom_path, $ffxi_rom_dat_folders);
+
+    $ffxi_count = count($ffxi_rom_dat_folders);
+
+    echo("Total = {$ffxi_count} \n");
+    echo("Scanning ... \n");
+
+    foreach ($ffxi_rom_dat_folders as $folder) {
+        $fulldat = "{$ffxi_rom_path}{$folder}";
+        echo("> SCAN: {$fulldat} \n");
+
+        // get headers
+        $headers = getFileHeaders("{$rom}\\{$folder}");
+
+        // the two types of headers we look for
+        $header_slot = $headers[0];
+        $header_weapon = $headers[1];
+
+        if (stripos($header_slot, $ffxi_scan) !== false || stripos($header_weapon, $ffxi_scan) !== false) {
+            $ffxi_results[] = $fulldat;
+        }
+    }
+
+    break;
+}
+
+echo("-- Finished scanning ... \n");
+print_r($ffxi_results);
+
+die;
+
 // First we handle per race
 foreach($race_list as $race_id => $race_name) {
     echo("--- Looking for: {$race_name} equipment... \n");
@@ -180,7 +243,7 @@ foreach($race_list as $race_id => $race_name) {
 
             // This is the expected header type for this race + slot
             $expected_header_slot = $slot_headers[$slot_name][$race_id];
-    
+
             // if the header is not the expected type, we continue
             if ($header_slot != $expected_header_slot) {
                 continue;

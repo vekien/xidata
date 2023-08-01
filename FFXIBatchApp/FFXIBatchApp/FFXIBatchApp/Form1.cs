@@ -1025,8 +1025,7 @@ namespace FFXIBatchApp
                     // Build the Noesis cmode command
                     string command = $"\"{zonePath}\" \"{saveTo}\" {noesisArgs}";
                     ConsoleLog($"-- {expName}: {zoneName}");
-
-					ConsoleLog(command);
+					//ConsoleLog(command);
 
                     // Run the cmode command
 					HandleNoesisCMode(command);
@@ -1124,8 +1123,11 @@ namespace FFXIBatchApp
                 string raceSkeleton = race.Value["Skeleton"];
 
                 // format skeleton into a filepath and set the global one for the open Dialog
-                string raceSkeletonPath = $"{ffxiPath}\\ROM{raceSkeleton}.DAT";
+                // string raceSkeletonPath = $"{ffxiPath}\\ROM{raceSkeleton}.DAT";
+			    string raceSkeletonPath = $"ROM{raceSkeleton}.DAT";
 				ExtractSkeleton = raceSkeletonPath;
+
+				ConsoleLog($"Starting :: Race = {raceName} :: Skeleton = {raceSkeletonPath}");
 
 				// loop through gear types
 				foreach (var gear in (JObject)race.Value["Gear"])
@@ -1147,7 +1149,7 @@ namespace FFXIBatchApp
 						// if (slotName != "Face") { continue; }
 
 						// Set the path to the full name
-						itemPath = $"{ffxiPath}\\ROM{itemPath}.DAT";
+						itemPath = $"ROM{itemPath}.DAT";
 
 						// Set the save output
 						string saveTo = $"{outputFolder}\\{raceName}\\{slotName}\\{itemName}";
@@ -1166,11 +1168,27 @@ namespace FFXIBatchApp
 						}
 
 						// Build the Noesis cmode command
-						string command = $"\"{itemPath}\" \"{saveTo}\" {noesisArgs}";
 						ConsoleLog($"--- ({count} / {total}) {raceName} - {slotName} - {itemName}");
 
+						// write out the .ff11datset file
+						string[] datset = {
+							"NOESIS_FF11_DAT_SET",
+							"",
+							$"setPathAbs \"{ffxiPath}\\\"",
+							$"dat \"__skeleton\" \"{raceSkeletonPath}\"",
+							$"dat \"gear\" \"{itemPath}\""
+						};
+
+						// write file out
+						string joinedString = string.Join(Environment.NewLine, datset);
+						string ff11datfile = $"{outputFolder}\\temp_HandleArmorExtract.ff11datset";
+						File.WriteAllText(ff11datfile, joinedString);
+
+						// path
+						string command = $"\"{ff11datfile}\" \"{saveTo}\" {noesisArgs}";
+
 						// Run the cmode command
-						HandleNoesisCMode(command, 2);
+						HandleNoesisCMode(command);
                     }
                 }
 			}
@@ -1406,7 +1424,5 @@ namespace FFXIBatchApp
 
 			FlowFinished(outputFolder);
 		}
-
-		
 	}
 }

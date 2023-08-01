@@ -85,6 +85,7 @@ namespace FFXIBatchApp
 			this.label18 = new System.Windows.Forms.Label();
 			this.label17 = new System.Windows.Forms.Label();
 			this.tabPage7 = new System.Windows.Forms.TabPage();
+			this.EnableStopHook = new System.Windows.Forms.CheckBox();
 			this.label24 = new System.Windows.Forms.Label();
 			this.label23 = new System.Windows.Forms.Label();
 			this.PathNoesis = new System.Windows.Forms.TextBox();
@@ -93,7 +94,6 @@ namespace FFXIBatchApp
 			this.timer1 = new System.Windows.Forms.Timer(this.components);
 			this.OpenOutputFolder = new System.Windows.Forms.Button();
 			this.OpenLogFile = new System.Windows.Forms.Button();
-			this.EnableStopHook = new System.Windows.Forms.CheckBox();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
 			this.panel1.SuspendLayout();
 			this.tabControl1.SuspendLayout();
@@ -231,9 +231,9 @@ namespace FFXIBatchApp
 			this.StopEverything.Cursor = System.Windows.Forms.Cursors.Hand;
 			this.StopEverything.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
 			this.StopEverything.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.StopEverything.Location = new System.Drawing.Point(1169, 12);
+			this.StopEverything.Location = new System.Drawing.Point(1151, 38);
 			this.StopEverything.Name = "StopEverything";
-			this.StopEverything.Size = new System.Drawing.Size(144, 72);
+			this.StopEverything.Size = new System.Drawing.Size(144, 40);
 			this.StopEverything.TabIndex = 2;
 			this.StopEverything.Text = "STOP";
 			this.StopEverything.UseVisualStyleBackColor = false;
@@ -451,7 +451,8 @@ namespace FFXIBatchApp
 			this.label15.Name = "label15";
 			this.label15.Size = new System.Drawing.Size(609, 177);
 			this.label15.TabIndex = 20;
-			this.label15.Text = resources.GetString("label15.Text");
+			this.label15.Text = "This dumps out all armor into FBX format, you can edit the Noesis Args to your li" +
+    "king below. \r\n";
 			// 
 			// groupBox6
 			// 
@@ -474,9 +475,9 @@ namespace FFXIBatchApp
 			this.label16.ForeColor = System.Drawing.Color.Brown;
 			this.label16.Location = new System.Drawing.Point(8, 26);
 			this.label16.Name = "label16";
-			this.label16.Size = new System.Drawing.Size(331, 19);
+			this.label16.Size = new System.Drawing.Size(282, 19);
 			this.label16.TabIndex = 0;
-			this.label16.Text = "Controls your PC as a \"Open\" dialog needs handling.";
+			this.label16.Text = "This uses ?cmode - You can still use your PC.";
 			// 
 			// tabPage3
 			// 
@@ -799,6 +800,18 @@ namespace FFXIBatchApp
 			this.tabPage7.Text = "Settings";
 			this.tabPage7.UseVisualStyleBackColor = true;
 			// 
+			// EnableStopHook
+			// 
+			this.EnableStopHook.AutoSize = true;
+			this.EnableStopHook.Checked = true;
+			this.EnableStopHook.CheckState = System.Windows.Forms.CheckState.Checked;
+			this.EnableStopHook.Location = new System.Drawing.Point(17, 180);
+			this.EnableStopHook.Name = "EnableStopHook";
+			this.EnableStopHook.Size = new System.Drawing.Size(263, 24);
+			this.EnableStopHook.TabIndex = 9;
+			this.EnableStopHook.Text = "Enable \"A to STOP\" Keyboard Hook";
+			this.EnableStopHook.UseVisualStyleBackColor = true;
+			// 
 			// label24
 			// 
 			this.label24.AutoSize = true;
@@ -864,7 +877,7 @@ namespace FFXIBatchApp
 			// 
 			this.OpenOutputFolder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
 			this.OpenOutputFolder.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.OpenOutputFolder.Location = new System.Drawing.Point(498, 44);
+			this.OpenOutputFolder.Location = new System.Drawing.Point(773, 38);
 			this.OpenOutputFolder.Name = "OpenOutputFolder";
 			this.OpenOutputFolder.Size = new System.Drawing.Size(183, 40);
 			this.OpenOutputFolder.TabIndex = 5;
@@ -876,7 +889,7 @@ namespace FFXIBatchApp
 			// 
 			this.OpenLogFile.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
 			this.OpenLogFile.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.OpenLogFile.Location = new System.Drawing.Point(687, 44);
+			this.OpenLogFile.Location = new System.Drawing.Point(962, 38);
 			this.OpenLogFile.Name = "OpenLogFile";
 			this.OpenLogFile.Size = new System.Drawing.Size(146, 40);
 			this.OpenLogFile.TabIndex = 6;
@@ -884,23 +897,11 @@ namespace FFXIBatchApp
 			this.OpenLogFile.UseVisualStyleBackColor = true;
 			this.OpenLogFile.Click += new System.EventHandler(this.OpenLogFile_Click);
 			// 
-			// EnableStopHook
-			// 
-			this.EnableStopHook.AutoSize = true;
-			this.EnableStopHook.Checked = true;
-			this.EnableStopHook.CheckState = System.Windows.Forms.CheckState.Checked;
-			this.EnableStopHook.Location = new System.Drawing.Point(17, 180);
-			this.EnableStopHook.Name = "EnableStopHook";
-			this.EnableStopHook.Size = new System.Drawing.Size(263, 24);
-			this.EnableStopHook.TabIndex = 9;
-			this.EnableStopHook.Text = "Enable \"A to STOP\" Keyboard Hook";
-			this.EnableStopHook.UseVisualStyleBackColor = true;
-			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.BackgroundImage = global::FFXIBatchApp.Properties.Resources.bg4;
+			this.BackgroundImage = global::FFXIBatchApp.Properties.Resources.bg1;
 			this.ClientSize = new System.Drawing.Size(1325, 726);
 			this.Controls.Add(this.OpenLogFile);
 			this.Controls.Add(this.OpenOutputFolder);

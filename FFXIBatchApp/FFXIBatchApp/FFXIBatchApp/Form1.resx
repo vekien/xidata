@@ -1793,11 +1793,6 @@ To stop things: Click the big red STOP button or press the  "A"  key on your key
 
 The settings here are recommended for 3D modelling and Game Engines. Textures are output as PNG (cannot change) and have the correct path set in the materials. Bump Normals are set on the mesh, not a separate file.</value>
   </data>
-  <data name="label15.Text" xml:space="preserve">
-    <value>This dumps out all armor into FBX format, you can edit the Noesis Args to your liking below. 
-
-This does use ?cmode however Noesis will open a dialog window when a FF11 Skeleton is required, this needs the correct skeleton selecting so the automation will handle that!</value>
-  </data>
   <data name="label12.Text" xml:space="preserve">
     <value>This dumps out all weapons into FBX format, you can edit the Noesis Args to your liking below. 
 

@@ -139,7 +139,7 @@ $model_id_list = [];
 $maxFiles = 1000000;
 
 $ffxi_scan = "6j0";
-$ffxi_results = [];
+$ffxi_headers = [];
 $ffxi_rom_root = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\";
 $ffxi_rom_folders = [
     "ROM", "ROM2", "ROM3", "ROM4", "ROM5", "ROM6", "ROM7", "ROM8", "ROM9"
@@ -185,11 +185,17 @@ foreach ($ffxi_rom_folders as $rom) {
         $headers = getFileHeaders("{$rom}\\{$folder}");
 
         // the two types of headers we look for
-        $header_slot = $headers[0];
+        $header_slot = trim($headers[0]);
         $header_weapon = $headers[1];
 
-        if (stripos($header_slot, $ffxi_scan) !== false || stripos($header_weapon, $ffxi_scan) !== false) {
-            $ffxi_results[] = $fulldat;
+        $header_slot = preg_replace('/[^a-zA-Z0-9_]/', '', $header_slot);
+
+        if (strlen($header_slot) !== 4) {
+            continue;
+        }
+
+        if (!isset($ffxi_headers[$header_slot])) {
+            $ffxi_headers[$header_slot] = $fulldat;
         }
     }
 
@@ -197,7 +203,11 @@ foreach ($ffxi_rom_folders as $rom) {
 }
 
 echo("-- Finished scanning ... \n");
-print_r($ffxi_results);
+print_r($ffxi_headers);
+
+ksort($ffxi_headers);
+
+file_put_contents(__DIR__.'/headers.json', json_encode($ffxi_headers, JSON_PRETTY_PRINT));
 
 die;
 

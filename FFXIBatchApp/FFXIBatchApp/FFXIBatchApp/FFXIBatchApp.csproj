@@ -177,27 +177,6 @@
     <EmbeddedResource Include="Resources\AltanaList\Effect\WhiteMagic.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\AltanaListAnims\Animations_Elvaan_Female.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\AltanaListAnims\Animations_Elvaan_Male.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\AltanaListAnims\Animations_Galka.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\AltanaListAnims\Animations_Hume_Female.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\AltanaListAnims\Animations_Hume_Male.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\AltanaListAnims\Animations_Mithra.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Resources\AltanaListAnims\Animations_Tarutaru.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
     <None Include="Resources\AltanaList\Floor.csv" />
     <EmbeddedResource Include="Resources\AltanaList\Image\abyssea.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -571,6 +550,11 @@
     <EmbeddedResource Include="Resources\AltanaList\PC\index.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
+    <None Include="Resources\AltanaList\PC\ElvaanF\Action.csv_bkup" />
+    <None Include="Resources\AltanaList\PC\ElvaanM\Action.csv_bkup" />
+    <None Include="Resources\AltanaList\PC\Galka\Action.csv_bkup" />
+    <None Include="Resources\AltanaList\PC\HumeF\Action.csv_bkup" />
+    <None Include="Resources\AltanaList\PC\HumeM\Action.csv_bkup" />
     <None Include="Resources\AltanaList\PC\LilBoy\Action.csv" />
     <None Include="Resources\AltanaList\PC\LilBoy\Body.csv" />
     <None Include="Resources\AltanaList\PC\LilBoy\Face.csv" />
@@ -726,6 +710,14 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\AltanaList\PC\Mithra\Action.csv_bkup" />
+    <None Include="Resources\AltanaList\PC\ShadowLord\Action.csv" />
+    <None Include="Resources\AltanaList\PC\ShadowLord\Body.csv" />
+    <None Include="Resources\AltanaList\PC\ShadowLord\Feet.csv" />
+    <None Include="Resources\AltanaList\PC\ShadowLord\Hands.csv" />
+    <None Include="Resources\AltanaList\PC\ShadowLord\Head.csv" />
+    <None Include="Resources\AltanaList\PC\ShadowLord\Legs.csv" />
+    <None Include="Resources\AltanaList\PC\Tarutaru\Action.csv_bkup" />
     <None Include="Resources\button_hover.png" />
     <None Include="Resources\button.png" />
   </ItemGroup>

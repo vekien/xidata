@@ -1,295 +1,421 @@
 @Battle
-46/57-62;99/20-21,Battle
-112/113-114,Dual Wield (Sub)
-112/119-120,Dual Wield (Main)
+46/57,Battle_46-57
+46/58,Battle_46-58
+46/59,Battle_46-59
+46/60,Battle_46-60
+46/61,Battle_46-61
+46/62,Battle_46-62
+99/20,Battle_99-20
+99/21,Battle_99-21
+112/113,Dual Wield (Sub)_112-113
+112/114,Dual Wield (Sub)_112-114
+112/119,Dual Wield (Main)_112-119
+112/120,Dual Wield (Main)_112-120
 @Emote
-46/75-79;123/42;138/5-7,Emote
-259/91;260/52-60,Job Emotes
+46/75,Emote_46-75
+46/76,Emote_46-76
+46/77,Emote_46-77
+46/78,Emote_46-78
+46/79,Emote_46-79
+123/42,Emote_123-42
+138/5,Emote_138-5
+138/6,Emote_138-6
+138/7,Emote_138-7
+259/91,Job Emotes_259-91
+260/52,Job Emotes_260-52
+260/53,Job Emotes_260-53
+260/54,Job Emotes_260-54
+260/55,Job Emotes_260-55
+260/56,Job Emotes_260-56
+260/57,Job Emotes_260-57
+260/58,Job Emotes_260-58
+260/59,Job Emotes_260-59
+260/60,Job Emotes_260-60
 @General
-46/80,Logging
-90/32,Chocobo
-90/33,Fishing
-123/40,Mining
-123/41,Harvesting
-143/56;143/71,Goldfish Scooping
-197/88,Dancing
-223/93-95,Bell Ringing
+46/80,Logging_46-80
+90/32,Chocobo_90-32
+90/33,Fishing_90-33
+123/40,Mining_123-40
+123/41,Harvesting_123-41
+143/56,Goldfish Scooping_143-56
+143/71,Goldfish Scooping_143-71
+197/88,Dancing_197-88
+223/93,Bell Ringing_223-93
+223/94,Bell Ringing_223-94
+223/95,Bell Ringing_223-95
 @Ability
-82/105-106,Steal
-82/107-108,Mug
-82/109;95/32-34,Bash
-104/15-29,Jump
-168/38,Tomahawk
-168/39,Angon
+82/105,Steal_82-105
+82/106,Steal_82-106
+82/107,Mug_82-107
+82/108,Mug_82-108
+82/109,Bash_82-109
+95/32,Bash_95-32
+95/33,Bash_95-33
+95/34,Bash_95-34
+104/15,Jump_104-15
+104/16,Jump_104-16
+104/17,Jump_104-17
+104/18,Jump_104-18
+104/19,Jump_104-19
+104/20,Jump_104-20
+104/21,Jump_104-21
+104/22,Jump_104-22
+104/23,Jump_104-23
+104/24,Jump_104-24
+104/25,Jump_104-25
+104/26,Jump_104-26
+104/27,Jump_104-27
+104/28,Jump_104-28
+104/29,Jump_104-29
+168/38,Tomahawk_168-38
+168/39,Angon_168-39
 @Hand-to-Hand
-82/40,Combo
-82/41,Shoulder Tackle
-82/42,One Inch Punch
-82/43,Backhand Blow
-82/44,Raging Fists
-82/45,Spinning Attack
-82/46,Howling Fist
-103/107,Dragon Kick
-103/108,Asuran Fists
-140/96,Final Heaven
-206/76,Ascetic's Fury
-208/64,Stinging Pummel
-243/11,Tornado Kick
-255/92,Victory Smite
-272/50,Shijin Spiral
+82/40,Combo_82-40
+82/41,Shoulder Tackle_82-41
+82/42,One Inch Punch_82-42
+82/43,Backhand Blow_82-43
+82/44,Raging Fists_82-44
+82/45,Spinning Attack_82-45
+82/46,Howling Fist_82-46
+103/107,Dragon Kick_103-107
+103/108,Asuran Fists_103-108
+140/96,Final Heaven_140-96
+206/76,Ascetic's Fury_206-76
+208/64,Stinging Pummel_208-64
+243/11,Tornado Kick_243-11
+255/92,Victory Smite_255-92
+272/50,Shijin Spiral_272-50
 @Dagger
-82/47,Wasp Sting
-82/48,Viper Bite
-82/49,Shadowstitch
-82/50,Gust Slash
-82/51,Cyclone
-82/52,Energy Steal
-82/53,Energy Drain
-82/54,Dancing Edge
-103/109,Shark Bite
-103/110,Evisceration
-140/97,Mercy Stroke
-208/65,Mandalic Stab
-206/77,Mordant Rime
-208/66,Pyrrhic Kleos
-243/12,Aeolian Edge
-257/114,Rudra's Storm
-268/108,Exenterator
+82/47,Wasp Sting_82-47
+82/48,Viper Bite_82-48
+82/49,Shadowstitch_82-49
+82/50,Gust Slash_82-50
+82/51,Cyclone_82-51
+82/52,Energy Steal_82-52
+82/53,Energy Drain_82-53
+82/54,Dancing Edge_82-54
+103/109,Shark Bite_103-109
+103/110,Evisceration_103-110
+140/97,Mercy Stroke_140-97
+208/65,Mandalic Stab_208-65
+206/77,Mordant Rime_206-77
+208/66,Pyrrhic Kleos_208-66
+243/12,Aeolian Edge_243-12
+257/114,Rudra's Storm_257-114
+268/108,Exenterator_268-108
 @Sword
-82/31,Fast Blade
-82/32,Burning Blade
-82/33,Red Lotus Blade
-82/36,Flat Blade
-82/34,Shining Blade
-82/35,Seraph Blade
-82/37,Circle Blade
-82/38,Spirits Within
-82/39,Vorpal Blade
-103/105,Swift Blade
-103/106,Savage Blade
-140/95,Knights of Round
-208/62,Death Blossom
-208/63,Atonement
-206/75,Expiacion
-240/23,Glory Slash
-240/24,Uriel Blade
-244/106,Sanguine Blade
-255/96,Chant du Cygne
-268/107,Requiescat
+82/31,Fast Blade_82-31
+82/32,Burning Blade_82-32
+82/33,Red Lotus Blade_82-33
+82/36,Flat Blade_82-36
+82/34,Shining Blade_82-34
+82/35,Seraph Blade_82-35
+82/37,Circle Blade_82-37
+82/38,Spirits Within_82-38
+82/39,Vorpal Blade_82-39
+103/105,Swift Blade_103-105
+103/106,Savage Blade_103-106
+140/95,Knights of Round_140-95
+208/62,Death Blossom_208-62
+208/63,Atonement_208-63
+206/75,Expiacion_206-75
+240/23,Glory Slash_240-23
+240/24,Uriel Blade_240-24
+244/106,Sanguine Blade_244-106
+255/96,Chant du Cygne_255-96
+268/107,Requiescat_268-107
 @Club
-82/69,Shining Strike
-82/70,Seraph Strike
-82/71,Brainshaker
-82/72,Starlight
-82/73,Moonlight
-82/74,Skullbreaker
-82/75,True Strike
-82/76,Judgment
-103/115,Hexa Strike
-103/116,Black Halo
-140/100,Randgrith
-206/79,Mystic Boon
-243/14,Flash Nova
-257/111,Dagan
-269/80,Realmrazer
+82/69,Shining Strike_82-69
+82/70,Seraph Strike_82-70
+82/71,Brainshaker_82-71
+82/72,Starlight_82-72
+82/73,Moonlight_82-73
+82/74,Skullbreaker_82-74
+82/75,True Strike_82-75
+82/76,Judgment_82-76
+103/115,Hexa Strike_103-115
+103/116,Black Halo_103-116
+140/100,Randgrith_140-100
+206/79,Mystic Boon_206-79
+243/14,Flash Nova_243-14
+257/111,Dagan_257-111
+269/80,Realmrazer_269-80
 @Axe
-82/55,Raging Axe
-82/56,Smash Axe
-82/57,Gale Axe
-82/58,Avalanche Axe
-82/59,Spinning Axe
-82/60,Rampage
-82/61,Calamity
-103/111,Mistral Axe
-103/112,Decimation
-140/98,Onslaught
-206/78,Primal Rend
-244/103,Bora Axe
-255/93,Cloudsplitter
-269/111,Ruinator
+82/55,Raging Axe_82-55
+82/56,Smash Axe_82-56
+82/57,Gale Axe_82-57
+82/58,Avalanche Axe_82-58
+82/59,Spinning Axe_82-59
+82/60,Rampage_82-60
+82/61,Calamity_82-61
+103/111,Mistral Axe_103-111
+103/112,Decimation_103-112
+140/98,Onslaught_140-98
+206/78,Primal Rend_206-78
+244/103,Bora Axe_244-103
+255/93,Cloudsplitter_255-93
+269/111,Ruinator_269-111
 @Katana
-103/125,Blade: Rin
-103/126,Blade: Retsu
-103/127,Blade: Teki
-104/0,Blade: To
-104/1,Blade: Chi
-104/2,Blade: Ei
-104/3,Blade: Jin
-104/4,Blade: Ten
-104/5,Blade: Ku
-140/105,Blade: Metsu
-208/73,Blade: Kamu
-243/17,Blade: Yu
-257/8,Blade: Hi
-271/3,Blade: Shun
+103/125,Blade: Rin_103-125
+103/126,Blade: Retsu_103-126
+103/127,Blade: Teki_103-127
+104/0,Blade: To_104-0
+104/1,Blade: Chi_104-1
+104/2,Blade: Ei_104-2
+104/3,Blade: Jin_104-3
+104/4,Blade: Ten_104-4
+104/5,Blade: Ku_104-5
+140/105,Blade: Metsu_140-105
+208/73,Blade: Kamu_208-73
+243/17,Blade: Yu_243-17
+257/8,Blade: Hi_257-8
+271/3,Blade: Shun_271-3
 @G. Sword
-82/84,Hard Slash
-82/85,Power Slash
-82/86,Frostbite
-82/87,Freezebite
-82/88,Shockwave
-82/89,Crescent Moon
-82/90,Sickle Moon
-103/119,Spinning Slash
-103/120,Ground Strike
-140/102,Scourge
-243/16,Herculean Slash
-255/94,Torcleaver
-270/25,Resolution
+82/84,Hard Slash_82-84
+82/85,Power Slash_82-85
+82/86,Frostbite_82-86
+82/87,Freezebite_82-87
+82/88,Shockwave_82-88
+82/89,Crescent Moon_82-89
+82/90,Sickle Moon_82-90
+103/119,Spinning Slash_103-119
+103/120,Ground Strike_103-120
+140/102,Scourge_140-102
+243/16,Herculean Slash_243-16
+255/94,Torcleaver_255-94
+270/25,Resolution_270-25
 @Staff
-82/98,Heavy Swing
-82/99,Rock Crusher
-82/100,Earth Crusher
-82/101,Starburst
-82/102,Sunburst
-82/103,Shell Crusher
-82/104,Full Swing
-103/123,Spirit Taker
-103/124,Retribution
-140/104,Gate of Tartarus
-208/70,Vidohunir
-208/71,Garland of Bliss
-208/72,Omniscience
-240/22,Tartarus Torpor
-244/107,Cataclysm
-257/113,Myrkr
-270/26,Shattersoul
+82/98,Heavy Swing_82-98
+82/99,Rock Crusher_82-99
+82/100,Earth Crusher_82-100
+82/101,Starburst_82-101
+82/102,Sunburst_82-102
+82/103,Shell Crusher_82-103
+82/104,Full Swing_82-104
+103/123,Spirit Taker_103-123
+103/124,Retribution_103-124
+140/104,Gate of Tartarus_140-104
+208/70,Vidohunir_208-70
+208/71,Garland of Bliss_208-71
+208/72,Omniscience_208-72
+240/22,Tartarus Torpor_240-22
+244/107,Cataclysm_244-107
+257/113,Myrkr_257-113
+270/26,Shattersoul_270-26
 @G. Axe
-82/77,Shield Break
-82/78,Iron Tempest
-82/79,Sturmwind
-82/80,Armor Break
-82/81,Keen Edge
-82/82,Weapon Break
-82/83,Raging Rush
-103/117,Full Break
-103/118,Steel Cyclone
-140/101,Metatron Torment
-208/68,King's Justice
-243/15,Fell Cleave
-257/112,Ukko's Fury
-272/51,Upheaval
+82/77,Shield Break_82-77
+82/78,Iron Tempest_82-78
+82/79,Sturmwind_82-79
+82/80,Armor Break_82-80
+82/81,Keen Edge_82-81
+82/82,Weapon Break_82-82
+82/83,Raging Rush_82-83
+103/117,Full Break_103-117
+103/118,Steel Cyclone_103-118
+140/101,Metatron Torment_140-101
+208/68,King's Justice_208-68
+243/15,Fell Cleave_243-15
+257/112,Ukko's Fury_257-112
+272/51,Upheaval_272-51
 @G. Katana
-104/6,Tachi: Enpi
-104/7,Tachi: Hobaku
-104/8,Tachi: Goten
-104/9,Tachi: Kagero
-104/10,Tachi: Jinpu
-104/11,Tachi: Koki
-104/12,Tachi: Yukikaze
-104/13,Tachi: Gekko
-104/14,Tachi: Kasha
-140/106,Tachi: Kaiten
-208/74,Tachi: Rana
-244/105,Tachi: Ageha
-255/95,Tachi: Fudo
-268/106,Tachi: Shoha
+104/6,Tachi: Enpi_104-6
+104/7,Tachi: Hobaku_104-7
+104/8,Tachi: Goten_104-8
+104/9,Tachi: Kagero_104-9
+104/10,Tachi: Jinpu_104-10
+104/11,Tachi: Koki_104-11
+104/12,Tachi: Yukikaze_104-12
+104/13,Tachi: Gekko_104-13
+104/14,Tachi: Kasha_104-14
+140/106,Tachi: Kaiten_140-106
+208/74,Tachi: Rana_208-74
+244/105,Tachi: Ageha_244-105
+255/95,Tachi: Fudo_255-95
+268/106,Tachi: Shoha_268-106
 @Scythe
-82/62,Slice
-82/63,Dark Harvest
-82/64,Shadow of Death
-82/65,Nightmare Scythe
-82/66,Spinning Scythe
-82/67,Vorpal Scythe
-82/68,Guillotine
-103/113,Cross Reaper
-103/114,Spiral Hell
-140/99,Catastrophe
-208/67,Insurgency
-243/13,Infernal Scythe
-257/6,Quietus
-268/104,Entropy
+82/62,Slice_82-62
+82/63,Dark Harvest_82-63
+82/64,Shadow of Death_82-64
+82/65,Nightmare Scythe_82-65
+82/66,Spinning Scythe_82-66
+82/67,Vorpal Scythe_82-67
+82/68,Guillotine_82-68
+103/113,Cross Reaper_103-113
+103/114,Spiral Hell_103-114
+140/99,Catastrophe_140-99
+208/67,Insurgency_208-67
+243/13,Infernal Scythe_243-13
+257/6,Quietus_257-6
+268/104,Entropy_268-104
 @Polearm
-82/91,Double Thrust
-82/92,Thunder Thrust
-82/93,Raiden Thrust
-82/94,Leg Sweep
-82/95,Penta Thrust
-82/96,Vorpal Thrust
-82/97,Skewer
-103/121,Wheeling Thrust
-103/122,Impulse Drive
-140/103,Geirskogul
-208/69,Drakesbane
-244/104,Sonic Thrust
-257/7,Camlann's Torment
-268/105,Stardiver
+82/91,Double Thrust_82-91
+82/92,Thunder Thrust_82-92
+82/93,Raiden Thrust_82-93
+82/94,Leg Sweep_82-94
+82/95,Penta Thrust_82-95
+82/96,Vorpal Thrust_82-96
+82/97,Skewer_82-97
+103/121,Wheeling Thrust_103-121
+103/122,Impulse Drive_103-122
+140/103,Geirskogul_140-103
+208/69,Drakesbane_208-69
+244/104,Sonic Thrust_244-104
+257/7,Camlann's Torment_257-7
+268/105,Stardiver_268-105
 @Archery
-82/110,Eagle Eye Shot
-82/112,Shadowbind
-76/113,Flaming Arrow
-76/114,Piercing Arrow
-76/115,Dulling Arrow
-76/116,Unknown WS
-76/117,Sidewinder
-104/30,Blast Arrow
-104/31,Arching Arrow
-104/32,Empyreal Arrow
-140/107,Namas Arrow
-245/37,Refulgent Arrow
-257/9,Jishnu's Radiance
-269/112,Apex Arrow
+82/110,Eagle Eye Shot_82-110
+82/112,Shadowbind_82-112
+76/113,Flaming Arrow_76-113
+76/114,Piercing Arrow_76-114
+76/115,Dulling Arrow_76-115
+76/116,Unknown WS_76-116
+76/117,Sidewinder_76-117
+104/30,Blast Arrow_104-30
+104/31,Arching Arrow_104-31
+104/32,Empyreal Arrow_104-32
+140/107,Namas Arrow_140-107
+245/37,Refulgent Arrow_245-37
+257/9,Jishnu's Radiance_257-9
+269/112,Apex Arrow_269-112
 @Marksmanship
-82/111,Eagle Eye Shot
-82/113,Shadowbind
-76/118,Hot Shot
-76/119,Split Shot
-76/120,Sniper Shot
-76/121,Unknown WS
-76/122,Slug Shot
-104/33,Blast Shot
-104/34,Heavy Shot
-104/35,Detonator
-140/108,Coronach
-208/75,Trueflight
-208/76,Leaden Salute
-243/18,Numbing Shot
-257/10,Wildfire
-271/4,Last Stand
+82/111,Eagle Eye Shot_82-111
+82/113,Shadowbind_82-113
+76/118,Hot Shot_76-118
+76/119,Split Shot_76-119
+76/120,Sniper Shot_76-120
+76/121,Unknown WS_76-121
+76/122,Slug Shot_76-122
+104/33,Blast Shot_104-33
+104/34,Heavy Shot_104-34
+104/35,Detonator_104-35
+140/108,Coronach_140-108
+208/75,Trueflight_208-75
+208/76,Leaden Salute_208-76
+243/18,Numbing Shot_243-18
+257/10,Wildfire_257-10
+271/4,Last Stand_271-4
 @Mannequin
-143/24,Mannequin
-153/124-125,Mannequin
+143/24,Mannequin_143-24
+153/124,Mannequin_153-124
+153/125,Mannequin_153-125
 @Others
-69/88-90,mot_
-71/5-10,mot_
-71/102,def_
-72/97-100;106,mot_
-82/30,dumm
-128/9,mot_
-151/108-111,mot_
-156/76,mot_
-189/73,mot_
-196/41-42,mot_
-202/6-7,mot_
-213/13-22,mot_
-3/4/54-58,mot_
-3/8/93-97,mot_
+69/88,mot__69-88
+69/89,mot__69-89
+69/90,mot__69-90
+71/5,mot__71-5
+71/6,mot__71-6
+71/7,mot__71-7
+71/8,mot__71-8
+71/9,mot__71-9
+71/10,mot__71-10
+71/102,def__71-102
+72/97,mot__72-97
+72/98,mot__72-98
+72/99,mot__72-99
+72/100,mot__72-100
+72/106,mot__72-106
+82/30,dumm_82-30
+128/9,mot__128-9
+151/108,mot__151-108
+151/109,mot__151-109
+151/110,mot__151-110
+151/111,mot__151-111
+156/76,mot__156-76
+189/73,mot__189-73
+196/41,mot__196-41
+196/42,mot__196-42
+202/6,mot__202-6
+202/7,mot__202-7
+213/13,mot__213-13
+213/14,mot__213-14
+213/15,mot__213-15
+213/16,mot__213-16
+213/17,mot__213-17
+213/18,mot__213-18
+213/19,mot__213-19
+213/20,mot__213-20
+213/21,mot__213-21
+213/22,mot__213-22
+3/4/54,mot__3-4-54
+3/4/55,mot__3-4-55
+3/4/56,mot__3-4-56
+3/4/57,mot__3-4-57
+3/4/58,mot__3-4-58
+3/8/93,mot__3-8-93
+3/8/94,mot__3-8-94
+3/8/95,mot__3-8-95
+3/8/96,mot__3-8-96
+3/8/97,mot__3-8-97
 @NPC WS
-202/39,Prominence
-204/32,Arrow of Apathy
-204/33,Unknown WS
+202/39,Prominence_202-39
+204/32,Arrow of Apathy_204-32
+204/33,Unknown WS_204-33
 @Dancer
-193/26,Drain Samba
-193/27,Drain Samba II
-193/28,Drain Samba III
-193/29,Aspir Samba
-193/30,Aspir Samba II
-193/31,Haste Samba
-193/32,Curing Waltz
-193/33,Curing Waltz II
-193/34,Curing Waltz III
-193/35,Curing Waltz IV
-261/125,Curing Waltz V
-193/36,Healing Waltz
-193/37,Divine Waltz
-246/118,Divine Waltz II
-193/38,Spectral Jig
-193/39,Chocobo Jig
-139/40-48,Steps
-139/49-57,Flourishes
-268/40,New samba?
+193/26,Drain Samba_193-26
+193/27,Drain Samba II_193-27
+193/28,Drain Samba III_193-28
+193/29,Aspir Samba_193-29
+193/30,Aspir Samba II_193-30
+193/31,Haste Samba_193-31
+193/32,Curing Waltz_193-32
+193/33,Curing Waltz II_193-33
+193/34,Curing Waltz III_193-34
+193/35,Curing Waltz IV_193-35
+261/125,Curing Waltz V_261-125
+193/36,Healing Waltz_193-36
+193/37,Divine Waltz_193-37
+246/118,Divine Waltz II_246-118
+193/38,Spectral Jig_193-38
+193/39,Chocobo Jig_193-39
+139/40,Steps_139-40
+139/41,Steps_139-41
+139/42,Steps_139-42
+139/43,Steps_139-43
+139/44,Steps_139-44
+139/45,Steps_139-45
+139/46,Steps_139-46
+139/47,Steps_139-47
+139/48,Steps_139-48
+139/49,Flourishes_139-49
+139/50,Flourishes_139-50
+139/51,Flourishes_139-51
+139/52,Flourishes_139-52
+139/53,Flourishes_139-53
+139/54,Flourishes_139-54
+139/55,Flourishes_139-55
+139/56,Flourishes_139-56
+139/57,Flourishes_139-57
+268/40,New samba?_268-40
 @unknown
-297/85-89, Wards?
-297/90-98, Runefencer animation type 1
-297/99-109, Runefencer animation type 2
-297/110-116, Runefencer animation type 3
+297/85,Wards?_297-85
+297/86,Wards?_297-86
+297/87,Wards?_297-87
+297/88,Wards?_297-88
+297/89,Wards?_297-89
+297/90,Runefencer animation type 1_297-90
+297/91,Runefencer animation type 1_297-91
+297/92,Runefencer animation type 1_297-92
+297/93,Runefencer animation type 1_297-93
+297/94,Runefencer animation type 1_297-94
+297/95,Runefencer animation type 1_297-95
+297/96,Runefencer animation type 1_297-96
+297/97,Runefencer animation type 1_297-97
+297/98,Runefencer animation type 1_297-98
+297/99,Runefencer animation type 2_297-99
+297/100,Runefencer animation type 2_297-100
+297/101,Runefencer animation type 2_297-101
+297/102,Runefencer animation type 2_297-102
+297/103,Runefencer animation type 2_297-103
+297/104,Runefencer animation type 2_297-104
+297/105,Runefencer animation type 2_297-105
+297/106,Runefencer animation type 2_297-106
+297/107,Runefencer animation type 2_297-107
+297/108,Runefencer animation type 2_297-108
+297/109,Runefencer animation type 2_297-109
+297/110,Runefencer animation type 3_297-110
+297/111,Runefencer animation type 3_297-111
+297/112,Runefencer animation type 3_297-112
+297/113,Runefencer animation type 3_297-113
+297/114,Runefencer animation type 3_297-114
+297/115,Runefencer animation type 3_297-115
+297/116,Runefencer animation type 3_297-116

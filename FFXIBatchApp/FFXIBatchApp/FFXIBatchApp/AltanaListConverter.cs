@@ -7,15 +7,15 @@ using System.Linq;
 using System.Reflection;
 using System.Text.RegularExpressions;
 using Microsoft.VisualBasic.FileIO;
-using static System.Net.Mime.MediaTypeNames;
-using Newtonsoft.Json.Linq;
-using System.CodeDom.Compiler;
+using System.Security.Cryptography;
+using System.Text;
 
 namespace FFXIBatchApp
 {
 	internal class AltanaListConverter
 	{
 		string savepath = "ToolData";
+		Random random = new Random();
 
 		public AltanaListConverter() { }
 
@@ -123,13 +123,14 @@ namespace FFXIBatchApp
 								}
 
 								string datpath = FinalizeDatPath(dats[i]);
+								string datpath_folder = datpath.Replace("\\", "-");
 
 								if (skipnames.Contains($"{name}_{i}"))
 								{
 									continue;
 								}
 
-								results[npctype].Add($"{name}_{i}|{datpath}".Trim());
+								results[npctype].Add($"{name}_{i + 1}_{datpath_folder}|{datpath}".Trim());
 								total++;
 							}
 						}
@@ -170,7 +171,8 @@ namespace FFXIBatchApp
 			// Loop through resource names by races
 			foreach (string raceName in FF11Race.GetRaces())
 			{
-				string resourceName = $"FFXIBatchApp.Resources.AltanaListAnims.Animations_{raceName}.csv";
+				string altanaRace = FF11Race.GetAltanaRace(raceName);
+				string resourceName = $"FFXIBatchApp.Resources.AltanaList.PC.{altanaRace}.Action.csv";
 
 				ConsoleLog($"-- {raceName}");
 
@@ -194,13 +196,13 @@ namespace FFXIBatchApp
 						}
 
 						string[] newline = line.Split(',');
-						string name = FinalizeName(newline[1]);
+						string name = (newline[1]);
 						string[] dats = SplitDatRange(newline[0]);
 
 						for (int i = 0; i < dats.Length; i++)
 						{
 							string datpath = FinalizeDatPath(dats[i]);
-							results.Add($"{raceName}|{actionName}|{name}_{i}|{datpath}");
+							results.Add($"{raceName}|{actionName}|{name}|{datpath}");
 						}
 					}
 				}

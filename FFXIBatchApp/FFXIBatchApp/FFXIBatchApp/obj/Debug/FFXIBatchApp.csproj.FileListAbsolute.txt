@@ -474,13 +474,6 @@ E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\R
 E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown Effects.csv
 E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown.csv
 E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\WhiteMagic.csv
-E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Elvaan_Female.csv
-E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Elvaan_Male.csv
-E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Galka.csv
-E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Hume_Female.csv
-E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Hume_Male.csv
-E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Mithra.csv
-E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Tarutaru.csv
 E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\abyssea.csv
 E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\campaign.csv
 E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\cs.csv

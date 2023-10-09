@@ -196,7 +196,8 @@ namespace FFXIBatchApp
 						}
 
 						string[] newline = line.Split(',');
-						string name = (newline[1]);
+						string name = FinalizeName(newline[1]);
+
 						string[] dats = SplitDatRange(newline[0]);
 
 						for (int i = 0; i < dats.Length; i++)
@@ -765,7 +766,7 @@ namespace FFXIBatchApp
 		/// <returns></returns>
 		private string FinalizeName(string name)
 		{
-			return Regex.Replace(name.Trim(), "[^a-zA-Z0-9_ ]+", "").Replace(" ", "_").Replace("__", "_");
+			return Regex.Replace(name.Trim(), "[^a-zA-Z0-9-_ ]+", "").Replace(" ", "_").Replace("__", "_");
 		}
 
 		/// <summary>
@@ -776,8 +777,9 @@ namespace FFXIBatchApp
 		private string ExtractGroupName(string groupName)
 		{
 			groupName = groupName.Substring(1);
-			groupName = groupName.Replace(' ', '_');
-			groupName = groupName.Replace('.', '_');
+			groupName = groupName.Replace(" ", "_");
+			groupName = groupName.Replace(".", "_");
+			groupName = groupName.Replace(":", "");
 			groupName = CultureInfo.CurrentCulture.TextInfo.ToTitleCase(groupName);
 
 			return FinalizeName(groupName);

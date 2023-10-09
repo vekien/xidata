@@ -257,12 +257,10 @@ namespace FFXIBatchApp
         /// </summary>
         /// <param name="windowTitle"></param>
         /// <returns></returns>
-        private bool WaitForActiveWindow(string windowTitle, int waitInSeconds = 60, bool stopOnError = false)
+        private bool WaitForActiveWindow(string windowTitle, int waitInSeconds = 20, bool stopOnError = false)
         {
-			int delay = waitInSeconds * 2;
-
 			// Will wait for a max of 30 seconds.
-			for (int i = 0; i <= delay; i++)
+			for (int i = 0; i <= waitInSeconds; i++)
             {
 				// ConsoleLog($"Active Window = {GetActiveWindowTitle()}");
 
@@ -271,7 +269,7 @@ namespace FFXIBatchApp
                     return true;
                 }
 
-                Thread.Sleep(400);
+                Thread.Sleep(1000);
             }
 
             ConsoleLog($"!! Error: Could not detect the Window: {windowTitle} - Current active window: {GetActiveWindowTitle()}");
@@ -289,12 +287,10 @@ namespace FFXIBatchApp
             return false;
         }
 
-		private bool WaitForActiveWindowCount(string windowTitle, int waitInSeconds = 60, int windowCount = 1, bool stopOnError = false)
+		private bool WaitForActiveWindowCount(string windowTitle, int waitInSeconds = 20, int windowCount = 1, bool stopOnError = false)
 		{
-			int delay = waitInSeconds * 2;
-
 			// Will wait for a max of 30 seconds.
-			for (int i = 0; i <= delay; i++)
+			for (int i = 0; i <= waitInSeconds; i++)
 			{
 				// ConsoleLog($"{windowTitle} count = {CountActiveWindows(windowTitle)}");
 
@@ -303,7 +299,7 @@ namespace FFXIBatchApp
 					return true;
 				}
 
-				Thread.Sleep(400);
+				Thread.Sleep(1000);
 			}
 
 			ConsoleLog($"!! Error: Could not find enough windows titled {windowTitle}");
@@ -810,7 +806,7 @@ namespace FFXIBatchApp
 
 					// The complete window is called Noesis
 					// We wait a long time here because exports can have a lot of files
-					if (WaitForActiveWindowCount("Noesis", 1000, 2, true))
+					if (WaitForActiveWindowCount("Noesis", 20, 2, true))
 					{
 						// close the Confirm and Export window
 						Thread.Sleep(50);
@@ -891,7 +887,7 @@ namespace FFXIBatchApp
 
 					// The complete window is called Noesis
 					// We wait a long time here because exports can have a lot of files
-					if (WaitForActiveWindowCount("Noesis", 1000, 2, true))
+					if (WaitForActiveWindowCount("Noesis", 20, 2, true))
 					{
 						// close the Confirm and Export window
 						SendKey("{ESCAPE}", 300, "");

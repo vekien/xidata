@@ -694,7 +694,7 @@ namespace FFXIBatchApp
 			this.NoesisArgsAnimations.Size = new System.Drawing.Size(609, 25);
 			this.NoesisArgsAnimations.TabIndex = 26;
 			this.NoesisArgsAnimations.Text = "-ff11bumpdir normals -ff11keepnames 3 -ff11noshiny -ff11hton 16 -ff11optimizegeo " +
-    "-ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 270 -scale 60";
+    "-ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 270 -scale 120";
 			// 
 			// StartAnimationsExtract
 			// 

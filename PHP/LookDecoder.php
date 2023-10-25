@@ -21,11 +21,12 @@ function getModelIdFromLookData($lookdata) {
 }
 
 // the look string to decode
-$look = "0x0100030100100421C930B9400241006000700000";
+$look = "0x01001d100C7004D009F003E00C301AA00330000";
 
 /**
- *              | --- this is all gear --------|
- * 0x01000C01   E9100421C930B9400251006000700000
+ *              | -------- this is all gear ----------|
+ * 0x01000C01   E910 0421 C930 B940 0251 0060 0070 0000
+ *              
  * 
  * 0x01 00 0C 01
  * 
@@ -90,6 +91,34 @@ $races = [
 ];
 
 /**
+ * Huge thanks to Shozokui for providing these
+ */
+$faces = [
+    0 => "F1A",
+    1 => "F1B",
+    2 => "F2A",
+    3 => "F2B",
+    4 => "F3A",
+    5 => "F3B",
+    6 => "F4A",
+    7 => "F4B",
+    8 => "F5A",
+    9 => "F5B",
+    10 => "F6A",
+    11 => "F6B",
+    12 => "F7A",
+    13 => "F7B",
+    14 => "F8A",
+    15 => "F8B",
+    26 => "NPC1",
+    27 => "NPC2",
+    28 => "NPC3",
+    29 => "Fomor",
+    30 => "Mannequin",
+];
+
+
+/**
  * This struct is based on the character length for
  * each bit of data, with gear being mostly 4 bytes.
  * 
@@ -129,7 +158,8 @@ $gearslots = [
     'ranged' => 'Ranged'
 ];
 
-$npc = [];
+$data = [];
+$pointer = 0;
 foreach ($struct as $type => $length) {
     if ($type == 'init') {
         // if there is 0x, increment by normal length otherwise by 2
@@ -151,7 +181,7 @@ foreach ($struct as $type => $length) {
 
     // if this is face or race, just hexdec it and continue
     if (in_array($type, ['face', 'race'])) {
-        $npc[$type] = hexdec($lookdata);
+        $data[$type] = hexdec($lookdata);
         $pointer += $length;
         continue;
     }
@@ -160,7 +190,7 @@ foreach ($struct as $type => $length) {
     $pointer += $length;
 
     // grab the model_id
-    $npc[$type] = getModelIdFromLookData($lookdata);
+    $data[$type] = getModelIdFromLookData($lookdata);
 }
 
-print_r($npc);
+print_r($data);

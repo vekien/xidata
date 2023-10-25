@@ -110,7 +110,7 @@ $slot_names = [
 $weapon_list = [
     "hand2hand" => [ "clwj_mtd", "clw_e", "clq_drgn", "claw_dm", "hf_clw1", "hf_clw2", "hf_clw3", "hf_clw4", "hf_clw5", "hf_clw6", "hf_clw7", "hf_clw8", "hf_clw9", "hf_clwa", "claw_b", "clawb_d", "clawb_a", "claw_hl", "hf_clwd", "clwc", "cl_mog0", "claw_mt", "naknakl", "clwkl_0", "ahurama", "clwn_en", "clawb_s", "omg", "clw_eiy", "clw_ast", "p_heart", "clwn_d2", "hf_cl_g" ],
     "dagger"    => [ "knf_ald", "hf_knf1", "hf_knf2", "hf_knf3", "hf_knf4", "hf_knf5", "hf_knf6", "hf_knf7", "hf_knf8", "hf_knf9", "knife", "knfa", "hf_kknif", "knfa_s", "knfa_dk", "knfa_m", "vaj", "knife_c", "knf_dm", "e_knfe_l", "knife_h", "knfd", "kn_bst01", "oaknif_t", "knif_bs0", "ipetam", "knfd_dp", "knfnl_ha", "kn_mate", "knf4_sr", "kn_eiyu", "naknif_t", "knf_chkn", "knfe_d2", "an_knife", "kn_corp", "knfd_pur", "kn_air", "knf_l_b", "knf_l_g" ],
-    "sword"     => [  "rap1", "rap2", "rap3", "rap4", "rap5", "rap6", "rap7", "rap8", "rap9", "sword", "swoe_mtd", "hf_rap1", "hf_rap2", "hf_rap3", "hf_rap4", "hf_rap5", "hf_rap6", "hf_rap7", "hf_rap8", "hf_rap9", "hf_5rap", "hf_swo1", "hf_swo2", "hf_swo3", "hf_swo4", "hf_swo5", "hf_swo6", "hf_swo7", "hf_swo8", "hf_swo9", "hf_swoa", "hf_swob", "hf_swoc", "hf_swod", "hf_swoe", "hf_swof", "hf_swog", "swoi", "sh2", "swoi_dk", "swoi_ad", "swoi_s", "sword_m", "swol", "ev", "swo9_s", "sword_o", "e_swd_l", "swd_u_cd", "hf_sw_h5", "hf_sw_ef", "oasword0", "nasword0", "typ_swor", "swo2d", "sw_mate", "swoi_da", "hf_swo2a", "hf_swoz0", "sw2cl_pm", "sword_p", "swo2e", "swo_ast", "swo2h", "sw2konio", "swo2g", "hf_sw_sq", "hf_swo2j", "d2_swd_l", "an_sword", "hf_s_win"  ],
+    "sword"     => [ "rap1", "rap2", "rap3", "rap4", "rap5", "rap6", "rap7", "rap8", "rap9", "sword", "swoe_mtd", "hf_rap1", "hf_rap2", "hf_rap3", "hf_rap4", "hf_rap5", "hf_rap6", "hf_rap7", "hf_rap8", "hf_rap9", "hf_5rap", "hf_swo1", "hf_swo2", "hf_swo3", "hf_swo4", "hf_swo5", "hf_swo6", "hf_swo7", "hf_swo8", "hf_swo9", "hf_swoa", "hf_swob", "hf_swoc", "hf_swod", "hf_swoe", "hf_swof", "hf_swog", "swoi", "sh2", "swoi_dk", "swoi_ad", "swoi_s", "sword_m", "swol", "ev", "swo9_s", "sword_o", "e_swd_l", "swd_u_cd", "hf_sw_h5", "hf_sw_ef", "oasword0", "nasword0", "typ_swor", "swo2d", "sw_mate", "swoi_da", "hf_swo2a", "hf_swoz0", "sw2cl_pm", "sword_p", "swo2e", "swo_ast", "swo2h", "sw2konio", "swo2g", "hf_sw_sq", "hf_swo2j", "d2_swd_l", "an_sword", "hf_s_win"  ],
     "g_sword"   => [ "iron_s", "hf_2hs1", "hf_2hs2", "hf_2hs3", "hf_2hs4", "hf_2hs5", "hf_2hs6", "hf_2hs7", "hf_2hs8", "hf_2hs9", "2hsp", "2hs_3_s", "2hs_8", "2hs8_go", "2hs8_ad", "2hs_a", "2hsc_ma", "2hs8_dk", "hf_2hsb", "2hs_ice", "2h_b01", "oa2hs01", "n2hs_g1", "on2hs01", "2hs_j_tb", "maken1", "maken2", "2hs_8_ty", "2hsl_ha", "2hsk_01", "2hs_eiyu", "2hs_ast", "2hs_brav", "2hs_d2", "2hs_maou", "2hs_ice2", "od_sword", "2hsplb" ],
     "axe"       => [ "axeg_tbd", "hf_axe1", "hf_axe2", "hf_axe3", "hf_axe4", "hf_axe5", "hf_axe6", "hf_axe7", "hf_axe8", "hf_axe9", "axe8", "hf_axa9", "hf_axe5m", "hf_axa9a", "oaaxe01", "ax_qb", "axegr_tb", "axe_mate", "axe_i_en", "ax_eiyu", "axe_nf", "axe_i_d2", "axe_l01", "an_axe", "hf_ax_mo", "dla_axe" ],
     "g_axe"     => [ "iron_h", "b_axek", "hf_b_ax1", "hf_b_ax2", "hf_b_ax3", "hf_b_ax4", "hf_b_ax5", "hf_b_ax6", "hf_b_ax7", "hf_b_ax8", "hf_b_ax9", "hf_bax6", "b_axe_7", "baxe7_dk", "baxe8", "hf_bax6", "b_axe9", "baxe7_ad", "na_dax01", "svarga_n", "b_oosan", "bax6_sin", "b_axf", "hf_baxa", "bax_eiyu", "b_axf_d2", "hf_b_axw", "b_axlb" ],
@@ -138,7 +138,6 @@ $model_id_list = [];
 // The total number of files to look for, if we hit the end of the vtable, it will stop anyway.
 $maxFiles = 1000000;
 
-$ffxi_scan = "6j0";
 $ffxi_headers = [];
 $ffxi_rom_root = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\";
 $ffxi_rom_folders = [
@@ -163,6 +162,7 @@ function findDatFiles($dir, &$datFilesArray, $parentPath = '') {
     }
 }
 
+/*
 foreach ($ffxi_rom_folders as $rom) {
     $ffxi_rom_path = "{$ffxi_rom_root}{$rom}";
 
@@ -186,16 +186,22 @@ foreach ($ffxi_rom_folders as $rom) {
 
         // the two types of headers we look for
         $header_slot = trim($headers[0]);
-        $header_weapon = $headers[1];
-
-        $header_slot = preg_replace('/[^a-zA-Z0-9_]/', '', $header_slot);
+        $header_slot = preg_replace('/[^a-zA-Z0-9-_]/', '', $header_slot);
+        $header_weapon = $headers[1];    
+        $header_weapon = preg_replace('/[^a-zA-Z0-9-_]/', '', $header_weapon);
 
         if (strlen($header_slot) !== 4) {
             continue;
         }
 
-        if (!isset($ffxi_headers[$header_slot])) {
-            $ffxi_headers[$header_slot] = $fulldat;
+        if (strlen($header_slot) > 2 && !isset($ffxi_headers["header_slot"][$header_slot])) {
+            $ffxi_headers["header_slot"][$header_slot] = $fulldat;
+            
+        }
+
+        if (strlen($header_weapon) > 4 && !isset($ffxi_headers["header_weapon"][$header_weapon])) {
+            $ffxi_headers["header_weapon"][$header_weapon] = $fulldat;
+            
         }
     }
 
@@ -210,8 +216,21 @@ ksort($ffxi_headers);
 file_put_contents(__DIR__.'/headers.json', json_encode($ffxi_headers, JSON_PRETTY_PRINT));
 
 die;
+*/
+
+echo("\nbuilding weapon lists\n");
+
+$ffxi_headers_parsed = json_decode(file_get_contents("headers.json"), true);
+
+foreach ($weapon_list as $weapon_type => $weapon_headers) {
+
+}
+
+
+
 
 // First we handle per race
+echo("\nbuilding race lists\n");
 foreach($race_list as $race_id => $race_name) {
     echo("--- Looking for: {$race_name} equipment... \n");
 

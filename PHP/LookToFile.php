@@ -139,6 +139,7 @@ $model_id_list = [];
 $maxFiles = 1000000;
 
 $ffxi_headers = [];
+$ffxi_file_to_dat = [];
 $ffxi_rom_root = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI\\";
 $ffxi_rom_folders = [
     "ROM", "ROM2", "ROM3", "ROM4", "ROM5", "ROM6", "ROM7", "ROM8", "ROM9"
@@ -283,7 +284,7 @@ foreach($race_list as $race_id => $race_name) {
         
             // record
             $model_id_list[$race_name][$slot_name][$model_id] = $dat_path;
-            
+            $ffxi_file_to_dat[$race_name][$slot_name][$dat_id] = $dat_path;
             // counts
             $count_for_race++;
             $count_for_slot++;
@@ -322,5 +323,6 @@ foreach ($model_id_list as $race_name => $slot_list) {
 }
 
 file_put_contents(__DIR__ .'/LookToFile_List.json', json_encode($model_id_list, JSON_PRETTY_PRINT));
+file_put_contents(__DIR__ .'/FileID_To_DatPath.json', json_encode($ffxi_file_to_dat, JSON_PRETTY_PRINT));
 
 echo("Finished!\n\n");

@@ -1,5 +1,23 @@
 <?php
 
+
+
+
+
+
+// format = face,race,head,body,hands,legs,feet,main,sub,range
+$model = "9,1,0,30,30,30,30,390,22,11";
+
+
+
+
+
+
+
+
+// --------------------------------------------------------------------------------------------
+
+
 $main   = file_get_contents("Main_Model_IDs.csv");
 $ranged = file_get_contents("Ranged_Model_IDs.csv");
 $sub    = file_get_contents("Sub_Model_IDs.csv");
@@ -63,17 +81,11 @@ $face_list = [
 
 $lookToFile = file_get_contents("LookTable.json");
 $lookToFile = json_decode($lookToFile, true);
-
 $gearFile = file_get_contents("gear_1.json");
 $gearFile = json_decode($gearFile, true);
-
 $weaponFile = file_get_contents("LookToWeapons.json");
 $weaponFile = json_decode($weaponFile, true);
-
-// format = face,race,head,body,hands,legs,feet,main,sub,range
-$model = "29,1,199,77,159,62,195,426,51,0";
 $model = explode(",", $model);
-
 $face = $face_list[$model[0]];
 $race = $race_list[$model[1]];
 
@@ -126,7 +138,6 @@ function get_weapon($type, $model_id) {
 
     return $name ?? "(could not find {$type} = {$model_id})";
 }
-
 
 $head = get_gear("Head", $model[2]);
 $body = get_gear("Body", $model[3]);

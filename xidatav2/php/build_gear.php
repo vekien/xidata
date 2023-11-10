@@ -166,6 +166,7 @@ function ffxi_get_file_id($race_tbl, $equip_num)
 // preload windoer and ftable data.
 $windower_data = load_item_windower_data();
 $ftable = load_ftable();
+$output = [];
 
 // Loop through each race
 foreach($slots as $slot) {
@@ -174,7 +175,6 @@ foreach($slots as $slot) {
 
     // loop through each race
     foreach ($races as $race_index => $race_name) {
-        $output = [];
         echo("- Generating Race Item Data: {$race_index} - {$race_name}\n");
 
         // Grab the race index
@@ -195,7 +195,7 @@ foreach($slots as $slot) {
             $rom = $ftable[$file_id];
 
             // build array
-            $output[] = [
+            $output[$race_name][] = [
                 "item_id" => $item->item_id,
                 "name" => $windower->name,
                 "name_short" => $item->name,
@@ -218,9 +218,12 @@ foreach($slots as $slot) {
                 "race_name" => $race_name,
             ];
         }
-
-        // Save
-        echo("- Saving: gear_{$race_name}_{$slot}.json\n");
-        save_data("gear_{$race_name}_{$slot}.json", $output);
     }
+}
+
+echo("\nFinished! Saving....\n");
+foreach ($output as $race_name => $gear_data) {
+    // Save
+    echo("- Saving: gear_{$race_name}.json\n");
+    save_data("gear_{$race_name}.json", $gear_data);
 }

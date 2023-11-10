@@ -36,7 +36,9 @@ foreach ($races as $race_index => $race_name) {
 
         // try get the dat-data
         $file_id = $ftable_reversed[$dat] ?? null;
-        $dat_data = $file_id ? $ftable[$file_id] : [];
+        $dat_data = $file_id ? $ftable[$file_id] : [
+            'dat' => $dat,
+        ];
 
         if ($file_id === null) {
             $missing[] = $dat;

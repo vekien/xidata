@@ -85,3 +85,7 @@ function load_skeletons() {
 function logit($string) {
     file_put_contents(__DIR__ . "/log.txt", "{$string}\n", FILE_APPEND);
 }
+
+function sort_output($a, $b) {
+    return $a['file_id'] < $b['file_id'] ? -1 : 1;
+}

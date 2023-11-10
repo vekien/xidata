@@ -1,0 +1,86 @@
+La Theine Plateau,ROM/0/115.DAT
+West Ronfaure,ROM/0/120.DAT
+East Ronfaure,ROM/0/121.DAT
+King Ranperre's Tomb,ROM/1/14.DAT
+North Gustaberg,ROM/0/123.DAT
+South Gustaberg,ROM/0/124.DAT
+West Sarutabaruta,ROM/0/127.DAT
+East Sarutabaruta,ROM/1/0.DAT
+Southern San d'Oria,ROM/1/31.DAT
+Northern San d'Oria,ROM/1/32.DAT
+Windurst Waters,ROM/0/78.DAT
+Windurst Walls,ROM/0/79.DAT
+Windurst Woods,ROM/0/81.DAT
+Heavens Tower,ROM/1/38.DAT
+Port Windurst,ROM/0/80.DAT
+Bastok Mines,ROM/1/34.DAT
+Bastok Markets,ROM/1/35.DAT
+Port Bastok,ROM/1/36.DAT
+Metalworks,ROM/1/37.DAT
+Upper Jeuno,ROM/1/40.DAT
+Lower Jeuno,ROM/1/41.DAT
+Port Jeuno,ROM/1/42.DAT
+Ru'Lude Gardens,ROM/1/39.DAT
+Qufim Island,ROM/0/58.DAT
+Ship bound for Selbina,ROM/1/24.DAT
+Ship bound for Mhaura,ROM/1/25.DAT
+Ship bound for Selbina,ROM/1/29.DAT
+Ship bound for Mhaura,ROM/1/30.DAT
+San d'Oria-Jeuno Airship,ROM/1/26.DAT
+Bastok-Jeuno Airship,ROM/1/27.DAT
+Windurst-Jeuno Airship,ROM/1/28.DAT
+Tahrongi Canyon,ROM/1/1.DAT
+Valkurm Dunes,ROM/0/102.DAT
+Jugner Forest,ROM/0/114.DAT
+Batallia Downs,ROM/0/122.DAT
+Konschtat Highlands,ROM/0/90.DAT
+Pashhow Marshlands,ROM/0/125.DAT
+Rolanberry Fields,ROM/0/126.DAT
+Beaucedine Glacier,ROM/0/72.DAT
+Xarcabard,ROM/0/57.DAT
+Buburimu Peninsula,ROM/0/71.DAT
+Meriphataud Mountains,ROM/0/101.DAT
+Sauromugue Champaign,ROM/1/2.DAT
+Behemoth's Dominion,ROM/1/3.DAT
+Mordion Gaol,ROM/1/4.DAT
+Horlais Peak,ROM/1/6.DAT
+Ghelsba Outpost,ROM/0/95.DAT
+Fort Ghelsba,ROM/1/7.DAT
+Yughott Grotto,ROM/1/8.DAT
+Palborough Mines,ROM/0/88.DAT
+Waughroon Shrine,ROM/0/89.DAT
+Giddeus,ROM/0/104.DAT
+Balga's Dais,ROM/0/105.DAT
+Beadeaux,ROM/0/61.DAT
+Qulun Dome,ROM/0/62.DAT
+Davoi,ROM/0/99.DAT
+Monastic Cavern,ROM/0/100.DAT
+Castle Oztroja,ROM/0/63.DAT
+Altar Room,ROM/0/64.DAT
+Middle Delkfutt's Tower,ROM/0/56.DAT
+Upper Delkfutt's Tower,ROM/1/9.DAT
+Lower Delkfutt's Tower,ROM/1/13.DAT
+Castle Zvahl Baileys,ROM/0/60.DAT
+Castle Zvahl Keep,ROM/0/73.DAT
+Throne Room,ROM/0/74.DAT
+Ranguemont Pass,ROM/1/10.DAT
+Bostaunieux Oubliette,ROM/0/108.DAT
+Toraimarai Canal,ROM/0/65.DAT
+Zeruhn Mines,ROM/1/11.DAT
+Maquette Abdhaljs-Legion,ROM/1/12.DAT
+Inner Horutoto Ruins,ROM/0/112.DAT
+Outer Horutoto Ruins,ROM/1/15.DAT
+Dangruf Wadi,ROM/0/52.DAT
+Ordelle's Caves,ROM/0/92.DAT
+The Eldieme Necropolis,ROM/0/77.DAT
+Gusgen Mines,ROM/1/16.DAT
+Crawlers' Nest,ROM/0/76.DAT
+Maze of Shakhrami,ROM/0/75.DAT
+Garlaige Citadel,ROM/1/17.DAT
+Fei'Yin,ROM/1/18.DAT
+Qu'Bia Arena,ROM/1/19.DAT
+Provenance,ROM/280/2.DAT
+Port San d'Oria,ROM/0/113.DAT
+Chateau d'Oraguille,ROM/1/33.DAT
+Selbina,ROM/1/43.DAT
+Mhaura,ROM/1/44.DAT

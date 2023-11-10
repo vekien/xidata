@@ -1,11 +1,7 @@
-33|AlTaieu|3/7/52
+33|AlTaieu|3/7/49
 33|AlTaieu|3/7/50
 33|AlTaieu|3/7/51
-33|AlTaieu|3/7/49
-38|Apollyon|/0/28
-38|Apollyon|/0/28
-38|Apollyon|/0/28
-38|Apollyon|/0/28
+33|AlTaieu|3/7/52
 50|Aht_Urhgan_Whitegate|4/0/39
 50|Aht_Urhgan_Whitegate|4/0/40
 50|Aht_Urhgan_Whitegate|4/0/41
@@ -18,19 +14,7 @@
 50|Aht_Urhgan_Whitegate|4/0/48
 50|Aht_Urhgan_Whitegate|4/0/49
 50|Aht_Urhgan_Whitegate|4/0/39
-50|Aht_Urhgan_Whitegate|/0/28
-50|Aht_Urhgan_Whitegate|/0/28
-51|Wajaom_Woodlands|/0/28
-51|Wajaom_Woodlands|/0/28
-51|Wajaom_Woodlands|/0/28
-51|Wajaom_Woodlands|/0/28
-51|Wajaom_Woodlands|/0/28
-51|Wajaom_Woodlands|/0/28
-51|Wajaom_Woodlands|/0/28
-52|Bhaflau_Thickets|/0/28
-52|Bhaflau_Thickets|/0/28
 53|Nashmau|4/0/50
-53|Nashmau|/0/28
 54|Arrapago_Reef|4/4/123
 54|Arrapago_Reef|4/4/124
 54|Arrapago_Reef|4/4/125
@@ -105,8 +89,6 @@
 231|Northern_San_dOria|/2/5
 231|Northern_San_dOria|/1/121
 231|Northern_San_dOria|/1/124
-231|Northern_San_dOria|/0/28
-231|Northern_San_dOria|/0/28
 231|Northern_San_dOria|/1/122
 231|Northern_San_dOria|/1/127
 231|Northern_San_dOria|/2/4
@@ -119,7 +101,6 @@
 232|Port_San_dOria|/2/6
 232|Port_San_dOria|/2/6
 232|Port_San_dOria|/2/6
-232|Port_San_dOria|/0/28
 232|Port_San_dOria|/2/8
 232|Port_San_dOria|/2/7
 232|Port_San_dOria|/2/11
@@ -171,7 +152,6 @@
 236|Port_Bastok|/1/99
 236|Port_Bastok|/1/97
 236|Port_Bastok|/1/94
-236|Port_Bastok|/0/28
 237|Metalworks|/1/79
 237|Metalworks|/1/78
 237|Metalworks|/1/80
@@ -191,10 +171,7 @@
 237|Metalworks|/1/75
 237|Metalworks|/1/76
 237|Metalworks|/1/82
-237|Metalworks|/0/28
-237|Metalworks|/0/28
 237|Metalworks|/1/92
-237|Metalworks|/0/28
 238|Windurst_Waters|/2/22
 238|Windurst_Waters|/2/23
 238|Windurst_Waters|/2/28
@@ -235,7 +212,6 @@
 240|Port_Windurst|/2/50
 240|Port_Windurst|/2/51
 240|Port_Windurst|/2/52
-240|Port_Windurst|/0/28
 241|Windurst_Woods|/2/56
 241|Windurst_Woods|/2/53
 241|Windurst_Woods|/2/60
@@ -310,11 +286,7 @@
 246|Port_Jeuno|/2/99
 246|Port_Jeuno|/2/100
 246|Port_Jeuno|/2/105
-246|Port_Jeuno|/0/28
 246|Port_Jeuno|/2/108
-246|Port_Jeuno|/0/28
-246|Port_Jeuno|/0/28
-246|Port_Jeuno|/0/28
 246|Port_Jeuno|/2/107
 246|Port_Jeuno|/2/106
 248|Selbina|/2/113
@@ -322,7 +294,6 @@
 248|Selbina|/2/110
 248|Selbina|/2/111
 248|Selbina|/2/114
-248|Selbina|/0/28
 249|Mhaura|/2/115
 249|Mhaura|/2/117
 249|Mhaura|/2/121
@@ -330,8 +301,6 @@
 249|Mhaura|/2/118
 249|Mhaura|/2/119
 249|Mhaura|/2/119
-249|Mhaura|/0/28
-250|Kazham|2/0/28
 250|Kazham|2/0/29
 250|Kazham|2/0/30
 250|Kazham|2/0/31
@@ -339,9 +308,6 @@
 250|Kazham|2/0/33
 250|Kazham|2/0/34
 250|Kazham|2/0/35
-250|Kazham|/0/28
-251|Hall_of_the_Gods|/0/28
-251|Hall_of_the_Gods|/0/28
 252|Norg|2/0/37
 252|Norg|2/0/36
 256|Western_Adoulin|9/5/49

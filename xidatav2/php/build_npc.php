@@ -42,6 +42,7 @@ $altana_files_npcs = [
     [ "Character", "Trust", "trusts.csv", ],
 ];
 
+// Parse AltanaViewer
 function get_folder_list_from_string($input_string) {
     $segments = explode(';', $input_string);
     $result = [];
@@ -95,6 +96,23 @@ function get_folder_list_from_string($input_string) {
     return $result;
 }
 
+// Build Dat to "Look" ref
+$mobdb = [];
+$in_mobdb = load_list("\\in\\in_mobdb.csv");
+foreach ($in_mobdb as $line) {
+    if (empty($line)) continue;
+
+    [$name, $look, $dat, $header] = str_getcsv($line);
+
+    $dat = str_ireplace("/", "\\", $dat);
+
+    $mobdb[$dat] = [
+        "name" => str_ireplace("_", " ", $name),
+        "look" => $look
+    ];
+}
+
+
 $missing = [];
 $found = [];
 $output = [];
@@ -133,11 +151,16 @@ foreach ($altana_files_npcs as $af_npc) {
 
             if ($file_id === null) {
                 $missing[] = $dat;
-            }        
+            }   
+            
+            $mob_data = isset($mobdb[$dat]) ? $mobdb[$dat] : [
+                'name' => $name,
+                'look' => null,
+            ];
 
             $arr = [
                 "num" => $num,
-                "name" => $name,
+                "name_short" => $name,
                 "name_full" => "{$name} - {$num}",
                 "category" => $category,
                 "type" => $type,
@@ -145,6 +168,9 @@ foreach ($altana_files_npcs as $af_npc) {
             ];
 
             $arr = array_merge($arr, $dat_data);
+            $arr = array_merge($arr, $mob_data);
+
+            ksort($arr);
 
             $found[$dat] = 1;
             $output[$type][] = $arr;
@@ -175,7 +201,12 @@ foreach ($full_datamine as $line) {
 
     if ($file_id === null) {
         $missing[] = $dat;
-    }    
+    }   
+    
+    $mob_data = isset($mobdb[$dat]) ? $mobdb[$dat] : [
+        'name' => $name,
+        'look' => null,
+    ];
     
     $name = explode(":", $name);
     $type = trim($name[0]) . "2";
@@ -193,6 +224,10 @@ foreach ($full_datamine as $line) {
     ];
 
     $arr = array_merge($arr, $dat_data);
+    $arr = array_merge($arr, $mob_data);
+
+    ksort($arr);
+
     $output[$type][] = $arr;
 }
 

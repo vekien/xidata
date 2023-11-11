@@ -96,6 +96,30 @@ function get_folder_list_from_string($input_string) {
     return $result;
 }
 
+// Parse model id from look
+// Credit: Shozokui
+function get_model_id_for_npc($look_string) {
+    $hexedit1 = substr($look_string, 6, 4);
+    $hex2 = substr($hexedit1, 0, 2);
+    $hex3 = substr($hexedit1, 2, 2);
+    $hex = "0x" . $hex3 . $hex2;
+
+    $dec = hexdec($hex);
+    $modelval = 0;
+
+    if ($dec < 1500) {
+        $modelval = $dec + 1300;
+    } elseif ($dec < 3000) {
+        $modelval = $dec + 50295;
+    } elseif ($dec < 3500) {
+        $modelval = $dec + 96907;
+    } elseif ($dec < 4000) {
+        $modelval = $dec + 98239;
+    }
+
+    return $modelval;
+}
+
 // Build Dat to "Look" ref
 $mobdb = [];
 $in_mobdb = load_list("\\in\\in_mobdb.csv");
@@ -170,6 +194,9 @@ foreach ($altana_files_npcs as $af_npc) {
             $arr = array_merge($arr, $dat_data);
             $arr = array_merge($arr, $mob_data);
 
+            // add model_id if look exists
+            $arr['model_id'] = $arr['look'] ? get_model_id_for_npc($arr['look']) : null;
+
             ksort($arr);
 
             $found[$dat] = 1;
@@ -225,6 +252,9 @@ foreach ($full_datamine as $line) {
 
     $arr = array_merge($arr, $dat_data);
     $arr = array_merge($arr, $mob_data);
+
+    // add model_id if look exists
+    $arr['model_id'] = $arr['look'] ? get_model_id_for_npc($arr['look']) : null;
 
     ksort($arr);
 

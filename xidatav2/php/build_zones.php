@@ -54,6 +54,9 @@ foreach ($zones as $zone_key) {
         ];
 
         $arr = array_merge($arr, $dat_data);
+
+        ksort($arr);
+
         $output[] = $arr;
     }
 

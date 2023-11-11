@@ -194,8 +194,7 @@ foreach($slots as $slot) {
             // Grab rom
             $rom = $ftable[$file_id];
 
-            // build array
-            $output[$race_name][] = [
+            $arr = [
                 "item_id" => $item->item_id,
                 "name" => $windower->name,
                 "name_short" => $item->name,
@@ -217,6 +216,11 @@ foreach($slots as $slot) {
                 "race_index" => $race_index,
                 "race_name" => $race_name,
             ];
+
+            ksort($arr);
+
+            // build array
+            $output[$race_name][] = $arr;
         }
     }
 }

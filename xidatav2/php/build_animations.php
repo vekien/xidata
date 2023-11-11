@@ -53,6 +53,9 @@ foreach ($races as $race_index => $race_name) {
         ];
 
         $arr = array_merge($arr, $dat_data);
+
+        ksort($arr);
+
         $output[] = $arr;
     }
 

@@ -1,0 +1,90 @@
+ZONES:
+
+    -ff11bumpdir normals -ff11keepnames 3 -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 0 -scale 100
+
+NPCS/OBJECTS:
+
+    -ff11bumpdir normals -ff11keepnames 3 -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 0 -scale 120
+
+
+ANIMATIONS:
+
+   -ff11bumpdir normals -ff11keepnames 3 -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 270 -scale 60
+    
+ARMOR: Note: You MUST load the RACE animation for armor, or it will look bad.
+
+    -noanims -ff11bumpdir normals -ff11keepnames 3 -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 270 -scale 60
+
+
+WEAPON: Don't care about skeleton as these are socketed
+        todo - find existing socket
+
+    -noanims -ff11bumpdir normals -ff11keepnames 3 -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 270 -scale 60
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UE4 "Layer Blend per Bone" setup: (Hume Male)
+
+    Skeleton Blend Layer:
+        Waists Bones: 46 44, 40 38
+        Upper/Lower Bone: 48
+
+    xxx0 = LOWER: Pin 1 (Base Pose)
+    xxx1 = UPPER: Pin 2 (Blend Poses 0)
+        Blend -->
+            xxx2 = WAIST: Pin 2, 3, 4, 5 (Blend Poses 0,1,2,3)
+
+
+Bone Splits per race
+
+    HUME MALE       Upper = 48
+                    Waist = 46 44 40 38 + 42 43
+
+    MITHRA          Upper = 36
+                    Waist = 16 18 20 24 + 22 23
+
+    ELVAAN FEMALE   Upper = 53
+                    Waist = 16 18 20 24 + 22 23
+
+    ELVAAN MALE     Upper = 26
+                    Waist = 16 19 21 24 + 18 23
+
+    GALKA           Upper = 36
+                    Waist = 24 26 28 33 + 30 31 32 35
+    
+    HUME FEMALE     Upper = 26
+                    Waist = 04 20 22 24 + 18 19
+
+    TARUTARU        Upper = 03
+                    Waist = 83 85 87 89 + 84 85 87 90 91 92
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+3D ANIMATION PROJECT:
+
+    -ff11bumpdir normals -ff11keepnames 3 -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 0 -scale 100
+
+    Normal push by: 0.3 cm
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Npcs:
+    ROM / 27 / 82 = Hume Male animations
+    E:\SquareEnix\SquareEnix\FINAL FANTASY XI\ROM\27\82.DAT
+
+    X:\project-vr\Characters\Hume
+
+
+
+
+
+
+    Zero Xue — Today at 4:54 PM
+27/82 is main skele, 27/88 and 27/85 and 27/86 have the rest of the animations 🙂
+
+27/85 have all flappy animations
+
+i think every race has 9 animation files, the main one plus 2 that work with main, 3 for WS and 3 for emotes and other stuff

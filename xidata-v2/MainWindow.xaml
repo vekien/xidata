@@ -3,10 +3,55 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:xidata_v2"
+        xmlns:components="clr-namespace:xidata_v2.components"
         mc:Ignorable="d"
-        Title="xidata v2" Height="450" Width="800">
+        Title="xidata v2"
+        Height="600"
+        Width="920"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        Background="Transparent">
+    <Window.Resources>
+        <ControlTemplate x:Key="NoMouseOverButtonTemplate" TargetType="Button">
+            <Border Background="{TemplateBinding Background}"
+                BorderBrush="{TemplateBinding BorderBrush}"
+                BorderThickness="{TemplateBinding BorderThickness}"
+                SnapsToDevicePixels="true">
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>
     <Grid>
+        <Border Background="Transparent" BorderBrush="Transparent" BorderThickness="0" MouseDown="Window_Drag">
+            <Grid x:Name="App" Width="920" Height="600" ClipToBounds="True">
+                <!-- App round corners -->
+                <Grid.Clip>
+                    <RectangleGeometry RadiusX="8" RadiusY="8" Rect="0,0,920,600"/>
+                </Grid.Clip>
 
+                <!-- Background -->
+                <Grid.Background>
+                    <ImageBrush x:Name="AppBackgroundImage" ImageSource="/assets/background.png" TileMode="Tile" />
+                </Grid.Background>
+                
+                <!-- Close Button -->
+                <Button x:Name="ButtonCloseApp" Foreground="{x:Null}" Template="{StaticResource NoMouseOverButtonTemplate}" Width="24" Height="24" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,20,0" Click="ButtonCloseApp_Click" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Cursor="Hand">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/assets/close.png"/>
+                    </Button.Background>
+                </Button>
+
+                <components:XI_Button x:Name="A1" DepContent="Test Button" DepFontSize="15" DepType="basic" Margin="0,173,730,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+
+                <components:XI_Button x:Name="A2" DepContent="Test Button" DepFontSize="15" DepType="red" Margin="0,276,730,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+
+                <components:XI_Button x:Name="A3" DepContent="Test Button" DepFontSize="15" DepType="blue" Margin="0,222,598,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+
+                <components:XI_Button x:Name="A4" DepContent="Test Button" DepFontSize="15" DepType="green" Margin="0,222,730,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+
+                <components:XI_Button x:Name="A5" DepContent="Test Button" DepFontSize="15" DepType="orange" Margin="0,173,598,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+            </Grid>
+        </Border>
     </Grid>
 </Window>

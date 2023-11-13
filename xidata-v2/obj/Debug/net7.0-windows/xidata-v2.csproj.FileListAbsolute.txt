@@ -19,3 +19,6 @@ E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\refint\xidata.dll
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\xidata.pdb
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\xidata-v2.genruntimeconfig.cache
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\ref\xidata.dll
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Button.baml
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Button.g.cs
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs

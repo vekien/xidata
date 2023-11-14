@@ -8,7 +8,8 @@
         "dat_path": 0,
         "file_id": 180,
         "file_rom": "ROM5\\0\\0.DAT",
-        "name": "Southern San d'Oria [S]",
+        "name": "Southern San dOria S",
+        "name_clean": "southernsandorias",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -21,7 +22,8 @@
         "dat_path": 1,
         "file_id": 181,
         "file_rom": "ROM5\\0\\1.DAT",
-        "name": "East Ronfaure [S]",
+        "name": "East Ronfaure S",
+        "name_clean": "eastronfaures",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -34,7 +36,8 @@
         "dat_path": 2,
         "file_id": 182,
         "file_rom": "ROM5\\0\\2.DAT",
-        "name": "Jugner Forest [S]",
+        "name": "Jugner Forest S",
+        "name_clean": "jugnerforests",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -47,7 +50,8 @@
         "dat_path": 3,
         "file_id": 183,
         "file_rom": "ROM5\\0\\3.DAT",
-        "name": "Vunkerl Inlet [S]",
+        "name": "Vunkerl Inlet S",
+        "name_clean": "vunkerlinlets",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -60,7 +64,8 @@
         "dat_path": 4,
         "file_id": 184,
         "file_rom": "ROM5\\0\\4.DAT",
-        "name": "Batallia Downs [S]",
+        "name": "Batallia Downs S",
+        "name_clean": "batalliadownss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -73,7 +78,8 @@
         "dat_path": 5,
         "file_id": 185,
         "file_rom": "ROM5\\0\\5.DAT",
-        "name": "La Vaule [S]",
+        "name": "La Vaule S",
+        "name_clean": "lavaules",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -87,6 +93,7 @@
         "file_id": 186,
         "file_rom": "ROM5\\0\\6.DAT",
         "name": "Everbloom Hollow",
+        "name_clean": "everbloomhollow",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -99,7 +106,8 @@
         "dat_path": 7,
         "file_id": 187,
         "file_rom": "ROM5\\0\\7.DAT",
-        "name": "Bastok Markets [S]",
+        "name": "Bastok Markets S",
+        "name_clean": "bastokmarketss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -112,7 +120,8 @@
         "dat_path": 8,
         "file_id": 188,
         "file_rom": "ROM5\\0\\8.DAT",
-        "name": "North Gustaberg [S]",
+        "name": "North Gustaberg S",
+        "name_clean": "northgustabergs",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -125,7 +134,8 @@
         "dat_path": 9,
         "file_id": 189,
         "file_rom": "ROM5\\0\\9.DAT",
-        "name": "Grauberg [S]",
+        "name": "Grauberg S",
+        "name_clean": "graubergs",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -138,7 +148,8 @@
         "dat_path": 10,
         "file_id": 190,
         "file_rom": "ROM5\\0\\10.DAT",
-        "name": "Pashhow Marshlands [S]",
+        "name": "Pashhow Marshlands S",
+        "name_clean": "pashhowmarshlandss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -151,7 +162,8 @@
         "dat_path": 11,
         "file_id": 191,
         "file_rom": "ROM5\\0\\11.DAT",
-        "name": "Rolanberry Fields [S]",
+        "name": "Rolanberry Fields S",
+        "name_clean": "rolanberryfieldss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -164,7 +176,8 @@
         "dat_path": 12,
         "file_id": 192,
         "file_rom": "ROM5\\0\\12.DAT",
-        "name": "Beadeaux [S]",
+        "name": "Beadeaux S",
+        "name_clean": "beadeauxs",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -178,6 +191,7 @@
         "file_id": 193,
         "file_rom": "ROM5\\0\\13.DAT",
         "name": "Ruhotz Silvermines",
+        "name_clean": "ruhotzsilvermines",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -190,7 +204,8 @@
         "dat_path": 14,
         "file_id": 194,
         "file_rom": "ROM5\\0\\14.DAT",
-        "name": "Windurst Waters [S]",
+        "name": "Windurst Waters S",
+        "name_clean": "windurstwaterss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -203,7 +218,8 @@
         "dat_path": 15,
         "file_id": 195,
         "file_rom": "ROM5\\0\\15.DAT",
-        "name": "West Sarutabaruta [S]",
+        "name": "West Sarutabaruta S",
+        "name_clean": "westsarutabarutas",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -216,7 +232,8 @@
         "dat_path": 16,
         "file_id": 196,
         "file_rom": "ROM5\\0\\16.DAT",
-        "name": "Fort Karugo-Narugo [S]",
+        "name": "Fort Karugo-Narugo S",
+        "name_clean": "fortkarugo-narugos",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -229,7 +246,8 @@
         "dat_path": 17,
         "file_id": 197,
         "file_rom": "ROM5\\0\\17.DAT",
-        "name": "Meriphataud Mountains [S]",
+        "name": "Meriphataud Mountains S",
+        "name_clean": "meriphataudmountainss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -242,7 +260,8 @@
         "dat_path": 18,
         "file_id": 198,
         "file_rom": "ROM5\\0\\18.DAT",
-        "name": "Sauromugue Champaign [S]",
+        "name": "Sauromugue Champaign S",
+        "name_clean": "sauromuguechampaigns",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -255,7 +274,8 @@
         "dat_path": 19,
         "file_id": 199,
         "file_rom": "ROM5\\0\\19.DAT",
-        "name": "Castle Oztroja [S]",
+        "name": "Castle Oztroja S",
+        "name_clean": "castleoztrojas",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -268,7 +288,8 @@
         "dat_path": 20,
         "file_id": 229,
         "file_rom": "ROM5\\0\\20.DAT",
-        "name": "Ghoyu's Reverie",
+        "name": "Ghoyus Reverie",
+        "name_clean": "ghoyusreverie",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -281,7 +302,8 @@
         "dat_path": 21,
         "file_id": 236,
         "file_rom": "ROM5\\0\\21.DAT",
-        "name": "Beaucedine Glacier [S]",
+        "name": "Beaucedine Glacier S",
+        "name_clean": "beaucedineglaciers",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -294,7 +316,8 @@
         "dat_path": 22,
         "file_id": 237,
         "file_rom": "ROM5\\0\\22.DAT",
-        "name": "Xarcabard [S]",
+        "name": "Xarcabard S",
+        "name_clean": "xarcabards",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -307,7 +330,8 @@
         "dat_path": 23,
         "file_id": 238,
         "file_rom": "ROM5\\0\\23.DAT",
-        "name": "Castle Zvahl Baileys [S]",
+        "name": "Castle Zvahl Baileys S",
+        "name_clean": "castlezvahlbaileyss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -320,7 +344,8 @@
         "dat_path": 24,
         "file_id": 255,
         "file_rom": "ROM5\\0\\24.DAT",
-        "name": "Castle Zvahl Keep [S]",
+        "name": "Castle Zvahl Keep S",
+        "name_clean": "castlezvahlkeeps",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -333,7 +358,8 @@
         "dat_path": 25,
         "file_id": 256,
         "file_rom": "ROM5\\0\\25.DAT",
-        "name": "Throne Room [S]",
+        "name": "Throne Room S",
+        "name_clean": "thronerooms",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -346,7 +372,8 @@
         "dat_path": 26,
         "file_id": 264,
         "file_rom": "ROM5\\0\\26.DAT",
-        "name": "Garlaige Citadel [S]",
+        "name": "Garlaige Citadel S",
+        "name_clean": "garlaigecitadels",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -359,7 +386,8 @@
         "dat_path": 27,
         "file_id": 271,
         "file_rom": "ROM5\\0\\27.DAT",
-        "name": "Crawlers' Nest [S]",
+        "name": "Crawlers Nest S",
+        "name_clean": "crawlersnests",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -372,7 +400,8 @@
         "dat_path": 28,
         "file_id": 275,
         "file_rom": "ROM5\\0\\28.DAT",
-        "name": "The Eldieme Necropolis [S]",
+        "name": "The Eldieme Necropolis S",
+        "name_clean": "theeldiemenecropoliss",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
@@ -386,6 +415,7 @@
         "file_id": 282,
         "file_rom": "ROM5\\0\\29.DAT",
         "name": "Walk of Echoes",
+        "name_clean": "walkofechoes",
         "rom_folder": "ROM5",
         "rom_index": 5
     }

@@ -9,6 +9,7 @@
         "file_id": 146,
         "file_rom": "ROM4\\0\\0.DAT",
         "name": "Open sea route to Al Zahbi",
+        "name_clean": "opensearoutetoalzahbi",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -22,6 +23,7 @@
         "file_id": 147,
         "file_rom": "ROM4\\0\\1.DAT",
         "name": "Open sea route to Mhaura",
+        "name_clean": "opensearoutetomhaura",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -35,6 +37,7 @@
         "file_id": 148,
         "file_rom": "ROM4\\0\\2.DAT",
         "name": "Al Zahbi",
+        "name_clean": "alzahbi",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -48,6 +51,7 @@
         "file_id": 150,
         "file_rom": "ROM4\\0\\3.DAT",
         "name": "Aht Urhgan Whitegate",
+        "name_clean": "ahturhganwhitegate",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -61,6 +65,7 @@
         "file_id": 151,
         "file_rom": "ROM4\\1\\99.DAT",
         "name": "Wajaom Woodlands",
+        "name_clean": "wajaomwoodlands",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -74,6 +79,7 @@
         "file_id": 152,
         "file_rom": "ROM4\\7\\55.DAT",
         "name": "Bhaflau Thickets",
+        "name_clean": "bhaflauthickets",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -87,6 +93,7 @@
         "file_id": 153,
         "file_rom": "ROM4\\0\\6.DAT",
         "name": "Nashmau",
+        "name_clean": "nashmau",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -100,6 +107,7 @@
         "file_id": 154,
         "file_rom": "ROM4\\0\\7.DAT",
         "name": "Arrapago Reef",
+        "name_clean": "arrapagoreef",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -113,6 +121,7 @@
         "file_id": 155,
         "file_rom": "ROM4\\0\\8.DAT",
         "name": "Ilrusi Atoll",
+        "name_clean": "ilrusiatoll",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -126,6 +135,7 @@
         "file_id": 156,
         "file_rom": "ROM4\\0\\9.DAT",
         "name": "Periqia",
+        "name_clean": "periqia",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -139,6 +149,7 @@
         "file_id": 157,
         "file_rom": "ROM4\\0\\10.DAT",
         "name": "Talacca Cove",
+        "name_clean": "talaccacove",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -152,6 +163,7 @@
         "file_id": 158,
         "file_rom": "ROM4\\0\\11.DAT",
         "name": "Silver Sea route to Nashmau",
+        "name_clean": "silversearoutetonashmau",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -165,6 +177,7 @@
         "file_id": 159,
         "file_rom": "ROM4\\0\\12.DAT",
         "name": "Silver Sea route to Al Zahbi",
+        "name_clean": "silversearoutetoalzahbi",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -178,6 +191,7 @@
         "file_id": 160,
         "file_rom": "ROM4\\0\\13.DAT",
         "name": "The Ashu Talif",
+        "name_clean": "theashutalif",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -191,6 +205,7 @@
         "file_id": 161,
         "file_rom": "ROM4\\0\\14.DAT",
         "name": "Mount Zhayolm",
+        "name_clean": "mountzhayolm",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -204,6 +219,7 @@
         "file_id": 162,
         "file_rom": "ROM4\\0\\15.DAT",
         "name": "Halvung",
+        "name_clean": "halvung",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -217,6 +233,7 @@
         "file_id": 163,
         "file_rom": "ROM4\\0\\16.DAT",
         "name": "Lebros Cavern",
+        "name_clean": "lebroscavern",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -230,6 +247,7 @@
         "file_id": 164,
         "file_rom": "ROM4\\0\\17.DAT",
         "name": "Navukgo Execution Chamber",
+        "name_clean": "navukgoexecutionchamber",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -243,6 +261,7 @@
         "file_id": 165,
         "file_rom": "ROM4\\0\\18.DAT",
         "name": "Mamook",
+        "name_clean": "mamook",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -256,6 +275,7 @@
         "file_id": 166,
         "file_rom": "ROM4\\0\\19.DAT",
         "name": "Mamool Ja Training Grounds",
+        "name_clean": "mamooljatraininggrounds",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -269,6 +289,7 @@
         "file_id": 167,
         "file_rom": "ROM4\\0\\20.DAT",
         "name": "Jade Sepulcher",
+        "name_clean": "jadesepulcher",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -282,6 +303,7 @@
         "file_id": 168,
         "file_rom": "ROM4\\0\\21.DAT",
         "name": "Aydeewa Subterrane",
+        "name_clean": "aydeewasubterrane",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -295,6 +317,7 @@
         "file_id": 169,
         "file_rom": "ROM4\\0\\22.DAT",
         "name": "Leujaoam Sanctum",
+        "name_clean": "leujaoamsanctum",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -308,6 +331,7 @@
         "file_id": 170,
         "file_rom": "ROM4\\5\\106.DAT",
         "name": "Chocobo Circuit",
+        "name_clean": "chocobocircuit",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -321,6 +345,7 @@
         "file_id": 171,
         "file_rom": "ROM4\\0\\24.DAT",
         "name": "The Colosseum",
+        "name_clean": "thecolosseum",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -334,6 +359,7 @@
         "file_id": 172,
         "file_rom": "ROM4\\0\\25.DAT",
         "name": "Alzadaal Undersea Ruins",
+        "name_clean": "alzadaalundersearuins",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -347,6 +373,7 @@
         "file_id": 173,
         "file_rom": "ROM4\\0\\26.DAT",
         "name": "Zhayolm Remnants",
+        "name_clean": "zhayolmremnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -360,6 +387,7 @@
         "file_id": 174,
         "file_rom": "ROM4\\0\\27.DAT",
         "name": "Arrapago Remnants",
+        "name_clean": "arrapagoremnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -373,6 +401,7 @@
         "file_id": 175,
         "file_rom": "ROM4\\0\\28.DAT",
         "name": "Bhaflau Remnants",
+        "name_clean": "bhaflauremnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -386,6 +415,7 @@
         "file_id": 176,
         "file_rom": "ROM4\\0\\29.DAT",
         "name": "Silver Sea Remnants",
+        "name_clean": "silversearemnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -399,6 +429,7 @@
         "file_id": 177,
         "file_rom": "ROM4\\0\\30.DAT",
         "name": "Nyzul Isle",
+        "name_clean": "nyzulisle",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -412,6 +443,7 @@
         "file_id": 178,
         "file_rom": "ROM4\\0\\31.DAT",
         "name": "Hazhalm Testing Grounds",
+        "name_clean": "hazhalmtestinggrounds",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
@@ -425,6 +457,7 @@
         "file_id": 179,
         "file_rom": "ROM4\\0\\32.DAT",
         "name": "Caedarva Mire",
+        "name_clean": "caedarvamire",
         "rom_folder": "ROM4",
         "rom_index": 4
     }

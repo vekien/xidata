@@ -9,6 +9,7 @@
         "file_id": 83891,
         "file_rom": "ROM9\\0\\3.DAT",
         "name": "Western Adoulin",
+        "name_clean": "westernadoulin",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -22,6 +23,7 @@
         "file_id": 83892,
         "file_rom": "ROM9\\0\\4.DAT",
         "name": "Eastern Adoulin",
+        "name_clean": "easternadoulin",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -35,6 +37,7 @@
         "file_id": 83893,
         "file_rom": "ROM9\\0\\5.DAT",
         "name": "Rala Waterways",
+        "name_clean": "ralawaterways",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -47,7 +50,8 @@
         "dat_path": 6,
         "file_id": 83894,
         "file_rom": "ROM9\\0\\6.DAT",
-        "name": "Rala Waterways [U]",
+        "name": "Rala Waterways U",
+        "name_clean": "ralawaterwaysu",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -61,6 +65,7 @@
         "file_id": 83895,
         "file_rom": "ROM9\\0\\7.DAT",
         "name": "Yahse Hunting Grounds",
+        "name_clean": "yahsehuntinggrounds",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -74,6 +79,7 @@
         "file_id": 83896,
         "file_rom": "ROM9\\0\\8.DAT",
         "name": "Ceizak Battlegrounds",
+        "name_clean": "ceizakbattlegrounds",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -87,6 +93,7 @@
         "file_id": 83897,
         "file_rom": "ROM9\\0\\9.DAT",
         "name": "Foret de Hennetiel",
+        "name_clean": "foretdehennetiel",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -100,6 +107,7 @@
         "file_id": 83898,
         "file_rom": "ROM9\\0\\10.DAT",
         "name": "Yorcia Weald",
+        "name_clean": "yorciaweald",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -112,7 +120,8 @@
         "dat_path": 11,
         "file_id": 83899,
         "file_rom": "ROM9\\0\\11.DAT",
-        "name": "Yorcia Weald [U]",
+        "name": "Yorcia Weald U",
+        "name_clean": "yorciawealdu",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -126,6 +135,7 @@
         "file_id": 83900,
         "file_rom": "ROM9\\0\\12.DAT",
         "name": "Morimar Basalt Fields",
+        "name_clean": "morimarbasaltfields",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -139,6 +149,7 @@
         "file_id": 83901,
         "file_rom": "ROM9\\0\\13.DAT",
         "name": "Marjami Ravine",
+        "name_clean": "marjamiravine",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -152,6 +163,7 @@
         "file_id": 83902,
         "file_rom": "ROM9\\0\\14.DAT",
         "name": "Kamihr Drifts",
+        "name_clean": "kamihrdrifts",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -165,6 +177,7 @@
         "file_id": 83903,
         "file_rom": "ROM9\\0\\15.DAT",
         "name": "Sih Gates",
+        "name_clean": "sihgates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -178,6 +191,7 @@
         "file_id": 83904,
         "file_rom": "ROM9\\0\\16.DAT",
         "name": "Moh Gates",
+        "name_clean": "mohgates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -191,6 +205,7 @@
         "file_id": 83905,
         "file_rom": "ROM9\\0\\17.DAT",
         "name": "Cirdas Caverns",
+        "name_clean": "cirdascaverns",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -203,7 +218,8 @@
         "dat_path": 18,
         "file_id": 83906,
         "file_rom": "ROM9\\0\\18.DAT",
-        "name": "Cirdas Caverns [U]",
+        "name": "Cirdas Caverns U",
+        "name_clean": "cirdascavernsu",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -217,6 +233,7 @@
         "file_id": 83907,
         "file_rom": "ROM9\\0\\19.DAT",
         "name": "Dho Gates",
+        "name_clean": "dhogates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -230,6 +247,7 @@
         "file_id": 83908,
         "file_rom": "ROM9\\0\\20.DAT",
         "name": "Woh Gates",
+        "name_clean": "wohgates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -242,7 +260,8 @@
         "dat_path": 21,
         "file_id": 83909,
         "file_rom": "ROM9\\0\\21.DAT",
-        "name": "Outer Ra'Kaznar",
+        "name": "Outer RaKaznar",
+        "name_clean": "outerrakaznar",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -255,7 +274,8 @@
         "dat_path": 22,
         "file_id": 83910,
         "file_rom": "ROM9\\0\\22.DAT",
-        "name": "Outer Ra'Kaznar [U]",
+        "name": "Outer RaKaznar U",
+        "name_clean": "outerrakaznaru",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -268,7 +288,8 @@
         "dat_path": 23,
         "file_id": 83911,
         "file_rom": "ROM9\\0\\23.DAT",
-        "name": "Ra'Kaznar Inner Court",
+        "name": "RaKaznar Inner Court",
+        "name_clean": "rakaznarinnercourt",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -281,7 +302,8 @@
         "dat_path": 24,
         "file_id": 83912,
         "file_rom": "ROM9\\0\\24.DAT",
-        "name": "Ra'Kaznar Turris",
+        "name": "RaKaznar Turris",
+        "name_clean": "rakaznarturris",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -295,6 +317,7 @@
         "file_id": 83915,
         "file_rom": "ROM\\309\\10.DAT",
         "name": "Mog Garden",
+        "name_clean": "moggarden",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -308,6 +331,7 @@
         "file_id": 83916,
         "file_rom": "ROM9\\8\\10.DAT",
         "name": "Leafallia",
+        "name_clean": "leafallia",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
@@ -321,6 +345,7 @@
         "file_id": 83917,
         "file_rom": "ROM\\315\\102.DAT",
         "name": "Mount Kamihr",
+        "name_clean": "mountkamihr",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -334,6 +359,7 @@
         "file_id": 83919,
         "file_rom": "ROM\\303\\26.DAT",
         "name": "Celennia Memorial Library",
+        "name_clean": "celenniamemoriallibrary",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -347,6 +373,7 @@
         "file_id": 83920,
         "file_rom": "ROM\\306\\54.DAT",
         "name": "Feretory",
+        "name_clean": "feretory",
         "rom_folder": "ROM",
         "rom_index": 1
     }

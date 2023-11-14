@@ -199,6 +199,7 @@ foreach($slots as $slot) {
                 "name" => $windower->name,
                 "name_short" => $item->name,
                 "name_long" => $windower->name_long,
+                "name_clean" => get_simple_name($windower->name),
                 "category" => $windower->category,
                 "level" => $item->level,
                 "item_level" => $item->item_level,

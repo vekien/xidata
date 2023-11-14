@@ -29,6 +29,7 @@ foreach ($races as $race_index => $race_name) {
         }
 
         [$dat, $name] = explode(",", $row);
+        $name = preg_replace('/[^\w\s\-]/', '', trim($name));
 
         // format dat path fully
         $dat = substr_count($dat, "/") > 1 ? "ROM{$dat}.DAT" : "ROM/{$dat}.DAT";
@@ -46,6 +47,7 @@ foreach ($races as $race_index => $race_name) {
 
         $arr = [
             "name" => $name,
+            "name_clean" => get_simple_name($name),
             "category" => $category,
             "race_index" => $race_index,
             "race_name" => $race_name,

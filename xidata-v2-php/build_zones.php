@@ -38,7 +38,7 @@ foreach ($zones as $zone_key) {
 
         [$name, $dat] = explode(",", $line);
 
-        $name = trim($name);
+        $name = preg_replace('/[^\w\s\-]/', '', trim($name));
         $dat = trim($dat);
         $dat = str_ireplace("/", "\\", $dat); 
 
@@ -48,6 +48,7 @@ foreach ($zones as $zone_key) {
 
         $arr = [
             "name" => $name,
+            "name_clean" => get_simple_name($name),
             "category" => $info['category'],
             "file_rom" => $dat,
             "file_id" => $file_id,

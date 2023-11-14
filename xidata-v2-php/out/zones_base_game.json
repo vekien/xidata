@@ -9,6 +9,7 @@
         "file_id": 202,
         "file_rom": "ROM\\0\\115.DAT",
         "name": "La Theine Plateau",
+        "name_clean": "latheineplateau",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -22,6 +23,7 @@
         "file_id": 200,
         "file_rom": "ROM\\0\\120.DAT",
         "name": "West Ronfaure",
+        "name_clean": "westronfaure",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -35,6 +37,7 @@
         "file_id": 201,
         "file_rom": "ROM\\0\\121.DAT",
         "name": "East Ronfaure",
+        "name_clean": "eastronfaure",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -47,7 +50,8 @@
         "dat_path": 14,
         "file_id": 290,
         "file_rom": "ROM\\1\\14.DAT",
-        "name": "King Ranperre's Tomb",
+        "name": "King Ranperres Tomb",
+        "name_clean": "kingranperrestomb",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -61,6 +65,7 @@
         "file_id": 206,
         "file_rom": "ROM\\0\\123.DAT",
         "name": "North Gustaberg",
+        "name_clean": "northgustaberg",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -74,6 +79,7 @@
         "file_id": 207,
         "file_rom": "ROM\\0\\124.DAT",
         "name": "South Gustaberg",
+        "name_clean": "southgustaberg",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -87,6 +93,7 @@
         "file_id": 215,
         "file_rom": "ROM\\0\\127.DAT",
         "name": "West Sarutabaruta",
+        "name_clean": "westsarutabaruta",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -100,6 +107,7 @@
         "file_id": 216,
         "file_rom": "ROM\\1\\0.DAT",
         "name": "East Sarutabaruta",
+        "name_clean": "eastsarutabaruta",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -112,7 +120,8 @@
         "dat_path": 31,
         "file_id": 330,
         "file_rom": "ROM\\1\\31.DAT",
-        "name": "Southern San d'Oria",
+        "name": "Southern San dOria",
+        "name_clean": "southernsandoria",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -125,7 +134,8 @@
         "dat_path": 32,
         "file_id": 331,
         "file_rom": "ROM\\1\\32.DAT",
-        "name": "Northern San d'Oria",
+        "name": "Northern San dOria",
+        "name_clean": "northernsandoria",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -139,6 +149,7 @@
         "file_id": 338,
         "file_rom": "ROM\\0\\78.DAT",
         "name": "Windurst Waters",
+        "name_clean": "windurstwaters",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -152,6 +163,7 @@
         "file_id": 339,
         "file_rom": "ROM\\0\\79.DAT",
         "name": "Windurst Walls",
+        "name_clean": "windurstwalls",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -165,6 +177,7 @@
         "file_id": 341,
         "file_rom": "ROM\\0\\81.DAT",
         "name": "Windurst Woods",
+        "name_clean": "windurstwoods",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -178,6 +191,7 @@
         "file_id": 342,
         "file_rom": "ROM\\1\\38.DAT",
         "name": "Heavens Tower",
+        "name_clean": "heavenstower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -191,6 +205,7 @@
         "file_id": 340,
         "file_rom": "ROM\\0\\80.DAT",
         "name": "Port Windurst",
+        "name_clean": "portwindurst",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -204,6 +219,7 @@
         "file_id": 334,
         "file_rom": "ROM\\1\\34.DAT",
         "name": "Bastok Mines",
+        "name_clean": "bastokmines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -217,6 +233,7 @@
         "file_id": 335,
         "file_rom": "ROM\\1\\35.DAT",
         "name": "Bastok Markets",
+        "name_clean": "bastokmarkets",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -230,6 +247,7 @@
         "file_id": 336,
         "file_rom": "ROM\\1\\36.DAT",
         "name": "Port Bastok",
+        "name_clean": "portbastok",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -243,6 +261,7 @@
         "file_id": 337,
         "file_rom": "ROM\\1\\37.DAT",
         "name": "Metalworks",
+        "name_clean": "metalworks",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -256,6 +275,7 @@
         "file_id": 344,
         "file_rom": "ROM\\1\\40.DAT",
         "name": "Upper Jeuno",
+        "name_clean": "upperjeuno",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -269,6 +289,7 @@
         "file_id": 345,
         "file_rom": "ROM\\1\\41.DAT",
         "name": "Lower Jeuno",
+        "name_clean": "lowerjeuno",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -282,6 +303,7 @@
         "file_id": 346,
         "file_rom": "ROM\\1\\42.DAT",
         "name": "Port Jeuno",
+        "name_clean": "portjeuno",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -294,7 +316,8 @@
         "dat_path": 39,
         "file_id": 343,
         "file_rom": "ROM\\1\\39.DAT",
-        "name": "Ru'Lude Gardens",
+        "name": "RuLude Gardens",
+        "name_clean": "ruludegardens",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -308,6 +331,7 @@
         "file_id": 226,
         "file_rom": "ROM\\0\\58.DAT",
         "name": "Qufim Island",
+        "name_clean": "qufimisland",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -321,6 +345,7 @@
         "file_id": 320,
         "file_rom": "ROM\\1\\24.DAT",
         "name": "Ship bound for Selbina",
+        "name_clean": "shipboundforselbina",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -334,6 +359,7 @@
         "file_id": 321,
         "file_rom": "ROM\\1\\25.DAT",
         "name": "Ship bound for Mhaura",
+        "name_clean": "shipboundformhaura",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -347,6 +373,7 @@
         "file_id": 327,
         "file_rom": "ROM\\1\\29.DAT",
         "name": "Ship bound for Selbina",
+        "name_clean": "shipboundforselbina",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -360,6 +387,7 @@
         "file_id": 328,
         "file_rom": "ROM\\1\\30.DAT",
         "name": "Ship bound for Mhaura",
+        "name_clean": "shipboundformhaura",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -372,7 +400,8 @@
         "dat_path": 26,
         "file_id": 323,
         "file_rom": "ROM\\1\\26.DAT",
-        "name": "San d'Oria-Jeuno Airship",
+        "name": "San dOria-Jeuno Airship",
+        "name_clean": "sandoria-jeunoairship",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -386,6 +415,7 @@
         "file_id": 324,
         "file_rom": "ROM\\1\\27.DAT",
         "name": "Bastok-Jeuno Airship",
+        "name_clean": "bastok-jeunoairship",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -399,6 +429,7 @@
         "file_id": 325,
         "file_rom": "ROM\\1\\28.DAT",
         "name": "Windurst-Jeuno Airship",
+        "name_clean": "windurst-jeunoairship",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -412,6 +443,7 @@
         "file_id": 217,
         "file_rom": "ROM\\1\\1.DAT",
         "name": "Tahrongi Canyon",
+        "name_clean": "tahrongicanyon",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -425,6 +457,7 @@
         "file_id": 203,
         "file_rom": "ROM\\0\\102.DAT",
         "name": "Valkurm Dunes",
+        "name_clean": "valkurmdunes",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -438,6 +471,7 @@
         "file_id": 204,
         "file_rom": "ROM\\0\\114.DAT",
         "name": "Jugner Forest",
+        "name_clean": "jugnerforest",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -451,6 +485,7 @@
         "file_id": 205,
         "file_rom": "ROM\\0\\122.DAT",
         "name": "Batallia Downs",
+        "name_clean": "batalliadowns",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -464,6 +499,7 @@
         "file_id": 208,
         "file_rom": "ROM\\0\\90.DAT",
         "name": "Konschtat Highlands",
+        "name_clean": "konschtathighlands",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -477,6 +513,7 @@
         "file_id": 209,
         "file_rom": "ROM\\0\\125.DAT",
         "name": "Pashhow Marshlands",
+        "name_clean": "pashhowmarshlands",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -490,6 +527,7 @@
         "file_id": 210,
         "file_rom": "ROM\\0\\126.DAT",
         "name": "Rolanberry Fields",
+        "name_clean": "rolanberryfields",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -503,6 +541,7 @@
         "file_id": 211,
         "file_rom": "ROM\\0\\72.DAT",
         "name": "Beaucedine Glacier",
+        "name_clean": "beaucedineglacier",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -516,6 +555,7 @@
         "file_id": 212,
         "file_rom": "ROM\\0\\57.DAT",
         "name": "Xarcabard",
+        "name_clean": "xarcabard",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -529,6 +569,7 @@
         "file_id": 218,
         "file_rom": "ROM\\0\\71.DAT",
         "name": "Buburimu Peninsula",
+        "name_clean": "buburimupeninsula",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -542,6 +583,7 @@
         "file_id": 219,
         "file_rom": "ROM\\0\\101.DAT",
         "name": "Meriphataud Mountains",
+        "name_clean": "meriphataudmountains",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -555,6 +597,7 @@
         "file_id": 220,
         "file_rom": "ROM\\1\\2.DAT",
         "name": "Sauromugue Champaign",
+        "name_clean": "sauromuguechampaign",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -567,7 +610,8 @@
         "dat_path": 3,
         "file_id": 227,
         "file_rom": "ROM\\1\\3.DAT",
-        "name": "Behemoth's Dominion",
+        "name": "Behemoths Dominion",
+        "name_clean": "behemothsdominion",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -581,6 +625,7 @@
         "file_id": 231,
         "file_rom": "ROM\\1\\4.DAT",
         "name": "Mordion Gaol",
+        "name_clean": "mordiongaol",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -594,6 +639,7 @@
         "file_id": 239,
         "file_rom": "ROM\\1\\6.DAT",
         "name": "Horlais Peak",
+        "name_clean": "horlaispeak",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -607,6 +653,7 @@
         "file_id": 240,
         "file_rom": "ROM\\0\\95.DAT",
         "name": "Ghelsba Outpost",
+        "name_clean": "ghelsbaoutpost",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -620,6 +667,7 @@
         "file_id": 241,
         "file_rom": "ROM\\1\\7.DAT",
         "name": "Fort Ghelsba",
+        "name_clean": "fortghelsba",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -633,6 +681,7 @@
         "file_id": 242,
         "file_rom": "ROM\\1\\8.DAT",
         "name": "Yughott Grotto",
+        "name_clean": "yughottgrotto",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -646,6 +695,7 @@
         "file_id": 243,
         "file_rom": "ROM\\0\\88.DAT",
         "name": "Palborough Mines",
+        "name_clean": "palboroughmines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -659,6 +709,7 @@
         "file_id": 244,
         "file_rom": "ROM\\0\\89.DAT",
         "name": "Waughroon Shrine",
+        "name_clean": "waughroonshrine",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -672,6 +723,7 @@
         "file_id": 245,
         "file_rom": "ROM\\0\\104.DAT",
         "name": "Giddeus",
+        "name_clean": "giddeus",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -684,7 +736,8 @@
         "dat_path": 105,
         "file_id": 246,
         "file_rom": "ROM\\0\\105.DAT",
-        "name": "Balga's Dais",
+        "name": "Balgas Dais",
+        "name_clean": "balgasdais",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -698,6 +751,7 @@
         "file_id": 247,
         "file_rom": "ROM\\0\\61.DAT",
         "name": "Beadeaux",
+        "name_clean": "beadeaux",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -711,6 +765,7 @@
         "file_id": 248,
         "file_rom": "ROM\\0\\62.DAT",
         "name": "Qulun Dome",
+        "name_clean": "qulundome",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -724,6 +779,7 @@
         "file_id": 249,
         "file_rom": "ROM\\0\\99.DAT",
         "name": "Davoi",
+        "name_clean": "davoi",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -737,6 +793,7 @@
         "file_id": 250,
         "file_rom": "ROM\\0\\100.DAT",
         "name": "Monastic Cavern",
+        "name_clean": "monasticcavern",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -750,6 +807,7 @@
         "file_id": 251,
         "file_rom": "ROM\\0\\63.DAT",
         "name": "Castle Oztroja",
+        "name_clean": "castleoztroja",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -763,6 +821,7 @@
         "file_id": 252,
         "file_rom": "ROM\\0\\64.DAT",
         "name": "Altar Room",
+        "name_clean": "altarroom",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -775,7 +834,8 @@
         "dat_path": 56,
         "file_id": 257,
         "file_rom": "ROM\\0\\56.DAT",
-        "name": "Middle Delkfutt's Tower",
+        "name": "Middle Delkfutts Tower",
+        "name_clean": "middledelkfuttstower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -788,7 +848,8 @@
         "dat_path": 9,
         "file_id": 258,
         "file_rom": "ROM\\1\\9.DAT",
-        "name": "Upper Delkfutt's Tower",
+        "name": "Upper Delkfutts Tower",
+        "name_clean": "upperdelkfuttstower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -801,7 +862,8 @@
         "dat_path": 13,
         "file_id": 284,
         "file_rom": "ROM\\1\\13.DAT",
-        "name": "Lower Delkfutt's Tower",
+        "name": "Lower Delkfutts Tower",
+        "name_clean": "lowerdelkfuttstower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -815,6 +877,7 @@
         "file_id": 261,
         "file_rom": "ROM\\0\\60.DAT",
         "name": "Castle Zvahl Baileys",
+        "name_clean": "castlezvahlbaileys",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -828,6 +891,7 @@
         "file_id": 262,
         "file_rom": "ROM\\0\\73.DAT",
         "name": "Castle Zvahl Keep",
+        "name_clean": "castlezvahlkeep",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -841,6 +905,7 @@
         "file_id": 265,
         "file_rom": "ROM\\0\\74.DAT",
         "name": "Throne Room",
+        "name_clean": "throneroom",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -854,6 +919,7 @@
         "file_id": 266,
         "file_rom": "ROM\\1\\10.DAT",
         "name": "Ranguemont Pass",
+        "name_clean": "ranguemontpass",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -867,6 +933,7 @@
         "file_id": 267,
         "file_rom": "ROM\\0\\108.DAT",
         "name": "Bostaunieux Oubliette",
+        "name_clean": "bostaunieuxoubliette",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -880,6 +947,7 @@
         "file_id": 269,
         "file_rom": "ROM\\0\\65.DAT",
         "name": "Toraimarai Canal",
+        "name_clean": "toraimaraicanal",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -893,6 +961,7 @@
         "file_id": 272,
         "file_rom": "ROM\\1\\11.DAT",
         "name": "Zeruhn Mines",
+        "name_clean": "zeruhnmines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -906,6 +975,7 @@
         "file_id": 283,
         "file_rom": "ROM\\1\\12.DAT",
         "name": "Maquette Abdhaljs-Legion",
+        "name_clean": "maquetteabdhaljs-legion",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -919,6 +989,7 @@
         "file_id": 292,
         "file_rom": "ROM\\0\\112.DAT",
         "name": "Inner Horutoto Ruins",
+        "name_clean": "innerhorutotoruins",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -932,6 +1003,7 @@
         "file_id": 294,
         "file_rom": "ROM\\1\\15.DAT",
         "name": "Outer Horutoto Ruins",
+        "name_clean": "outerhorutotoruins",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -945,6 +1017,7 @@
         "file_id": 291,
         "file_rom": "ROM\\0\\52.DAT",
         "name": "Dangruf Wadi",
+        "name_clean": "dangrufwadi",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -957,7 +1030,8 @@
         "dat_path": 92,
         "file_id": 293,
         "file_rom": "ROM\\0\\92.DAT",
-        "name": "Ordelle's Caves",
+        "name": "Ordelles Caves",
+        "name_clean": "ordellescaves",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -971,6 +1045,7 @@
         "file_id": 295,
         "file_rom": "ROM\\0\\77.DAT",
         "name": "The Eldieme Necropolis",
+        "name_clean": "theeldiemenecropolis",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -984,6 +1059,7 @@
         "file_id": 296,
         "file_rom": "ROM\\1\\16.DAT",
         "name": "Gusgen Mines",
+        "name_clean": "gusgenmines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -996,7 +1072,8 @@
         "dat_path": 76,
         "file_id": 297,
         "file_rom": "ROM\\0\\76.DAT",
-        "name": "Crawlers' Nest",
+        "name": "Crawlers Nest",
+        "name_clean": "crawlersnest",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1010,6 +1087,7 @@
         "file_id": 298,
         "file_rom": "ROM\\0\\75.DAT",
         "name": "Maze of Shakhrami",
+        "name_clean": "mazeofshakhrami",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1023,6 +1101,7 @@
         "file_id": 300,
         "file_rom": "ROM\\1\\17.DAT",
         "name": "Garlaige Citadel",
+        "name_clean": "garlaigecitadel",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1035,7 +1114,8 @@
         "dat_path": 18,
         "file_id": 304,
         "file_rom": "ROM\\1\\18.DAT",
-        "name": "Fei'Yin",
+        "name": "FeiYin",
+        "name_clean": "feiyin",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1048,7 +1128,8 @@
         "dat_path": 19,
         "file_id": 306,
         "file_rom": "ROM\\1\\19.DAT",
-        "name": "Qu'Bia Arena",
+        "name": "QuBia Arena",
+        "name_clean": "qubiaarena",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1062,6 +1143,7 @@
         "file_id": 322,
         "file_rom": "ROM\\280\\2.DAT",
         "name": "Provenance",
+        "name_clean": "provenance",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1074,7 +1156,8 @@
         "dat_path": 113,
         "file_id": 332,
         "file_rom": "ROM\\0\\113.DAT",
-        "name": "Port San d'Oria",
+        "name": "Port San dOria",
+        "name_clean": "portsandoria",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1087,7 +1170,8 @@
         "dat_path": 33,
         "file_id": 333,
         "file_rom": "ROM\\1\\33.DAT",
-        "name": "Chateau d'Oraguille",
+        "name": "Chateau dOraguille",
+        "name_clean": "chateaudoraguille",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1101,6 +1185,7 @@
         "file_id": 348,
         "file_rom": "ROM\\1\\43.DAT",
         "name": "Selbina",
+        "name_clean": "selbina",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -1114,6 +1199,7 @@
         "file_id": 349,
         "file_rom": "ROM\\1\\44.DAT",
         "name": "Mhaura",
+        "name_clean": "mhaura",
         "rom_folder": "ROM",
         "rom_index": 1
     }

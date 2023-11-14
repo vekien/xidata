@@ -9,6 +9,7 @@
         "file_id": 213,
         "file_rom": "ROM2\\0\\0.DAT",
         "name": "Cape Teriggan",
+        "name_clean": "capeteriggan",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -22,6 +23,7 @@
         "file_id": 214,
         "file_rom": "ROM2\\0\\1.DAT",
         "name": "Eastern Altepa Desert",
+        "name_clean": "easternaltepadesert",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -34,7 +36,8 @@
         "dat_path": 2,
         "file_id": 221,
         "file_rom": "ROM2\\0\\2.DAT",
-        "name": "The Sanctuary of Zi'Tah",
+        "name": "The Sanctuary of ZiTah",
+        "name_clean": "thesanctuaryofzitah",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -47,7 +50,8 @@
         "dat_path": 3,
         "file_id": 222,
         "file_rom": "ROM2\\0\\3.DAT",
-        "name": "Ro'Maeve",
+        "name": "RoMaeve",
+        "name_clean": "romaeve",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -61,6 +65,7 @@
         "file_id": 223,
         "file_rom": "ROM2\\0\\4.DAT",
         "name": "Yuhtunga Jungle",
+        "name_clean": "yuhtungajungle",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -74,6 +79,7 @@
         "file_id": 224,
         "file_rom": "ROM2\\0\\5.DAT",
         "name": "Yhoator Jungle",
+        "name_clean": "yhoatorjungle",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -87,6 +93,7 @@
         "file_id": 225,
         "file_rom": "ROM2\\0\\6.DAT",
         "name": "Western Altepa Desert",
+        "name_clean": "westernaltepadesert",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -100,6 +107,7 @@
         "file_id": 228,
         "file_rom": "ROM2\\0\\7.DAT",
         "name": "Valley of Sorrows",
+        "name_clean": "valleyofsorrows",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -112,7 +120,8 @@
         "dat_path": 107,
         "file_id": 230,
         "file_rom": "ROM2\\12\\107.DAT",
-        "name": "Ru'Aun Gardens",
+        "name": "RuAun Gardens",
+        "name_clean": "ruaungardens",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -126,6 +135,7 @@
         "file_id": 234,
         "file_rom": "ROM2\\12\\108.DAT",
         "name": "Dynamis - Beaucedine",
+        "name_clean": "dynamis-beaucedine",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -139,6 +149,7 @@
         "file_id": 235,
         "file_rom": "ROM2\\12\\109.DAT",
         "name": "Dynamis - Xarcabard",
+        "name_clean": "dynamis-xarcabard",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -152,6 +163,7 @@
         "file_id": 253,
         "file_rom": "ROM2\\0\\8.DAT",
         "name": "The Boyahda Tree",
+        "name_clean": "theboyahdatree",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -164,7 +176,8 @@
         "dat_path": 9,
         "file_id": 254,
         "file_rom": "ROM2\\0\\9.DAT",
-        "name": "Dragon's Aery",
+        "name": "Dragons Aery",
+        "name_clean": "dragonsaery",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -178,6 +191,7 @@
         "file_id": 259,
         "file_rom": "ROM2\\0\\10.DAT",
         "name": "Temple of Uggalepih",
+        "name_clean": "templeofuggalepih",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -191,6 +205,7 @@
         "file_id": 260,
         "file_rom": "ROM2\\12\\110.DAT",
         "name": "Den of Rancor",
+        "name_clean": "denofrancor",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -204,6 +219,7 @@
         "file_id": 263,
         "file_rom": "ROM2\\12\\111.DAT",
         "name": "Sacrificial Chamber",
+        "name_clean": "sacrificialchamber",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -217,6 +233,7 @@
         "file_id": 268,
         "file_rom": "ROM2\\0\\11.DAT",
         "name": "Chamber of Oracles",
+        "name_clean": "chamberoforacles",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -230,6 +247,7 @@
         "file_id": 270,
         "file_rom": "ROM2\\0\\12.DAT",
         "name": "Full Moon Fountain",
+        "name_clean": "fullmoonfountain",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -243,6 +261,7 @@
         "file_id": 273,
         "file_rom": "ROM2\\0\\13.DAT",
         "name": "Korroloka Tunnel",
+        "name_clean": "korrolokatunnel",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -256,6 +275,7 @@
         "file_id": 274,
         "file_rom": "ROM2\\0\\14.DAT",
         "name": "Kuftal Tunnel",
+        "name_clean": "kuftaltunnel",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -269,6 +289,7 @@
         "file_id": 276,
         "file_rom": "ROM2\\0\\15.DAT",
         "name": "Sea Serpent Grotto",
+        "name_clean": "seaserpentgrotto",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -281,7 +302,8 @@
         "dat_path": 112,
         "file_id": 277,
         "file_rom": "ROM2\\12\\112.DAT",
-        "name": "Ve'Lugannon Palace",
+        "name": "VeLugannon Palace",
+        "name_clean": "velugannonpalace",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -294,7 +316,8 @@
         "dat_path": 113,
         "file_id": 278,
         "file_rom": "ROM2\\12\\113.DAT",
-        "name": "The Shrine of Ru'Avitau",
+        "name": "The Shrine of RuAvitau",
+        "name_clean": "theshrineofruavitau",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -308,6 +331,7 @@
         "file_id": 279,
         "file_rom": "ROM2\\0\\16.DAT",
         "name": "Stellar Fulcrum",
+        "name_clean": "stellarfulcrum",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -320,7 +344,8 @@
         "dat_path": 114,
         "file_id": 280,
         "file_rom": "ROM2\\12\\114.DAT",
-        "name": "La'Loff Amphitheater",
+        "name": "LaLoff Amphitheater",
+        "name_clean": "laloffamphitheater",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -334,6 +359,7 @@
         "file_id": 281,
         "file_rom": "ROM2\\12\\115.DAT",
         "name": "The Celestial Nexus",
+        "name_clean": "thecelestialnexus",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -346,7 +372,8 @@
         "dat_path": 116,
         "file_id": 285,
         "file_rom": "ROM2\\12\\116.DAT",
-        "name": "Dynamis - San d'Oria",
+        "name": "Dynamis - San dOria",
+        "name_clean": "dynamis-sandoria",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -360,6 +387,7 @@
         "file_id": 286,
         "file_rom": "ROM2\\12\\117.DAT",
         "name": "Dynamis - Bastok",
+        "name_clean": "dynamis-bastok",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -373,6 +401,7 @@
         "file_id": 287,
         "file_rom": "ROM2\\12\\118.DAT",
         "name": "Dynamis - Windurst",
+        "name_clean": "dynamis-windurst",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -386,6 +415,7 @@
         "file_id": 288,
         "file_rom": "ROM2\\12\\119.DAT",
         "name": "Dynamis - Jeuno",
+        "name_clean": "dynamis-jeuno",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -399,6 +429,7 @@
         "file_id": 301,
         "file_rom": "ROM2\\0\\17.DAT",
         "name": "Cloister of Gales",
+        "name_clean": "cloisterofgales",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -412,6 +443,7 @@
         "file_id": 302,
         "file_rom": "ROM2\\0\\18.DAT",
         "name": "Cloister of Storms",
+        "name_clean": "cloisterofstorms",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -425,6 +457,7 @@
         "file_id": 303,
         "file_rom": "ROM2\\0\\19.DAT",
         "name": "Cloister of Frost",
+        "name_clean": "cloisteroffrost",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -437,7 +470,8 @@
         "dat_path": 20,
         "file_id": 305,
         "file_rom": "ROM2\\0\\20.DAT",
-        "name": "Ifrit's Cauldron",
+        "name": "Ifrits Cauldron",
+        "name_clean": "ifritscauldron",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -451,6 +485,7 @@
         "file_id": 307,
         "file_rom": "ROM2\\0\\21.DAT",
         "name": "Cloister of Flames",
+        "name_clean": "cloisterofflames",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -464,6 +499,7 @@
         "file_id": 308,
         "file_rom": "ROM2\\12\\120.DAT",
         "name": "Quicksand Caves",
+        "name_clean": "quicksandcaves",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -477,6 +513,7 @@
         "file_id": 309,
         "file_rom": "ROM2\\0\\22.DAT",
         "name": "Cloister of Tremors",
+        "name_clean": "cloisteroftremors",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -490,6 +527,7 @@
         "file_id": 311,
         "file_rom": "ROM2\\0\\23.DAT",
         "name": "Cloister of Tides",
+        "name_clean": "cloisteroftides",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -503,6 +541,7 @@
         "file_id": 312,
         "file_rom": "ROM2\\12\\121.DAT",
         "name": "Gustav Tunnel",
+        "name_clean": "gustavtunnel",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -516,6 +555,7 @@
         "file_id": 313,
         "file_rom": "ROM2\\12\\122.DAT",
         "name": "Labyrinth of Onzozo",
+        "name_clean": "labyrinthofonzozo",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -529,6 +569,7 @@
         "file_id": 326,
         "file_rom": "ROM2\\0\\24.DAT",
         "name": "Kazham-Jeuno Airship",
+        "name_clean": "kazham-jeunoairship",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -542,6 +583,7 @@
         "file_id": 347,
         "file_rom": "ROM2\\12\\123.DAT",
         "name": "Rabao",
+        "name_clean": "rabao",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -555,6 +597,7 @@
         "file_id": 350,
         "file_rom": "ROM2\\0\\25.DAT",
         "name": "Kazham",
+        "name_clean": "kazham",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -568,6 +611,7 @@
         "file_id": 351,
         "file_rom": "ROM2\\21\\114.DAT",
         "name": "Hall of the Gods",
+        "name_clean": "hallofthegods",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
@@ -581,6 +625,7 @@
         "file_id": 352,
         "file_rom": "ROM2\\0\\27.DAT",
         "name": "Norg",
+        "name_clean": "norg",
         "rom_folder": "ROM2",
         "rom_index": 2
     }

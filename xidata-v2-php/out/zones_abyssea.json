@@ -9,6 +9,7 @@
         "file_id": 115,
         "file_rom": "ROM\\240\\106.DAT",
         "name": "Abyssea - Konschtat",
+        "name_clean": "abyssea-konschtat",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -22,6 +23,7 @@
         "file_id": 145,
         "file_rom": "ROM\\240\\107.DAT",
         "name": "Abyssea - Tahrongi",
+        "name_clean": "abyssea-tahrongi",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -35,6 +37,7 @@
         "file_id": 232,
         "file_rom": "ROM\\240\\108.DAT",
         "name": "Abyssea - La Theine",
+        "name_clean": "abyssea-latheine",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -48,6 +51,7 @@
         "file_id": 315,
         "file_rom": "ROM\\254\\7.DAT",
         "name": "Abyssea - Attohwa",
+        "name_clean": "abyssea-attohwa",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -61,6 +65,7 @@
         "file_id": 316,
         "file_rom": "ROM\\254\\8.DAT",
         "name": "Abyssea - Misareaux",
+        "name_clean": "abyssea-misareaux",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -74,6 +79,7 @@
         "file_id": 317,
         "file_rom": "ROM\\254\\9.DAT",
         "name": "Abyssea - Vunkerl",
+        "name_clean": "abyssea-vunkerl",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -87,6 +93,7 @@
         "file_id": 318,
         "file_rom": "ROM\\258\\110.DAT",
         "name": "Abyssea - Altepa",
+        "name_clean": "abyssea-altepa",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -100,6 +107,7 @@
         "file_id": 353,
         "file_rom": "ROM\\258\\111.DAT",
         "name": "Abyssea - Uleguerand",
+        "name_clean": "abyssea-uleguerand",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -113,6 +121,7 @@
         "file_id": 354,
         "file_rom": "ROM\\258\\112.DAT",
         "name": "Abyssea - Grauberg",
+        "name_clean": "abyssea-grauberg",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -126,6 +135,7 @@
         "file_id": 355,
         "file_rom": "ROM\\258\\113.DAT",
         "name": "Abyssea - Empyreal Paradox",
+        "name_clean": "abyssea-empyrealparadox",
         "rom_folder": "ROM",
         "rom_index": 1
     }

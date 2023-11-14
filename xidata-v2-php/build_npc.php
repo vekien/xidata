@@ -49,7 +49,6 @@ function get_folder_list_from_string($input_string) {
     $default_folder = null;
 
     foreach ($segments as $segment) {
-        
         if (preg_match('/^(\d+)\/(\d+(?:-\d+)?)$/', $segment, $matches)) {
             $folder = $matches[1];
             $range = $matches[2];
@@ -124,7 +123,7 @@ function get_model_id_for_npc($look_string) {
 $mobdb = [];
 $in_mobdb = load_list("\\in\\in_mobdb.csv");
 foreach ($in_mobdb as $line) {
-    if (empty($line)) continue;
+    if (empty(trim($line))) continue;
 
     [$name, $look, $dat, $header] = str_getcsv($line);
 
@@ -146,13 +145,14 @@ foreach ($in_files_npcs as $af_npc) {
     echo ("- Processing: {$category} - {$type} - {$filename}\n");
 
     // load
-    $file = load_list("\\in\\in_altana_{$filename}");
+    $file = load_list("\\in\\in_npc_{$filename}");
 
     foreach ($file as $line) {
         if (empty($line)) continue;
 
         // grab dat paths and the name
         [$dat_paths, $name] = explode(",", $line);
+        $name = preg_replace('/[^\w\s\-]/', '', trim($name));
 
         echo ("-- Entry: {$name}\n");
 
@@ -186,6 +186,7 @@ foreach ($in_files_npcs as $af_npc) {
                 "num" => $num,
                 "name_short" => $name,
                 "name_full" => "{$name} - {$num}",
+                "name_clean" => get_simple_name($name),
                 "category" => $category,
                 "type" => $type,
                 "dat" => $dat,
@@ -208,7 +209,7 @@ foreach ($in_files_npcs as $af_npc) {
 echo("\nBuilding AltanaViewer full datamine jsons...\n");
 
 // Process full datamine from: Shozokui
-$full_datamine = load_list("\\in\\in_altana_full_datamine.csv");
+$full_datamine = load_list("\\in\\in_npc_full_datamine.csv");
 foreach ($full_datamine as $line) {
     if (empty($line)) continue;
 

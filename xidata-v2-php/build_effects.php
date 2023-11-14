@@ -39,3 +39,57 @@ $in_files_effects = [
     [ "Job", "Songs", "job_songs.csv", ],
     [ "Job", "Summoning", "job_summoning.csv", ],
 ];
+
+$missing = [];
+$output = [];
+foreach ($in_files_effects as $af_effect) {
+    [ $type, $category, $filename ] = $af_effect;
+
+    echo ("- Processing: {$type} - {$category} - {$filename}\n");
+
+    // load
+    $file = load_list("\\in\\in_fx_{$filename}");
+
+    foreach ($file as $line) {
+        if (empty($line)) continue;
+
+        // grab dat paths and the name
+        [$dat, $name] = explode(",", $line);
+        $name = preg_replace('/[^\w\s\-]/', '', trim($name));
+
+        // build dat
+        $dat = $dat = substr_count($dat, "/") > 1 ? "ROM{$dat}.DAT" : "ROM/{$dat}.DAT";
+        $dat = str_ireplace("/", "\\", $dat);
+
+        // try get the dat-data
+        $file_id = $ftable_reversed[$dat] ?? null;
+        $dat_data = $file_id ? $ftable[$file_id] : [
+            'dat' => $dat,
+        ];
+
+        if ($file_id === null) {
+            $missing[] = $dat;
+        } 
+
+        $arr = [
+            "name" => $name,
+            "name_full" => $name,
+            "name_clean" => get_simple_name($name),
+            "category" => $category,
+            "type" => $type,
+            "dat" => $dat,
+        ];
+
+        $arr = array_merge($arr, $dat_data);
+
+        ksort($arr);
+
+        $output[$type][] = $arr;
+    }
+}
+
+echo("\nFinished! Saving....\n");
+foreach ($output as $type => $data) {
+    echo("- Save: {$type} \n");
+    save_data("fx_". strtolower($type) .".json", $data);
+}

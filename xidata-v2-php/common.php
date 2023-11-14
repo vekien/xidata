@@ -89,3 +89,10 @@ function logit($string) {
 function sort_output($a, $b) {
     return $a['file_id'] < $b['file_id'] ? -1 : 1;
 }
+
+
+function get_simple_name($string) {
+    $cleanedString = preg_replace('/[^\w\d_-]/', '', $string);
+    $cleanedString = strtolower(trim($cleanedString));
+    return $cleanedString;
+}

@@ -8,7 +8,8 @@
         "dat_path": 99,
         "file_id": 83923,
         "file_rom": "ROM\\332\\99.DAT",
-        "name": "Escha - Zi'Tah",
+        "name": "Escha - ZiTah",
+        "name_clean": "escha-zitah",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -21,7 +22,8 @@
         "dat_path": 59,
         "file_id": 83924,
         "file_rom": "ROM\\337\\59.DAT",
-        "name": "Escha - Ru'Aun",
+        "name": "Escha - RuAun",
+        "name_clean": "escha-ruaun",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -35,6 +37,7 @@
         "file_id": 83925,
         "file_rom": "ROM\\342\\72.DAT",
         "name": "Desuetia - Empyreal Paradox",
+        "name_clean": "desuetia-empyrealparadox",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -48,6 +51,7 @@
         "file_id": 83926,
         "file_rom": "ROM\\342\\73.DAT",
         "name": "Reisenjima",
+        "name_clean": "reisenjima",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -61,6 +65,7 @@
         "file_id": 83927,
         "file_rom": "ROM\\351\\58.DAT",
         "name": "Reisenjima Henge",
+        "name_clean": "reisenjimahenge",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -74,6 +79,7 @@
         "file_id": 83928,
         "file_rom": "ROM\\342\\74.DAT",
         "name": "Reisenjima Sanctorium",
+        "name_clean": "reisenjimasanctorium",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -86,7 +92,8 @@
         "dat_path": 109,
         "file_id": 83929,
         "file_rom": "ROM\\354\\109.DAT",
-        "name": "Dynamis - San d'Oria [D]",
+        "name": "Dynamis - San dOria D",
+        "name_clean": "dynamis-sandoriad",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -99,7 +106,8 @@
         "dat_path": 3,
         "file_id": 83930,
         "file_rom": "ROM\\355\\3.DAT",
-        "name": "Dynamis - Bastok [D]",
+        "name": "Dynamis - Bastok D",
+        "name_clean": "dynamis-bastokd",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -112,7 +120,8 @@
         "dat_path": 32,
         "file_id": 83931,
         "file_rom": "ROM\\355\\32.DAT",
-        "name": "Dynamis - Windurst [D]",
+        "name": "Dynamis - Windurst D",
+        "name_clean": "dynamis-windurstd",
         "rom_folder": "ROM",
         "rom_index": 1
     },
@@ -125,7 +134,8 @@
         "dat_path": 47,
         "file_id": 83932,
         "file_rom": "ROM\\355\\47.DAT",
-        "name": "Dynamis - Jeuno [D]",
+        "name": "Dynamis - Jeuno D",
+        "name_clean": "dynamis-jeunod",
         "rom_folder": "ROM",
         "rom_index": 1
     }

@@ -10,7 +10,7 @@ echo("Building AltanaViewer data jsons...\n");
 $ftable = load_ftable();
 $ftable_reversed = load_ftable_as_roms();
 
-$altana_files_npcs = [
+$in_files_npcs = [
     [ "Monster", "Abyssea", "abyssea.csv", ],
     [ "Monster", "Amorph", "amorphs.csv", ],
     [ "Monster", "Aquan", "aquans.csv", ],
@@ -140,7 +140,7 @@ foreach ($in_mobdb as $line) {
 $missing = [];
 $found = [];
 $output = [];
-foreach ($altana_files_npcs as $af_npc) {
+foreach ($in_files_npcs as $af_npc) {
     [ $type, $category, $filename ] = $af_npc;
 
     echo ("- Processing: {$category} - {$type} - {$filename}\n");

@@ -43,57 +43,7 @@ $in_files_npcs = [
 ];
 
 // Parse AltanaViewer
-function get_folder_list_from_string($input_string) {
-    $segments = explode(';', $input_string);
-    $result = [];
-    $default_folder = null;
 
-    foreach ($segments as $segment) {
-        if (preg_match('/^(\d+)\/(\d+(?:-\d+)?)$/', $segment, $matches)) {
-            $folder = $matches[1];
-            $range = $matches[2];
-
-            if (strpos($range, '-') !== false) {
-                list($start, $end) = explode('-', $range);
-
-                for ($i = $start; $i <= $end; $i++) {
-                    $result[] = $folder . '/' . $i;
-                }
-            } else {
-                $result[] = $segment;
-            }
-
-            $default_folder = $folder;
-        } else {
-            if (strpos($segment, '-') !== false) {
-                list($start, $end) = explode('-', $segment);
-                $default_folder = null;
-
-                if (substr_count($start, "/") > 0) {
-                    $temp_start = explode("/", $start);
-                    $start = end($temp_start);
-
-                    $default_folder = count($temp_start) > 2 ? "{$temp_start[0]}/{$temp_start[1]}" : "{$temp_start[0]}";
-                }
-
-                for ($i = $start; $i <= $end; $i++) {
-                    $result[] = $default_folder . '/' . $i;
-                }
-            } else {
-                $result[] = $default_folder . '/' . $segment;
-            }
-        }
-    }
-
-    foreach ($result as $i => $res) {
-        $res = $res[0] == "/" ? substr($res, 1) : $res;
-        $res = substr($res, 0, 2) == "1/" ? substr($res, 2) : $res;
-
-        $result[$i] = $res;
-    }
-
-    return $result;
-}
 
 // Parse model id from look
 // Credit: Shozokui

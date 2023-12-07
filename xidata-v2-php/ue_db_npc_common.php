@@ -19,12 +19,12 @@ $unrealdb = [];
 foreach($gearsets as $set) {
     $race = uc_string($set['race']);
 
-    $face = $set['face'] ? finalize_name($set['face']['name']) : null;
-    $head = $set['head'] ? finalize_name($set['head']['name']) : null;
-    $body = $set['body'] ? finalize_name($set['body']['name']) : null;
-    $hands = $set['hands'] ? finalize_name($set['hands']['name']) : null;
-    $legs = $set['legs'] ? finalize_name($set['legs']['name']) : null;
-    $feet = $set['feet'] ? finalize_name($set['feet']['name']) : null;
+    $face = $set['face'] ? get_windows_name($set['face']['name']) : null;
+    $head = $set['head'] ? get_windows_name($set['head']['name']) : null;
+    $body = $set['body'] ? get_windows_name($set['body']['name']) : null;
+    $hands = $set['hands'] ? get_windows_name($set['hands']['name']) : null;
+    $legs = $set['legs'] ? get_windows_name($set['legs']['name']) : null;
+    $feet = $set['feet'] ? get_windows_name($set['feet']['name']) : null;
 
     $arr = [
         "Name" => $set['name'],
@@ -70,21 +70,3 @@ save_custom("DB_NPC_Common_Gear.json", $unrealdb);
 
 
 
-//
-// Filename that matches the imported data
-//
-function finalize_name($name) {
-    if (empty($name)) {
-        return;
-    }
-    // Remove characters that are not alphanumeric, hyphen, or underscore
-    $cleanedName = preg_replace("/[^a-zA-Z0-9-_ ]+/", "", trim($name));
-
-    // Replace spaces with underscores
-    $underscoredName = str_replace(" ", "_", $cleanedName);
-
-    // Remove consecutive underscores
-    $finalName = str_replace("__", "_", $underscoredName);
-
-    return $finalName;
-}

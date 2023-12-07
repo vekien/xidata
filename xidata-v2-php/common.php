@@ -29,6 +29,10 @@ $slots = [
     "head", "body", "hands", "legs", "feet", "main", "sub", "ranged"
 ];
 
+$slots_short = [
+    "head", "body", "hands", "legs", "feet"
+];
+
 $slots_altana = [
     "Head", "Body", "Hands", "Legs", "Feet", "Main", "Sub", "Range"
 ];
@@ -167,4 +171,23 @@ function get_folder_list_from_string($input_string) {
     }
 
     return $result;
+}
+
+//
+// Filename that matches the imported data
+//
+function get_windows_name($name) {
+    if (empty($name)) {
+        return;
+    }
+    // Remove characters that are not alphanumeric, hyphen, or underscore
+    $cleanedName = preg_replace("/[^a-zA-Z0-9-_ ]+/", "", trim($name));
+
+    // Replace spaces with underscores
+    $underscoredName = str_replace(" ", "_", $cleanedName);
+
+    // Remove consecutive underscores
+    $finalName = str_replace("__", "_", $underscoredName);
+
+    return $finalName;
 }

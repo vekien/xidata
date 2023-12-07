@@ -168,6 +168,29 @@ $windower_data = load_item_windower_data();
 $ftable = load_ftable();
 $output = [];
 
+
+
+
+// grab hume_male race table
+$race_table = $race_tables[0];
+$test1 = ffxi_get_file_id($race_table, 20947);
+$test2 = ffxi_get_file_id($race_table, 20945);
+
+//$rom = $ftable[$file_id];
+
+print_r([
+    "ikgengas" => $test1,
+    "gletis" => $test2,
+]);
+
+die;
+
+
+
+
+
+
+
 // Loop through each race
 foreach($slots as $slot) {
     // preload item slot data (could probably be bundled, but oh well!)
@@ -200,6 +223,7 @@ foreach($slots as $slot) {
                 "name_short" => $item->name,
                 "name_long" => $windower->name_long,
                 "name_clean" => get_simple_name($windower->name),
+                "name_windows" => get_windows_name($windower->name_long),
                 "category" => $windower->category,
                 "level" => $item->level,
                 "item_level" => $item->item_level,

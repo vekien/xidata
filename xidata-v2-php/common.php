@@ -13,15 +13,24 @@ $races = [
     "galka"
 ];
 
+$races_to_dats = [
+    "hume_male" => "27\\82",
+    "hume_female" => "32\\58",
+    "elvaan_male" => "37\\31",
+    "elvaan_female" => "42\\4",
+    "taru_male" => "46\\93",
+    "taru_female" => "46\\93",
+    "mithra" => "51\\89",
+    "galka" => "56\\59",
+    
+];
+
 $slots = [
-    "head",
-    "body",
-    "hands",
-    "legs",
-    "feet",
-    "main",
-    "sub",
-    "ranged"
+    "head", "body", "hands", "legs", "feet", "main", "sub", "ranged"
+];
+
+$slots_altana = [
+    "Head", "Body", "Hands", "Legs", "Feet", "Main", "Sub", "Range"
 ];
 
 /**
@@ -60,6 +69,10 @@ function save_data($filename, $data) {
     file_put_contents(__DIR__ ."\\out\\{$filename}", json_encode($data, JSON_PRETTY_PRINT));
 }
 
+function save_custom($filename, $data) {
+    file_put_contents(__DIR__ ."\\custom\\{$filename}", json_encode($data, JSON_PRETTY_PRINT));
+}
+
 /**
  * Load some json and decode into an array.
  */
@@ -95,6 +108,10 @@ function get_simple_name($string) {
     $cleanedString = preg_replace('/[^\w\d_-]/', '', $string);
     $cleanedString = strtolower(trim($cleanedString));
     return $cleanedString;
+}
+
+function uc_string($string) {
+    return str_replace(' ', '_', ucwords(str_replace('_', ' ', $string)));
 }
 
 /**

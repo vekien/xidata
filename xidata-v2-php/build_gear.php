@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__ . "/common.php";
-require_once __DIR__ . "/build_gear_tables.php";
+require_once __DIR__ . "/common_geartables.php";
 
 echo("Starting JSON builder for FFXI Gear.\n\n");
 
@@ -171,7 +171,7 @@ $output = [];
 // Loop through each race
 foreach($slots as $slot) {
     // preload item slot data (could probably be bundled, but oh well!)
-    $item_data = load_item_database("/in/in_{$slot}.csv");
+    $item_data = load_item_database("/in/in_slot_{$slot}.csv");
 
     // loop through each race
     foreach ($races as $race_index => $race_name) {

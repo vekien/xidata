@@ -16,12 +16,12 @@
             VerticalContentAlignment="Center"
             Height="40"
             FontSize="18"
-            BorderBrush="#FFF1F1F1"
+            BorderBrush="#FF000000"
             Foreground="Black"
             SelectionBrush="Black"
             SelectionTextBrush="{x:Null}"
             SelectionOpacity="0.4"
-            CaretBrush="#FF666666"
+            CaretBrush="#FF000000"
             FontFamily="Open Sans">
             <TextBox.Background>
                 <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">

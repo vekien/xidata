@@ -25,14 +25,14 @@
             </LinearGradientBrush>
         </Button.Background>
         <Button.Effect>
-            <DropShadowEffect Color="#000000" Direction="270" ShadowDepth="1" Opacity="0.5" BlurRadius="8" RenderingBias="Quality"/>
+            <DropShadowEffect Color="Black" Direction="270" ShadowDepth="1" Opacity="1" BlurRadius="4" RenderingBias="Quality"/>
         </Button.Effect>
         <Button.Style>
             <Style TargetType="Button">
                 <Setter Property="Template">
                     <Setter.Value>
                         <ControlTemplate TargetType="Button">
-                            <Border x:Name="ButtonBorder" Background="{TemplateBinding Background}" CornerRadius="3" BorderBrush="#FF000000" BorderThickness="1,1,1,1">
+                            <Border x:Name="ButtonBorder" Background="{TemplateBinding Background}" CornerRadius="1" BorderBrush="#FF000000" BorderThickness="1,1,1,1">
                                 <ContentPresenter Margin="{TemplateBinding Padding}"
                                     HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
                                     VerticalAlignment="{TemplateBinding VerticalContentAlignment}"

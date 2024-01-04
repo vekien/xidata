@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net7.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <TargetPlatformVersion>10.0</TargetPlatformVersion>
     <RootNamespace>xidata_v2</RootNamespace>
     <Nullable>disable</Nullable>

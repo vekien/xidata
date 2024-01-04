@@ -46,9 +46,12 @@
                             </Grid.ColumnDefinitions>
                             <Border x:Name="Border"
                                     Grid.Column="0"
-                                    Background="#FFF1F1F1"
-                                    BorderBrush="#FFF1F1F1"
+                                    Background="#FF000000"
+                                    BorderBrush="#FF000000"
                                     BorderThickness="1">
+                                <Border.Effect>
+                                    <DropShadowEffect Color="Black" Direction="270" ShadowDepth="1" Opacity="1" BlurRadius="4" RenderingBias="Quality"/>
+                                </Border.Effect>
                                 <Grid Width="20" Height="20" Background="#FFCCCCCC">
                                     <Path x:Name="CheckMark"
                                           Width="15"

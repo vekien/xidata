@@ -7,10 +7,19 @@ $races = [
     "hume_female",
     "elvaan_male",
     "elvaan_female",
-    "taru_male",
-    "taru_female",
+    "tarutaru",
     "mithra",
     "galka"
+];
+
+$races_altanaviewer = [
+    "HumeM",
+    "HumeF",
+    "ElvaanM",
+    "ElvaanF",
+    "Tarutaru",
+    "Mithra",
+    "Galka"
 ];
 
 $races_to_dats = [
@@ -18,8 +27,7 @@ $races_to_dats = [
     "hume_female" => "32\\58",
     "elvaan_male" => "37\\31",
     "elvaan_female" => "42\\4",
-    "taru_male" => "46\\93",
-    "taru_female" => "46\\93",
+    "tarutaru" => "46\\93",
     "mithra" => "51\\89",
     "galka" => "56\\59",
     

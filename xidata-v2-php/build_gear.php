@@ -170,7 +170,7 @@ $output = [];
 
 
 
-
+/*
 // grab hume_male race table
 $race_table = $race_tables[0];
 $test1 = ffxi_get_file_id($race_table, 20947);
@@ -187,7 +187,7 @@ die;
 
 
 
-
+*/
 
 
 

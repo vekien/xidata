@@ -10,11 +10,7 @@ $skeletons = load_skeletons();
 
 // loop through eac race.
 $missing = [];
-foreach ($races as $race_index => $race_name) {
-    if ($race_name == "taru_male" || $race_name == "taru_female") {
-        $race_name = "tarutaru";
-    }
-    
+foreach ($races as $race_index => $race_name) {    
     echo("- Building anims for: {$race_name}\n");
 
     $anim_list = load_list("/in/in_anim_{$race_name}.csv");

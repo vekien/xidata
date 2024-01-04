@@ -7,6 +7,15 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="components\XI_Checkbox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="components\XI_Combobox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="components\XI_Input.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="components\XI_Button.xaml">
       <SubType>Designer</SubType>
     </Page>

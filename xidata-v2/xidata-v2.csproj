@@ -18,6 +18,17 @@
   <ItemGroup>
     <None Remove="assets\background.png" />
     <None Remove="assets\close.png" />
+    <None Remove="assets\pol.png" />
+    <None Remove="fonts\OpenSans-Bold.ttf" />
+    <None Remove="fonts\OpenSans-BoldItalic.ttf" />
+    <None Remove="fonts\OpenSans-Italic.ttf" />
+    <None Remove="fonts\OpenSans-Light.ttf" />
+    <None Remove="fonts\OpenSans-LightItalic.ttf" />
+    <None Remove="fonts\OpenSans-Medium.ttf" />
+    <None Remove="fonts\OpenSans-MediumItalic.ttf" />
+    <None Remove="fonts\OpenSans-Regular.ttf" />
+    <None Remove="fonts\OpenSans-SemiBold.ttf" />
+    <None Remove="fonts\OpenSans-SemiBoldItalic.ttf" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,6 +36,39 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="assets\close.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="assets\pol.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-Bold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-BoldItalic.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-Italic.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-Light.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-LightItalic.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-Medium.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-MediumItalic.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-Regular.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-SemiBold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="fonts\OpenSans-SemiBoldItalic.ttf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

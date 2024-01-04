@@ -23,7 +23,7 @@
         </ControlTemplate>
     </Window.Resources>
     <Grid>
-        <Border Background="Transparent" BorderBrush="Transparent" BorderThickness="0" MouseDown="Window_Drag">
+        <Border Background="#FF101010" BorderBrush="#FF2A3735" BorderThickness="1,1,1,1" MouseDown="Window_Drag">
             <Grid x:Name="App" Width="920" Height="600" ClipToBounds="True">
                 <!-- App round corners -->
                 <Grid.Clip>
@@ -34,7 +34,7 @@
                 <Grid.Background>
                     <ImageBrush x:Name="AppBackgroundImage" ImageSource="/assets/background.png" TileMode="Tile" />
                 </Grid.Background>
-                
+
                 <!-- Close Button -->
                 <Button x:Name="ButtonCloseApp" Foreground="{x:Null}" Template="{StaticResource NoMouseOverButtonTemplate}" Width="24" Height="24" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,20,0" Click="ButtonCloseApp_Click" BorderBrush="{x:Null}" BorderThickness="0,0,0,0" Cursor="Hand">
                     <Button.Background>
@@ -42,15 +42,24 @@
                     </Button.Background>
                 </Button>
 
-                <components:XI_Button x:Name="A1" DepContent="Test Button" DepFontSize="15" DepType="basic" Margin="0,173,730,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+                <Image Source="/assets/pol.png" Width="64" Margin="10,10,0,0" Height="64" HorizontalAlignment="Left" VerticalAlignment="Top" />
+                <Label Content="xidata v2.01" HorizontalAlignment="Left" Margin="90,20,0,0" VerticalAlignment="Top" FontSize="24" Foreground="White" Width="266" FontStyle="Italic" FontFamily="Open Sans" FontWeight="Medium"/>
 
-                <components:XI_Button x:Name="A2" DepContent="Test Button" DepFontSize="15" DepType="red" Margin="0,276,730,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+                
+                <!-- Big Stop Button -->
+                <components:XI_Button x:Name="ButtonStop" DepContent="STOP" DepFontSize="20" Margin="0,12,74,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="40" Width="82"/>
+                
+                
+                <components:XI_Button x:Name="A1" DepContent="Test Button" DepFontSize="14" Margin="0,273,164,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="40" Width="132"/>
+                
+                <components:XI_Button x:Name="A4" DepContent="Test Button" DepFontSize="14" Margin="0,423,230,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="40" Width="133"/>
 
-                <components:XI_Button x:Name="A3" DepContent="Test Button" DepFontSize="15" DepType="blue" Margin="0,222,598,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+                <components:XI_Checkbox x:Name="A5" DepText="Test Button" DepSubtext="Hello World" Margin="0,107,209,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="49" Width="391"/>
 
-                <components:XI_Button x:Name="A4" DepContent="Test Button" DepFontSize="15" DepType="green" Margin="0,222,730,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+                <components:XI_Combobox x:Name="A7" DepSelectItems="Hello,World,Yes,No" Margin="0,200,101,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="44" Width="391"/>
 
-                <components:XI_Button x:Name="A5" DepContent="Test Button" DepFontSize="15" DepType="orange" Margin="0,173,598,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="36" Width="110"/>
+                <components:XI_Input x:Name="A9" DepText="Hello World!!!" Margin="0,322,411,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="49" Width="241"/>
+
             </Grid>
         </Border>
     </Grid>

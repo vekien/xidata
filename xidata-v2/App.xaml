@@ -1,9 +1,21 @@
 ﻿<Application x:Class="xidata_v2.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:xidata_v2"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <FontFamily x:Key="OpenSans-Bold">./fonts/OpenSans-Bold.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-BoldItalic">./fonts/OpenSans-BoldItalic.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-Italic">./fonts/OpenSans-Italic.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-Light">./fonts/OpenSans-Light.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-LightItalic">./fonts/OpenSans-LightItalic.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-Medium">./fonts/OpenSans-Medium.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-MediumItalic">./fonts/OpenSans-MediumItalic.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-Regular">./fonts/OpenSans-Regular.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-SemiBold">./fonts/OpenSans-SemiBold.ttf#OpenSans</FontFamily>
+        <FontFamily x:Key="OpenSans-SemiBoldItalic">./fonts/OpenSans-SemiBoldItalic.ttf#OpenSans</FontFamily>
+
+        <Style TargetType="{x:Type Window}">
+            <Setter Property="FontFamily" Value="Open Sans" />
+        </Style>
     </Application.Resources>
 </Application>

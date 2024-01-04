@@ -3,7 +3,6 @@ E:\FF11 Assets\xi-data\xidata-v2\bin\Debug\net7.0-windows\xidata.deps.json
 E:\FF11 Assets\xi-data\xidata-v2\bin\Debug\net7.0-windows\xidata.runtimeconfig.json
 E:\FF11 Assets\xi-data\xidata-v2\bin\Debug\net7.0-windows\xidata.dll
 E:\FF11 Assets\xi-data\xidata-v2\bin\Debug\net7.0-windows\xidata.pdb
-E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\xidata-v2.csproj.AssemblyReference.cache
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\MainWindow.g.cs
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\App.g.cs
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\xidata_MarkupCompile.cache
@@ -22,3 +21,11 @@ E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\ref\xidata.dll
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Button.baml
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Button.g.cs
 E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\xidata-v2.sourcelink.json
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\App.baml
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Checkbox.baml
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Combobox.baml
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Input.baml
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Checkbox.g.cs
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Combobox.g.cs
+E:\FF11 Assets\xi-data\xidata-v2\obj\Debug\net7.0-windows\components\XI_Input.g.cs

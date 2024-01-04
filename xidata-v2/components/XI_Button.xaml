@@ -9,42 +9,53 @@
         HorizontalContentAlignment="Center"
         VerticalContentAlignment="Center"
         VerticalAlignment="Stretch"
-        Foreground="White" 
+        Foreground="Black" 
         MinWidth="28"
         MinHeight="28"
-        Padding="2" 
+        Padding="8,4,8,4" 
         Cursor="Hand"
-        MouseEnter="Button_MouseEnter"
-        MouseLeave="Button_MouseLeave"
-        FontWeight="Normal"
-        FontFamily="Arial"
-        FontSize="15" Background="#FF222222">
+        FontWeight="SemiBold"
+        FontFamily="Open Sans"
+        FontSize="16"
+        Content="Button">
+        <Button.Background>
+            <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                <GradientStop Color="#FFF1F1F1"/>
+                <GradientStop Color="#FFD0D0D0" Offset="1"/>
+            </LinearGradientBrush>
+        </Button.Background>
         <Button.Effect>
-            <DropShadowEffect Color="#000000" Direction="270" ShadowDepth="1" Opacity="0.2" BlurRadius="3" RenderingBias="Quality"/>
+            <DropShadowEffect Color="#000000" Direction="270" ShadowDepth="1" Opacity="0.5" BlurRadius="8" RenderingBias="Quality"/>
         </Button.Effect>
         <Button.Style>
             <Style TargetType="Button">
                 <Setter Property="Template">
                     <Setter.Value>
                         <ControlTemplate TargetType="Button">
-                            <Border x:Name="border" Background="{TemplateBinding Background}" CornerRadius="3">
+                            <Border x:Name="ButtonBorder" Background="{TemplateBinding Background}" CornerRadius="3" BorderBrush="#FF000000" BorderThickness="1,1,1,1">
                                 <ContentPresenter Margin="{TemplateBinding Padding}"
                                     HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
                                     VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
                                     TextElement.Foreground="{TemplateBinding Foreground}"
                                     RecognizesAccessKey="True" />
                             </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter TargetName="ButtonBorder" Property="Background">
+                                        <Setter.Value>
+                                            <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                                <GradientStop Color="#FFDEDEDE"/>
+                                                <GradientStop Color="#FFC2C2C2" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
                         </ControlTemplate>
                     </Setter.Value>
                 </Setter>
                 <Setter Property="Background" Value="#FFE8E8E8"/>
-                <Style.Triggers>
-                    <Trigger Property="IsMouseOver" Value="True">
-                        <Setter Property="Background" Value="#FFCECECE"/>
-                    </Trigger>
-                </Style.Triggers>
             </Style>
         </Button.Style>
-        <TextBlock x:Name="ButtonText" TextOptions.TextRenderingMode="ClearType" Text="Button" FontSize="20" FontFamily="Open Sans Medium" Padding="5,0,5,0"/>
     </Button>
 </UserControl>

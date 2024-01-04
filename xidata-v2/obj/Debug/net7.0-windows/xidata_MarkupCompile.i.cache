@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 E:\FF11 Assets\xi-data\xidata-v2\App.xaml
-21116229362
+5-404092083
 
-61522673643
-2072102107757
-components\XI_Button.xaml;MainWindow.xaml;
+9-159276403
+2071779810490
+components\XI_Button.xaml;components\XI_Checkbox.xaml;components\XI_Combobox.xaml;components\XI_Input.xaml;MainWindow.xaml;
 
 False
 

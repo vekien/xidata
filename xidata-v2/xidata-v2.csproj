@@ -19,6 +19,12 @@
     <None Remove="assets\background.png" />
     <None Remove="assets\close.png" />
     <None Remove="assets\pol.png" />
+    <None Remove="data\xidata_animations.txt" />
+    <None Remove="data\xidata_faces.txt" />
+    <None Remove="data\xidata_fx.txt" />
+    <None Remove="data\xidata_gear.txt" />
+    <None Remove="data\xidata_npc.txt" />
+    <None Remove="data\xidata_zones.txt" />
     <None Remove="fonts\OpenSans-Bold.ttf" />
     <None Remove="fonts\OpenSans-BoldItalic.ttf" />
     <None Remove="fonts\OpenSans-Italic.ttf" />
@@ -29,6 +35,27 @@
     <None Remove="fonts\OpenSans-Regular.ttf" />
     <None Remove="fonts\OpenSans-SemiBold.ttf" />
     <None Remove="fonts\OpenSans-SemiBoldItalic.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="data\xidata_animations.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data\xidata_faces.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data\xidata_fx.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data\xidata_gear.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data\xidata_npc.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data\xidata_zones.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
 
   <ItemGroup>

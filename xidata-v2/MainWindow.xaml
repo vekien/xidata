@@ -51,7 +51,7 @@
 
                 <!-- Content Type -->
                 <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Content Type" Background="{x:Null}" Margin="20,110,0,0" Foreground="White" Width="160" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
-                <components:XI_Combobox x:Name="A7" DepFontSize="14" DepSelectItems="Zones,Zones Sub Rooms,Armor,Armor Race,Weapons,NPC Main,NPC,Animations" Margin="0,135,740,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="44" Width="160"/>
+                <components:XI_Combobox x:Name="A7" DepFontSize="14" DepSelectItems="Zones,Armor,Weapons,Weapons Race,NPC Main,NPC,Animations" Margin="0,135,740,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="44" Width="160"/>
 
                 <!-- Noesis Arguments -->
                 <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Noesis Arguments" Background="{x:Null}" Margin="200,110,0,0" Foreground="White" Width="232" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />

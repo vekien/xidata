@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Reflection;
 using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media.Imaging;
@@ -34,6 +36,8 @@ namespace xidata_v2
 
 			Logger.Add("Welcome to XI Data v2.0");
 			Logger.Add("Build by Vekien");
+
+		
 		}
 
 		private void MainWindow_Closed(object sender, EventArgs e)
@@ -109,5 +113,33 @@ namespace xidata_v2
 		}
 
 		#endregion
+
+		/// <summary>
+		/// returns all the lines in a xidata resource data txt file.
+		/// </summary>
+		/// <param name="resourceDataName"></param>
+		/// <returns></returns>
+		private static List<string> GetResourceData(string resourceDataName)
+		{
+			List<string> lines = [];
+			string filename = $"{Folders.Root()}\\data\\{resourceDataName}.txt";
+
+			if (File.Exists(filename))
+			{
+				using StreamReader reader = new(filename);
+
+				while (!reader.EndOfStream)
+				{
+					string line = reader.ReadLine();
+					lines.Add(line);
+				}
+			}
+			else
+			{
+				Logger.Add("xidata resource file not found: " + filename);
+			}
+
+			return lines;
+		}
 	}
 }

@@ -1,0 +1,177 @@
+faces.json|ROM\42\9.DAT|42|5ef_|5385|9|16624|F1A|f1a|3|elvaan_female|ROM|1
+faces.json|ROM\42\10.DAT|42|5ef_|5386|10|16625|F1B|f1b|3|elvaan_female|ROM|1
+faces.json|ROM\42\11.DAT|42|5ef_|5387|11|16626|F2A|f2a|3|elvaan_female|ROM|1
+faces.json|ROM\42\12.DAT|42|5ef_|5388|12|16627|F2B|f2b|3|elvaan_female|ROM|1
+faces.json|ROM\42\13.DAT|42|5ef_|5389|13|16628|F3A|f3a|3|elvaan_female|ROM|1
+faces.json|ROM\42\14.DAT|42|5ef_|5390|14|16629|F3B|f3b|3|elvaan_female|ROM|1
+faces.json|ROM\42\15.DAT|42|5ef_|5391|15|16630|F4A|f4a|3|elvaan_female|ROM|1
+faces.json|ROM\42\16.DAT|42|5ef_|5392|16|16631|F4B|f4b|3|elvaan_female|ROM|1
+faces.json|ROM\42\17.DAT|42|5ef_|5393|17|16632|F5A|f5a|3|elvaan_female|ROM|1
+faces.json|ROM\42\18.DAT|42|5ef_|5394|18|16633|F5B|f5b|3|elvaan_female|ROM|1
+faces.json|ROM\42\19.DAT|42|5ef_|5395|19|16618|F6A|f6a|3|elvaan_female|ROM|1
+faces.json|ROM\42\20.DAT|42|5ef_|5396|20|16619|F6B|f6b|3|elvaan_female|ROM|1
+faces.json|ROM\42\21.DAT|42|5ef_|5397|21|16636|F7A|f7a|3|elvaan_female|ROM|1
+faces.json|ROM\42\22.DAT|42|5ef_|5398|22|16621|F7B|f7b|3|elvaan_female|ROM|1
+faces.json|ROM\42\23.DAT|42|5ef_|5399|23|16622|F8A|f8a|3|elvaan_female|ROM|1
+faces.json|ROM\42\24.DAT|42|5ef_|5400|24|16639|F8B|f8b|3|elvaan_female|ROM|1
+faces.json|ROM\143\22.DAT|143|5ef_|18326|22|16638|Mannequin|mannequin|3|elvaan_female|ROM|1
+faces.json|ROM\168\96.DAT|168|5ef_|21600|96|16635|Curilla|curilla|3|elvaan_female|ROM|1
+faces.json|ROM\186\66.DAT|186|5ef_|23874|66|16637|Fomor|fomor|3|elvaan_female|ROM|1
+faces.json|ROM\200\91.DAT|200|5ef_|25691|91|16634|Areuhat|areuhat|3|elvaan_female|ROM|1
+faces.json|ROM\37\36.DAT|37|5em_|4772|36|13448|F1A|f1a|2|elvaan_male|ROM|1
+faces.json|ROM\37\37.DAT|37|5em_|4773|37|13449|F1B|f1b|2|elvaan_male|ROM|1
+faces.json|ROM\37\38.DAT|37|5em_|4774|38|13450|F2A|f2a|2|elvaan_male|ROM|1
+faces.json|ROM\37\39.DAT|37|5em_|4775|39|13451|F2B|f2b|2|elvaan_male|ROM|1
+faces.json|ROM\37\40.DAT|37|5em_|4776|40|13452|F3A|f3a|2|elvaan_male|ROM|1
+faces.json|ROM\37\41.DAT|37|5em_|4777|41|13453|F3B|f3b|2|elvaan_male|ROM|1
+faces.json|ROM\37\42.DAT|37|5em_|4778|42|13454|F4A|f4a|2|elvaan_male|ROM|1
+faces.json|ROM\37\43.DAT|37|5em_|4779|43|13455|F4B|f4b|2|elvaan_male|ROM|1
+faces.json|ROM\37\44.DAT|37|5em_|4780|44|13456|F5A|f5a|2|elvaan_male|ROM|1
+faces.json|ROM\37\45.DAT|37|5em_|4781|45|13457|F5B|f5b|2|elvaan_male|ROM|1
+faces.json|ROM\37\46.DAT|37|5em_|4782|46|13442|F6A|f6a|2|elvaan_male|ROM|1
+faces.json|ROM\37\47.DAT|37|5em_|4783|47|13443|F6B|f6b|2|elvaan_male|ROM|1
+faces.json|ROM\37\48.DAT|37|5em_|4784|48|13444|F7A|f7a|2|elvaan_male|ROM|1
+faces.json|ROM\37\49.DAT|37|5em_|4785|49|13445|F7B|f7b|2|elvaan_male|ROM|1
+faces.json|ROM\37\50.DAT|37|5em_|4786|50|13446|F8A|f8a|2|elvaan_male|ROM|1
+faces.json|ROM\37\51.DAT|37|5em_|4787|51|13447|F8B|f8b|2|elvaan_male|ROM|1
+faces.json|ROM\143\17.DAT|143|5em_|18321|17|13462|Mannequin|mannequin|2|elvaan_male|ROM|1
+faces.json|ROM\137\47.DAT|137|hed_|17583|47|13461|Fomor|fomor|2|elvaan_male|ROM|1
+faces.json|ROM3\8\37.DAT|Fomer 2|fomer2|2|elvaan_male
+faces.json|ROM\196\16.DAT|196|5em_|25104|16|13458|Valaineral R Davilles|valaineralrdavilles|2|elvaan_male|ROM|1
+faces.json|ROM\239\34.DAT|239|5em_|30626|34|13463|Unknown|unknown|2|elvaan_male|ROM|1
+faces.json|ROM\239\44.DAT|239|5em_|30636|44|13459|Unknown|unknown|2|elvaan_male|ROM|1
+faces.json|ROM\56\64.DAT|56|5gl_|7232|64|26376|F1A|f1a|7|galka|ROM|1
+faces.json|ROM\56\65.DAT|56|5gl_|7233|65|26377|F1B|f1b|7|galka|ROM|1
+faces.json|ROM\56\66.DAT|56|5gl_|7234|66|26378|F2A|f2a|7|galka|ROM|1
+faces.json|ROM\56\67.DAT|56|5gl_|7235|67|26379|F2B|f2b|7|galka|ROM|1
+faces.json|ROM\56\68.DAT|56|5gl_|7236|68|26380|F3A|f3a|7|galka|ROM|1
+faces.json|ROM\56\69.DAT|56|5gl_|7237|69|26381|F3B|f3b|7|galka|ROM|1
+faces.json|ROM\56\70.DAT|56|5gl_|7238|70|26382|F4A|f4a|7|galka|ROM|1
+faces.json|ROM\56\71.DAT|56|5gl_|7239|71|26383|F4B|f4b|7|galka|ROM|1
+faces.json|ROM\56\72.DAT|56|5gl_|7240|72|26384|F5A|f5a|7|galka|ROM|1
+faces.json|ROM\56\73.DAT|56|5gl_|7241|73|26369|F5B|f5b|7|galka|ROM|1
+faces.json|ROM\56\74.DAT|56|5gl_|7242|74|26386|F6A|f6a|7|galka|ROM|1
+faces.json|ROM\56\75.DAT|56|5gl_|7243|75|26371|F6B|f6b|7|galka|ROM|1
+faces.json|ROM\56\76.DAT|56|5gl_|7244|76|26388|F7A|f7a|7|galka|ROM|1
+faces.json|ROM\56\77.DAT|56|5gl_|7245|77|26373|F7B|f7b|7|galka|ROM|1
+faces.json|ROM\56\78.DAT|56|5gl_|7246|78|26374|F8A|f8a|7|galka|ROM|1
+faces.json|ROM\56\79.DAT|56|5gl_|7247|79|26391|F8B|f8b|7|galka|ROM|1
+faces.json|ROM\143\42.DAT|143|5gl_|18346|42|26390|Mannequin|mannequin|7|galka|ROM|1
+faces.json|ROM\154\87.DAT|154|5gl_|19799|87|26389|Fomor|fomor|7|galka|ROM|1
+faces.json|ROM3\8\40.DAT|Fomor 2|fomor2|7|galka
+faces.json|ROM\255\0.DAT|255|5gl_|32640|0|26387|Unknown|unknown|7|galka|ROM|1
+faces.json|ROM\32\63.DAT|32|5hf_|4159|63|10272|F1A|f1a|1|hume_female|ROM|1
+faces.json|ROM\32\64.DAT|32|5hf_|4160|64|10273|F1B|f1b|1|hume_female|ROM|1
+faces.json|ROM\32\65.DAT|32|5hf_|4161|65|10274|F2A|f2a|1|hume_female|ROM|1
+faces.json|ROM\32\66.DAT|32|5hf_|4162|66|10275|F2B|f2b|1|hume_female|ROM|1
+faces.json|ROM\32\67.DAT|32|5hf_|4163|67|10276|F3A|f3a|1|hume_female|ROM|1
+faces.json|ROM\32\68.DAT|32|5hf_|4164|68|10277|F3B|f3b|1|hume_female|ROM|1
+faces.json|ROM\32\69.DAT|32|5hf_|4165|69|10278|F4A|f4a|1|hume_female|ROM|1
+faces.json|ROM\32\70.DAT|32|5hf_|4166|70|10279|F4B|f4b|1|hume_female|ROM|1
+faces.json|ROM\32\71.DAT|32|5hf_|4167|71|10280|F5A|f5a|1|hume_female|ROM|1
+faces.json|ROM\32\72.DAT|32|5hf_|4168|72|10265|F5B|f5b|1|hume_female|ROM|1
+faces.json|ROM\32\73.DAT|32|5hf_|4169|73|10266|F6A|f6a|1|hume_female|ROM|1
+faces.json|ROM\32\74.DAT|32|5hf_|4170|74|10267|F6B|f6b|1|hume_female|ROM|1
+faces.json|ROM\32\75.DAT|32|5hf_|4171|75|10284|F7A|f7a|1|hume_female|ROM|1
+faces.json|ROM\32\76.DAT|32|5hf_|4172|76|10269|F7B|f7b|1|hume_female|ROM|1
+faces.json|ROM\32\77.DAT|32|5hf_|4173|77|10270|F8A|f8a|1|hume_female|ROM|1
+faces.json|ROM\32\78.DAT|32|5hf_|4174|78|10271|F8B|f8b|1|hume_female|ROM|1
+faces.json|ROM\143\12.DAT|143|5hf_|18316|12|10286|Mannequin|mannequin|1|hume_female|ROM|1
+faces.json|ROM\196\15.DAT|196|5hf_|25103|15|10282|Elvira|elvira|1|hume_female|ROM|1
+faces.json|ROM\200\78.DAT|200|5hf_|25678|78|10285|Fomor|fomor|1|hume_female|ROM|1
+faces.json|ROM\204\86.DAT|204|5hf_|26198|86|10283|Portia|portia|1|hume_female|ROM|1
+faces.json|ROM\239\33.DAT|239|5hf_|30625|33|10287|Unknown|unknown|1|hume_female|ROM|1
+faces.json|ROM\27\87.DAT|27|5hm_|3543|87|7080|F1A|f1a|0|hume_male|ROM|1
+faces.json|ROM\27\88.DAT|27|5hm_|3544|88|7097|F1B|f1b|0|hume_male|ROM|1
+faces.json|ROM\27\89.DAT|27|5hm_|3545|89|7098|F2A|f2a|0|hume_male|ROM|1
+faces.json|ROM\27\90.DAT|27|5hm_|3546|90|7099|F2B|f2b|0|hume_male|ROM|1
+faces.json|ROM\27\91.DAT|27|5hm_|3547|91|7100|F3A|f3a|0|hume_male|ROM|1
+faces.json|ROM\27\92.DAT|27|5hm_|3548|92|7101|F3B|f3b|0|hume_male|ROM|1
+faces.json|ROM\27\93.DAT|27|5hm_|3549|93|7102|F4A|f4a|0|hume_male|ROM|1
+faces.json|ROM\27\94.DAT|27|5hm_|3550|94|7103|F4B|f4b|0|hume_male|ROM|1
+faces.json|ROM\27\95.DAT|27|5hm_|3551|95|7104|F5A|f5a|0|hume_male|ROM|1
+faces.json|ROM\27\96.DAT|27|5hm_|3552|96|7089|F5B|f5b|0|hume_male|ROM|1
+faces.json|ROM\27\97.DAT|27|5hm_|3553|97|7090|F6A|f6a|0|hume_male|ROM|1
+faces.json|ROM\27\98.DAT|27|5hm_|3554|98|7091|F6B|f6b|0|hume_male|ROM|1
+faces.json|ROM\27\99.DAT|27|5hm_|3555|99|7108|F7A|f7a|0|hume_male|ROM|1
+faces.json|ROM\27\100.DAT|27|5hm_|3556|100|7093|F7B|f7b|0|hume_male|ROM|1
+faces.json|ROM\27\101.DAT|27|5hm_|3557|101|7094|F8A|f8a|0|hume_male|ROM|1
+faces.json|ROM\27\102.DAT|27|5hm_|3558|102|7111|F8B|f8b|0|hume_male|ROM|1
+faces.json|ROM\143\7.DAT|143|5hm_|18311|7|7110|Mannequin|mannequin|0|hume_male|ROM|1
+faces.json|ROM\154\48.DAT|154|5hm_|19760|48|7109|Fomor|fomor|0|hume_male|ROM|1
+faces.json|ROM3\8\36.DAT|Fomor 2|fomor2|0|hume_male
+faces.json|ROM\200\71.DAT|200|5hm_|25671|71|7106|Maximilian|maximilian|0|hume_male|ROM|1
+faces.json|ROM\239\38.DAT|239|5hm_|30630|38|7107|Unknown|unknown|0|hume_male|ROM|1
+faces.json|ROM\61\65.DAT|61|hm_h|7873|65|30047|Hume blonde hair|humeblondehair||lil_boy|ROM|1
+faces.json|ROM\61\66.DAT|61|hm_h|7874|66|29985|Hume brunette hair|humebrunettehair||lil_boy|ROM|1
+faces.json|ROM\61\67.DAT|61|em_h|7875|67|30046|Elvaan hair 1|elvaanhair1||lil_boy|ROM|1
+faces.json|ROM\61\68.DAT|61|em_h|7876|68|30005|Elvaan hair 2|elvaanhair2||lil_boy|ROM|1
+faces.json|ROM\61\69.DAT|61|em_h|7877|69|30006|Elvaan hair 3|elvaanhair3||lil_boy|ROM|1
+faces.json|ROM\61\70.DAT|61|em_h|7878|70|30007|Elvaan hair 4|elvaanhair4||lil_boy|ROM|1
+faces.json|ROM\61\36.DAT|61|hf_h|7844|36|29655|Hume brunette hair|humebrunettehair||lil_girl|ROM|1
+faces.json|ROM\61\37.DAT|61|hf_1|7845|37|29593|Hume blonde hair|humeblondehair||lil_girl|ROM|1
+faces.json|ROM\61\38.DAT|61|ef_h|7846|38|29654|Elvaan silver hair|elvaansilverhair||lil_girl|ROM|1
+faces.json|ROM\61\39.DAT|61|ef_h|7847|39|29613|Elvaan red hair|elvaanredhair||lil_girl|ROM|1
+faces.json|ROM\61\95.DAT|61|mf_h|7903|95|30439|Normal 1|normal1||lil_mithra|ROM|1
+faces.json|ROM\61\98.DAT|61|mf_h|7906|98|30379|Normal 2|normal2||lil_mithra|ROM|1
+faces.json|ROM\61\96.DAT|61|mf_h|7904|96|30377|White 1|white1||lil_mithra|ROM|1
+faces.json|ROM\61\97.DAT|61|mf_h|7905|97|30378|White 2|white2||lil_mithra|ROM|1
+faces.json|ROM\51\94.DAT|51|5mt_|6622|94|23200|F1A|f1a|6|mithra|ROM|1
+faces.json|ROM\51\95.DAT|51|5mt_|6623|95|23201|F1B|f1b|6|mithra|ROM|1
+faces.json|ROM\51\96.DAT|51|5mt_|6624|96|23202|F2A|f2a|6|mithra|ROM|1
+faces.json|ROM\51\97.DAT|51|5mt_|6625|97|23203|F2B|f2b|6|mithra|ROM|1
+faces.json|ROM\51\98.DAT|51|5mt_|6626|98|23204|F3A|f3a|6|mithra|ROM|1
+faces.json|ROM\51\99.DAT|51|5mt_|6627|99|23205|F3B|f3b|6|mithra|ROM|1
+faces.json|ROM\51\100.DAT|51|5mt_|6628|100|23206|F4A|f4a|6|mithra|ROM|1
+faces.json|ROM\51\101.DAT|51|5mt_|6629|101|23207|F4B|f4b|6|mithra|ROM|1
+faces.json|ROM\51\102.DAT|51|5mt_|6630|102|23208|F5A|f5a|6|mithra|ROM|1
+faces.json|ROM\51\103.DAT|51|5mt_|6631|103|23193|F5B|f5b|6|mithra|ROM|1
+faces.json|ROM\51\104.DAT|51|5mt_|6632|104|23194|F6A|f6a|6|mithra|ROM|1
+faces.json|ROM\51\105.DAT|51|5mt_|6633|105|23195|F6B|f6b|6|mithra|ROM|1
+faces.json|ROM\51\106.DAT|51|5mt_|6634|106|23212|F7A|f7a|6|mithra|ROM|1
+faces.json|ROM\51\107.DAT|51|5mt_|6635|107|23197|F7B|f7b|6|mithra|ROM|1
+faces.json|ROM\51\108.DAT|51|5mt_|6636|108|23198|F8A|f8a|6|mithra|ROM|1
+faces.json|ROM\51\109.DAT|51|5mt_|6637|109|23215|F8B|f8b|6|mithra|ROM|1
+faces.json|ROM\143\37.DAT|143|5mt_|18341|37|23214|Mannequin|mannequin|6|mithra|ROM|1
+faces.json|ROM\154\80.DAT|154|5mt_|19792|80|23213|Fomor|fomor|6|mithra|ROM|1
+faces.json|ROM3\8\39.DAT|Fomor 2|fomor2|6|mithra
+faces.json|ROM\196\17.DAT|196|5mt_|25105|17|23210|Haja Zhwan|hajazhwan|6|mithra|ROM|1
+faces.json|ROM\223\49.DAT|223|5mt_|28593|49|23211|Unknown|unknown|6|mithra|ROM|1
+faces.json|ROM\51\55.DAT|51|5tf_|6583|55|22968|Female F1A|femalef1a||tarutaru|ROM|1
+faces.json|ROM\51\56.DAT|51|5tf_|6584|56|22969|Female F1B|femalef1b||tarutaru|ROM|1
+faces.json|ROM\51\57.DAT|51|5tf_|6585|57|22970|Female F2A|femalef2a||tarutaru|ROM|1
+faces.json|ROM\51\58.DAT|51|5tf_|6586|58|22971|Female F2B|femalef2b||tarutaru|ROM|1
+faces.json|ROM\51\59.DAT|51|5tf_|6587|59|22972|Female F3A|femalef3a||tarutaru|ROM|1
+faces.json|ROM\51\60.DAT|51|5tf_|6588|60|22973|Female F3B|femalef3b||tarutaru|ROM|1
+faces.json|ROM\51\61.DAT|51|5tf_|6589|61|22974|Female F4A|femalef4a||tarutaru|ROM|1
+faces.json|ROM\51\62.DAT|51|5tf_|6590|62|22975|Female F4B|femalef4b||tarutaru|ROM|1
+faces.json|ROM\51\63.DAT|51|5tf_|6591|63|22976|Female F5A|femalef5a||tarutaru|ROM|1
+faces.json|ROM\51\64.DAT|51|5tf_|6592|64|22977|Female F5B|femalef5b||tarutaru|ROM|1
+faces.json|ROM\51\65.DAT|51|5tf_|6593|65|22978|Female F6A|femalef6a||tarutaru|ROM|1
+faces.json|ROM\51\66.DAT|51|5tf_|6594|66|22963|Female F6B|femalef6b||tarutaru|ROM|1
+faces.json|ROM\51\67.DAT|51|5tf_|6595|67|22980|Female F7A|femalef7a||tarutaru|ROM|1
+faces.json|ROM\51\68.DAT|51|5tf_|6596|68|22981|Female F7B|femalef7b||tarutaru|ROM|1
+faces.json|ROM\51\69.DAT|51|5tf_|6597|69|22966|Female F8A|femalef8a||tarutaru|ROM|1
+faces.json|ROM\51\70.DAT|51|5tf_|6598|70|22983|Female F8B|femalef8b||tarutaru|ROM|1
+faces.json|ROM\143\33.DAT|143|5tf_|18337|33|22982|Female Mannequin|femalemannequin||tarutaru|ROM|1
+faces.json|ROM\46\98.DAT|46|5tm_|5986|98|19800|Male F1A|malef1a||tarutaru|ROM|1
+faces.json|ROM\46\99.DAT|46|5tm_|5987|99|19801|Male F1B|malef1b||tarutaru|ROM|1
+faces.json|ROM\46\100.DAT|46|5tm_|5988|100|19802|Male F2A|malef2a||tarutaru|ROM|1
+faces.json|ROM\46\101.DAT|46|5tm_|5989|101|19803|Male F2B|malef2b||tarutaru|ROM|1
+faces.json|ROM\46\102.DAT|46|5tm_|5990|102|19804|Male F3A|malef3a||tarutaru|ROM|1
+faces.json|ROM\46\103.DAT|46|5tm_|5991|103|19805|Male F3B|malef3b||tarutaru|ROM|1
+faces.json|ROM\46\104.DAT|46|5tm_|5992|104|19806|Male F4A|malef4a||tarutaru|ROM|1
+faces.json|ROM\46\105.DAT|46|5tm_|5993|105|19807|Male F4B|malef4b||tarutaru|ROM|1
+faces.json|ROM\46\106.DAT|46|5tm_|5994|106|19792|Male F5A|malef5a||tarutaru|ROM|1
+faces.json|ROM\46\107.DAT|46|5tm_|5995|107|19793|Male F5B|malef5b||tarutaru|ROM|1
+faces.json|ROM\46\108.DAT|46|5tm_|5996|108|19794|Male F6A|malef6a||tarutaru|ROM|1
+faces.json|ROM\46\109.DAT|46|5tm_|5997|109|19795|Male F6B|malef6b||tarutaru|ROM|1
+faces.json|ROM\46\110.DAT|46|5tm_|5998|110|19812|Male F7A|malef7a||tarutaru|ROM|1
+faces.json|ROM\46\111.DAT|46|5tm_|5999|111|19797|Male F7B|malef7b||tarutaru|ROM|1
+faces.json|ROM\46\112.DAT|46|5tm_|6000|112|19798|Male F8A|malef8a||tarutaru|ROM|1
+faces.json|ROM\46\113.DAT|46|5tm_|6001|113|19815|Male F8B|malef8b||tarutaru|ROM|1
+faces.json|ROM\143\27.DAT|143|5tm_|18331|27|19814|Male Mannequin|malemannequin||tarutaru|ROM|1
+faces.json|ROM\154\73.DAT|154|5tm_|19785|73|19813|Fomor|fomor||tarutaru|ROM|1
+faces.json|ROM3\8\38.DAT|Fomor 2|fomor2||tarutaru
+faces.json|ROM\196\19.DAT|196|5tm_|25107|19|19810|Robel-Akbel|robel-akbel||tarutaru|ROM|1
+faces.json|ROM\225\4.DAT|225|5tm_|28804|4|19811|Unknown|unknown||tarutaru|ROM|1

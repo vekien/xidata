@@ -46,6 +46,7 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
 
     
     $write = true;
+    $fid = 73163;
 
     if ($write)
     {
@@ -53,8 +54,8 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
         $ftable_fs = fopen($ftable_filename, 'r+b');
 
         $dat_rom = 1;
-        $dat_dir = 400; // looks like it can be anything...
-        $dat_path = 20; // 127 is max (8 length 128 total, 0-127)
+        $dat_dir = 500; // looks like it can be anything...
+        $dat_path = 88; // 127 is max (8 length 128 total, 0-127)
 
         $dat_id = $dat_dir * 0x80 + $dat_path;
         $dat_id = (int)$dat_id;
@@ -69,14 +70,14 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
 
         $packed_data = pack('v', $dat_id);
         
-        fseek($vtable_fs, 10555);
+        fseek($vtable_fs, $fid);
         $result_v = fwrite($vtable_fs, chr($dat_rom));
         
         if ($result_v === false) {
             die("Error writing to vtable_fs");
         }
         
-        fseek($ftable_fs, 21110);
+        fseek($ftable_fs, $fid * 2);
         $result_f = fwrite($ftable_fs, $packed_data);
         
         if ($result_f === false) {
@@ -115,12 +116,11 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
         $dat_rom_dir = $rom_index == 1 ? "ROM" : "ROM{$rom_index}";
         $dat_filename = join(DIRECTORY_SEPARATOR, [$dat_rom_dir, $dat_dir, $dat_path . ".DAT"]);
 
-        // 103472 - is the last hume female body, and 103473 is mid 662 and blank
-        if ( $file_id >= 10554 && $file_id <= 10554 + 10) {
-            echo("[vpos = {$vtable_position} / fpos = {$ftable_position}] file_id = {$file_id} | dat_rom = {$dat_rom} | dat_id {$dat_id} | dat_dir {$dat_dir} | dat_path {$dat_path} | dat_rom_dir {$dat_rom_dir} | dat_filename = {$dat_filename} \n");
+        // Used to verify injection
+        if ($file_id >= $fid -3 && $file_id <= $fid +3) {
+            $hit = $file_id == $fid ? "<<<<<<" : "";
+            echo("[vpos = {$vtable_position} / fpos = {$ftable_position}] file_id = {$file_id} | dat = {$dat_filename}  {$hit} \n");
         }
-
-
 
         if ($dat_rom > 0) {
             $dats_vtable[$i] = $dat_rom;

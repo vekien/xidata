@@ -442,6 +442,14 @@
 (mid = 439) | file_id = 73158 | ROM\32\112.DAT
 (mid = 440) | file_id = 73159 | ROM\32\112.DAT
 (mid = 441) | file_id = 73160 | ROM\352\86.DAT
+
+(mid = 442) | file_id = 73161 | X
+(mid = 443) | file_id = 73162 | X
+
+weird jump???
+
+try fid = 73163 with mid 442+2 = 444
+
 (mid = 442) | file_id = 73163 | ROM\32\112.DAT
 (mid = 443) | file_id = 73164 | ROM\32\112.DAT
 (mid = 444) | file_id = 73165 | ROM\32\112.DAT

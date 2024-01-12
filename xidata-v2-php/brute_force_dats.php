@@ -47,8 +47,28 @@ function get_dat_for_file_number($file_num) {
 $output = [];
 $max_file_scan = 500000;
 
+
+// build a header table
+$valid = [];
+$json = file_get_contents(__DIR__."/out/dats_ftable.json");
+$json = json_decode($json, true);
+
+foreach($json as $row) {
+    $slot = $row['dat_header'];
+
+    // testing body pieces
+    if ($slot != "0hf_") {
+        continue;
+    }
+
+    $valid[] = $row['dat_id'];
+}
+
+
 // First we handle per race
 foreach($races as $race_id => $race_name) {
+    if ($race_name != "hume_female") continue;
+
     echo("Race: {$race_name}\n");
 
     // count for race
@@ -56,6 +76,8 @@ foreach($races as $race_id => $race_name) {
 
     // then we handle per slot
     foreach ($slots_short as $slot_name) {
+        if ($slot_name != "body") continue;
+
         echo("- Slot: {$slot_name} \n");
 
         // count for slot
@@ -74,6 +96,11 @@ foreach($races as $race_id => $race_name) {
             $dat_id = $dat[0];
             $dat_dir = $dat[1];
             $dat_name = $dat[2];
+
+            // skip non body
+            if ($dat_dir != 400 && !in_array($dat_id, $valid)) {
+                continue;
+            }
         
             // All gear is in ROM, it's never in Rom 2-9 because if you don't own the expansions you won't
             // have these folders, however you always need the gear because other people + npcs can wear expansion items.
@@ -85,6 +112,8 @@ foreach($races as $race_id => $race_name) {
             // counts
             $count_for_race++;
             $count_for_slot++;
+
+            echo "- {$dat_id}, {$dat_dir}, {$dat_name}, {$dat_path}\n";
         }
 
         // report how many found
@@ -101,7 +130,6 @@ foreach($races as $race_id => $race_name) {
 echo("- Rebasing model ids...\n");
 foreach ($output as $race_name => $slot_list) {
     foreach($slot_list as $slot_name => $models) {
-
         $model_id = 0;
         $model_list = [];
 

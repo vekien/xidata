@@ -108,5 +108,16 @@
         "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Commodore_Gants_COR_AF2\/Commodore_Gants_COR_AF2.Commodore_Gants_COR_AF2'",
         "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Commodore_Culotte_COR_AF2\/Commodore_Culotte_COR_AF2.Commodore_Culotte_COR_AF2'",
         "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Waders\/Waders.Waders'"
+    },
+    {
+        "Name": "CEXI_Aeltorian",
+        "Race": "Galka",
+        "BlendSpace": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F6B\/F6B.F6B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Protective_Specs\/Protective_Specs.Protective_Specs'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Shikkoku_Togi\/Shikkoku_Togi.Shikkoku_Togi'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Shikkoku_Kote\/Shikkoku_Kote.Shikkoku_Kote'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Shikkoku_Haidate\/Shikkoku_Haidate.Shikkoku_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Shikkoku_Suneate\/Shikkoku_Suneate.Shikkoku_Suneate'"
     }
 ]

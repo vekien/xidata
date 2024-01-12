@@ -189,13 +189,11 @@ function get_windows_name($name) {
         return;
     }
     // Remove characters that are not alphanumeric, hyphen, or underscore
-    $cleanedName = preg_replace("/[^a-zA-Z0-9-_ ]+/", "", trim($name));
+    $name = preg_replace("/[^a-zA-Z0-9-_ ]+/", "", trim($name));
 
-    // Replace spaces with underscores
-    $underscoredName = str_replace(" ", "_", $cleanedName);
+    $name = str_replace(" ", "_", $name);
+    $name = str_replace("-", "", $name);
+    $name = str_replace("__", "_", $name);
 
-    // Remove consecutive underscores
-    $finalName = str_replace("__", "_", $underscoredName);
-
-    return $finalName;
+    return $name;
 }

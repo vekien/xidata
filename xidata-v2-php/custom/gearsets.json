@@ -128,5 +128,18 @@
         "main": "None",
         "sub": "None",
         "ranged": "None"
+    },
+    {
+        "name": "CEXI_Aeltorian",
+        "race": "galka",
+        "face": "F6B",
+        "head": "Protective_Specs",
+        "body": "Shikkoku_Togi",
+        "hands": "Shikkoku_Kote",
+        "legs": "Shikkoku_Haidate",
+        "feet": "Shikkoku_Suneate",
+        "main": "None",
+        "sub": "None",
+        "ranged": "None"
     }
 ]

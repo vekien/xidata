@@ -44,24 +44,90 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
         $dats_vtable = array_pad($dats_vtable, filesize($ftable_filename), 0);
     }
 
+    
+    $write = true;
+
+    if ($write)
+    {
+        $vtable_fs = fopen($vtable_filename, 'r+b');
+        $ftable_fs = fopen($ftable_filename, 'r+b');
+
+        $dat_rom = 1;
+        $dat_dir = 400; // looks like it can be anything...
+        $dat_path = 20; // 127 is max (8 length 128 total, 0-127)
+
+        $dat_id = $dat_dir * 0x80 + $dat_path;
+        $dat_id = (int)$dat_id;
+
+        $test_dat_dir = (int)($dat_id / 0x80);
+        $test_dat_path = (int)($dat_id % 0x80);
+
+        echo("Checking...");
+        var_dump(
+            $dat_dir, $dat_path, "dat_id", $dat_id, "test", (int)$test_dat_dir, (int)$test_dat_path
+        );
+
+        $packed_data = pack('v', $dat_id);
+        
+        fseek($vtable_fs, 10555);
+        $result_v = fwrite($vtable_fs, chr($dat_rom));
+        
+        if ($result_v === false) {
+            die("Error writing to vtable_fs");
+        }
+        
+        fseek($ftable_fs, 21110);
+        $result_f = fwrite($ftable_fs, $packed_data);
+        
+        if ($result_f === false) {
+            die("Error writing to ftable_fs");
+        }
+        
+        fclose($vtable_fs);
+        fclose($ftable_fs);
+
+        echo("\n\nF/V Tables Injected\n\n");
+    }
+
     // Open VTable and FTable files for this ROM Folder
     $vtable_fs = fopen($vtable_filename, 'rb');
     $ftable_fs = fopen($ftable_filename, 'rb');
-    
+    $vtable_position = 0;
+    $ftable_position = 0;
+
     // Loop till the endof the file.
     $filesize = filesize($vtable_filename);
 
     for ($i = 0; $i < $filesize; $i++) {
         $file_id = $i;
 
+        // read the next single byte from vtable
         $dat_rom = ord(fread($vtable_fs, 1));
+        $vtable_position = ftell($vtable_fs) - 1;
+
+        // read the next sinfle byte from ftable
         $dat_id = unpack('v', fread($ftable_fs, 2))[1];
+        $ftable_position = ftell($ftable_fs) - 2;
+
+        $dat_dir = (int)($dat_id / 0x80);
+        $dat_path = (int)($dat_id % 0x80);
+
+        $dat_rom_dir = $rom_index == 1 ? "ROM" : "ROM{$rom_index}";
+        $dat_filename = join(DIRECTORY_SEPARATOR, [$dat_rom_dir, $dat_dir, $dat_path . ".DAT"]);
+
+        // 103472 - is the last hume female body, and 103473 is mid 662 and blank
+        if ( $file_id >= 10554 && $file_id <= 10554 + 10) {
+            echo("[vpos = {$vtable_position} / fpos = {$ftable_position}] file_id = {$file_id} | dat_rom = {$dat_rom} | dat_id {$dat_id} | dat_dir {$dat_dir} | dat_path {$dat_path} | dat_rom_dir {$dat_rom_dir} | dat_filename = {$dat_filename} \n");
+        }
+
+
 
         if ($dat_rom > 0) {
             $dats_vtable[$i] = $dat_rom;
 
             $dat_dir = (int)($dat_id / 0x80);
             $dat_path = (int)($dat_id % 0x80);
+
             $dat_rom_dir = $rom_index == 1 ? "ROM" : "ROM{$rom_index}";
             $dat_filename = join(DIRECTORY_SEPARATOR, [$dat_rom_dir, $dat_dir, $dat_path . ".DAT"]);
 
@@ -82,7 +148,10 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
 
     fclose($vtable_fs);
     fclose($ftable_fs);
+    break;
 }
+
+die;
 
 $total = count($dats_ftable);
 echo("- Appending Headers across: {$total} items...\n\n");

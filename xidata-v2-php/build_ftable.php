@@ -12,7 +12,11 @@ function get_dat_file_header($dat_file) {
 
 echo("Starting brute force ftable scanning...\n\n");
 
+$scan_headers = true;
+$ffxi_install_name = "retail";
 $ffxi_install = "D:\\SquareEnix\\SquareEnix\\PlayOnline\\SquareEnix\\FINAL FANTASY XI";
+//$ffxi_install = "D:\\SquareEnix\\HXI\\HorizonXI\\Game\\SquareEnix\\FINAL FANTASY XI";
+//$ffxi_install = "D:\\catseyexi\\catseyexi-client\\Game\\FINAL FANTASY XI";
 $ffxi_rom_folders = [
     1 => "",
     2 => "ROM2\\",
@@ -22,7 +26,12 @@ $ffxi_rom_folders = [
     6 => "ROM6\\",
     7 => "ROM7\\",
     8 => "ROM8\\",
-    9 => "ROM9\\"
+    9 => "ROM9\\",
+    10 => "ROM10\\",
+    11 => "ROM11\\",
+    12 => "ROM12\\",
+    13 => "ROM13\\",
+    14 => "ROM14\\",
 ];
 
 $dats_vtable = [];
@@ -37,15 +46,20 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
     $ftable_filename = "{$ffxi_install}\\{$rom_folder}{$ftable_filename}";
     $vtable_filename = "{$ffxi_install}\\{$rom_folder}{$vtable_filename}";
 
-    echo("- Scanning: ROM {$rom_index} {$ftable_filename} ...\n");
-
-    // pad if needed
-    if (count($dats_vtable) < filesize($vtable_filename)) {
-        $dats_vtable = array_pad($dats_vtable, filesize($ftable_filename), 0);
+    // Skip if this rom doesn't exist
+    if (!file_exists($ftable_filename)) {
+        continue;
     }
 
+    echo("- Scanning: ROM {$rom_index} {$ftable_filename} ...\n");
+
+    // // pad if needed
+    // if (count($dats_vtable) < filesize($vtable_filename)) {
+    //     $dats_vtable = array_pad($dats_vtable, filesize($ftable_filename), 0);
+    // }
+
     
-    $write = true;
+    $write = false;
     $fid = 73163;
 
     if ($write)
@@ -117,13 +131,14 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
         $dat_filename = join(DIRECTORY_SEPARATOR, [$dat_rom_dir, $dat_dir, $dat_path . ".DAT"]);
 
         // Used to verify injection
+        /*
         if ($file_id >= $fid -3 && $file_id <= $fid +3) {
             $hit = $file_id == $fid ? "<<<<<<" : "";
             echo("[vpos = {$vtable_position} / fpos = {$ftable_position}] file_id = {$file_id} | dat = {$dat_filename}  {$hit} \n");
-        }
+        }*/
 
         if ($dat_rom > 0) {
-            $dats_vtable[$i] = $dat_rom;
+            $dats_vtable[$rom_index][$i] = $dat_rom;
 
             $dat_dir = (int)($dat_id / 0x80);
             $dat_path = (int)($dat_id % 0x80);
@@ -131,7 +146,7 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
             $dat_rom_dir = $rom_index == 1 ? "ROM" : "ROM{$rom_index}";
             $dat_filename = join(DIRECTORY_SEPARATOR, [$dat_rom_dir, $dat_dir, $dat_path . ".DAT"]);
 
-            $dats_ftable[$i] = [
+            $dats_ftable[$rom_index][$i] = [
                 'file_id' => $file_id,
 
                 'rom_index' => $rom_index,
@@ -148,21 +163,32 @@ foreach($ffxi_rom_folders as $rom_index => $rom_folder) {
 
     fclose($vtable_fs);
     fclose($ftable_fs);
-    break;
 }
 
-die;
+// header scan
+if ($scan_headers) {
+    foreach($dats_ftable as $rom_index => $dats) {
+        $done = [];
+        $total = count($dats);
+        echo("- [ROM {$rom_index}] Appending Headers: {$total} rows.\n");
 
-$total = count($dats_ftable);
-echo("- Appending Headers across: {$total} items...\n\n");
-foreach($dats_ftable as $i => $row) {
-    $path = "{$ffxi_install}\\{$row['dat']}";
-    $dats_ftable[$i]['dat_header'] = get_dat_file_header($path);
+        foreach ($dats as $i => $row) {
+            $path = "{$ffxi_install}\\{$row['dat']}";
 
-    if ($i % 10000 == 0) {
-        $percent = round(($i / $total) * 100, 2);
-        $memory = (memory_get_peak_usage(true)/1024/1024);
-        echo("- (Memory: {$memory} MB) Progress: {$percent}%  -  {$i}/{$total}\n");
+            if (!file_exists($path)) {
+                $dats_ftable[$rom_index][$i]['dat_header'] = "(file missing)";
+                continue;
+            }
+
+            $cache_key = md5($path);
+
+            $header = isset($done[$cache_key]) ? $done[$cache_key] : get_dat_file_header($path);
+            $done[$cache_key] = $header;
+
+            // add header
+            $dats_ftable[$rom_index][$i]['dat_header'] = $header;
+        }
+        
     }
 }
 
@@ -173,5 +199,5 @@ ksort($dats_vtable);
 // Save
 echo("- Saving: ftable and vtable jsons\n");
 
-save_data("dats_ftable.json", $dats_ftable);
-save_data("dats_vtable.json", $dats_vtable);
+save_data("dats_ftable_{$ffxi_install_name}.json", $dats_ftable);
+save_data("dats_vtable_{$ffxi_install_name}.json", $dats_vtable);

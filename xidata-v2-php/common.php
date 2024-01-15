@@ -58,7 +58,7 @@ set_error_handler("exception_error_handler");
  * load and return the ftable.
  */
 function load_ftable() {
-    return load_json("\\out\\dats_ftable.json");
+    return load_json("\\out\\dats_ftable_retail.json");
 }
 
 /**

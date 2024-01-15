@@ -50,7 +50,7 @@ $max_file_scan = 500000;
 
 // build a header table
 $valid = [];
-$json = file_get_contents(__DIR__."/out/dats_ftable.json");
+$json = file_get_contents(__DIR__."/out/dats_ftable_retail.json");
 $json = json_decode($json, true);
 
 foreach($json as $row) {

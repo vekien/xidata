@@ -44,17 +44,17 @@ foreach ($zones as $zone_key) {
 
         // try get the dat-data
         $file_id = $ftable_reversed[$dat];
-        $dat_data = $ftable[$file_id];
+        $dat_data = $ftable[$file_id] ?: [];
 
         $arr = [
             "name" => $name,
             "name_clean" => get_simple_name($name),
-            "category" => $info['category'],
+            "category" => get_simple_name($info['category']),
             "file_rom" => $dat,
             "file_id" => $file_id,
         ];
 
-        $arr = array_merge($arr, $dat_data);
+        $arr = $arr + $dat_data;
 
         ksort($arr);
 

@@ -46,7 +46,7 @@ foreach($face_list as $row) {
         "race_name" => $race_name,
     ];
 
-    $arr = array_merge($arr, $dat_data);
+    $arr = $arr + $dat_data;
 
     ksort($arr);
 

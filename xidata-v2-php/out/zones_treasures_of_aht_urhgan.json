@@ -1,6 +1,6 @@
 [
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\0.DAT",
         "dat_dir": 0,
         "dat_header": "s_gg",
@@ -9,12 +9,12 @@
         "file_id": 146,
         "file_rom": "ROM4\\0\\0.DAT",
         "name": "Open sea route to Al Zahbi",
-        "name_clean": "opensearoutetoalzahbi",
+        "name_clean": "open_sea_route_to_al_zahbi",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\1.DAT",
         "dat_dir": 0,
         "dat_header": "s_gg",
@@ -23,12 +23,12 @@
         "file_id": 147,
         "file_rom": "ROM4\\0\\1.DAT",
         "name": "Open sea route to Mhaura",
-        "name_clean": "opensearoutetomhaura",
+        "name_clean": "open_sea_route_to_mhaura",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\2.DAT",
         "dat_dir": 0,
         "dat_header": "d_gu",
@@ -37,12 +37,12 @@
         "file_id": 148,
         "file_rom": "ROM4\\0\\2.DAT",
         "name": "Al Zahbi",
-        "name_clean": "alzahbi",
+        "name_clean": "al_zahbi",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\3.DAT",
         "dat_dir": 0,
         "dat_header": "t_gu",
@@ -51,12 +51,12 @@
         "file_id": 150,
         "file_rom": "ROM4\\0\\3.DAT",
         "name": "Aht Urhgan Whitegate",
-        "name_clean": "ahturhganwhitegate",
+        "name_clean": "aht_urhgan_whitegate",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\1\\99.DAT",
         "dat_dir": 1,
         "dat_header": "wf_g",
@@ -65,12 +65,12 @@
         "file_id": 151,
         "file_rom": "ROM4\\1\\99.DAT",
         "name": "Wajaom Woodlands",
-        "name_clean": "wajaomwoodlands",
+        "name_clean": "wajaom_woodlands",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\7\\55.DAT",
         "dat_dir": 7,
         "dat_header": "wf_g",
@@ -79,12 +79,12 @@
         "file_id": 152,
         "file_rom": "ROM4\\7\\55.DAT",
         "name": "Bhaflau Thickets",
-        "name_clean": "bhaflauthickets",
+        "name_clean": "bhaflau_thickets",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\6.DAT",
         "dat_dir": 0,
         "dat_header": "t_gu",
@@ -98,7 +98,7 @@
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\7.DAT",
         "dat_dir": 0,
         "dat_header": "d_pa",
@@ -107,12 +107,12 @@
         "file_id": 154,
         "file_rom": "ROM4\\0\\7.DAT",
         "name": "Arrapago Reef",
-        "name_clean": "arrapagoreef",
+        "name_clean": "arrapago_reef",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\8.DAT",
         "dat_dir": 0,
         "dat_header": "d_pa",
@@ -121,12 +121,12 @@
         "file_id": 155,
         "file_rom": "ROM4\\0\\8.DAT",
         "name": "Ilrusi Atoll",
-        "name_clean": "ilrusiatoll",
+        "name_clean": "ilrusi_atoll",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\9.DAT",
         "dat_dir": 0,
         "dat_header": "d_pa",
@@ -140,7 +140,7 @@
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\10.DAT",
         "dat_dir": 0,
         "dat_header": "d_pa",
@@ -149,12 +149,12 @@
         "file_id": 157,
         "file_rom": "ROM4\\0\\10.DAT",
         "name": "Talacca Cove",
-        "name_clean": "talaccacove",
+        "name_clean": "talacca_cove",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\11.DAT",
         "dat_dir": 0,
         "dat_header": "s_go",
@@ -163,12 +163,12 @@
         "file_id": 158,
         "file_rom": "ROM4\\0\\11.DAT",
         "name": "Silver Sea route to Nashmau",
-        "name_clean": "silversearoutetonashmau",
+        "name_clean": "silver_sea_route_to_nashmau",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\12.DAT",
         "dat_dir": 0,
         "dat_header": "s_go",
@@ -177,12 +177,12 @@
         "file_id": 159,
         "file_rom": "ROM4\\0\\12.DAT",
         "name": "Silver Sea route to Al Zahbi",
-        "name_clean": "silversearoutetoalzahbi",
+        "name_clean": "silver_sea_route_to_al_zahbi",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\13.DAT",
         "dat_dir": 0,
         "dat_header": "s_gs",
@@ -191,12 +191,12 @@
         "file_id": 160,
         "file_rom": "ROM4\\0\\13.DAT",
         "name": "The Ashu Talif",
-        "name_clean": "theashutalif",
+        "name_clean": "the_ashu_talif",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\14.DAT",
         "dat_dir": 0,
         "dat_header": "f_ma",
@@ -205,12 +205,12 @@
         "file_id": 161,
         "file_rom": "ROM4\\0\\14.DAT",
         "name": "Mount Zhayolm",
-        "name_clean": "mountzhayolm",
+        "name_clean": "mount_zhayolm",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\15.DAT",
         "dat_dir": 0,
         "dat_header": "d_ma",
@@ -224,7 +224,7 @@
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\16.DAT",
         "dat_dir": 0,
         "dat_header": "d_ma",
@@ -233,12 +233,12 @@
         "file_id": 163,
         "file_rom": "ROM4\\0\\16.DAT",
         "name": "Lebros Cavern",
-        "name_clean": "lebroscavern",
+        "name_clean": "lebros_cavern",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\17.DAT",
         "dat_dir": 0,
         "dat_header": "d_ma",
@@ -247,12 +247,12 @@
         "file_id": 164,
         "file_rom": "ROM4\\0\\17.DAT",
         "name": "Navukgo Execution Chamber",
-        "name_clean": "navukgoexecutionchamber",
+        "name_clean": "navukgo_execution_chamber",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\18.DAT",
         "dat_dir": 0,
         "dat_header": "d_ri",
@@ -266,7 +266,7 @@
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\19.DAT",
         "dat_dir": 0,
         "dat_header": "d_ri",
@@ -275,12 +275,12 @@
         "file_id": 166,
         "file_rom": "ROM4\\0\\19.DAT",
         "name": "Mamool Ja Training Grounds",
-        "name_clean": "mamooljatraininggrounds",
+        "name_clean": "mamool_ja_training_grounds",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\20.DAT",
         "dat_dir": 0,
         "dat_header": "d_ri",
@@ -289,12 +289,12 @@
         "file_id": 167,
         "file_rom": "ROM4\\0\\20.DAT",
         "name": "Jade Sepulcher",
-        "name_clean": "jadesepulcher",
+        "name_clean": "jade_sepulcher",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\21.DAT",
         "dat_dir": 0,
         "dat_header": "d_ri",
@@ -303,12 +303,12 @@
         "file_id": 168,
         "file_rom": "ROM4\\0\\21.DAT",
         "name": "Aydeewa Subterrane",
-        "name_clean": "aydeewasubterrane",
+        "name_clean": "aydeewa_subterrane",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\22.DAT",
         "dat_dir": 0,
         "dat_header": "d_ri",
@@ -317,12 +317,12 @@
         "file_id": 169,
         "file_rom": "ROM4\\0\\22.DAT",
         "name": "Leujaoam Sanctum",
-        "name_clean": "leujaoamsanctum",
+        "name_clean": "leujaoam_sanctum",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\5\\106.DAT",
         "dat_dir": 5,
         "dat_header": "wt_c",
@@ -331,12 +331,12 @@
         "file_id": 170,
         "file_rom": "ROM4\\5\\106.DAT",
         "name": "Chocobo Circuit",
-        "name_clean": "chocobocircuit",
+        "name_clean": "chocobo_circuit",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\24.DAT",
         "dat_dir": 0,
         "dat_header": "d_cr",
@@ -345,12 +345,12 @@
         "file_id": 171,
         "file_rom": "ROM4\\0\\24.DAT",
         "name": "The Colosseum",
-        "name_clean": "thecolosseum",
+        "name_clean": "the_colosseum",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\25.DAT",
         "dat_dir": 0,
         "dat_header": "d_at",
@@ -359,12 +359,12 @@
         "file_id": 172,
         "file_rom": "ROM4\\0\\25.DAT",
         "name": "Alzadaal Undersea Ruins",
-        "name_clean": "alzadaalundersearuins",
+        "name_clean": "alzadaal_undersea_ruins",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\26.DAT",
         "dat_dir": 0,
         "dat_header": "d_at",
@@ -373,12 +373,12 @@
         "file_id": 173,
         "file_rom": "ROM4\\0\\26.DAT",
         "name": "Zhayolm Remnants",
-        "name_clean": "zhayolmremnants",
+        "name_clean": "zhayolm_remnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\27.DAT",
         "dat_dir": 0,
         "dat_header": "d_at",
@@ -387,12 +387,12 @@
         "file_id": 174,
         "file_rom": "ROM4\\0\\27.DAT",
         "name": "Arrapago Remnants",
-        "name_clean": "arrapagoremnants",
+        "name_clean": "arrapago_remnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\28.DAT",
         "dat_dir": 0,
         "dat_header": "d_at",
@@ -401,12 +401,12 @@
         "file_id": 175,
         "file_rom": "ROM4\\0\\28.DAT",
         "name": "Bhaflau Remnants",
-        "name_clean": "bhaflauremnants",
+        "name_clean": "bhaflau_remnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\29.DAT",
         "dat_dir": 0,
         "dat_header": "d_at",
@@ -415,12 +415,12 @@
         "file_id": 176,
         "file_rom": "ROM4\\0\\29.DAT",
         "name": "Silver Sea Remnants",
-        "name_clean": "silversearemnants",
+        "name_clean": "silver_sea_remnants",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\30.DAT",
         "dat_dir": 0,
         "dat_header": "d_at",
@@ -429,12 +429,12 @@
         "file_id": 177,
         "file_rom": "ROM4\\0\\30.DAT",
         "name": "Nyzul Isle",
-        "name_clean": "nyzulisle",
+        "name_clean": "nyzul_isle",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\31.DAT",
         "dat_dir": 0,
         "dat_header": "d_ug",
@@ -443,12 +443,12 @@
         "file_id": 178,
         "file_rom": "ROM4\\0\\31.DAT",
         "name": "Hazhalm Testing Grounds",
-        "name_clean": "hazhalmtestinggrounds",
+        "name_clean": "hazhalm_testing_grounds",
         "rom_folder": "ROM4",
         "rom_index": 4
     },
     {
-        "category": "Treasures of Aht Urhgan",
+        "category": "treasures_of_aht_urhgan",
         "dat": "ROM4\\0\\32.DAT",
         "dat_dir": 0,
         "dat_header": "f_go",
@@ -457,7 +457,7 @@
         "file_id": 179,
         "file_rom": "ROM4\\0\\32.DAT",
         "name": "Caedarva Mire",
-        "name_clean": "caedarvamire",
+        "name_clean": "caedarva_mire",
         "rom_folder": "ROM4",
         "rom_index": 4
     }

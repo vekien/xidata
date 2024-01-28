@@ -1,6 +1,6 @@
 [
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\0.DAT",
         "dat_dir": 0,
         "dat_header": "s_ju",
@@ -9,12 +9,12 @@
         "file_id": 101,
         "file_rom": "ROM3\\0\\0.DAT",
         "name": "Phanauet Channel",
-        "name_clean": "phanauetchannel",
+        "name_clean": "phanauet_channel",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\1.DAT",
         "dat_dir": 0,
         "dat_header": "f_ju",
@@ -23,12 +23,12 @@
         "file_id": 102,
         "file_rom": "ROM3\\0\\1.DAT",
         "name": "Carpenters Landing",
-        "name_clean": "carpenterslanding",
+        "name_clean": "carpenters_landing",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\2.DAT",
         "dat_dir": 0,
         "dat_header": "s_pa",
@@ -42,7 +42,7 @@
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\3.DAT",
         "dat_dir": 0,
         "dat_header": "f_pa",
@@ -51,12 +51,12 @@
         "file_id": 104,
         "file_rom": "ROM3\\0\\3.DAT",
         "name": "Bibiki Bay",
-        "name_clean": "bibikibay",
+        "name_clean": "bibiki_bay",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\4.DAT",
         "dat_dir": 0,
         "dat_header": "f_xa",
@@ -65,12 +65,12 @@
         "file_id": 105,
         "file_rom": "ROM3\\0\\4.DAT",
         "name": "Uleguerand Range",
-        "name_clean": "uleguerandrange",
+        "name_clean": "uleguerand_range",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\5.DAT",
         "dat_dir": 0,
         "dat_header": "f_xa",
@@ -79,12 +79,12 @@
         "file_id": 106,
         "file_rom": "ROM3\\0\\5.DAT",
         "name": "Bearclaw Pinnacle",
-        "name_clean": "bearclawpinnacle",
+        "name_clean": "bearclaw_pinnacle",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\6.DAT",
         "dat_dir": 0,
         "dat_header": "f_el",
@@ -93,12 +93,12 @@
         "file_id": 107,
         "file_rom": "ROM3\\0\\6.DAT",
         "name": "Attohwa Chasm",
-        "name_clean": "attohwachasm",
+        "name_clean": "attohwa_chasm",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\7.DAT",
         "dat_dir": 0,
         "dat_header": "f_el",
@@ -107,12 +107,12 @@
         "file_id": 108,
         "file_rom": "ROM3\\0\\7.DAT",
         "name": "Boneyard Gully",
-        "name_clean": "boneyardgully",
+        "name_clean": "boneyard_gully",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\8.DAT",
         "dat_dir": 0,
         "dat_header": "d_ga",
@@ -126,7 +126,7 @@
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\9.DAT",
         "dat_dir": 0,
         "dat_header": "d_ga",
@@ -135,12 +135,12 @@
         "file_id": 110,
         "file_rom": "ROM3\\0\\9.DAT",
         "name": "The Shrouded Maw",
-        "name_clean": "theshroudedmaw",
+        "name_clean": "the_shrouded_maw",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\10.DAT",
         "dat_dir": 0,
         "dat_header": "d_go",
@@ -149,12 +149,12 @@
         "file_id": 111,
         "file_rom": "ROM3\\0\\10.DAT",
         "name": "Oldton Movalpolos",
-        "name_clean": "oldtonmovalpolos",
+        "name_clean": "oldton_movalpolos",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\11.DAT",
         "dat_dir": 0,
         "dat_header": "d_go",
@@ -163,12 +163,12 @@
         "file_id": 112,
         "file_rom": "ROM3\\0\\11.DAT",
         "name": "Newton Movalpolos",
-        "name_clean": "newtonmovalpolos",
+        "name_clean": "newton_movalpolos",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\12.DAT",
         "dat_dir": 0,
         "dat_header": "d_go",
@@ -177,12 +177,12 @@
         "file_id": 113,
         "file_rom": "ROM3\\0\\12.DAT",
         "name": "Mine Shaft 2716",
-        "name_clean": "mineshaft2716",
+        "name_clean": "mine_shaft_2716",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\13.DAT",
         "dat_dir": 0,
         "dat_header": "d_cr",
@@ -191,12 +191,12 @@
         "file_id": 114,
         "file_rom": "ROM3\\0\\13.DAT",
         "name": "Hall of Transference",
-        "name_clean": "halloftransference",
+        "name_clean": "hall_of_transference",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\15.DAT",
         "dat_dir": 0,
         "dat_header": "d_ho",
@@ -205,12 +205,12 @@
         "file_id": 116,
         "file_rom": "ROM3\\0\\15.DAT",
         "name": "Promyvion - Holla",
-        "name_clean": "promyvion-holla",
+        "name_clean": "promyvion_-_holla",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\16.DAT",
         "dat_dir": 0,
         "dat_header": "d_ho",
@@ -219,12 +219,12 @@
         "file_id": 117,
         "file_rom": "ROM3\\0\\16.DAT",
         "name": "Spire of Holla",
-        "name_clean": "spireofholla",
+        "name_clean": "spire_of_holla",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\17.DAT",
         "dat_dir": 0,
         "dat_header": "d_de",
@@ -233,12 +233,12 @@
         "file_id": 118,
         "file_rom": "ROM3\\0\\17.DAT",
         "name": "Promyvion - Dem",
-        "name_clean": "promyvion-dem",
+        "name_clean": "promyvion_-_dem",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\18.DAT",
         "dat_dir": 0,
         "dat_header": "d_de",
@@ -247,12 +247,12 @@
         "file_id": 119,
         "file_rom": "ROM3\\0\\18.DAT",
         "name": "Spire of Dem",
-        "name_clean": "spireofdem",
+        "name_clean": "spire_of_dem",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\19.DAT",
         "dat_dir": 0,
         "dat_header": "d_me",
@@ -261,12 +261,12 @@
         "file_id": 120,
         "file_rom": "ROM3\\0\\19.DAT",
         "name": "Promyvion - Mea",
-        "name_clean": "promyvion-mea",
+        "name_clean": "promyvion_-_mea",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\20.DAT",
         "dat_dir": 0,
         "dat_header": "d_me",
@@ -275,12 +275,12 @@
         "file_id": 121,
         "file_rom": "ROM3\\0\\20.DAT",
         "name": "Spire of Mea",
-        "name_clean": "spireofmea",
+        "name_clean": "spire_of_mea",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\21.DAT",
         "dat_dir": 0,
         "dat_header": "d_va",
@@ -289,12 +289,12 @@
         "file_id": 122,
         "file_rom": "ROM3\\0\\21.DAT",
         "name": "Promyvion - Vahzl",
-        "name_clean": "promyvion-vahzl",
+        "name_clean": "promyvion_-_vahzl",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\22.DAT",
         "dat_dir": 0,
         "dat_header": "d_va",
@@ -303,12 +303,12 @@
         "file_id": 123,
         "file_rom": "ROM3\\0\\22.DAT",
         "name": "Spire of Vahzl",
-        "name_clean": "spireofvahzl",
+        "name_clean": "spire_of_vahzl",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\23.DAT",
         "dat_dir": 0,
         "dat_header": "f_ta",
@@ -317,12 +317,12 @@
         "file_id": 124,
         "file_rom": "ROM3\\0\\23.DAT",
         "name": "Lufaise Meadows",
-        "name_clean": "lufaisemeadows",
+        "name_clean": "lufaise_meadows",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\24.DAT",
         "dat_dir": 0,
         "dat_header": "f_ta",
@@ -331,12 +331,12 @@
         "file_id": 125,
         "file_rom": "ROM3\\0\\24.DAT",
         "name": "Misareaux Coast",
-        "name_clean": "misareauxcoast",
+        "name_clean": "misareaux_coast",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\25.DAT",
         "dat_dir": 0,
         "dat_header": "t_ta",
@@ -345,12 +345,12 @@
         "file_id": 126,
         "file_rom": "ROM3\\0\\25.DAT",
         "name": "Tavnazian Safehold",
-        "name_clean": "tavnaziansafehold",
+        "name_clean": "tavnazian_safehold",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\26.DAT",
         "dat_dir": 0,
         "dat_header": "d_re",
@@ -359,12 +359,12 @@
         "file_id": 127,
         "file_rom": "ROM3\\0\\26.DAT",
         "name": "Phomiuna Aqueducts",
-        "name_clean": "phomiunaaqueducts",
+        "name_clean": "phomiuna_aqueducts",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\27.DAT",
         "dat_dir": 0,
         "dat_header": "d_re",
@@ -378,7 +378,7 @@
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\28.DAT",
         "dat_dir": 0,
         "dat_header": "d_ba",
@@ -387,12 +387,12 @@
         "file_id": 129,
         "file_rom": "ROM3\\0\\28.DAT",
         "name": "Riverne - Site B01",
-        "name_clean": "riverne-siteb01",
+        "name_clean": "riverne_-_site_b01",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\29.DAT",
         "dat_dir": 0,
         "dat_header": "d_ba",
@@ -401,12 +401,12 @@
         "file_id": 130,
         "file_rom": "ROM3\\0\\29.DAT",
         "name": "Riverne - Site A01",
-        "name_clean": "riverne-sitea01",
+        "name_clean": "riverne_-_site_a01",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\30.DAT",
         "dat_dir": 0,
         "dat_header": "d_ba",
@@ -415,12 +415,12 @@
         "file_id": 131,
         "file_rom": "ROM3\\0\\30.DAT",
         "name": "Monarch Linn",
-        "name_clean": "monarchlinn",
+        "name_clean": "monarch_linn",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\31.DAT",
         "dat_dir": 0,
         "dat_header": "d_sk",
@@ -429,12 +429,12 @@
         "file_id": 132,
         "file_rom": "ROM3\\0\\31.DAT",
         "name": "Sealions Den",
-        "name_clean": "sealionsden",
+        "name_clean": "sealions_den",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\32.DAT",
         "dat_dir": 0,
         "dat_header": "f_si",
@@ -448,7 +448,7 @@
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\33.DAT",
         "dat_dir": 0,
         "dat_header": "d_si",
@@ -457,12 +457,12 @@
         "file_id": 134,
         "file_rom": "ROM3\\0\\33.DAT",
         "name": "Grand Palace of HuXzoi",
-        "name_clean": "grandpalaceofhuxzoi",
+        "name_clean": "grand_palace_of_huxzoi",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\34.DAT",
         "dat_dir": 0,
         "dat_header": "d_si",
@@ -471,12 +471,12 @@
         "file_id": 135,
         "file_rom": "ROM3\\0\\34.DAT",
         "name": "The Garden of RuHmet",
-        "name_clean": "thegardenofruhmet",
+        "name_clean": "the_garden_of_ruhmet",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\0\\35.DAT",
         "dat_dir": 0,
         "dat_header": "d_si",
@@ -485,12 +485,12 @@
         "file_id": 136,
         "file_rom": "ROM3\\0\\35.DAT",
         "name": "Empyreal Paradox",
-        "name_clean": "empyrealparadox",
+        "name_clean": "empyreal_paradox",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\3\\82.DAT",
         "dat_dir": 3,
         "dat_header": "d_li",
@@ -504,7 +504,7 @@
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\5\\1.DAT",
         "dat_dir": 5,
         "dat_header": "wd_d",
@@ -518,7 +518,7 @@
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\5\\2.DAT",
         "dat_dir": 5,
         "dat_header": "f_ki",
@@ -527,12 +527,12 @@
         "file_id": 139,
         "file_rom": "ROM3\\5\\2.DAT",
         "name": "Dynamis - Valkurm",
-        "name_clean": "dynamis-valkurm",
+        "name_clean": "dynamis_-_valkurm",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\5\\3.DAT",
         "dat_dir": 5,
         "dat_header": "f_pa",
@@ -541,12 +541,12 @@
         "file_id": 140,
         "file_rom": "ROM3\\5\\3.DAT",
         "name": "Dynamis - Buburimu",
-        "name_clean": "dynamis-buburimu",
+        "name_clean": "dynamis_-_buburimu",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\5\\4.DAT",
         "dat_dir": 5,
         "dat_header": "f_qu",
@@ -555,12 +555,12 @@
         "file_id": 141,
         "file_rom": "ROM3\\5\\4.DAT",
         "name": "Dynamis - Qufim",
-        "name_clean": "dynamis-qufim",
+        "name_clean": "dynamis_-_qufim",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\5\\5.DAT",
         "dat_dir": 5,
         "dat_header": "d_ct",
@@ -569,12 +569,12 @@
         "file_id": 142,
         "file_rom": "ROM3\\5\\5.DAT",
         "name": "Dynamis - Tavnazia",
-        "name_clean": "dynamis-tavnazia",
+        "name_clean": "dynamis_-_tavnazia",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\5\\6.DAT",
         "dat_dir": 5,
         "dat_header": "c_pv",
@@ -583,12 +583,12 @@
         "file_id": 143,
         "file_rom": "ROM3\\5\\6.DAT",
         "name": "Diorama Abdhaljs-Ghelsba",
-        "name_clean": "dioramaabdhaljs-ghelsba",
+        "name_clean": "diorama_abdhaljs-ghelsba",
         "rom_folder": "ROM3",
         "rom_index": 3
     },
     {
-        "category": "Chains Of Promathia",
+        "category": "chains_of_promathia",
         "dat": "ROM3\\5\\7.DAT",
         "dat_dir": 5,
         "dat_header": "c_pv",
@@ -597,7 +597,7 @@
         "file_id": 144,
         "file_rom": "ROM3\\5\\7.DAT",
         "name": "Abdhaljs Isle-Purgonorgo",
-        "name_clean": "abdhaljsisle-purgonorgo",
+        "name_clean": "abdhaljs_isle-purgonorgo",
         "rom_folder": "ROM3",
         "rom_index": 3
     }

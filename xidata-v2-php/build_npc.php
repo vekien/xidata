@@ -77,10 +77,12 @@ foreach ($in_mobdb as $line) {
 
     [$name, $look, $dat, $header] = str_getcsv($line);
 
+    // clean some stuff
+    
     $dat = str_ireplace("/", "\\", $dat);
 
     $mobdb[$dat] = [
-        "name" => str_ireplace("_", " ", $name),
+        "name" => $name,
         "look" => $look
     ];
 }
@@ -128,13 +130,13 @@ foreach ($in_files_npcs as $af_npc) {
             }   
             
             $mob_data = isset($mobdb[$dat]) ? $mobdb[$dat] : [
-                'name' => $name,
-                'look' => null,
+                "name" => fix_name($name),
+                "look" => null,
             ];
 
             $arr = [
                 "num" => $num,
-                "name_short" => $name,
+                "name_short" => fix_name($name),
                 "name_full" => "{$name} - {$num}",
                 "name_clean" => get_simple_name($name),
                 "category" => $category,
@@ -142,8 +144,9 @@ foreach ($in_files_npcs as $af_npc) {
                 "dat" => $dat,
             ];
 
-            $arr = array_merge($arr, $dat_data);
-            $arr = array_merge($arr, $mob_data);
+            // Append extra data, do not
+            $arr = $arr + $dat_data;
+            $arr = $arr + $mob_data;
 
             // add model_id if look exists
             $arr['model_id'] = $arr['look'] ? get_model_id_for_npc($arr['look']) : null;
@@ -160,8 +163,10 @@ echo("\nBuilding AltanaViewer full datamine jsons...\n");
 
 // Process full datamine from: Shozokui
 $full_datamine = load_list("\\in\\in_npc_full_datamine.csv");
-foreach ($full_datamine as $line) {
+foreach ($full_datamine as $i => $line) {
     if (empty($line)) continue;
+
+    $num = $i + 1;
 
     [$dat, $name] = explode(",", $line);
 
@@ -186,6 +191,7 @@ foreach ($full_datamine as $line) {
         'look' => null,
     ];
     
+    $name = fix_name($name);
     $name = explode(":", $name);
     $type = trim($name[0]) . "2";
     $type = $type == "MOB2" ? "Monster2" : $type;
@@ -193,19 +199,21 @@ foreach ($full_datamine as $line) {
     $name = trim($name[1]);
 
     $arr = [
-        "num" => 0,
-        "name" => $name,
-        "name_full" => $name,
+        "num" => $num,
+        "name" => "{$type}: {$name}",
+        "name_short" => fix_name($name),
+        "name_full" => "{$name} - {$num}",
+        "name_clean" => get_simple_name($name),
         "category" => "Unknown",
         "type" => $type,
         "dat" => $dat,
     ];
 
-    $arr = array_merge($arr, $dat_data);
-    $arr = array_merge($arr, $mob_data);
+    $arr = $arr + $dat_data;
+    $arr = $arr + $mob_data;
 
     // add model_id if look exists
-    $arr['model_id'] = $arr['look'] ? get_model_id_for_npc($arr['look']) : null;
+    $arr['model_id'] = !empty($arr['look']) ? get_model_id_for_npc($arr['look']) : null;
 
     ksort($arr);
 

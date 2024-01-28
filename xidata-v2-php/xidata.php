@@ -1,6 +1,10 @@
 <?php
 require_once __DIR__ . "/common.php";
 
+// Build everything again
+require_once __DIR__ . "/build.php";
+sleep(1);
+
 /**
  * This builds the txt files for the xidata C# App since I cba dealing with json structs I will just make simple lists.
  */

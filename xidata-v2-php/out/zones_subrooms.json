@@ -1,6 +1,6 @@
 [
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM3\\7\\49.DAT",
         "dat_dir": 7,
         "dat_header": "r_1s",
@@ -14,7 +14,7 @@
         "rom_index": 3
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM3\\7\\50.DAT",
         "dat_dir": 7,
         "dat_header": "r_1s",
@@ -28,7 +28,7 @@
         "rom_index": 3
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM3\\7\\51.DAT",
         "dat_dir": 7,
         "dat_header": "r_1s",
@@ -42,7 +42,7 @@
         "rom_index": 3
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM3\\7\\52.DAT",
         "dat_dir": 7,
         "dat_header": "r_1s",
@@ -56,7 +56,7 @@
         "rom_index": 3
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\39.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -70,7 +70,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\40.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -84,7 +84,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\41.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -98,7 +98,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\42.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -112,7 +112,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\43.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -126,7 +126,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\44.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -140,7 +140,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\45.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -154,7 +154,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\46.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -168,7 +168,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\47.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -182,7 +182,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\48.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -196,7 +196,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\49.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -210,7 +210,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\39.DAT",
         "dat_dir": 0,
         "dat_header": "r_2g",
@@ -224,7 +224,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\0\\50.DAT",
         "dat_dir": 0,
         "dat_header": "r_3g",
@@ -238,7 +238,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\4\\123.DAT",
         "dat_dir": 4,
         "dat_header": "r_1p",
@@ -252,7 +252,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\4\\124.DAT",
         "dat_dir": 4,
         "dat_header": "r_1p",
@@ -266,7 +266,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\4\\125.DAT",
         "dat_dir": 4,
         "dat_header": "r_1p",
@@ -280,7 +280,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\4\\126.DAT",
         "dat_dir": 4,
         "dat_header": "r_1p",
@@ -294,7 +294,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\4\\127.DAT",
         "dat_dir": 4,
         "dat_header": "r_1p",
@@ -308,7 +308,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\5\\0.DAT",
         "dat_dir": 5,
         "dat_header": "r_1p",
@@ -322,7 +322,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\5\\1.DAT",
         "dat_dir": 5,
         "dat_header": "r_1p",
@@ -336,7 +336,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\5\\2.DAT",
         "dat_dir": 5,
         "dat_header": "r_1p",
@@ -350,7 +350,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\5\\3.DAT",
         "dat_dir": 5,
         "dat_header": "r_1p",
@@ -364,7 +364,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\5\\4.DAT",
         "dat_dir": 5,
         "dat_header": "r_1p",
@@ -378,7 +378,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM4\\4\\126.DAT",
         "dat_dir": 4,
         "dat_header": "r_1p",
@@ -392,7 +392,7 @@
         "rom_index": 4
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\115.DAT",
         "dat_dir": 21,
         "dat_header": "r_1s",
@@ -406,7 +406,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\116.DAT",
         "dat_dir": 21,
         "dat_header": "r_1s",
@@ -420,7 +420,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\116.DAT",
         "dat_dir": 21,
         "dat_header": "r_1s",
@@ -434,7 +434,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\15\\124.DAT",
         "dat_dir": 15,
         "dat_header": "r_1s",
@@ -448,7 +448,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\115.DAT",
         "dat_dir": 21,
         "dat_header": "r_1s",
@@ -462,7 +462,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\15\\124.DAT",
         "dat_dir": 15,
         "dat_header": "r_1s",
@@ -476,7 +476,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\117.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -490,7 +490,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\124.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -504,7 +504,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\125.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -518,7 +518,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\126.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -532,7 +532,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\127.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -546,7 +546,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\22\\0.DAT",
         "dat_dir": 22,
         "dat_header": "r_1t",
@@ -560,7 +560,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\22\\1.DAT",
         "dat_dir": 22,
         "dat_header": "r_1t",
@@ -574,7 +574,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\22\\2.DAT",
         "dat_dir": 22,
         "dat_header": "r_1t",
@@ -588,7 +588,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\22\\3.DAT",
         "dat_dir": 22,
         "dat_header": "r_1t",
@@ -602,7 +602,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\22\\4.DAT",
         "dat_dir": 22,
         "dat_header": "r_1t",
@@ -616,7 +616,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\118.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -630,7 +630,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\119.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -644,7 +644,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\120.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -658,7 +658,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\121.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -672,7 +672,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\121.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -686,7 +686,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\122.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -700,7 +700,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\122.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -714,7 +714,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\21\\123.DAT",
         "dat_dir": 21,
         "dat_header": "r_1t",
@@ -728,7 +728,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\114.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -742,7 +742,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\114.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -756,7 +756,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\118.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -770,7 +770,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\118.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -784,7 +784,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\119.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -798,7 +798,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\119.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -812,7 +812,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\113.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -826,7 +826,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\113.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -840,7 +840,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\111.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -854,7 +854,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\117.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -868,7 +868,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\117.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -882,7 +882,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\110.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -896,7 +896,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\110.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -910,7 +910,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\112.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -924,7 +924,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\112.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -938,7 +938,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\106.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -952,7 +952,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\108.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -966,7 +966,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\108.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -980,7 +980,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\109.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -994,7 +994,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\109.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1008,7 +1008,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\116.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1022,7 +1022,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\116.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1036,7 +1036,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\115.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1050,7 +1050,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\115.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1064,7 +1064,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\120.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1078,7 +1078,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\120.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1092,7 +1092,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\105.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1106,7 +1106,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\107.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1120,7 +1120,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\107.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1134,7 +1134,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\103.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1148,7 +1148,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\104.DAT",
         "dat_dir": 1,
         "dat_header": "r_1s",
@@ -1162,7 +1162,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\1.DAT",
         "dat_dir": 2,
         "dat_header": "r_2s",
@@ -1176,7 +1176,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\2.DAT",
         "dat_dir": 2,
         "dat_header": "r_2s",
@@ -1190,7 +1190,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\0.DAT",
         "dat_dir": 2,
         "dat_header": "r_2s",
@@ -1204,7 +1204,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\125.DAT",
         "dat_dir": 1,
         "dat_header": "r_2s",
@@ -1218,7 +1218,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\3.DAT",
         "dat_dir": 2,
         "dat_header": "r_2s",
@@ -1232,7 +1232,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\5.DAT",
         "dat_dir": 2,
         "dat_header": "r_2s",
@@ -1246,7 +1246,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\121.DAT",
         "dat_dir": 1,
         "dat_header": "r_2s",
@@ -1260,7 +1260,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\124.DAT",
         "dat_dir": 1,
         "dat_header": "r_2s",
@@ -1274,7 +1274,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\122.DAT",
         "dat_dir": 1,
         "dat_header": "r_2s",
@@ -1288,7 +1288,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\127.DAT",
         "dat_dir": 1,
         "dat_header": "r_2s",
@@ -1302,7 +1302,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\4.DAT",
         "dat_dir": 2,
         "dat_header": "r_2s",
@@ -1316,7 +1316,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\123.DAT",
         "dat_dir": 1,
         "dat_header": "r_2s",
@@ -1330,7 +1330,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\126.DAT",
         "dat_dir": 1,
         "dat_header": "r_2s",
@@ -1344,7 +1344,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\9.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1358,7 +1358,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\10.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1372,7 +1372,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\9.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1386,7 +1386,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\10.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1400,7 +1400,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\6.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1414,7 +1414,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\6.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1428,7 +1428,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\6.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1442,7 +1442,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\8.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1456,7 +1456,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\7.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1470,7 +1470,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\11.DAT",
         "dat_dir": 2,
         "dat_header": "r_3s",
@@ -1484,7 +1484,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\13.DAT",
         "dat_dir": 2,
         "dat_header": "r_4s",
@@ -1498,7 +1498,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\12.DAT",
         "dat_dir": 2,
         "dat_header": "r_4s",
@@ -1512,7 +1512,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\16.DAT",
         "dat_dir": 2,
         "dat_header": "r_4s",
@@ -1526,7 +1526,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\15.DAT",
         "dat_dir": 2,
         "dat_header": "r_4s",
@@ -1540,7 +1540,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\17.DAT",
         "dat_dir": 2,
         "dat_header": "r_4s",
@@ -1554,7 +1554,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\14.DAT",
         "dat_dir": 2,
         "dat_header": "r_4s",
@@ -1568,7 +1568,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\50.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1582,7 +1582,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\51.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1596,7 +1596,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\52.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1610,7 +1610,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\60.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1624,7 +1624,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\55.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1638,7 +1638,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\54.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1652,7 +1652,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\56.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1666,7 +1666,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\59.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1680,7 +1680,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\57.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1694,7 +1694,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\58.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1708,7 +1708,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\53.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1722,7 +1722,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\49.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1736,7 +1736,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\49.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1750,7 +1750,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\48.DAT",
         "dat_dir": 1,
         "dat_header": "r_1b",
@@ -1764,7 +1764,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\70.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1778,7 +1778,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\64.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1792,7 +1792,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\61.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1806,7 +1806,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\67.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1820,7 +1820,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\71.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1834,7 +1834,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\69.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1848,7 +1848,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\65.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1862,7 +1862,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\68.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1876,7 +1876,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\62.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1890,7 +1890,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\63.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1904,7 +1904,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\66.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1918,7 +1918,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\72.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1932,7 +1932,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\73.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1946,7 +1946,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\74.DAT",
         "dat_dir": 1,
         "dat_header": "r_2b",
@@ -1960,7 +1960,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\100.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -1974,7 +1974,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\98.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -1988,7 +1988,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\101.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2002,7 +2002,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\102.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2016,7 +2016,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\96.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2030,7 +2030,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\99.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2044,7 +2044,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\95.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2058,7 +2058,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\95.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2072,7 +2072,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\95.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2086,7 +2086,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\95.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2100,7 +2100,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\96.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2114,7 +2114,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\99.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2128,7 +2128,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\97.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2142,7 +2142,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\94.DAT",
         "dat_dir": 1,
         "dat_header": "r_3b",
@@ -2156,7 +2156,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\79.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2170,7 +2170,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\78.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2184,7 +2184,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\80.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2198,7 +2198,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\90.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2212,7 +2212,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\88.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2226,7 +2226,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\87.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2240,7 +2240,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\85.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2254,7 +2254,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\85.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2268,7 +2268,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\91.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2282,7 +2282,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\86.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2296,7 +2296,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\89.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2310,7 +2310,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\93.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2324,7 +2324,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\77.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2338,7 +2338,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\81.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2352,7 +2352,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\83.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2366,7 +2366,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\84.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2380,7 +2380,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\75.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2394,7 +2394,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\76.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2408,7 +2408,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\82.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2422,7 +2422,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\1\\92.DAT",
         "dat_dir": 1,
         "dat_header": "r_4b",
@@ -2436,7 +2436,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\22.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2450,7 +2450,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\23.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2464,7 +2464,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\28.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2478,7 +2478,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\29.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2492,7 +2492,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\30.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2506,7 +2506,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\31.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2520,7 +2520,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\32.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2534,7 +2534,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\34.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2548,7 +2548,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\37.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2562,7 +2562,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\38.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2576,7 +2576,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\23.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2590,7 +2590,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\19.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2604,7 +2604,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\20.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2618,7 +2618,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\18.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2632,7 +2632,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\21.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2646,7 +2646,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\24.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2660,7 +2660,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\25.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2674,7 +2674,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\33.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2688,7 +2688,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\26.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2702,7 +2702,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\27.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2716,7 +2716,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\35.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2730,7 +2730,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\36.DAT",
         "dat_dir": 2,
         "dat_header": "r_1w",
@@ -2744,7 +2744,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\39.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2758,7 +2758,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\40.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2772,7 +2772,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\41.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2786,7 +2786,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\42.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2800,7 +2800,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\43.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2814,7 +2814,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\44.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2828,7 +2828,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\45.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2842,7 +2842,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\45.DAT",
         "dat_dir": 2,
         "dat_header": "r_2w",
@@ -2856,7 +2856,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\46.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2870,7 +2870,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\46.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2884,7 +2884,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\47.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2898,7 +2898,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\47.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2912,7 +2912,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\48.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2926,7 +2926,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\49.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2940,7 +2940,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\49.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2954,7 +2954,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\50.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2968,7 +2968,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\51.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2982,7 +2982,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\52.DAT",
         "dat_dir": 2,
         "dat_header": "r_3w",
@@ -2996,7 +2996,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\56.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3010,7 +3010,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\53.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3024,7 +3024,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\60.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3038,7 +3038,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\55.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3052,7 +3052,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\54.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3066,7 +3066,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\57.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3080,7 +3080,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\59.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3094,7 +3094,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\58.DAT",
         "dat_dir": 2,
         "dat_header": "r_4w",
@@ -3108,7 +3108,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\61.DAT",
         "dat_dir": 2,
         "dat_header": "r_5w",
@@ -3122,7 +3122,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\62.DAT",
         "dat_dir": 2,
         "dat_header": "r_5w",
@@ -3136,7 +3136,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\62.DAT",
         "dat_dir": 2,
         "dat_header": "r_5w",
@@ -3150,7 +3150,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\62.DAT",
         "dat_dir": 2,
         "dat_header": "r_5w",
@@ -3164,7 +3164,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\63.DAT",
         "dat_dir": 2,
         "dat_header": "r_5w",
@@ -3178,7 +3178,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\63.DAT",
         "dat_dir": 2,
         "dat_header": "r_5w",
@@ -3192,7 +3192,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\64.DAT",
         "dat_dir": 2,
         "dat_header": "r_5w",
@@ -3206,7 +3206,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\65.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3220,7 +3220,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\67.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3234,7 +3234,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\69.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3248,7 +3248,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\72.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3262,7 +3262,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\73.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3276,7 +3276,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\75.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3290,7 +3290,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\74.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3304,7 +3304,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\65.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3318,7 +3318,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\66.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3332,7 +3332,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\67.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3346,7 +3346,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\68.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3360,7 +3360,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\69.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3374,7 +3374,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\70.DAT",
         "dat_dir": 2,
         "dat_header": "r_1j",
@@ -3388,7 +3388,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\80.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3402,7 +3402,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\85.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3416,7 +3416,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\79.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3430,7 +3430,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\82.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3444,7 +3444,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\83.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3458,7 +3458,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\84.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3472,7 +3472,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\81.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3486,7 +3486,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\76.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3500,7 +3500,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\78.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3514,7 +3514,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\77.DAT",
         "dat_dir": 2,
         "dat_header": "r_2j",
@@ -3528,7 +3528,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\87.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3542,7 +3542,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\88.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3556,7 +3556,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\87.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3570,7 +3570,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\89.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3584,7 +3584,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\88.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3598,7 +3598,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\96.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3612,7 +3612,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\96.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3626,7 +3626,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\94.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3640,7 +3640,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\90.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3654,7 +3654,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\93.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3668,7 +3668,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\91.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3682,7 +3682,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\92.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3696,7 +3696,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\92.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3710,7 +3710,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\95.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3724,7 +3724,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\97.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3738,7 +3738,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\98.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3752,7 +3752,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\86.DAT",
         "dat_dir": 2,
         "dat_header": "r_3j",
@@ -3766,7 +3766,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\101.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3780,7 +3780,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\122.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3794,7 +3794,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\104.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3808,7 +3808,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\125.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3822,7 +3822,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\123.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3836,7 +3836,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\102.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3850,7 +3850,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\124.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3864,7 +3864,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\103.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3878,7 +3878,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\101.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3892,7 +3892,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\122.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3906,7 +3906,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\104.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3920,7 +3920,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\125.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3934,7 +3934,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\123.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3948,7 +3948,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\102.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3962,7 +3962,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\124.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3976,7 +3976,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\103.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -3990,7 +3990,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\99.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -4004,7 +4004,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\100.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -4018,7 +4018,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\105.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -4032,7 +4032,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\108.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -4046,7 +4046,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\107.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -4060,7 +4060,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\106.DAT",
         "dat_dir": 2,
         "dat_header": "r_4j",
@@ -4074,7 +4074,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\113.DAT",
         "dat_dir": 2,
         "dat_header": "r_1s",
@@ -4088,7 +4088,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\109.DAT",
         "dat_dir": 2,
         "dat_header": "r_1s",
@@ -4102,7 +4102,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\110.DAT",
         "dat_dir": 2,
         "dat_header": "r_1s",
@@ -4116,7 +4116,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\111.DAT",
         "dat_dir": 2,
         "dat_header": "r_1s",
@@ -4130,7 +4130,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\114.DAT",
         "dat_dir": 2,
         "dat_header": "r_1s",
@@ -4144,7 +4144,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\115.DAT",
         "dat_dir": 2,
         "dat_header": "r_1m",
@@ -4158,7 +4158,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\117.DAT",
         "dat_dir": 2,
         "dat_header": "r_1m",
@@ -4172,7 +4172,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\121.DAT",
         "dat_dir": 2,
         "dat_header": "r_1m",
@@ -4186,7 +4186,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\116.DAT",
         "dat_dir": 2,
         "dat_header": "r_1m",
@@ -4200,7 +4200,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\118.DAT",
         "dat_dir": 2,
         "dat_header": "r_1m",
@@ -4214,7 +4214,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\119.DAT",
         "dat_dir": 2,
         "dat_header": "r_1m",
@@ -4228,7 +4228,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM\\2\\119.DAT",
         "dat_dir": 2,
         "dat_header": "r_1m",
@@ -4242,7 +4242,7 @@
         "rom_index": 1
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\29.DAT",
         "dat_dir": 0,
         "dat_header": "r_1k",
@@ -4256,7 +4256,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\30.DAT",
         "dat_dir": 0,
         "dat_header": "r_1k",
@@ -4270,7 +4270,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\31.DAT",
         "dat_dir": 0,
         "dat_header": "r_1k",
@@ -4284,7 +4284,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\32.DAT",
         "dat_dir": 0,
         "dat_header": "r_1k",
@@ -4298,7 +4298,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\33.DAT",
         "dat_dir": 0,
         "dat_header": "r_1k",
@@ -4312,7 +4312,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\34.DAT",
         "dat_dir": 0,
         "dat_header": "r_1k",
@@ -4326,7 +4326,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\35.DAT",
         "dat_dir": 0,
         "dat_header": "r_1k",
@@ -4340,7 +4340,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\37.DAT",
         "dat_dir": 0,
         "dat_header": "r_1n",
@@ -4354,7 +4354,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM2\\0\\36.DAT",
         "dat_dir": 0,
         "dat_header": "r_1n",
@@ -4368,7 +4368,7 @@
         "rom_index": 2
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM9\\5\\49.DAT",
         "dat_dir": 5,
         "dat_header": "r_1a",
@@ -4382,7 +4382,7 @@
         "rom_index": 9
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM9\\5\\50.DAT",
         "dat_dir": 5,
         "dat_header": "r_1a",
@@ -4396,7 +4396,7 @@
         "rom_index": 9
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM9\\5\\52.DAT",
         "dat_dir": 5,
         "dat_header": "r_1a",
@@ -4410,7 +4410,7 @@
         "rom_index": 9
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM9\\5\\51.DAT",
         "dat_dir": 5,
         "dat_header": "r_1a",
@@ -4424,7 +4424,7 @@
         "rom_index": 9
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM9\\3\\84.DAT",
         "dat_dir": 3,
         "dat_header": "r_2a",
@@ -4438,7 +4438,7 @@
         "rom_index": 9
     },
     {
-        "category": "Subrooms",
+        "category": "subrooms",
         "dat": "ROM9\\3\\85.DAT",
         "dat_dir": 3,
         "dat_header": "r_2a",

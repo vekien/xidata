@@ -44,13 +44,13 @@ foreach ($races as $race_index => $race_name) {
         $arr = [
             "name" => $name,
             "name_clean" => get_simple_name($name),
-            "category" => $category,
+            "category" => get_simple_name($category),
             "race_index" => $race_index,
             "race_name" => $race_name,
             "skeleton" => $skeletons[$race_name],
         ];
 
-        $arr = array_merge($arr, $dat_data);
+        $arr = $arr + $dat_data;
 
         ksort($arr);
 

@@ -1,6 +1,6 @@
 [
     {
-        "category": "Basic",
+        "category": "basic",
         "dat": "ROM\\42\\4.DAT",
         "dat_dir": 42,
         "dat_header": "ef_s",
@@ -16,7 +16,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Basic",
+        "category": "basic",
         "dat": "ROM\\42\\5.DAT",
         "dat_dir": 42,
         "dat_header": "ef_n",
@@ -32,7 +32,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Basic",
+        "category": "basic",
         "dat": "ROM\\42\\8.DAT",
         "dat_dir": 42,
         "dat_header": "ef_n",
@@ -48,7 +48,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\46\\57.DAT",
         "dat_dir": 46,
         "dat_header": "ef_b",
@@ -64,7 +64,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\46\\58.DAT",
         "dat_dir": 46,
         "dat_header": "ef_b",
@@ -80,7 +80,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\46\\59.DAT",
         "dat_dir": 46,
         "dat_header": "ef_b",
@@ -96,7 +96,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\46\\60.DAT",
         "dat_dir": 46,
         "dat_header": "ef_b",
@@ -112,7 +112,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\46\\61.DAT",
         "dat_dir": 46,
         "dat_header": "ef_b",
@@ -128,7 +128,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\46\\62.DAT",
         "dat_dir": 46,
         "dat_header": "ef_b",
@@ -144,7 +144,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\99\\20.DAT",
         "dat_dir": 99,
         "dat_header": "ef_b",
@@ -160,7 +160,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\99\\21.DAT",
         "dat_dir": 99,
         "dat_header": "ef_b",
@@ -176,7 +176,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\112\\113.DAT",
         "dat_dir": 112,
         "dat_header": "ef_b",
@@ -184,7 +184,7 @@
         "dat_path": 113,
         "file_id": 44398,
         "name": "Dual Wield Sub_112-113",
-        "name_clean": "dualwieldsub_112-113",
+        "name_clean": "dual_wield_sub_112-113",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -192,7 +192,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\112\\114.DAT",
         "dat_dir": 112,
         "dat_header": "ef_b",
@@ -200,7 +200,7 @@
         "dat_path": 114,
         "file_id": 44276,
         "name": "Dual Wield Sub_112-114",
-        "name_clean": "dualwieldsub_112-114",
+        "name_clean": "dual_wield_sub_112-114",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -208,7 +208,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\112\\119.DAT",
         "dat_dir": 112,
         "dat_header": "ef_b",
@@ -216,7 +216,7 @@
         "dat_path": 119,
         "file_id": 44782,
         "name": "Dual Wield Main_112-119",
-        "name_clean": "dualwieldmain_112-119",
+        "name_clean": "dual_wield_main_112-119",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -224,7 +224,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Battle",
+        "category": "battle",
         "dat": "ROM\\112\\120.DAT",
         "dat_dir": 112,
         "dat_header": "ef_b",
@@ -232,7 +232,7 @@
         "dat_path": 120,
         "file_id": 44660,
         "name": "Dual Wield Main_112-120",
-        "name_clean": "dualwieldmain_112-120",
+        "name_clean": "dual_wield_main_112-120",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -240,7 +240,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\46\\75.DAT",
         "dat_dir": 46,
         "dat_header": "ef_e",
@@ -256,7 +256,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\46\\76.DAT",
         "dat_dir": 46,
         "dat_header": "ef_e",
@@ -272,7 +272,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\46\\77.DAT",
         "dat_dir": 46,
         "dat_header": "ef_e",
@@ -288,7 +288,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\46\\78.DAT",
         "dat_dir": 46,
         "dat_header": "ef_e",
@@ -304,7 +304,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\46\\79.DAT",
         "dat_dir": 46,
         "dat_header": "ef_e",
@@ -320,7 +320,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\123\\42.DAT",
         "dat_dir": 123,
         "dat_header": "ef_s",
@@ -336,7 +336,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\138\\5.DAT",
         "dat_dir": 138,
         "dat_header": "ef_t",
@@ -352,7 +352,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\138\\6.DAT",
         "dat_dir": 138,
         "dat_header": "ef_s",
@@ -368,7 +368,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\138\\7.DAT",
         "dat_dir": 138,
         "dat_header": "ef_t",
@@ -384,7 +384,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\259\\91.DAT",
         "dat_dir": 259,
         "dat_header": "ef_e",
@@ -392,7 +392,7 @@
         "dat_path": 91,
         "file_id": 19601,
         "name": "Job Emotes_259-91",
-        "name_clean": "jobemotes_259-91",
+        "name_clean": "job_emotes_259-91",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -400,7 +400,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\52.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -408,7 +408,7 @@
         "dat_path": 52,
         "file_id": 19602,
         "name": "Job Emotes_260-52",
-        "name_clean": "jobemotes_260-52",
+        "name_clean": "job_emotes_260-52",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -416,7 +416,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\53.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -424,7 +424,7 @@
         "dat_path": 53,
         "file_id": 19603,
         "name": "Job Emotes_260-53",
-        "name_clean": "jobemotes_260-53",
+        "name_clean": "job_emotes_260-53",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -432,7 +432,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\54.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -440,7 +440,7 @@
         "dat_path": 54,
         "file_id": 19604,
         "name": "Job Emotes_260-54",
-        "name_clean": "jobemotes_260-54",
+        "name_clean": "job_emotes_260-54",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -448,7 +448,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\55.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -456,7 +456,7 @@
         "dat_path": 55,
         "file_id": 19605,
         "name": "Job Emotes_260-55",
-        "name_clean": "jobemotes_260-55",
+        "name_clean": "job_emotes_260-55",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -464,7 +464,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\56.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -472,7 +472,7 @@
         "dat_path": 56,
         "file_id": 19606,
         "name": "Job Emotes_260-56",
-        "name_clean": "jobemotes_260-56",
+        "name_clean": "job_emotes_260-56",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -480,7 +480,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\57.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -488,7 +488,7 @@
         "dat_path": 57,
         "file_id": 19607,
         "name": "Job Emotes_260-57",
-        "name_clean": "jobemotes_260-57",
+        "name_clean": "job_emotes_260-57",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -496,7 +496,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\58.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -504,7 +504,7 @@
         "dat_path": 58,
         "file_id": 19608,
         "name": "Job Emotes_260-58",
-        "name_clean": "jobemotes_260-58",
+        "name_clean": "job_emotes_260-58",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -512,7 +512,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\59.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -520,7 +520,7 @@
         "dat_path": 59,
         "file_id": 19609,
         "name": "Job Emotes_260-59",
-        "name_clean": "jobemotes_260-59",
+        "name_clean": "job_emotes_260-59",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -528,7 +528,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Emote",
+        "category": "emote",
         "dat": "ROM\\260\\60.DAT",
         "dat_dir": 260,
         "dat_header": "ef_e",
@@ -536,7 +536,7 @@
         "dat_path": 60,
         "file_id": 19610,
         "name": "Job Emotes_260-60",
-        "name_clean": "jobemotes_260-60",
+        "name_clean": "job_emotes_260-60",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -544,7 +544,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\46\\80.DAT",
         "dat_dir": 46,
         "dat_header": "ef_e",
@@ -560,7 +560,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\90\\32.DAT",
         "dat_dir": 90,
         "dat_header": "ef_c",
@@ -576,7 +576,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\90\\33.DAT",
         "dat_dir": 90,
         "dat_header": "ef_f",
@@ -592,7 +592,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\123\\40.DAT",
         "dat_dir": 123,
         "dat_header": "ef_e",
@@ -608,7 +608,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\123\\41.DAT",
         "dat_dir": 123,
         "dat_header": "ef_e",
@@ -624,7 +624,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\143\\56.DAT",
         "dat_dir": 143,
         "dat_header": "ef_k",
@@ -632,7 +632,7 @@
         "dat_path": 56,
         "file_id": 38893,
         "name": "Goldfish Scooping_143-56",
-        "name_clean": "goldfishscooping_143-56",
+        "name_clean": "goldfish_scooping_143-56",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -640,7 +640,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\143\\71.DAT",
         "dat_dir": 143,
         "dat_header": "ef_k",
@@ -648,7 +648,7 @@
         "dat_path": 71,
         "file_id": 39415,
         "name": "Goldfish Scooping_143-71",
-        "name_clean": "goldfishscooping_143-71",
+        "name_clean": "goldfish_scooping_143-71",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -656,7 +656,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\197\\88.DAT",
         "dat_dir": 197,
         "dat_header": "ef_e",
@@ -672,7 +672,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\223\\93.DAT",
         "dat_dir": 223,
         "dat_header": "ef_e",
@@ -680,7 +680,7 @@
         "dat_path": 93,
         "file_id": 19598,
         "name": "Bell Ringing_223-93",
-        "name_clean": "bellringing_223-93",
+        "name_clean": "bell_ringing_223-93",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -688,7 +688,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\223\\94.DAT",
         "dat_dir": 223,
         "dat_header": "ef_e",
@@ -696,7 +696,7 @@
         "dat_path": 94,
         "file_id": 19599,
         "name": "Bell Ringing_223-94",
-        "name_clean": "bellringing_223-94",
+        "name_clean": "bell_ringing_223-94",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -704,7 +704,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "General",
+        "category": "general",
         "dat": "ROM\\223\\95.DAT",
         "dat_dir": 223,
         "dat_header": "ef_e",
@@ -712,7 +712,7 @@
         "dat_path": 95,
         "file_id": 19600,
         "name": "Bell Ringing_223-95",
-        "name_clean": "bellringing_223-95",
+        "name_clean": "bell_ringing_223-95",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -720,7 +720,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\82\\105.DAT",
         "dat_dir": 82,
         "dat_header": "ef_s",
@@ -736,7 +736,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\82\\106.DAT",
         "dat_dir": 82,
         "dat_header": "ef_s",
@@ -752,7 +752,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\82\\107.DAT",
         "dat_dir": 82,
         "dat_header": "ef_s",
@@ -768,7 +768,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\82\\108.DAT",
         "dat_dir": 82,
         "dat_header": "ef_s",
@@ -784,7 +784,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\82\\109.DAT",
         "dat_dir": 82,
         "dat_header": "ef_b",
@@ -800,7 +800,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\95\\32.DAT",
         "dat_dir": 95,
         "dat_header": "ef_2",
@@ -816,7 +816,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\95\\33.DAT",
         "dat_dir": 95,
         "dat_header": "ef_k",
@@ -832,7 +832,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\95\\34.DAT",
         "dat_dir": 95,
         "dat_header": "ef_y",
@@ -848,7 +848,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\15.DAT",
         "dat_dir": 104,
         "dat_header": "ef_h",
@@ -864,7 +864,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\16.DAT",
         "dat_dir": 104,
         "dat_header": "ef_h",
@@ -880,7 +880,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\17.DAT",
         "dat_dir": 104,
         "dat_header": "ef_h",
@@ -896,7 +896,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\18.DAT",
         "dat_dir": 104,
         "dat_header": "ef_h",
@@ -912,7 +912,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\19.DAT",
         "dat_dir": 104,
         "dat_header": "ef_h",
@@ -928,7 +928,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\20.DAT",
         "dat_dir": 104,
         "dat_header": "ef_s",
@@ -944,7 +944,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\21.DAT",
         "dat_dir": 104,
         "dat_header": "ef_s",
@@ -960,7 +960,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\22.DAT",
         "dat_dir": 104,
         "dat_header": "ef_s",
@@ -976,7 +976,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\23.DAT",
         "dat_dir": 104,
         "dat_header": "ef_s",
@@ -992,7 +992,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\24.DAT",
         "dat_dir": 104,
         "dat_header": "ef_s",
@@ -1008,7 +1008,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\25.DAT",
         "dat_dir": 104,
         "dat_header": "ef_j",
@@ -1024,7 +1024,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\26.DAT",
         "dat_dir": 104,
         "dat_header": "ef_j",
@@ -1040,7 +1040,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\27.DAT",
         "dat_dir": 104,
         "dat_header": "ef_j",
@@ -1056,7 +1056,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\28.DAT",
         "dat_dir": 104,
         "dat_header": "ef_j",
@@ -1072,7 +1072,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\104\\29.DAT",
         "dat_dir": 104,
         "dat_header": "ef_j",
@@ -1088,7 +1088,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\168\\38.DAT",
         "dat_dir": 168,
         "dat_header": "ef_t",
@@ -1104,7 +1104,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Ability",
+        "category": "ability",
         "dat": "ROM\\168\\39.DAT",
         "dat_dir": 168,
         "dat_header": "ef_t",
@@ -1120,7 +1120,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\82\\40.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1136,7 +1136,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\82\\41.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1144,7 +1144,7 @@
         "dat_path": 41,
         "file_id": 35548,
         "name": "Shoulder Tackle_82-41",
-        "name_clean": "shouldertackle_82-41",
+        "name_clean": "shoulder_tackle_82-41",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1152,7 +1152,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\82\\42.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1160,7 +1160,7 @@
         "dat_path": 42,
         "file_id": 35549,
         "name": "One Inch Punch_82-42",
-        "name_clean": "oneinchpunch_82-42",
+        "name_clean": "one_inch_punch_82-42",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1168,7 +1168,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\82\\43.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1176,7 +1176,7 @@
         "dat_path": 43,
         "file_id": 35550,
         "name": "Backhand Blow_82-43",
-        "name_clean": "backhandblow_82-43",
+        "name_clean": "backhand_blow_82-43",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1184,7 +1184,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\82\\44.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1192,7 +1192,7 @@
         "dat_path": 44,
         "file_id": 35551,
         "name": "Raging Fists_82-44",
-        "name_clean": "ragingfists_82-44",
+        "name_clean": "raging_fists_82-44",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1200,7 +1200,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\82\\45.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1208,7 +1208,7 @@
         "dat_path": 45,
         "file_id": 35552,
         "name": "Spinning Attack_82-45",
-        "name_clean": "spinningattack_82-45",
+        "name_clean": "spinning_attack_82-45",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1216,7 +1216,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\82\\46.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1224,7 +1224,7 @@
         "dat_path": 46,
         "file_id": 35553,
         "name": "Howling Fist_82-46",
-        "name_clean": "howlingfist_82-46",
+        "name_clean": "howling_fist_82-46",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1232,7 +1232,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\103\\107.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -1240,7 +1240,7 @@
         "dat_path": 107,
         "file_id": 35554,
         "name": "Dragon Kick_103-107",
-        "name_clean": "dragonkick_103-107",
+        "name_clean": "dragon_kick_103-107",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1248,7 +1248,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\103\\108.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -1256,7 +1256,7 @@
         "dat_path": 108,
         "file_id": 35555,
         "name": "Asuran Fists_103-108",
-        "name_clean": "asuranfists_103-108",
+        "name_clean": "asuran_fists_103-108",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1264,7 +1264,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\140\\96.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -1272,7 +1272,7 @@
         "dat_path": 96,
         "file_id": 35556,
         "name": "Final Heaven_140-96",
-        "name_clean": "finalheaven_140-96",
+        "name_clean": "final_heaven_140-96",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1280,7 +1280,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\206\\76.DAT",
         "dat_dir": 206,
         "dat_header": "ef_0",
@@ -1288,7 +1288,7 @@
         "dat_path": 76,
         "file_id": 35557,
         "name": "Ascetics Fury_206-76",
-        "name_clean": "asceticsfury_206-76",
+        "name_clean": "ascetics_fury_206-76",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1296,7 +1296,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\208\\64.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -1304,7 +1304,7 @@
         "dat_path": 64,
         "file_id": 35558,
         "name": "Stinging Pummel_208-64",
-        "name_clean": "stingingpummel_208-64",
+        "name_clean": "stinging_pummel_208-64",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1312,7 +1312,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\243\\11.DAT",
         "dat_dir": 243,
         "dat_header": "ef_0",
@@ -1320,7 +1320,7 @@
         "dat_path": 11,
         "file_id": 35559,
         "name": "Tornado Kick_243-11",
-        "name_clean": "tornadokick_243-11",
+        "name_clean": "tornado_kick_243-11",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1328,7 +1328,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\255\\92.DAT",
         "dat_dir": 255,
         "dat_header": "ef_0",
@@ -1336,7 +1336,7 @@
         "dat_path": 92,
         "file_id": 35560,
         "name": "Victory Smite_255-92",
-        "name_clean": "victorysmite_255-92",
+        "name_clean": "victory_smite_255-92",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1344,7 +1344,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Hand-to-Hand",
+        "category": "hand-to-hand",
         "dat": "ROM\\272\\50.DAT",
         "dat_dir": 272,
         "dat_header": "ef_0",
@@ -1352,7 +1352,7 @@
         "dat_path": 50,
         "file_id": 35561,
         "name": "Shijin Spiral_272-50",
-        "name_clean": "shijinspiral_272-50",
+        "name_clean": "shijin_spiral_272-50",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1360,7 +1360,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\47.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1368,7 +1368,7 @@
         "dat_path": 47,
         "file_id": 35562,
         "name": "Wasp Sting_82-47",
-        "name_clean": "waspsting_82-47",
+        "name_clean": "wasp_sting_82-47",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1376,7 +1376,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\48.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1384,7 +1384,7 @@
         "dat_path": 48,
         "file_id": 35563,
         "name": "Viper Bite_82-48",
-        "name_clean": "viperbite_82-48",
+        "name_clean": "viper_bite_82-48",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1392,7 +1392,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\49.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1408,7 +1408,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\50.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1416,7 +1416,7 @@
         "dat_path": 50,
         "file_id": 35565,
         "name": "Gust Slash_82-50",
-        "name_clean": "gustslash_82-50",
+        "name_clean": "gust_slash_82-50",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1424,7 +1424,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\51.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1440,7 +1440,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\52.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1448,7 +1448,7 @@
         "dat_path": 52,
         "file_id": 35567,
         "name": "Energy Steal_82-52",
-        "name_clean": "energysteal_82-52",
+        "name_clean": "energy_steal_82-52",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1456,7 +1456,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\53.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1464,7 +1464,7 @@
         "dat_path": 53,
         "file_id": 35568,
         "name": "Energy Drain_82-53",
-        "name_clean": "energydrain_82-53",
+        "name_clean": "energy_drain_82-53",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1472,7 +1472,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\82\\54.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1480,7 +1480,7 @@
         "dat_path": 54,
         "file_id": 35569,
         "name": "Dancing Edge_82-54",
-        "name_clean": "dancingedge_82-54",
+        "name_clean": "dancing_edge_82-54",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1488,7 +1488,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\103\\109.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -1496,7 +1496,7 @@
         "dat_path": 109,
         "file_id": 35570,
         "name": "Shark Bite_103-109",
-        "name_clean": "sharkbite_103-109",
+        "name_clean": "shark_bite_103-109",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1504,7 +1504,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\103\\110.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -1520,7 +1520,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\140\\97.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -1528,7 +1528,7 @@
         "dat_path": 97,
         "file_id": 35572,
         "name": "Mercy Stroke_140-97",
-        "name_clean": "mercystroke_140-97",
+        "name_clean": "mercy_stroke_140-97",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1536,7 +1536,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\208\\65.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -1544,7 +1544,7 @@
         "dat_path": 65,
         "file_id": 35573,
         "name": "Mandalic Stab_208-65",
-        "name_clean": "mandalicstab_208-65",
+        "name_clean": "mandalic_stab_208-65",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1552,7 +1552,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\206\\77.DAT",
         "dat_dir": 206,
         "dat_header": "ef_0",
@@ -1560,7 +1560,7 @@
         "dat_path": 77,
         "file_id": 35574,
         "name": "Mordant Rime_206-77",
-        "name_clean": "mordantrime_206-77",
+        "name_clean": "mordant_rime_206-77",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1568,7 +1568,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\208\\66.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -1576,7 +1576,7 @@
         "dat_path": 66,
         "file_id": 35575,
         "name": "Pyrrhic Kleos_208-66",
-        "name_clean": "pyrrhickleos_208-66",
+        "name_clean": "pyrrhic_kleos_208-66",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1584,7 +1584,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\243\\12.DAT",
         "dat_dir": 243,
         "dat_header": "ef_0",
@@ -1592,7 +1592,7 @@
         "dat_path": 12,
         "file_id": 35576,
         "name": "Aeolian Edge_243-12",
-        "name_clean": "aeolianedge_243-12",
+        "name_clean": "aeolian_edge_243-12",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1600,7 +1600,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\257\\114.DAT",
         "dat_dir": 257,
         "dat_header": "ef_0",
@@ -1608,7 +1608,7 @@
         "dat_path": 114,
         "file_id": 35767,
         "name": "Rudras Storm_257-114",
-        "name_clean": "rudrasstorm_257-114",
+        "name_clean": "rudras_storm_257-114",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1616,7 +1616,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dagger",
+        "category": "dagger",
         "dat": "ROM\\268\\108.DAT",
         "dat_dir": 268,
         "dat_header": "ef_0",
@@ -1632,7 +1632,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\31.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1640,7 +1640,7 @@
         "dat_path": 31,
         "file_id": 35532,
         "name": "Fast Blade_82-31",
-        "name_clean": "fastblade_82-31",
+        "name_clean": "fast_blade_82-31",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1648,7 +1648,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\32.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1656,7 +1656,7 @@
         "dat_path": 32,
         "file_id": 35533,
         "name": "Burning Blade_82-32",
-        "name_clean": "burningblade_82-32",
+        "name_clean": "burning_blade_82-32",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1664,7 +1664,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\33.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1672,7 +1672,7 @@
         "dat_path": 33,
         "file_id": 35534,
         "name": "Red Lotus Blade_82-33",
-        "name_clean": "redlotusblade_82-33",
+        "name_clean": "red_lotus_blade_82-33",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1680,7 +1680,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\36.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1688,7 +1688,7 @@
         "dat_path": 36,
         "file_id": 35537,
         "name": "Flat Blade_82-36",
-        "name_clean": "flatblade_82-36",
+        "name_clean": "flat_blade_82-36",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1696,7 +1696,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\34.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1704,7 +1704,7 @@
         "dat_path": 34,
         "file_id": 35535,
         "name": "Shining Blade_82-34",
-        "name_clean": "shiningblade_82-34",
+        "name_clean": "shining_blade_82-34",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1712,7 +1712,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\35.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1720,7 +1720,7 @@
         "dat_path": 35,
         "file_id": 35536,
         "name": "Seraph Blade_82-35",
-        "name_clean": "seraphblade_82-35",
+        "name_clean": "seraph_blade_82-35",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1728,7 +1728,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\37.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1736,7 +1736,7 @@
         "dat_path": 37,
         "file_id": 35538,
         "name": "Circle Blade_82-37",
-        "name_clean": "circleblade_82-37",
+        "name_clean": "circle_blade_82-37",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1744,7 +1744,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\38.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1752,7 +1752,7 @@
         "dat_path": 38,
         "file_id": 35539,
         "name": "Spirits Within_82-38",
-        "name_clean": "spiritswithin_82-38",
+        "name_clean": "spirits_within_82-38",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1760,7 +1760,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\82\\39.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1768,7 +1768,7 @@
         "dat_path": 39,
         "file_id": 35540,
         "name": "Vorpal Blade_82-39",
-        "name_clean": "vorpalblade_82-39",
+        "name_clean": "vorpal_blade_82-39",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1776,7 +1776,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\103\\105.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -1784,7 +1784,7 @@
         "dat_path": 105,
         "file_id": 35541,
         "name": "Swift Blade_103-105",
-        "name_clean": "swiftblade_103-105",
+        "name_clean": "swift_blade_103-105",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1792,7 +1792,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\103\\106.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -1800,7 +1800,7 @@
         "dat_path": 106,
         "file_id": 35542,
         "name": "Savage Blade_103-106",
-        "name_clean": "savageblade_103-106",
+        "name_clean": "savage_blade_103-106",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1808,7 +1808,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\140\\95.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -1816,7 +1816,7 @@
         "dat_path": 95,
         "file_id": 35543,
         "name": "Knights of Round_140-95",
-        "name_clean": "knightsofround_140-95",
+        "name_clean": "knights_of_round_140-95",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1824,7 +1824,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\208\\62.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -1832,7 +1832,7 @@
         "dat_path": 62,
         "file_id": 35544,
         "name": "Death Blossom_208-62",
-        "name_clean": "deathblossom_208-62",
+        "name_clean": "death_blossom_208-62",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1840,7 +1840,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\208\\63.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -1856,7 +1856,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\206\\75.DAT",
         "dat_dir": 206,
         "dat_header": "ef_0",
@@ -1872,7 +1872,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\240\\23.DAT",
         "dat_dir": 240,
         "dat_header": "ef_d",
@@ -1880,7 +1880,7 @@
         "dat_path": 23,
         "file_id": 35773,
         "name": "Glory Slash_240-23",
-        "name_clean": "gloryslash_240-23",
+        "name_clean": "glory_slash_240-23",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1888,7 +1888,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\240\\24.DAT",
         "dat_dir": 240,
         "dat_header": "ef_w",
@@ -1896,7 +1896,7 @@
         "dat_path": 24,
         "file_id": 35774,
         "name": "Uriel Blade_240-24",
-        "name_clean": "urielblade_240-24",
+        "name_clean": "uriel_blade_240-24",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1904,7 +1904,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\244\\106.DAT",
         "dat_dir": 244,
         "dat_header": "ef_0",
@@ -1912,7 +1912,7 @@
         "dat_path": 106,
         "file_id": 35761,
         "name": "Sanguine Blade_244-106",
-        "name_clean": "sanguineblade_244-106",
+        "name_clean": "sanguine_blade_244-106",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1920,7 +1920,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\255\\96.DAT",
         "dat_dir": 255,
         "dat_header": "ef_0",
@@ -1928,7 +1928,7 @@
         "dat_path": 96,
         "file_id": 35764,
         "name": "Chant du Cygne_255-96",
-        "name_clean": "chantducygne_255-96",
+        "name_clean": "chant_du_cygne_255-96",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1936,7 +1936,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Sword",
+        "category": "sword",
         "dat": "ROM\\268\\107.DAT",
         "dat_dir": 268,
         "dat_header": "ef_0",
@@ -1952,7 +1952,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\69.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1960,7 +1960,7 @@
         "dat_path": 69,
         "file_id": 35607,
         "name": "Shining Strike_82-69",
-        "name_clean": "shiningstrike_82-69",
+        "name_clean": "shining_strike_82-69",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1968,7 +1968,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\70.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -1976,7 +1976,7 @@
         "dat_path": 70,
         "file_id": 35608,
         "name": "Seraph Strike_82-70",
-        "name_clean": "seraphstrike_82-70",
+        "name_clean": "seraph_strike_82-70",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -1984,7 +1984,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\71.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2000,7 +2000,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\72.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2016,7 +2016,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\73.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2032,7 +2032,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\74.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2048,7 +2048,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\75.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2056,7 +2056,7 @@
         "dat_path": 75,
         "file_id": 35613,
         "name": "True Strike_82-75",
-        "name_clean": "truestrike_82-75",
+        "name_clean": "true_strike_82-75",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2064,7 +2064,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\82\\76.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2080,7 +2080,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\103\\115.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2088,7 +2088,7 @@
         "dat_path": 115,
         "file_id": 35615,
         "name": "Hexa Strike_103-115",
-        "name_clean": "hexastrike_103-115",
+        "name_clean": "hexa_strike_103-115",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2096,7 +2096,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\103\\116.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2104,7 +2104,7 @@
         "dat_path": 116,
         "file_id": 35616,
         "name": "Black Halo_103-116",
-        "name_clean": "blackhalo_103-116",
+        "name_clean": "black_halo_103-116",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2112,7 +2112,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\140\\100.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -2128,7 +2128,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\206\\79.DAT",
         "dat_dir": 206,
         "dat_header": "ef_0",
@@ -2136,7 +2136,7 @@
         "dat_path": 79,
         "file_id": 35618,
         "name": "Mystic Boon_206-79",
-        "name_clean": "mysticboon_206-79",
+        "name_clean": "mystic_boon_206-79",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2144,7 +2144,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\243\\14.DAT",
         "dat_dir": 243,
         "dat_header": "ef_0",
@@ -2152,7 +2152,7 @@
         "dat_path": 14,
         "file_id": 35619,
         "name": "Flash Nova_243-14",
-        "name_clean": "flashnova_243-14",
+        "name_clean": "flash_nova_243-14",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2160,7 +2160,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\257\\111.DAT",
         "dat_dir": 257,
         "dat_header": "ef_0",
@@ -2176,7 +2176,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Club",
+        "category": "club",
         "dat": "ROM\\269\\80.DAT",
         "dat_dir": 269,
         "dat_header": "ef_0",
@@ -2192,7 +2192,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\82\\55.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2200,7 +2200,7 @@
         "dat_path": 55,
         "file_id": 35577,
         "name": "Raging Axe_82-55",
-        "name_clean": "ragingaxe_82-55",
+        "name_clean": "raging_axe_82-55",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2208,7 +2208,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\82\\56.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2216,7 +2216,7 @@
         "dat_path": 56,
         "file_id": 35578,
         "name": "Smash Axe_82-56",
-        "name_clean": "smashaxe_82-56",
+        "name_clean": "smash_axe_82-56",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2224,7 +2224,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\82\\57.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2232,7 +2232,7 @@
         "dat_path": 57,
         "file_id": 35579,
         "name": "Gale Axe_82-57",
-        "name_clean": "galeaxe_82-57",
+        "name_clean": "gale_axe_82-57",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2240,7 +2240,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\82\\58.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2248,7 +2248,7 @@
         "dat_path": 58,
         "file_id": 35580,
         "name": "Avalanche Axe_82-58",
-        "name_clean": "avalancheaxe_82-58",
+        "name_clean": "avalanche_axe_82-58",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2256,7 +2256,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\82\\59.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2264,7 +2264,7 @@
         "dat_path": 59,
         "file_id": 35581,
         "name": "Spinning Axe_82-59",
-        "name_clean": "spinningaxe_82-59",
+        "name_clean": "spinning_axe_82-59",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2272,7 +2272,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\82\\60.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2288,7 +2288,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\82\\61.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2304,7 +2304,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\103\\111.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2312,7 +2312,7 @@
         "dat_path": 111,
         "file_id": 35584,
         "name": "Mistral Axe_103-111",
-        "name_clean": "mistralaxe_103-111",
+        "name_clean": "mistral_axe_103-111",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2320,7 +2320,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\103\\112.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2336,7 +2336,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\140\\98.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -2352,7 +2352,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\206\\78.DAT",
         "dat_dir": 206,
         "dat_header": "ef_0",
@@ -2360,7 +2360,7 @@
         "dat_path": 78,
         "file_id": 35587,
         "name": "Primal Rend_206-78",
-        "name_clean": "primalrend_206-78",
+        "name_clean": "primal_rend_206-78",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2368,7 +2368,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\244\\103.DAT",
         "dat_dir": 244,
         "dat_header": "ef_0",
@@ -2376,7 +2376,7 @@
         "dat_path": 103,
         "file_id": 35588,
         "name": "Bora Axe_244-103",
-        "name_clean": "boraaxe_244-103",
+        "name_clean": "bora_axe_244-103",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2384,7 +2384,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\255\\93.DAT",
         "dat_dir": 255,
         "dat_header": "ef_0",
@@ -2400,7 +2400,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Axe",
+        "category": "axe",
         "dat": "ROM\\269\\111.DAT",
         "dat_dir": 269,
         "dat_header": "ef_0",
@@ -2416,7 +2416,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\103\\125.DAT",
         "dat_dir": 103,
         "dat_header": "ef_1",
@@ -2424,7 +2424,7 @@
         "dat_path": 125,
         "file_id": 35682,
         "name": "Blade Rin_103-125",
-        "name_clean": "bladerin_103-125",
+        "name_clean": "blade_rin_103-125",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2432,7 +2432,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\103\\126.DAT",
         "dat_dir": 103,
         "dat_header": "ef_1",
@@ -2440,7 +2440,7 @@
         "dat_path": 126,
         "file_id": 35683,
         "name": "Blade Retsu_103-126",
-        "name_clean": "bladeretsu_103-126",
+        "name_clean": "blade_retsu_103-126",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2448,7 +2448,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\103\\127.DAT",
         "dat_dir": 103,
         "dat_header": "ef_1",
@@ -2456,7 +2456,7 @@
         "dat_path": 127,
         "file_id": 35684,
         "name": "Blade Teki_103-127",
-        "name_clean": "bladeteki_103-127",
+        "name_clean": "blade_teki_103-127",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2464,7 +2464,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\104\\0.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -2472,7 +2472,7 @@
         "dat_path": 0,
         "file_id": 35685,
         "name": "Blade To_104-0",
-        "name_clean": "bladeto_104-0",
+        "name_clean": "blade_to_104-0",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2480,7 +2480,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\104\\1.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -2488,7 +2488,7 @@
         "dat_path": 1,
         "file_id": 35686,
         "name": "Blade Chi_104-1",
-        "name_clean": "bladechi_104-1",
+        "name_clean": "blade_chi_104-1",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2496,7 +2496,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\104\\2.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -2504,7 +2504,7 @@
         "dat_path": 2,
         "file_id": 35687,
         "name": "Blade Ei_104-2",
-        "name_clean": "bladeei_104-2",
+        "name_clean": "blade_ei_104-2",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2512,7 +2512,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\104\\3.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -2520,7 +2520,7 @@
         "dat_path": 3,
         "file_id": 35688,
         "name": "Blade Jin_104-3",
-        "name_clean": "bladejin_104-3",
+        "name_clean": "blade_jin_104-3",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2528,7 +2528,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\104\\4.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -2536,7 +2536,7 @@
         "dat_path": 4,
         "file_id": 35689,
         "name": "Blade Ten_104-4",
-        "name_clean": "bladeten_104-4",
+        "name_clean": "blade_ten_104-4",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2544,7 +2544,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\104\\5.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -2552,7 +2552,7 @@
         "dat_path": 5,
         "file_id": 35690,
         "name": "Blade Ku_104-5",
-        "name_clean": "bladeku_104-5",
+        "name_clean": "blade_ku_104-5",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2560,7 +2560,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\140\\105.DAT",
         "dat_dir": 140,
         "dat_header": "ef_1",
@@ -2568,7 +2568,7 @@
         "dat_path": 105,
         "file_id": 35691,
         "name": "Blade Metsu_140-105",
-        "name_clean": "blademetsu_140-105",
+        "name_clean": "blade_metsu_140-105",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2576,7 +2576,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\208\\73.DAT",
         "dat_dir": 208,
         "dat_header": "ef_1",
@@ -2584,7 +2584,7 @@
         "dat_path": 73,
         "file_id": 35692,
         "name": "Blade Kamu_208-73",
-        "name_clean": "bladekamu_208-73",
+        "name_clean": "blade_kamu_208-73",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2592,7 +2592,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\243\\17.DAT",
         "dat_dir": 243,
         "dat_header": "ef_1",
@@ -2600,7 +2600,7 @@
         "dat_path": 17,
         "file_id": 35693,
         "name": "Blade Yu_243-17",
-        "name_clean": "bladeyu_243-17",
+        "name_clean": "blade_yu_243-17",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2608,7 +2608,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\257\\8.DAT",
         "dat_dir": 257,
         "dat_header": "ef_1",
@@ -2616,7 +2616,7 @@
         "dat_path": 8,
         "file_id": 35694,
         "name": "Blade Hi_257-8",
-        "name_clean": "bladehi_257-8",
+        "name_clean": "blade_hi_257-8",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2624,7 +2624,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Katana",
+        "category": "katana",
         "dat": "ROM\\271\\3.DAT",
         "dat_dir": 271,
         "dat_header": "ef_1",
@@ -2632,7 +2632,7 @@
         "dat_path": 3,
         "file_id": 35695,
         "name": "Blade Shun_271-3",
-        "name_clean": "bladeshun_271-3",
+        "name_clean": "blade_shun_271-3",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2640,7 +2640,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\82\\84.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2648,7 +2648,7 @@
         "dat_path": 84,
         "file_id": 35637,
         "name": "Hard Slash_82-84",
-        "name_clean": "hardslash_82-84",
+        "name_clean": "hard_slash_82-84",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2656,7 +2656,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\82\\85.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2664,7 +2664,7 @@
         "dat_path": 85,
         "file_id": 35638,
         "name": "Power Slash_82-85",
-        "name_clean": "powerslash_82-85",
+        "name_clean": "power_slash_82-85",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2672,7 +2672,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\82\\86.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2688,7 +2688,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\82\\87.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2704,7 +2704,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\82\\88.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2720,7 +2720,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\82\\89.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2728,7 +2728,7 @@
         "dat_path": 89,
         "file_id": 35642,
         "name": "Crescent Moon_82-89",
-        "name_clean": "crescentmoon_82-89",
+        "name_clean": "crescent_moon_82-89",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2736,7 +2736,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\82\\90.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2744,7 +2744,7 @@
         "dat_path": 90,
         "file_id": 35643,
         "name": "Sickle Moon_82-90",
-        "name_clean": "sicklemoon_82-90",
+        "name_clean": "sickle_moon_82-90",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2752,7 +2752,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\103\\119.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2760,7 +2760,7 @@
         "dat_path": 119,
         "file_id": 35644,
         "name": "Spinning Slash_103-119",
-        "name_clean": "spinningslash_103-119",
+        "name_clean": "spinning_slash_103-119",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2768,7 +2768,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\103\\120.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2776,7 +2776,7 @@
         "dat_path": 120,
         "file_id": 35645,
         "name": "Ground Strike_103-120",
-        "name_clean": "groundstrike_103-120",
+        "name_clean": "ground_strike_103-120",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2784,7 +2784,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\140\\102.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -2800,7 +2800,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\243\\16.DAT",
         "dat_dir": 243,
         "dat_header": "ef_0",
@@ -2808,7 +2808,7 @@
         "dat_path": 16,
         "file_id": 35647,
         "name": "Herculean Slash_243-16",
-        "name_clean": "herculeanslash_243-16",
+        "name_clean": "herculean_slash_243-16",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2816,7 +2816,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\255\\94.DAT",
         "dat_dir": 255,
         "dat_header": "ef_0",
@@ -2832,7 +2832,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Sword",
+        "category": "g_sword",
         "dat": "ROM\\270\\25.DAT",
         "dat_dir": 270,
         "dat_header": "ef_0",
@@ -2848,7 +2848,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\82\\98.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2856,7 +2856,7 @@
         "dat_path": 98,
         "file_id": 35667,
         "name": "Heavy Swing_82-98",
-        "name_clean": "heavyswing_82-98",
+        "name_clean": "heavy_swing_82-98",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2864,7 +2864,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\82\\99.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2872,7 +2872,7 @@
         "dat_path": 99,
         "file_id": 35668,
         "name": "Rock Crusher_82-99",
-        "name_clean": "rockcrusher_82-99",
+        "name_clean": "rock_crusher_82-99",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2880,7 +2880,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\82\\100.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2888,7 +2888,7 @@
         "dat_path": 100,
         "file_id": 35669,
         "name": "Earth Crusher_82-100",
-        "name_clean": "earthcrusher_82-100",
+        "name_clean": "earth_crusher_82-100",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2896,7 +2896,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\82\\101.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2912,7 +2912,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\82\\102.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2928,7 +2928,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\82\\103.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2936,7 +2936,7 @@
         "dat_path": 103,
         "file_id": 35672,
         "name": "Shell Crusher_82-103",
-        "name_clean": "shellcrusher_82-103",
+        "name_clean": "shell_crusher_82-103",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2944,7 +2944,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\82\\104.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -2952,7 +2952,7 @@
         "dat_path": 104,
         "file_id": 35673,
         "name": "Full Swing_82-104",
-        "name_clean": "fullswing_82-104",
+        "name_clean": "full_swing_82-104",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2960,7 +2960,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\103\\123.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2968,7 +2968,7 @@
         "dat_path": 123,
         "file_id": 35674,
         "name": "Spirit Taker_103-123",
-        "name_clean": "spirittaker_103-123",
+        "name_clean": "spirit_taker_103-123",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -2976,7 +2976,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\103\\124.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -2992,7 +2992,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\140\\104.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -3000,7 +3000,7 @@
         "dat_path": 104,
         "file_id": 35676,
         "name": "Gate of Tartarus_140-104",
-        "name_clean": "gateoftartarus_140-104",
+        "name_clean": "gate_of_tartarus_140-104",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3008,7 +3008,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\208\\70.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -3024,7 +3024,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\208\\71.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -3032,7 +3032,7 @@
         "dat_path": 71,
         "file_id": 35678,
         "name": "Garland of Bliss_208-71",
-        "name_clean": "garlandofbliss_208-71",
+        "name_clean": "garland_of_bliss_208-71",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3040,7 +3040,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\208\\72.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -3056,7 +3056,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\240\\22.DAT",
         "dat_dir": 240,
         "dat_header": "ef_e",
@@ -3064,7 +3064,7 @@
         "dat_path": 22,
         "file_id": 35680,
         "name": "Tartarus Torpor_240-22",
-        "name_clean": "tartarustorpor_240-22",
+        "name_clean": "tartarus_torpor_240-22",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3072,7 +3072,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\244\\107.DAT",
         "dat_dir": 244,
         "dat_header": "ef_0",
@@ -3088,7 +3088,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\257\\113.DAT",
         "dat_dir": 257,
         "dat_header": "ef_0",
@@ -3104,7 +3104,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Staff",
+        "category": "staff",
         "dat": "ROM\\270\\26.DAT",
         "dat_dir": 270,
         "dat_header": "ef_0",
@@ -3120,7 +3120,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\82\\77.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3128,7 +3128,7 @@
         "dat_path": 77,
         "file_id": 35622,
         "name": "Shield Break_82-77",
-        "name_clean": "shieldbreak_82-77",
+        "name_clean": "shield_break_82-77",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3136,7 +3136,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\82\\78.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3144,7 +3144,7 @@
         "dat_path": 78,
         "file_id": 35623,
         "name": "Iron Tempest_82-78",
-        "name_clean": "irontempest_82-78",
+        "name_clean": "iron_tempest_82-78",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3152,7 +3152,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\82\\79.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3168,7 +3168,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\82\\80.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3176,7 +3176,7 @@
         "dat_path": 80,
         "file_id": 35625,
         "name": "Armor Break_82-80",
-        "name_clean": "armorbreak_82-80",
+        "name_clean": "armor_break_82-80",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3184,7 +3184,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\82\\81.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3192,7 +3192,7 @@
         "dat_path": 81,
         "file_id": 35626,
         "name": "Keen Edge_82-81",
-        "name_clean": "keenedge_82-81",
+        "name_clean": "keen_edge_82-81",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3200,7 +3200,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\82\\82.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3208,7 +3208,7 @@
         "dat_path": 82,
         "file_id": 35627,
         "name": "Weapon Break_82-82",
-        "name_clean": "weaponbreak_82-82",
+        "name_clean": "weapon_break_82-82",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3216,7 +3216,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\82\\83.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3224,7 +3224,7 @@
         "dat_path": 83,
         "file_id": 35628,
         "name": "Raging Rush_82-83",
-        "name_clean": "ragingrush_82-83",
+        "name_clean": "raging_rush_82-83",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3232,7 +3232,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\103\\117.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -3240,7 +3240,7 @@
         "dat_path": 117,
         "file_id": 35629,
         "name": "Full Break_103-117",
-        "name_clean": "fullbreak_103-117",
+        "name_clean": "full_break_103-117",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3248,7 +3248,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\103\\118.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -3256,7 +3256,7 @@
         "dat_path": 118,
         "file_id": 35630,
         "name": "Steel Cyclone_103-118",
-        "name_clean": "steelcyclone_103-118",
+        "name_clean": "steel_cyclone_103-118",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3264,7 +3264,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\140\\101.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -3272,7 +3272,7 @@
         "dat_path": 101,
         "file_id": 35631,
         "name": "Metatron Torment_140-101",
-        "name_clean": "metatrontorment_140-101",
+        "name_clean": "metatron_torment_140-101",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3280,7 +3280,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\208\\68.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -3288,7 +3288,7 @@
         "dat_path": 68,
         "file_id": 35632,
         "name": "Kings Justice_208-68",
-        "name_clean": "kingsjustice_208-68",
+        "name_clean": "kings_justice_208-68",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3296,7 +3296,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\243\\15.DAT",
         "dat_dir": 243,
         "dat_header": "ef_0",
@@ -3304,7 +3304,7 @@
         "dat_path": 15,
         "file_id": 35633,
         "name": "Fell Cleave_243-15",
-        "name_clean": "fellcleave_243-15",
+        "name_clean": "fell_cleave_243-15",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3312,7 +3312,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\257\\112.DAT",
         "dat_dir": 257,
         "dat_header": "ef_0",
@@ -3320,7 +3320,7 @@
         "dat_path": 112,
         "file_id": 35634,
         "name": "Ukkos Fury_257-112",
-        "name_clean": "ukkosfury_257-112",
+        "name_clean": "ukkos_fury_257-112",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3328,7 +3328,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Axe",
+        "category": "g_axe",
         "dat": "ROM\\272\\51.DAT",
         "dat_dir": 272,
         "dat_header": "ef_0",
@@ -3344,7 +3344,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\6.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3352,7 +3352,7 @@
         "dat_path": 6,
         "file_id": 35697,
         "name": "Tachi Enpi_104-6",
-        "name_clean": "tachienpi_104-6",
+        "name_clean": "tachi_enpi_104-6",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3360,7 +3360,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\7.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3368,7 +3368,7 @@
         "dat_path": 7,
         "file_id": 35698,
         "name": "Tachi Hobaku_104-7",
-        "name_clean": "tachihobaku_104-7",
+        "name_clean": "tachi_hobaku_104-7",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3376,7 +3376,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\8.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3384,7 +3384,7 @@
         "dat_path": 8,
         "file_id": 35699,
         "name": "Tachi Goten_104-8",
-        "name_clean": "tachigoten_104-8",
+        "name_clean": "tachi_goten_104-8",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3392,7 +3392,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\9.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3400,7 +3400,7 @@
         "dat_path": 9,
         "file_id": 35700,
         "name": "Tachi Kagero_104-9",
-        "name_clean": "tachikagero_104-9",
+        "name_clean": "tachi_kagero_104-9",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3408,7 +3408,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\10.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3416,7 +3416,7 @@
         "dat_path": 10,
         "file_id": 35701,
         "name": "Tachi Jinpu_104-10",
-        "name_clean": "tachijinpu_104-10",
+        "name_clean": "tachi_jinpu_104-10",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3424,7 +3424,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\11.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3432,7 +3432,7 @@
         "dat_path": 11,
         "file_id": 35702,
         "name": "Tachi Koki_104-11",
-        "name_clean": "tachikoki_104-11",
+        "name_clean": "tachi_koki_104-11",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3440,7 +3440,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\12.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3448,7 +3448,7 @@
         "dat_path": 12,
         "file_id": 35703,
         "name": "Tachi Yukikaze_104-12",
-        "name_clean": "tachiyukikaze_104-12",
+        "name_clean": "tachi_yukikaze_104-12",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3456,7 +3456,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\13.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3464,7 +3464,7 @@
         "dat_path": 13,
         "file_id": 35704,
         "name": "Tachi Gekko_104-13",
-        "name_clean": "tachigekko_104-13",
+        "name_clean": "tachi_gekko_104-13",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3472,7 +3472,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\104\\14.DAT",
         "dat_dir": 104,
         "dat_header": "ef_1",
@@ -3480,7 +3480,7 @@
         "dat_path": 14,
         "file_id": 35705,
         "name": "Tachi Kasha_104-14",
-        "name_clean": "tachikasha_104-14",
+        "name_clean": "tachi_kasha_104-14",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3488,7 +3488,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\140\\106.DAT",
         "dat_dir": 140,
         "dat_header": "ef_1",
@@ -3496,7 +3496,7 @@
         "dat_path": 106,
         "file_id": 35706,
         "name": "Tachi Kaiten_140-106",
-        "name_clean": "tachikaiten_140-106",
+        "name_clean": "tachi_kaiten_140-106",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3504,7 +3504,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\208\\74.DAT",
         "dat_dir": 208,
         "dat_header": "ef_1",
@@ -3512,7 +3512,7 @@
         "dat_path": 74,
         "file_id": 35707,
         "name": "Tachi Rana_208-74",
-        "name_clean": "tachirana_208-74",
+        "name_clean": "tachi_rana_208-74",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3520,7 +3520,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\244\\105.DAT",
         "dat_dir": 244,
         "dat_header": "ef_1",
@@ -3528,7 +3528,7 @@
         "dat_path": 105,
         "file_id": 35708,
         "name": "Tachi Ageha_244-105",
-        "name_clean": "tachiageha_244-105",
+        "name_clean": "tachi_ageha_244-105",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3536,7 +3536,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\255\\95.DAT",
         "dat_dir": 255,
         "dat_header": "ef_1",
@@ -3544,7 +3544,7 @@
         "dat_path": 95,
         "file_id": 35709,
         "name": "Tachi Fudo_255-95",
-        "name_clean": "tachifudo_255-95",
+        "name_clean": "tachi_fudo_255-95",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3552,7 +3552,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "G. Katana",
+        "category": "g_katana",
         "dat": "ROM\\268\\106.DAT",
         "dat_dir": 268,
         "dat_header": "ef_1",
@@ -3560,7 +3560,7 @@
         "dat_path": 106,
         "file_id": 35710,
         "name": "Tachi Shoha_268-106",
-        "name_clean": "tachishoha_268-106",
+        "name_clean": "tachi_shoha_268-106",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3568,7 +3568,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\82\\62.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3584,7 +3584,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\82\\63.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3592,7 +3592,7 @@
         "dat_path": 63,
         "file_id": 35593,
         "name": "Dark Harvest_82-63",
-        "name_clean": "darkharvest_82-63",
+        "name_clean": "dark_harvest_82-63",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3600,7 +3600,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\82\\64.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3608,7 +3608,7 @@
         "dat_path": 64,
         "file_id": 35594,
         "name": "Shadow of Death_82-64",
-        "name_clean": "shadowofdeath_82-64",
+        "name_clean": "shadow_of_death_82-64",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3616,7 +3616,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\82\\65.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3624,7 +3624,7 @@
         "dat_path": 65,
         "file_id": 35595,
         "name": "Nightmare Scythe_82-65",
-        "name_clean": "nightmarescythe_82-65",
+        "name_clean": "nightmare_scythe_82-65",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3632,7 +3632,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\82\\66.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3640,7 +3640,7 @@
         "dat_path": 66,
         "file_id": 35596,
         "name": "Spinning Scythe_82-66",
-        "name_clean": "spinningscythe_82-66",
+        "name_clean": "spinning_scythe_82-66",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3648,7 +3648,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\82\\67.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3656,7 +3656,7 @@
         "dat_path": 67,
         "file_id": 35597,
         "name": "Vorpal Scythe_82-67",
-        "name_clean": "vorpalscythe_82-67",
+        "name_clean": "vorpal_scythe_82-67",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3664,7 +3664,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\82\\68.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3680,7 +3680,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\103\\113.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -3688,7 +3688,7 @@
         "dat_path": 113,
         "file_id": 35599,
         "name": "Cross Reaper_103-113",
-        "name_clean": "crossreaper_103-113",
+        "name_clean": "cross_reaper_103-113",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3696,7 +3696,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\103\\114.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -3704,7 +3704,7 @@
         "dat_path": 114,
         "file_id": 35600,
         "name": "Spiral Hell_103-114",
-        "name_clean": "spiralhell_103-114",
+        "name_clean": "spiral_hell_103-114",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3712,7 +3712,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\140\\99.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -3728,7 +3728,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\208\\67.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -3744,7 +3744,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\243\\13.DAT",
         "dat_dir": 243,
         "dat_header": "ef_0",
@@ -3752,7 +3752,7 @@
         "dat_path": 13,
         "file_id": 35603,
         "name": "Infernal Scythe_243-13",
-        "name_clean": "infernalscythe_243-13",
+        "name_clean": "infernal_scythe_243-13",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3760,7 +3760,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\257\\6.DAT",
         "dat_dir": 257,
         "dat_header": "ef_0",
@@ -3776,7 +3776,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Scythe",
+        "category": "scythe",
         "dat": "ROM\\268\\104.DAT",
         "dat_dir": 268,
         "dat_header": "ef_0",
@@ -3792,7 +3792,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\82\\91.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3800,7 +3800,7 @@
         "dat_path": 91,
         "file_id": 35652,
         "name": "Double Thrust_82-91",
-        "name_clean": "doublethrust_82-91",
+        "name_clean": "double_thrust_82-91",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3808,7 +3808,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\82\\92.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3816,7 +3816,7 @@
         "dat_path": 92,
         "file_id": 35653,
         "name": "Thunder Thrust_82-92",
-        "name_clean": "thunderthrust_82-92",
+        "name_clean": "thunder_thrust_82-92",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3824,7 +3824,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\82\\93.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3832,7 +3832,7 @@
         "dat_path": 93,
         "file_id": 35654,
         "name": "Raiden Thrust_82-93",
-        "name_clean": "raidenthrust_82-93",
+        "name_clean": "raiden_thrust_82-93",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3840,7 +3840,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\82\\94.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3848,7 +3848,7 @@
         "dat_path": 94,
         "file_id": 35655,
         "name": "Leg Sweep_82-94",
-        "name_clean": "legsweep_82-94",
+        "name_clean": "leg_sweep_82-94",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3856,7 +3856,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\82\\95.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3864,7 +3864,7 @@
         "dat_path": 95,
         "file_id": 35656,
         "name": "Penta Thrust_82-95",
-        "name_clean": "pentathrust_82-95",
+        "name_clean": "penta_thrust_82-95",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3872,7 +3872,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\82\\96.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3880,7 +3880,7 @@
         "dat_path": 96,
         "file_id": 35657,
         "name": "Vorpal Thrust_82-96",
-        "name_clean": "vorpalthrust_82-96",
+        "name_clean": "vorpal_thrust_82-96",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3888,7 +3888,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\82\\97.DAT",
         "dat_dir": 82,
         "dat_header": "ef_0",
@@ -3904,7 +3904,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\103\\121.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -3912,7 +3912,7 @@
         "dat_path": 121,
         "file_id": 35659,
         "name": "Wheeling Thrust_103-121",
-        "name_clean": "wheelingthrust_103-121",
+        "name_clean": "wheeling_thrust_103-121",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3920,7 +3920,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\103\\122.DAT",
         "dat_dir": 103,
         "dat_header": "ef_0",
@@ -3928,7 +3928,7 @@
         "dat_path": 122,
         "file_id": 35660,
         "name": "Impulse Drive_103-122",
-        "name_clean": "impulsedrive_103-122",
+        "name_clean": "impulse_drive_103-122",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3936,7 +3936,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\140\\103.DAT",
         "dat_dir": 140,
         "dat_header": "ef_0",
@@ -3952,7 +3952,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\208\\69.DAT",
         "dat_dir": 208,
         "dat_header": "ef_0",
@@ -3968,7 +3968,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\244\\104.DAT",
         "dat_dir": 244,
         "dat_header": "ef_0",
@@ -3976,7 +3976,7 @@
         "dat_path": 104,
         "file_id": 35663,
         "name": "Sonic Thrust_244-104",
-        "name_clean": "sonicthrust_244-104",
+        "name_clean": "sonic_thrust_244-104",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -3984,7 +3984,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\257\\7.DAT",
         "dat_dir": 257,
         "dat_header": "ef_0",
@@ -3992,7 +3992,7 @@
         "dat_path": 7,
         "file_id": 35664,
         "name": "Camlanns Torment_257-7",
-        "name_clean": "camlannstorment_257-7",
+        "name_clean": "camlanns_torment_257-7",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4000,7 +4000,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Polearm",
+        "category": "polearm",
         "dat": "ROM\\268\\105.DAT",
         "dat_dir": 268,
         "dat_header": "ef_0",
@@ -4016,7 +4016,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\82\\110.DAT",
         "dat_dir": 82,
         "dat_header": "snip",
@@ -4024,7 +4024,7 @@
         "dat_path": 110,
         "file_id": 35717,
         "name": "Eagle Eye Shot_82-110",
-        "name_clean": "eagleeyeshot_82-110",
+        "name_clean": "eagle_eye_shot_82-110",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4032,7 +4032,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\82\\112.DAT",
         "dat_dir": 82,
         "dat_header": "kage",
@@ -4048,7 +4048,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\76\\113.DAT",
         "dat_dir": 76,
         "dat_header": "rwb1",
@@ -4056,7 +4056,7 @@
         "dat_path": 113,
         "file_id": 38026,
         "name": "Flaming Arrow_76-113",
-        "name_clean": "flamingarrow_76-113",
+        "name_clean": "flaming_arrow_76-113",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4064,7 +4064,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\76\\114.DAT",
         "dat_dir": 76,
         "dat_header": "rwb2",
@@ -4072,7 +4072,7 @@
         "dat_path": 114,
         "file_id": 38027,
         "name": "Piercing Arrow_76-114",
-        "name_clean": "piercingarrow_76-114",
+        "name_clean": "piercing_arrow_76-114",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4080,7 +4080,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\76\\115.DAT",
         "dat_dir": 76,
         "dat_header": "rwb3",
@@ -4088,7 +4088,7 @@
         "dat_path": 115,
         "file_id": 38028,
         "name": "Dulling Arrow_76-115",
-        "name_clean": "dullingarrow_76-115",
+        "name_clean": "dulling_arrow_76-115",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4096,7 +4096,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\76\\116.DAT",
         "dat_dir": 76,
         "dat_header": "rwb5",
@@ -4104,7 +4104,7 @@
         "dat_path": 116,
         "file_id": 38029,
         "name": "Unknown WS_76-116",
-        "name_clean": "unknownws_76-116",
+        "name_clean": "unknown_ws_76-116",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4112,7 +4112,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\76\\117.DAT",
         "dat_dir": 76,
         "dat_header": "rwb4",
@@ -4128,7 +4128,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\104\\30.DAT",
         "dat_dir": 104,
         "dat_header": "ef_y",
@@ -4136,7 +4136,7 @@
         "dat_path": 30,
         "file_id": 35750,
         "name": "Blast Arrow_104-30",
-        "name_clean": "blastarrow_104-30",
+        "name_clean": "blast_arrow_104-30",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4144,7 +4144,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\104\\31.DAT",
         "dat_dir": 104,
         "dat_header": "ef_y",
@@ -4152,7 +4152,7 @@
         "dat_path": 31,
         "file_id": 35751,
         "name": "Arching Arrow_104-31",
-        "name_clean": "archingarrow_104-31",
+        "name_clean": "arching_arrow_104-31",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4160,7 +4160,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\104\\32.DAT",
         "dat_dir": 104,
         "dat_header": "ef_y",
@@ -4168,7 +4168,7 @@
         "dat_path": 32,
         "file_id": 35752,
         "name": "Empyreal Arrow_104-32",
-        "name_clean": "empyrealarrow_104-32",
+        "name_clean": "empyreal_arrow_104-32",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4176,7 +4176,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\140\\107.DAT",
         "dat_dir": 140,
         "dat_header": "ef_y",
@@ -4184,7 +4184,7 @@
         "dat_path": 107,
         "file_id": 35756,
         "name": "Namas Arrow_140-107",
-        "name_clean": "namasarrow_140-107",
+        "name_clean": "namas_arrow_140-107",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4192,7 +4192,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\245\\37.DAT",
         "dat_dir": 245,
         "dat_header": "rwba",
@@ -4200,7 +4200,7 @@
         "dat_path": 37,
         "file_id": 38067,
         "name": "Refulgent Arrow_245-37",
-        "name_clean": "refulgentarrow_245-37",
+        "name_clean": "refulgent_arrow_245-37",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4208,7 +4208,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\257\\9.DAT",
         "dat_dir": 257,
         "dat_header": "ef_y",
@@ -4216,7 +4216,7 @@
         "dat_path": 9,
         "file_id": 35765,
         "name": "Jishnus Radiance_257-9",
-        "name_clean": "jishnusradiance_257-9",
+        "name_clean": "jishnus_radiance_257-9",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4224,7 +4224,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Archery",
+        "category": "archery",
         "dat": "ROM\\269\\112.DAT",
         "dat_dir": 269,
         "dat_header": "ef_y",
@@ -4232,7 +4232,7 @@
         "dat_path": 112,
         "file_id": 35771,
         "name": "Apex Arrow_269-112",
-        "name_clean": "apexarrow_269-112",
+        "name_clean": "apex_arrow_269-112",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4240,7 +4240,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\82\\111.DAT",
         "dat_dir": 82,
         "dat_header": "snig",
@@ -4248,7 +4248,7 @@
         "dat_path": 111,
         "file_id": 35718,
         "name": "Eagle Eye Shot_82-111",
-        "name_clean": "eagleeyeshot_82-111",
+        "name_clean": "eagle_eye_shot_82-111",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4256,7 +4256,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\82\\113.DAT",
         "dat_dir": 82,
         "dat_header": "kagg",
@@ -4272,7 +4272,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\76\\118.DAT",
         "dat_dir": 76,
         "dat_header": "rwg1",
@@ -4280,7 +4280,7 @@
         "dat_path": 118,
         "file_id": 38031,
         "name": "Hot Shot_76-118",
-        "name_clean": "hotshot_76-118",
+        "name_clean": "hot_shot_76-118",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4288,7 +4288,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\76\\119.DAT",
         "dat_dir": 76,
         "dat_header": "rwg2",
@@ -4296,7 +4296,7 @@
         "dat_path": 119,
         "file_id": 38032,
         "name": "Split Shot_76-119",
-        "name_clean": "splitshot_76-119",
+        "name_clean": "split_shot_76-119",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4304,7 +4304,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\76\\120.DAT",
         "dat_dir": 76,
         "dat_header": "rwg3",
@@ -4312,7 +4312,7 @@
         "dat_path": 120,
         "file_id": 38033,
         "name": "Sniper Shot_76-120",
-        "name_clean": "snipershot_76-120",
+        "name_clean": "sniper_shot_76-120",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4320,7 +4320,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\76\\121.DAT",
         "dat_dir": 76,
         "dat_header": "rwg5",
@@ -4328,7 +4328,7 @@
         "dat_path": 121,
         "file_id": 38034,
         "name": "Unknown WS_76-121",
-        "name_clean": "unknownws_76-121",
+        "name_clean": "unknown_ws_76-121",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4336,7 +4336,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\76\\122.DAT",
         "dat_dir": 76,
         "dat_header": "rwg4",
@@ -4344,7 +4344,7 @@
         "dat_path": 122,
         "file_id": 38035,
         "name": "Slug Shot_76-122",
-        "name_clean": "slugshot_76-122",
+        "name_clean": "slug_shot_76-122",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4352,7 +4352,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\104\\33.DAT",
         "dat_dir": 104,
         "dat_header": "ef_g",
@@ -4360,7 +4360,7 @@
         "dat_path": 33,
         "file_id": 35753,
         "name": "Blast Shot_104-33",
-        "name_clean": "blastshot_104-33",
+        "name_clean": "blast_shot_104-33",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4368,7 +4368,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\104\\34.DAT",
         "dat_dir": 104,
         "dat_header": "ef_g",
@@ -4376,7 +4376,7 @@
         "dat_path": 34,
         "file_id": 35754,
         "name": "Heavy Shot_104-34",
-        "name_clean": "heavyshot_104-34",
+        "name_clean": "heavy_shot_104-34",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4384,7 +4384,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\104\\35.DAT",
         "dat_dir": 104,
         "dat_header": "ef_g",
@@ -4400,7 +4400,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\140\\108.DAT",
         "dat_dir": 140,
         "dat_header": "ef_g",
@@ -4416,7 +4416,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\208\\75.DAT",
         "dat_dir": 208,
         "dat_header": "ef_g",
@@ -4432,7 +4432,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\208\\76.DAT",
         "dat_dir": 208,
         "dat_header": "ef_g",
@@ -4440,7 +4440,7 @@
         "dat_path": 76,
         "file_id": 35759,
         "name": "Leaden Salute_208-76",
-        "name_clean": "leadensalute_208-76",
+        "name_clean": "leaden_salute_208-76",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4448,7 +4448,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\243\\18.DAT",
         "dat_dir": 243,
         "dat_header": "ef_g",
@@ -4456,7 +4456,7 @@
         "dat_path": 18,
         "file_id": 35760,
         "name": "Numbing Shot_243-18",
-        "name_clean": "numbingshot_243-18",
+        "name_clean": "numbing_shot_243-18",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4464,7 +4464,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\257\\10.DAT",
         "dat_dir": 257,
         "dat_header": "ef_g",
@@ -4480,7 +4480,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Marksmanship",
+        "category": "marksmanship",
         "dat": "ROM\\271\\4.DAT",
         "dat_dir": 271,
         "dat_header": "ef_g",
@@ -4488,7 +4488,7 @@
         "dat_path": 4,
         "file_id": 35772,
         "name": "Last Stand_271-4",
-        "name_clean": "laststand_271-4",
+        "name_clean": "last_stand_271-4",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -4496,7 +4496,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Mannequin",
+        "category": "mannequin",
         "dat": "ROM\\143\\24.DAT",
         "dat_dir": 143,
         "dat_header": "ef_m",
@@ -4512,7 +4512,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Mannequin",
+        "category": "mannequin",
         "dat": "ROM\\153\\124.DAT",
         "dat_dir": 153,
         "dat_header": "ef_m",
@@ -4528,7 +4528,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Mannequin",
+        "category": "mannequin",
         "dat": "ROM\\153\\125.DAT",
         "dat_dir": 153,
         "dat_header": "ef_m",
@@ -4544,7 +4544,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\69\\88.DAT",
         "dat_dir": 69,
         "dat_header": "mot_",
@@ -4560,7 +4560,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\69\\89.DAT",
         "dat_dir": 69,
         "dat_header": "mot_",
@@ -4576,7 +4576,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\69\\90.DAT",
         "dat_dir": 69,
         "dat_header": "mot_",
@@ -4592,7 +4592,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\71\\5.DAT",
         "dat_dir": 71,
         "dat_header": "mot_",
@@ -4608,7 +4608,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\71\\6.DAT",
         "dat_dir": 71,
         "dat_header": "mot_",
@@ -4624,7 +4624,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\71\\7.DAT",
         "dat_dir": 71,
         "dat_header": "mot_",
@@ -4640,7 +4640,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\71\\8.DAT",
         "dat_dir": 71,
         "dat_header": "mot_",
@@ -4656,7 +4656,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\71\\9.DAT",
         "dat_dir": 71,
         "dat_header": "mot_",
@@ -4672,7 +4672,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\71\\10.DAT",
         "dat_dir": 71,
         "dat_header": "mot_",
@@ -4688,7 +4688,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\71\\102.DAT",
         "dat_dir": 71,
         "dat_header": "def_",
@@ -4704,7 +4704,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\72\\97.DAT",
         "dat_dir": 72,
         "dat_header": "mot_",
@@ -4720,7 +4720,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\72\\98.DAT",
         "dat_dir": 72,
         "dat_header": "mot_",
@@ -4736,7 +4736,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\72\\99.DAT",
         "dat_dir": 72,
         "dat_header": "mot_",
@@ -4752,7 +4752,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\72\\100.DAT",
         "dat_dir": 72,
         "dat_header": "mot_",
@@ -4768,7 +4768,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\72\\106.DAT",
         "dat_dir": 72,
         "dat_header": "mot_",
@@ -4784,7 +4784,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\82\\30.DAT",
         "dat_dir": 82,
         "dat_header": "dumm",
@@ -4800,7 +4800,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\128\\9.DAT",
         "dat_dir": 128,
         "dat_header": "mot_",
@@ -4816,7 +4816,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\151\\108.DAT",
         "dat_dir": 151,
         "dat_header": "mot_",
@@ -4832,7 +4832,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\151\\109.DAT",
         "dat_dir": 151,
         "dat_header": "mot_",
@@ -4848,7 +4848,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\151\\110.DAT",
         "dat_dir": 151,
         "dat_header": "mot_",
@@ -4864,7 +4864,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\151\\111.DAT",
         "dat_dir": 151,
         "dat_header": "mot_",
@@ -4880,7 +4880,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\156\\76.DAT",
         "dat_dir": 156,
         "dat_header": "mot_",
@@ -4896,7 +4896,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\189\\73.DAT",
         "dat_dir": 189,
         "dat_header": "mot_",
@@ -4912,7 +4912,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\196\\41.DAT",
         "dat_dir": 196,
         "dat_header": "mot_",
@@ -4928,7 +4928,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\196\\42.DAT",
         "dat_dir": 196,
         "dat_header": "mot_",
@@ -4944,7 +4944,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\202\\6.DAT",
         "dat_dir": 202,
         "dat_header": "mot_",
@@ -4960,7 +4960,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\202\\7.DAT",
         "dat_dir": 202,
         "dat_header": "mot_",
@@ -4976,7 +4976,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\13.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -4992,7 +4992,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\14.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5008,7 +5008,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\15.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5024,7 +5024,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\16.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5040,7 +5040,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\17.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5056,7 +5056,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\18.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5072,7 +5072,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\19.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5088,7 +5088,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\20.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5104,7 +5104,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\21.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5120,7 +5120,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM\\213\\22.DAT",
         "dat_dir": 213,
         "dat_header": "mot_",
@@ -5136,7 +5136,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\4\\54.DAT",
         "dat_dir": 4,
         "dat_header": "mot_",
@@ -5152,7 +5152,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\4\\55.DAT",
         "dat_dir": 4,
         "dat_header": "mot_",
@@ -5168,7 +5168,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\4\\56.DAT",
         "dat_dir": 4,
         "dat_header": "mot_",
@@ -5184,7 +5184,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\4\\57.DAT",
         "dat_dir": 4,
         "dat_header": "mot_",
@@ -5200,7 +5200,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\4\\58.DAT",
         "dat_dir": 4,
         "dat_header": "mot_",
@@ -5216,7 +5216,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\8\\93.DAT",
         "dat_dir": 8,
         "dat_header": "mot_",
@@ -5232,7 +5232,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\8\\94.DAT",
         "dat_dir": 8,
         "dat_header": "mot_",
@@ -5248,7 +5248,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\8\\95.DAT",
         "dat_dir": 8,
         "dat_header": "mot_",
@@ -5264,7 +5264,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\8\\96.DAT",
         "dat_dir": 8,
         "dat_header": "mot_",
@@ -5280,7 +5280,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Others",
+        "category": "others",
         "dat": "ROM3\\8\\97.DAT",
         "dat_dir": 8,
         "dat_header": "mot_",
@@ -5296,7 +5296,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "NPC WS",
+        "category": "npc_ws",
         "dat": "ROM\\202\\39.DAT",
         "dat_dir": 202,
         "dat_header": "ef_f",
@@ -5312,7 +5312,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "NPC WS",
+        "category": "npc_ws",
         "dat": "ROM\\204\\32.DAT",
         "dat_dir": 204,
         "dat_header": "ef_s",
@@ -5320,7 +5320,7 @@
         "dat_path": 32,
         "file_id": 61596,
         "name": "Arrow of Apathy_204-32",
-        "name_clean": "arrowofapathy_204-32",
+        "name_clean": "arrow_of_apathy_204-32",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5328,7 +5328,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "NPC WS",
+        "category": "npc_ws",
         "dat": "ROM\\204\\33.DAT",
         "dat_dir": 204,
         "dat_header": "ef_d",
@@ -5336,7 +5336,7 @@
         "dat_path": 33,
         "file_id": 61597,
         "name": "Unknown WS_204-33",
-        "name_clean": "unknownws_204-33",
+        "name_clean": "unknown_ws_204-33",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5344,7 +5344,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\26.DAT",
         "dat_dir": 193,
         "dat_header": "dc00",
@@ -5352,7 +5352,7 @@
         "dat_path": 26,
         "file_id": 59193,
         "name": "Drain Samba_193-26",
-        "name_clean": "drainsamba_193-26",
+        "name_clean": "drain_samba_193-26",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5360,7 +5360,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\27.DAT",
         "dat_dir": 193,
         "dat_header": "dc01",
@@ -5368,7 +5368,7 @@
         "dat_path": 27,
         "file_id": 59194,
         "name": "Drain Samba II_193-27",
-        "name_clean": "drainsambaii_193-27",
+        "name_clean": "drain_samba_ii_193-27",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5376,7 +5376,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\28.DAT",
         "dat_dir": 193,
         "dat_header": "dc02",
@@ -5384,7 +5384,7 @@
         "dat_path": 28,
         "file_id": 59195,
         "name": "Drain Samba III_193-28",
-        "name_clean": "drainsambaiii_193-28",
+        "name_clean": "drain_samba_iii_193-28",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5392,7 +5392,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\29.DAT",
         "dat_dir": 193,
         "dat_header": "dc03",
@@ -5400,7 +5400,7 @@
         "dat_path": 29,
         "file_id": 59196,
         "name": "Aspir Samba_193-29",
-        "name_clean": "aspirsamba_193-29",
+        "name_clean": "aspir_samba_193-29",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5408,7 +5408,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\30.DAT",
         "dat_dir": 193,
         "dat_header": "dc04",
@@ -5416,7 +5416,7 @@
         "dat_path": 30,
         "file_id": 59197,
         "name": "Aspir Samba II_193-30",
-        "name_clean": "aspirsambaii_193-30",
+        "name_clean": "aspir_samba_ii_193-30",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5424,7 +5424,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\31.DAT",
         "dat_dir": 193,
         "dat_header": "dc05",
@@ -5432,7 +5432,7 @@
         "dat_path": 31,
         "file_id": 59198,
         "name": "Haste Samba_193-31",
-        "name_clean": "hastesamba_193-31",
+        "name_clean": "haste_samba_193-31",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5440,7 +5440,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\32.DAT",
         "dat_dir": 193,
         "dat_header": "dc10",
@@ -5448,7 +5448,7 @@
         "dat_path": 32,
         "file_id": 59199,
         "name": "Curing Waltz_193-32",
-        "name_clean": "curingwaltz_193-32",
+        "name_clean": "curing_waltz_193-32",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5456,7 +5456,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\33.DAT",
         "dat_dir": 193,
         "dat_header": "dc11",
@@ -5464,7 +5464,7 @@
         "dat_path": 33,
         "file_id": 59200,
         "name": "Curing Waltz II_193-33",
-        "name_clean": "curingwaltzii_193-33",
+        "name_clean": "curing_waltz_ii_193-33",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5472,7 +5472,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\34.DAT",
         "dat_dir": 193,
         "dat_header": "dc12",
@@ -5480,7 +5480,7 @@
         "dat_path": 34,
         "file_id": 59201,
         "name": "Curing Waltz III_193-34",
-        "name_clean": "curingwaltziii_193-34",
+        "name_clean": "curing_waltz_iii_193-34",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5488,7 +5488,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\35.DAT",
         "dat_dir": 193,
         "dat_header": "dc13",
@@ -5496,7 +5496,7 @@
         "dat_path": 35,
         "file_id": 59202,
         "name": "Curing Waltz IV_193-35",
-        "name_clean": "curingwaltziv_193-35",
+        "name_clean": "curing_waltz_iv_193-35",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5504,7 +5504,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\261\\125.DAT",
         "dat_dir": 261,
         "dat_header": "dc17",
@@ -5512,7 +5512,7 @@
         "dat_path": 125,
         "file_id": 59228,
         "name": "Curing Waltz V_261-125",
-        "name_clean": "curingwaltzv_261-125",
+        "name_clean": "curing_waltz_v_261-125",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5520,7 +5520,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\36.DAT",
         "dat_dir": 193,
         "dat_header": "dc14",
@@ -5528,7 +5528,7 @@
         "dat_path": 36,
         "file_id": 59203,
         "name": "Healing Waltz_193-36",
-        "name_clean": "healingwaltz_193-36",
+        "name_clean": "healing_waltz_193-36",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5536,7 +5536,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\37.DAT",
         "dat_dir": 193,
         "dat_header": "dc15",
@@ -5544,7 +5544,7 @@
         "dat_path": 37,
         "file_id": 59204,
         "name": "Divine Waltz_193-37",
-        "name_clean": "divinewaltz_193-37",
+        "name_clean": "divine_waltz_193-37",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5552,7 +5552,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\246\\118.DAT",
         "dat_dir": 246,
         "dat_header": "dc16",
@@ -5560,7 +5560,7 @@
         "dat_path": 118,
         "file_id": 59227,
         "name": "Divine Waltz II_246-118",
-        "name_clean": "divinewaltzii_246-118",
+        "name_clean": "divine_waltz_ii_246-118",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5568,7 +5568,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\38.DAT",
         "dat_dir": 193,
         "dat_header": "dc20",
@@ -5576,7 +5576,7 @@
         "dat_path": 38,
         "file_id": 59205,
         "name": "Spectral Jig_193-38",
-        "name_clean": "spectraljig_193-38",
+        "name_clean": "spectral_jig_193-38",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5584,7 +5584,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\193\\39.DAT",
         "dat_dir": 193,
         "dat_header": "dc30",
@@ -5592,7 +5592,7 @@
         "dat_path": 39,
         "file_id": 59206,
         "name": "Chocobo Jig_193-39",
-        "name_clean": "chocobojig_193-39",
+        "name_clean": "chocobo_jig_193-39",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5600,7 +5600,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\40.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5616,7 +5616,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\41.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5632,7 +5632,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\42.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5648,7 +5648,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\43.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5664,7 +5664,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\44.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5680,7 +5680,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\45.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5696,7 +5696,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\46.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5712,7 +5712,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\47.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5728,7 +5728,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\48.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5744,7 +5744,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\49.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5760,7 +5760,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\50.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5776,7 +5776,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\51.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5792,7 +5792,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\52.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5808,7 +5808,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\53.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5824,7 +5824,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\54.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5840,7 +5840,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\55.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5856,7 +5856,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\56.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5872,7 +5872,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\139\\57.DAT",
         "dat_dir": 139,
         "dat_header": "evte",
@@ -5888,7 +5888,7 @@
         "skeleton": "ROM\\42\\4.DAT"
     },
     {
-        "category": "Dancer",
+        "category": "dancer",
         "dat": "ROM\\268\\40.DAT",
         "dat_dir": 268,
         "dat_header": "dc06",
@@ -5896,7 +5896,7 @@
         "dat_path": 40,
         "file_id": 59239,
         "name": "New samba_268-40",
-        "name_clean": "newsamba_268-40",
+        "name_clean": "new_samba_268-40",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -5992,7 +5992,7 @@
         "dat_path": 90,
         "file_id": 92648,
         "name": "Runefencer animation type 1_297-90",
-        "name_clean": "runefenceranimationtype1_297-90",
+        "name_clean": "runefencer_animation_type_1_297-90",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6008,7 +6008,7 @@
         "dat_path": 91,
         "file_id": 92649,
         "name": "Runefencer animation type 1_297-91",
-        "name_clean": "runefenceranimationtype1_297-91",
+        "name_clean": "runefencer_animation_type_1_297-91",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6024,7 +6024,7 @@
         "dat_path": 92,
         "file_id": 92650,
         "name": "Runefencer animation type 1_297-92",
-        "name_clean": "runefenceranimationtype1_297-92",
+        "name_clean": "runefencer_animation_type_1_297-92",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6040,7 +6040,7 @@
         "dat_path": 93,
         "file_id": 92651,
         "name": "Runefencer animation type 1_297-93",
-        "name_clean": "runefenceranimationtype1_297-93",
+        "name_clean": "runefencer_animation_type_1_297-93",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6056,7 +6056,7 @@
         "dat_path": 94,
         "file_id": 92657,
         "name": "Runefencer animation type 1_297-94",
-        "name_clean": "runefenceranimationtype1_297-94",
+        "name_clean": "runefencer_animation_type_1_297-94",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6072,7 +6072,7 @@
         "dat_path": 95,
         "file_id": 92653,
         "name": "Runefencer animation type 1_297-95",
-        "name_clean": "runefenceranimationtype1_297-95",
+        "name_clean": "runefencer_animation_type_1_297-95",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6088,7 +6088,7 @@
         "dat_path": 96,
         "file_id": 92654,
         "name": "Runefencer animation type 1_297-96",
-        "name_clean": "runefenceranimationtype1_297-96",
+        "name_clean": "runefencer_animation_type_1_297-96",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6104,7 +6104,7 @@
         "dat_path": 97,
         "file_id": 92655,
         "name": "Runefencer animation type 1_297-97",
-        "name_clean": "runefenceranimationtype1_297-97",
+        "name_clean": "runefencer_animation_type_1_297-97",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6120,7 +6120,7 @@
         "dat_path": 98,
         "file_id": 92656,
         "name": "Runefencer animation type 1_297-98",
-        "name_clean": "runefenceranimationtype1_297-98",
+        "name_clean": "runefencer_animation_type_1_297-98",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6136,7 +6136,7 @@
         "dat_path": 99,
         "file_id": 92658,
         "name": "Runefencer animation type 2_297-99",
-        "name_clean": "runefenceranimationtype2_297-99",
+        "name_clean": "runefencer_animation_type_2_297-99",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6152,7 +6152,7 @@
         "dat_path": 100,
         "file_id": 92659,
         "name": "Runefencer animation type 2_297-100",
-        "name_clean": "runefenceranimationtype2_297-100",
+        "name_clean": "runefencer_animation_type_2_297-100",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6168,7 +6168,7 @@
         "dat_path": 101,
         "file_id": 92660,
         "name": "Runefencer animation type 2_297-101",
-        "name_clean": "runefenceranimationtype2_297-101",
+        "name_clean": "runefencer_animation_type_2_297-101",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6184,7 +6184,7 @@
         "dat_path": 102,
         "file_id": 92661,
         "name": "Runefencer animation type 2_297-102",
-        "name_clean": "runefenceranimationtype2_297-102",
+        "name_clean": "runefencer_animation_type_2_297-102",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6200,7 +6200,7 @@
         "dat_path": 103,
         "file_id": 92667,
         "name": "Runefencer animation type 2_297-103",
-        "name_clean": "runefenceranimationtype2_297-103",
+        "name_clean": "runefencer_animation_type_2_297-103",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6216,7 +6216,7 @@
         "dat_path": 104,
         "file_id": 92663,
         "name": "Runefencer animation type 2_297-104",
-        "name_clean": "runefenceranimationtype2_297-104",
+        "name_clean": "runefencer_animation_type_2_297-104",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6232,7 +6232,7 @@
         "dat_path": 105,
         "file_id": 92664,
         "name": "Runefencer animation type 2_297-105",
-        "name_clean": "runefenceranimationtype2_297-105",
+        "name_clean": "runefencer_animation_type_2_297-105",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6248,7 +6248,7 @@
         "dat_path": 106,
         "file_id": 92665,
         "name": "Runefencer animation type 2_297-106",
-        "name_clean": "runefenceranimationtype2_297-106",
+        "name_clean": "runefencer_animation_type_2_297-106",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6264,7 +6264,7 @@
         "dat_path": 107,
         "file_id": 92666,
         "name": "Runefencer animation type 2_297-107",
-        "name_clean": "runefenceranimationtype2_297-107",
+        "name_clean": "runefencer_animation_type_2_297-107",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6280,7 +6280,7 @@
         "dat_path": 108,
         "file_id": 92668,
         "name": "Runefencer animation type 2_297-108",
-        "name_clean": "runefenceranimationtype2_297-108",
+        "name_clean": "runefencer_animation_type_2_297-108",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6296,7 +6296,7 @@
         "dat_path": 109,
         "file_id": 92669,
         "name": "Runefencer animation type 2_297-109",
-        "name_clean": "runefenceranimationtype2_297-109",
+        "name_clean": "runefencer_animation_type_2_297-109",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6312,7 +6312,7 @@
         "dat_path": 110,
         "file_id": 92670,
         "name": "Runefencer animation type 3_297-110",
-        "name_clean": "runefenceranimationtype3_297-110",
+        "name_clean": "runefencer_animation_type_3_297-110",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6328,7 +6328,7 @@
         "dat_path": 111,
         "file_id": 92671,
         "name": "Runefencer animation type 3_297-111",
-        "name_clean": "runefenceranimationtype3_297-111",
+        "name_clean": "runefencer_animation_type_3_297-111",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6344,7 +6344,7 @@
         "dat_path": 112,
         "file_id": 92677,
         "name": "Runefencer animation type 3_297-112",
-        "name_clean": "runefenceranimationtype3_297-112",
+        "name_clean": "runefencer_animation_type_3_297-112",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6360,7 +6360,7 @@
         "dat_path": 113,
         "file_id": 92673,
         "name": "Runefencer animation type 3_297-113",
-        "name_clean": "runefenceranimationtype3_297-113",
+        "name_clean": "runefencer_animation_type_3_297-113",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6376,7 +6376,7 @@
         "dat_path": 114,
         "file_id": 92674,
         "name": "Runefencer animation type 3_297-114",
-        "name_clean": "runefenceranimationtype3_297-114",
+        "name_clean": "runefencer_animation_type_3_297-114",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6392,7 +6392,7 @@
         "dat_path": 115,
         "file_id": 92675,
         "name": "Runefencer animation type 3_297-115",
-        "name_clean": "runefenceranimationtype3_297-115",
+        "name_clean": "runefencer_animation_type_3_297-115",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",
@@ -6408,7 +6408,7 @@
         "dat_path": 116,
         "file_id": 92676,
         "name": "Runefencer animation type 3_297-116",
-        "name_clean": "runefenceranimationtype3_297-116",
+        "name_clean": "runefencer_animation_type_3_297-116",
         "race_index": 3,
         "race_name": "elvaan_female",
         "rom_folder": "ROM",

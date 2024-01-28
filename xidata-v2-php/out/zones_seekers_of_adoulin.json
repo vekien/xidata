@@ -1,6 +1,6 @@
 [
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\3.DAT",
         "dat_dir": 0,
         "dat_header": "t_ad",
@@ -9,12 +9,12 @@
         "file_id": 83891,
         "file_rom": "ROM9\\0\\3.DAT",
         "name": "Western Adoulin",
-        "name_clean": "westernadoulin",
+        "name_clean": "western_adoulin",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\4.DAT",
         "dat_dir": 0,
         "dat_header": "t_ad",
@@ -23,12 +23,12 @@
         "file_id": 83892,
         "file_rom": "ROM9\\0\\4.DAT",
         "name": "Eastern Adoulin",
-        "name_clean": "easternadoulin",
+        "name_clean": "eastern_adoulin",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\5.DAT",
         "dat_dir": 0,
         "dat_header": "d_la",
@@ -37,12 +37,12 @@
         "file_id": 83893,
         "file_rom": "ROM9\\0\\5.DAT",
         "name": "Rala Waterways",
-        "name_clean": "ralawaterways",
+        "name_clean": "rala_waterways",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\6.DAT",
         "dat_dir": 0,
         "dat_header": "d_la",
@@ -51,12 +51,12 @@
         "file_id": 83894,
         "file_rom": "ROM9\\0\\6.DAT",
         "name": "Rala Waterways U",
-        "name_clean": "ralawaterwaysu",
+        "name_clean": "rala_waterways_u",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\7.DAT",
         "dat_dir": 0,
         "dat_header": "f_ya",
@@ -65,12 +65,12 @@
         "file_id": 83895,
         "file_rom": "ROM9\\0\\7.DAT",
         "name": "Yahse Hunting Grounds",
-        "name_clean": "yahsehuntinggrounds",
+        "name_clean": "yahse_hunting_grounds",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\8.DAT",
         "dat_dir": 0,
         "dat_header": "f_ke",
@@ -79,12 +79,12 @@
         "file_id": 83896,
         "file_rom": "ROM9\\0\\8.DAT",
         "name": "Ceizak Battlegrounds",
-        "name_clean": "ceizakbattlegrounds",
+        "name_clean": "ceizak_battlegrounds",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\9.DAT",
         "dat_dir": 0,
         "dat_header": "f_en",
@@ -93,12 +93,12 @@
         "file_id": 83897,
         "file_rom": "ROM9\\0\\9.DAT",
         "name": "Foret de Hennetiel",
-        "name_clean": "foretdehennetiel",
+        "name_clean": "foret_de_hennetiel",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\10.DAT",
         "dat_dir": 0,
         "dat_header": "f_yo",
@@ -107,12 +107,12 @@
         "file_id": 83898,
         "file_rom": "ROM9\\0\\10.DAT",
         "name": "Yorcia Weald",
-        "name_clean": "yorciaweald",
+        "name_clean": "yorcia_weald",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\11.DAT",
         "dat_dir": 0,
         "dat_header": "f_yo",
@@ -121,12 +121,12 @@
         "file_id": 83899,
         "file_rom": "ROM9\\0\\11.DAT",
         "name": "Yorcia Weald U",
-        "name_clean": "yorciawealdu",
+        "name_clean": "yorcia_weald_u",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\12.DAT",
         "dat_dir": 0,
         "dat_header": "f_mo",
@@ -135,12 +135,12 @@
         "file_id": 83900,
         "file_rom": "ROM9\\0\\12.DAT",
         "name": "Morimar Basalt Fields",
-        "name_clean": "morimarbasaltfields",
+        "name_clean": "morimar_basalt_fields",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\13.DAT",
         "dat_dir": 0,
         "dat_header": "f_ma",
@@ -149,12 +149,12 @@
         "file_id": 83901,
         "file_rom": "ROM9\\0\\13.DAT",
         "name": "Marjami Ravine",
-        "name_clean": "marjamiravine",
+        "name_clean": "marjami_ravine",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\14.DAT",
         "dat_dir": 0,
         "dat_header": "f_ka",
@@ -163,12 +163,12 @@
         "file_id": 83902,
         "file_rom": "ROM9\\0\\14.DAT",
         "name": "Kamihr Drifts",
-        "name_clean": "kamihrdrifts",
+        "name_clean": "kamihr_drifts",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\15.DAT",
         "dat_dir": 0,
         "dat_header": "d_si",
@@ -177,12 +177,12 @@
         "file_id": 83903,
         "file_rom": "ROM9\\0\\15.DAT",
         "name": "Sih Gates",
-        "name_clean": "sihgates",
+        "name_clean": "sih_gates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\16.DAT",
         "dat_dir": 0,
         "dat_header": "d_bo",
@@ -191,12 +191,12 @@
         "file_id": 83904,
         "file_rom": "ROM9\\0\\16.DAT",
         "name": "Moh Gates",
-        "name_clean": "mohgates",
+        "name_clean": "moh_gates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\17.DAT",
         "dat_dir": 0,
         "dat_header": "d_si",
@@ -205,12 +205,12 @@
         "file_id": 83905,
         "file_rom": "ROM9\\0\\17.DAT",
         "name": "Cirdas Caverns",
-        "name_clean": "cirdascaverns",
+        "name_clean": "cirdas_caverns",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\18.DAT",
         "dat_dir": 0,
         "dat_header": "d_si",
@@ -219,12 +219,12 @@
         "file_id": 83906,
         "file_rom": "ROM9\\0\\18.DAT",
         "name": "Cirdas Caverns U",
-        "name_clean": "cirdascavernsu",
+        "name_clean": "cirdas_caverns_u",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\19.DAT",
         "dat_dir": 0,
         "dat_header": "d_su",
@@ -233,12 +233,12 @@
         "file_id": 83907,
         "file_rom": "ROM9\\0\\19.DAT",
         "name": "Dho Gates",
-        "name_clean": "dhogates",
+        "name_clean": "dho_gates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\20.DAT",
         "dat_dir": 0,
         "dat_header": "d_pi",
@@ -247,12 +247,12 @@
         "file_id": 83908,
         "file_rom": "ROM9\\0\\20.DAT",
         "name": "Woh Gates",
-        "name_clean": "wohgates",
+        "name_clean": "woh_gates",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\21.DAT",
         "dat_dir": 0,
         "dat_header": "d_me",
@@ -261,12 +261,12 @@
         "file_id": 83909,
         "file_rom": "ROM9\\0\\21.DAT",
         "name": "Outer RaKaznar",
-        "name_clean": "outerrakaznar",
+        "name_clean": "outer_rakaznar",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\22.DAT",
         "dat_dir": 0,
         "dat_header": "d_me",
@@ -275,12 +275,12 @@
         "file_id": 83910,
         "file_rom": "ROM9\\0\\22.DAT",
         "name": "Outer RaKaznar U",
-        "name_clean": "outerrakaznaru",
+        "name_clean": "outer_rakaznar_u",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\23.DAT",
         "dat_dir": 0,
         "dat_header": "d_me",
@@ -289,12 +289,12 @@
         "file_id": 83911,
         "file_rom": "ROM9\\0\\23.DAT",
         "name": "RaKaznar Inner Court",
-        "name_clean": "rakaznarinnercourt",
+        "name_clean": "rakaznar_inner_court",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\0\\24.DAT",
         "dat_dir": 0,
         "dat_header": "d_me",
@@ -303,12 +303,12 @@
         "file_id": 83912,
         "file_rom": "ROM9\\0\\24.DAT",
         "name": "RaKaznar Turris",
-        "name_clean": "rakaznarturris",
+        "name_clean": "rakaznar_turris",
         "rom_folder": "ROM9",
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM\\309\\10.DAT",
         "dat_dir": 309,
         "dat_header": "m_ad",
@@ -317,12 +317,12 @@
         "file_id": 83915,
         "file_rom": "ROM\\309\\10.DAT",
         "name": "Mog Garden",
-        "name_clean": "moggarden",
+        "name_clean": "mog_garden",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM9\\8\\10.DAT",
         "dat_dir": 8,
         "dat_header": "f_ka",
@@ -336,7 +336,7 @@
         "rom_index": 9
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM\\315\\102.DAT",
         "dat_dir": 315,
         "dat_header": "f_ka",
@@ -345,12 +345,12 @@
         "file_id": 83917,
         "file_rom": "ROM\\315\\102.DAT",
         "name": "Mount Kamihr",
-        "name_clean": "mountkamihr",
+        "name_clean": "mount_kamihr",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM\\303\\26.DAT",
         "dat_dir": 303,
         "dat_header": "t_ad",
@@ -359,12 +359,12 @@
         "file_id": 83919,
         "file_rom": "ROM\\303\\26.DAT",
         "name": "Celennia Memorial Library",
-        "name_clean": "celenniamemoriallibrary",
+        "name_clean": "celennia_memorial_library",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Seekers of Adoulin",
+        "category": "seekers_of_adoulin",
         "dat": "ROM\\306\\54.DAT",
         "dat_dir": 306,
         "dat_header": "t_mn",

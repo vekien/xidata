@@ -1,6 +1,6 @@
 [
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\115.DAT",
         "dat_dir": 0,
         "dat_header": "f_la",
@@ -9,12 +9,12 @@
         "file_id": 202,
         "file_rom": "ROM\\0\\115.DAT",
         "name": "La Theine Plateau",
-        "name_clean": "latheineplateau",
+        "name_clean": "la_theine_plateau",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\120.DAT",
         "dat_dir": 0,
         "dat_header": "f_ro",
@@ -23,12 +23,12 @@
         "file_id": 200,
         "file_rom": "ROM\\0\\120.DAT",
         "name": "West Ronfaure",
-        "name_clean": "westronfaure",
+        "name_clean": "west_ronfaure",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\121.DAT",
         "dat_dir": 0,
         "dat_header": "f_ro",
@@ -37,12 +37,12 @@
         "file_id": 201,
         "file_rom": "ROM\\0\\121.DAT",
         "name": "East Ronfaure",
-        "name_clean": "eastronfaure",
+        "name_clean": "east_ronfaure",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\14.DAT",
         "dat_dir": 1,
         "dat_header": "h_ro",
@@ -51,12 +51,12 @@
         "file_id": 290,
         "file_rom": "ROM\\1\\14.DAT",
         "name": "King Ranperres Tomb",
-        "name_clean": "kingranperrestomb",
+        "name_clean": "king_ranperres_tomb",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\123.DAT",
         "dat_dir": 0,
         "dat_header": "f_gu",
@@ -65,12 +65,12 @@
         "file_id": 206,
         "file_rom": "ROM\\0\\123.DAT",
         "name": "North Gustaberg",
-        "name_clean": "northgustaberg",
+        "name_clean": "north_gustaberg",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\124.DAT",
         "dat_dir": 0,
         "dat_header": "f_gu",
@@ -79,12 +79,12 @@
         "file_id": 207,
         "file_rom": "ROM\\0\\124.DAT",
         "name": "South Gustaberg",
-        "name_clean": "southgustaberg",
+        "name_clean": "south_gustaberg",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\127.DAT",
         "dat_dir": 0,
         "dat_header": "f_sa",
@@ -93,12 +93,12 @@
         "file_id": 215,
         "file_rom": "ROM\\0\\127.DAT",
         "name": "West Sarutabaruta",
-        "name_clean": "westsarutabaruta",
+        "name_clean": "west_sarutabaruta",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\0.DAT",
         "dat_dir": 1,
         "dat_header": "f_sa",
@@ -107,12 +107,12 @@
         "file_id": 216,
         "file_rom": "ROM\\1\\0.DAT",
         "name": "East Sarutabaruta",
-        "name_clean": "eastsarutabaruta",
+        "name_clean": "east_sarutabaruta",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\31.DAT",
         "dat_dir": 1,
         "dat_header": "t_sa",
@@ -121,12 +121,12 @@
         "file_id": 330,
         "file_rom": "ROM\\1\\31.DAT",
         "name": "Southern San dOria",
-        "name_clean": "southernsandoria",
+        "name_clean": "southern_san_doria",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\32.DAT",
         "dat_dir": 1,
         "dat_header": "wt_s",
@@ -135,12 +135,12 @@
         "file_id": 331,
         "file_rom": "ROM\\1\\32.DAT",
         "name": "Northern San dOria",
-        "name_clean": "northernsandoria",
+        "name_clean": "northern_san_doria",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\78.DAT",
         "dat_dir": 0,
         "dat_header": "t_wi",
@@ -149,12 +149,12 @@
         "file_id": 338,
         "file_rom": "ROM\\0\\78.DAT",
         "name": "Windurst Waters",
-        "name_clean": "windurstwaters",
+        "name_clean": "windurst_waters",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\79.DAT",
         "dat_dir": 0,
         "dat_header": "t_wi",
@@ -163,12 +163,12 @@
         "file_id": 339,
         "file_rom": "ROM\\0\\79.DAT",
         "name": "Windurst Walls",
-        "name_clean": "windurstwalls",
+        "name_clean": "windurst_walls",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\81.DAT",
         "dat_dir": 0,
         "dat_header": "t_wi",
@@ -177,12 +177,12 @@
         "file_id": 341,
         "file_rom": "ROM\\0\\81.DAT",
         "name": "Windurst Woods",
-        "name_clean": "windurstwoods",
+        "name_clean": "windurst_woods",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\38.DAT",
         "dat_dir": 1,
         "dat_header": "t_wi",
@@ -191,12 +191,12 @@
         "file_id": 342,
         "file_rom": "ROM\\1\\38.DAT",
         "name": "Heavens Tower",
-        "name_clean": "heavenstower",
+        "name_clean": "heavens_tower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\80.DAT",
         "dat_dir": 0,
         "dat_header": "t_wi",
@@ -205,12 +205,12 @@
         "file_id": 340,
         "file_rom": "ROM\\0\\80.DAT",
         "name": "Port Windurst",
-        "name_clean": "portwindurst",
+        "name_clean": "port_windurst",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\34.DAT",
         "dat_dir": 1,
         "dat_header": "t_ba",
@@ -219,12 +219,12 @@
         "file_id": 334,
         "file_rom": "ROM\\1\\34.DAT",
         "name": "Bastok Mines",
-        "name_clean": "bastokmines",
+        "name_clean": "bastok_mines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\35.DAT",
         "dat_dir": 1,
         "dat_header": "t_ba",
@@ -233,12 +233,12 @@
         "file_id": 335,
         "file_rom": "ROM\\1\\35.DAT",
         "name": "Bastok Markets",
-        "name_clean": "bastokmarkets",
+        "name_clean": "bastok_markets",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\36.DAT",
         "dat_dir": 1,
         "dat_header": "t_ba",
@@ -247,12 +247,12 @@
         "file_id": 336,
         "file_rom": "ROM\\1\\36.DAT",
         "name": "Port Bastok",
-        "name_clean": "portbastok",
+        "name_clean": "port_bastok",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\37.DAT",
         "dat_dir": 1,
         "dat_header": "wt_b",
@@ -266,7 +266,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\40.DAT",
         "dat_dir": 1,
         "dat_header": "t_ju",
@@ -275,12 +275,12 @@
         "file_id": 344,
         "file_rom": "ROM\\1\\40.DAT",
         "name": "Upper Jeuno",
-        "name_clean": "upperjeuno",
+        "name_clean": "upper_jeuno",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\41.DAT",
         "dat_dir": 1,
         "dat_header": "t_ju",
@@ -289,12 +289,12 @@
         "file_id": 345,
         "file_rom": "ROM\\1\\41.DAT",
         "name": "Lower Jeuno",
-        "name_clean": "lowerjeuno",
+        "name_clean": "lower_jeuno",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\42.DAT",
         "dat_dir": 1,
         "dat_header": "t_ju",
@@ -303,12 +303,12 @@
         "file_id": 346,
         "file_rom": "ROM\\1\\42.DAT",
         "name": "Port Jeuno",
-        "name_clean": "portjeuno",
+        "name_clean": "port_jeuno",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\39.DAT",
         "dat_dir": 1,
         "dat_header": "t_ju",
@@ -317,12 +317,12 @@
         "file_id": 343,
         "file_rom": "ROM\\1\\39.DAT",
         "name": "RuLude Gardens",
-        "name_clean": "ruludegardens",
+        "name_clean": "rulude_gardens",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\58.DAT",
         "dat_dir": 0,
         "dat_header": "f_qu",
@@ -331,12 +331,12 @@
         "file_id": 226,
         "file_rom": "ROM\\0\\58.DAT",
         "name": "Qufim Island",
-        "name_clean": "qufimisland",
+        "name_clean": "qufim_island",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\24.DAT",
         "dat_dir": 1,
         "dat_header": "s_ba",
@@ -345,12 +345,12 @@
         "file_id": 320,
         "file_rom": "ROM\\1\\24.DAT",
         "name": "Ship bound for Selbina",
-        "name_clean": "shipboundforselbina",
+        "name_clean": "ship_bound_for_selbina",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\25.DAT",
         "dat_dir": 1,
         "dat_header": "s_ba",
@@ -359,12 +359,12 @@
         "file_id": 321,
         "file_rom": "ROM\\1\\25.DAT",
         "name": "Ship bound for Mhaura",
-        "name_clean": "shipboundformhaura",
+        "name_clean": "ship_bound_for_mhaura",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\29.DAT",
         "dat_dir": 1,
         "dat_header": "s_ba",
@@ -373,12 +373,12 @@
         "file_id": 327,
         "file_rom": "ROM\\1\\29.DAT",
         "name": "Ship bound for Selbina",
-        "name_clean": "shipboundforselbina",
+        "name_clean": "ship_bound_for_selbina",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\30.DAT",
         "dat_dir": 1,
         "dat_header": "s_ba",
@@ -387,12 +387,12 @@
         "file_id": 328,
         "file_rom": "ROM\\1\\30.DAT",
         "name": "Ship bound for Mhaura",
-        "name_clean": "shipboundformhaura",
+        "name_clean": "ship_bound_for_mhaura",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\26.DAT",
         "dat_dir": 1,
         "dat_header": "s_em",
@@ -401,12 +401,12 @@
         "file_id": 323,
         "file_rom": "ROM\\1\\26.DAT",
         "name": "San dOria-Jeuno Airship",
-        "name_clean": "sandoria-jeunoairship",
+        "name_clean": "san_doria-jeuno_airship",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\27.DAT",
         "dat_dir": 1,
         "dat_header": "s_em",
@@ -415,12 +415,12 @@
         "file_id": 324,
         "file_rom": "ROM\\1\\27.DAT",
         "name": "Bastok-Jeuno Airship",
-        "name_clean": "bastok-jeunoairship",
+        "name_clean": "bastok-jeuno_airship",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\28.DAT",
         "dat_dir": 1,
         "dat_header": "s_em",
@@ -429,12 +429,12 @@
         "file_id": 325,
         "file_rom": "ROM\\1\\28.DAT",
         "name": "Windurst-Jeuno Airship",
-        "name_clean": "windurst-jeunoairship",
+        "name_clean": "windurst-jeuno_airship",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\1.DAT",
         "dat_dir": 1,
         "dat_header": "f_el",
@@ -443,12 +443,12 @@
         "file_id": 217,
         "file_rom": "ROM\\1\\1.DAT",
         "name": "Tahrongi Canyon",
-        "name_clean": "tahrongicanyon",
+        "name_clean": "tahrongi_canyon",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\102.DAT",
         "dat_dir": 0,
         "dat_header": "f_ki",
@@ -457,12 +457,12 @@
         "file_id": 203,
         "file_rom": "ROM\\0\\102.DAT",
         "name": "Valkurm Dunes",
-        "name_clean": "valkurmdunes",
+        "name_clean": "valkurm_dunes",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\114.DAT",
         "dat_dir": 0,
         "dat_header": "f_ju",
@@ -471,12 +471,12 @@
         "file_id": 204,
         "file_rom": "ROM\\0\\114.DAT",
         "name": "Jugner Forest",
-        "name_clean": "jugnerforest",
+        "name_clean": "jugner_forest",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\122.DAT",
         "dat_dir": 0,
         "dat_header": "f_no",
@@ -485,12 +485,12 @@
         "file_id": 205,
         "file_rom": "ROM\\0\\122.DAT",
         "name": "Batallia Downs",
-        "name_clean": "batalliadowns",
+        "name_clean": "batallia_downs",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\90.DAT",
         "dat_dir": 0,
         "dat_header": "f_ko",
@@ -499,12 +499,12 @@
         "file_id": 208,
         "file_rom": "ROM\\0\\90.DAT",
         "name": "Konschtat Highlands",
-        "name_clean": "konschtathighlands",
+        "name_clean": "konschtat_highlands",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\125.DAT",
         "dat_dir": 0,
         "dat_header": "f_or",
@@ -513,12 +513,12 @@
         "file_id": 209,
         "file_rom": "ROM\\0\\125.DAT",
         "name": "Pashhow Marshlands",
-        "name_clean": "pashhowmarshlands",
+        "name_clean": "pashhow_marshlands",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\126.DAT",
         "dat_dir": 0,
         "dat_header": "f_ro",
@@ -527,12 +527,12 @@
         "file_id": 210,
         "file_rom": "ROM\\0\\126.DAT",
         "name": "Rolanberry Fields",
-        "name_clean": "rolanberryfields",
+        "name_clean": "rolanberry_fields",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\72.DAT",
         "dat_dir": 0,
         "dat_header": "f_ga",
@@ -541,12 +541,12 @@
         "file_id": 211,
         "file_rom": "ROM\\0\\72.DAT",
         "name": "Beaucedine Glacier",
-        "name_clean": "beaucedineglacier",
+        "name_clean": "beaucedine_glacier",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\57.DAT",
         "dat_dir": 0,
         "dat_header": "f_xa",
@@ -560,7 +560,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\71.DAT",
         "dat_dir": 0,
         "dat_header": "f_pa",
@@ -569,12 +569,12 @@
         "file_id": 218,
         "file_rom": "ROM\\0\\71.DAT",
         "name": "Buburimu Peninsula",
-        "name_clean": "buburimupeninsula",
+        "name_clean": "buburimu_peninsula",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\101.DAT",
         "dat_dir": 0,
         "dat_header": "f_me",
@@ -583,12 +583,12 @@
         "file_id": 219,
         "file_rom": "ROM\\0\\101.DAT",
         "name": "Meriphataud Mountains",
-        "name_clean": "meriphataudmountains",
+        "name_clean": "meriphataud_mountains",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\2.DAT",
         "dat_dir": 1,
         "dat_header": "f_al",
@@ -597,12 +597,12 @@
         "file_id": 220,
         "file_rom": "ROM\\1\\2.DAT",
         "name": "Sauromugue Champaign",
-        "name_clean": "sauromuguechampaign",
+        "name_clean": "sauromugue_champaign",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\3.DAT",
         "dat_dir": 1,
         "dat_header": "f_qu",
@@ -611,12 +611,12 @@
         "file_id": 227,
         "file_rom": "ROM\\1\\3.DAT",
         "name": "Behemoths Dominion",
-        "name_clean": "behemothsdominion",
+        "name_clean": "behemoths_dominion",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\4.DAT",
         "dat_dir": 1,
         "dat_header": "j_ai",
@@ -625,12 +625,12 @@
         "file_id": 231,
         "file_rom": "ROM\\1\\4.DAT",
         "name": "Mordion Gaol",
-        "name_clean": "mordiongaol",
+        "name_clean": "mordion_gaol",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\6.DAT",
         "dat_dir": 1,
         "dat_header": "d_gh",
@@ -639,12 +639,12 @@
         "file_id": 239,
         "file_rom": "ROM\\1\\6.DAT",
         "name": "Horlais Peak",
-        "name_clean": "horlaispeak",
+        "name_clean": "horlais_peak",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\95.DAT",
         "dat_dir": 0,
         "dat_header": "d_gh",
@@ -653,12 +653,12 @@
         "file_id": 240,
         "file_rom": "ROM\\0\\95.DAT",
         "name": "Ghelsba Outpost",
-        "name_clean": "ghelsbaoutpost",
+        "name_clean": "ghelsba_outpost",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\7.DAT",
         "dat_dir": 1,
         "dat_header": "d_gh",
@@ -667,12 +667,12 @@
         "file_id": 241,
         "file_rom": "ROM\\1\\7.DAT",
         "name": "Fort Ghelsba",
-        "name_clean": "fortghelsba",
+        "name_clean": "fort_ghelsba",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\8.DAT",
         "dat_dir": 1,
         "dat_header": "d_gh",
@@ -681,12 +681,12 @@
         "file_id": 242,
         "file_rom": "ROM\\1\\8.DAT",
         "name": "Yughott Grotto",
-        "name_clean": "yughottgrotto",
+        "name_clean": "yughott_grotto",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\88.DAT",
         "dat_dir": 0,
         "dat_header": "d_pa",
@@ -695,12 +695,12 @@
         "file_id": 243,
         "file_rom": "ROM\\0\\88.DAT",
         "name": "Palborough Mines",
-        "name_clean": "palboroughmines",
+        "name_clean": "palborough_mines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\89.DAT",
         "dat_dir": 0,
         "dat_header": "d_pa",
@@ -709,12 +709,12 @@
         "file_id": 244,
         "file_rom": "ROM\\0\\89.DAT",
         "name": "Waughroon Shrine",
-        "name_clean": "waughroonshrine",
+        "name_clean": "waughroon_shrine",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\104.DAT",
         "dat_dir": 0,
         "dat_header": "d_gi",
@@ -728,7 +728,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\105.DAT",
         "dat_dir": 0,
         "dat_header": "d_gi",
@@ -737,12 +737,12 @@
         "file_id": 246,
         "file_rom": "ROM\\0\\105.DAT",
         "name": "Balgas Dais",
-        "name_clean": "balgasdais",
+        "name_clean": "balgas_dais",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\61.DAT",
         "dat_dir": 0,
         "dat_header": "d_be",
@@ -756,7 +756,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\62.DAT",
         "dat_dir": 0,
         "dat_header": "d_be",
@@ -765,12 +765,12 @@
         "file_id": 248,
         "file_rom": "ROM\\0\\62.DAT",
         "name": "Qulun Dome",
-        "name_clean": "qulundome",
+        "name_clean": "qulun_dome",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\99.DAT",
         "dat_dir": 0,
         "dat_header": "d_da",
@@ -784,7 +784,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\100.DAT",
         "dat_dir": 0,
         "dat_header": "d_da",
@@ -793,12 +793,12 @@
         "file_id": 250,
         "file_rom": "ROM\\0\\100.DAT",
         "name": "Monastic Cavern",
-        "name_clean": "monasticcavern",
+        "name_clean": "monastic_cavern",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\63.DAT",
         "dat_dir": 0,
         "dat_header": "d_oz",
@@ -807,12 +807,12 @@
         "file_id": 251,
         "file_rom": "ROM\\0\\63.DAT",
         "name": "Castle Oztroja",
-        "name_clean": "castleoztroja",
+        "name_clean": "castle_oztroja",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\64.DAT",
         "dat_dir": 0,
         "dat_header": "d_oz",
@@ -821,12 +821,12 @@
         "file_id": 252,
         "file_rom": "ROM\\0\\64.DAT",
         "name": "Altar Room",
-        "name_clean": "altarroom",
+        "name_clean": "altar_room",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\56.DAT",
         "dat_dir": 0,
         "dat_header": "d_de",
@@ -835,12 +835,12 @@
         "file_id": 257,
         "file_rom": "ROM\\0\\56.DAT",
         "name": "Middle Delkfutts Tower",
-        "name_clean": "middledelkfuttstower",
+        "name_clean": "middle_delkfutts_tower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\9.DAT",
         "dat_dir": 1,
         "dat_header": "d_de",
@@ -849,12 +849,12 @@
         "file_id": 258,
         "file_rom": "ROM\\1\\9.DAT",
         "name": "Upper Delkfutts Tower",
-        "name_clean": "upperdelkfuttstower",
+        "name_clean": "upper_delkfutts_tower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\13.DAT",
         "dat_dir": 1,
         "dat_header": "d_de",
@@ -863,12 +863,12 @@
         "file_id": 284,
         "file_rom": "ROM\\1\\13.DAT",
         "name": "Lower Delkfutts Tower",
-        "name_clean": "lowerdelkfuttstower",
+        "name_clean": "lower_delkfutts_tower",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\60.DAT",
         "dat_dir": 0,
         "dat_header": "d_zv",
@@ -877,12 +877,12 @@
         "file_id": 261,
         "file_rom": "ROM\\0\\60.DAT",
         "name": "Castle Zvahl Baileys",
-        "name_clean": "castlezvahlbaileys",
+        "name_clean": "castle_zvahl_baileys",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\73.DAT",
         "dat_dir": 0,
         "dat_header": "d_zv",
@@ -891,12 +891,12 @@
         "file_id": 262,
         "file_rom": "ROM\\0\\73.DAT",
         "name": "Castle Zvahl Keep",
-        "name_clean": "castlezvahlkeep",
+        "name_clean": "castle_zvahl_keep",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\74.DAT",
         "dat_dir": 0,
         "dat_header": "d_zv",
@@ -905,12 +905,12 @@
         "file_id": 265,
         "file_rom": "ROM\\0\\74.DAT",
         "name": "Throne Room",
-        "name_clean": "throneroom",
+        "name_clean": "throne_room",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\10.DAT",
         "dat_dir": 1,
         "dat_header": "d_sa",
@@ -919,12 +919,12 @@
         "file_id": 266,
         "file_rom": "ROM\\1\\10.DAT",
         "name": "Ranguemont Pass",
-        "name_clean": "ranguemontpass",
+        "name_clean": "ranguemont_pass",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\108.DAT",
         "dat_dir": 0,
         "dat_header": "d_sa",
@@ -933,12 +933,12 @@
         "file_id": 267,
         "file_rom": "ROM\\0\\108.DAT",
         "name": "Bostaunieux Oubliette",
-        "name_clean": "bostaunieuxoubliette",
+        "name_clean": "bostaunieux_oubliette",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\65.DAT",
         "dat_dir": 0,
         "dat_header": "d_wi",
@@ -947,12 +947,12 @@
         "file_id": 269,
         "file_rom": "ROM\\0\\65.DAT",
         "name": "Toraimarai Canal",
-        "name_clean": "toraimaraicanal",
+        "name_clean": "toraimarai_canal",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\11.DAT",
         "dat_dir": 1,
         "dat_header": "d_co",
@@ -961,12 +961,12 @@
         "file_id": 272,
         "file_rom": "ROM\\1\\11.DAT",
         "name": "Zeruhn Mines",
-        "name_clean": "zeruhnmines",
+        "name_clean": "zeruhn_mines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\12.DAT",
         "dat_dir": 1,
         "dat_header": "d_wl",
@@ -975,12 +975,12 @@
         "file_id": 283,
         "file_rom": "ROM\\1\\12.DAT",
         "name": "Maquette Abdhaljs-Legion",
-        "name_clean": "maquetteabdhaljs-legion",
+        "name_clean": "maquette_abdhaljs-legion",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\112.DAT",
         "dat_dir": 0,
         "dat_header": "h_sa",
@@ -989,12 +989,12 @@
         "file_id": 292,
         "file_rom": "ROM\\0\\112.DAT",
         "name": "Inner Horutoto Ruins",
-        "name_clean": "innerhorutotoruins",
+        "name_clean": "inner_horutoto_ruins",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\15.DAT",
         "dat_dir": 1,
         "dat_header": "h_sa",
@@ -1003,12 +1003,12 @@
         "file_id": 294,
         "file_rom": "ROM\\1\\15.DAT",
         "name": "Outer Horutoto Ruins",
-        "name_clean": "outerhorutotoruins",
+        "name_clean": "outer_horutoto_ruins",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\52.DAT",
         "dat_dir": 0,
         "dat_header": "h_gu",
@@ -1017,12 +1017,12 @@
         "file_id": 291,
         "file_rom": "ROM\\0\\52.DAT",
         "name": "Dangruf Wadi",
-        "name_clean": "dangrufwadi",
+        "name_clean": "dangruf_wadi",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\92.DAT",
         "dat_dir": 0,
         "dat_header": "h_la",
@@ -1031,12 +1031,12 @@
         "file_id": 293,
         "file_rom": "ROM\\0\\92.DAT",
         "name": "Ordelles Caves",
-        "name_clean": "ordellescaves",
+        "name_clean": "ordelles_caves",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\77.DAT",
         "dat_dir": 0,
         "dat_header": "h_no",
@@ -1045,12 +1045,12 @@
         "file_id": 295,
         "file_rom": "ROM\\0\\77.DAT",
         "name": "The Eldieme Necropolis",
-        "name_clean": "theeldiemenecropolis",
+        "name_clean": "the_eldieme_necropolis",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\16.DAT",
         "dat_dir": 1,
         "dat_header": "h_ko",
@@ -1059,12 +1059,12 @@
         "file_id": 296,
         "file_rom": "ROM\\1\\16.DAT",
         "name": "Gusgen Mines",
-        "name_clean": "gusgenmines",
+        "name_clean": "gusgen_mines",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\76.DAT",
         "dat_dir": 0,
         "dat_header": "h_ro",
@@ -1073,12 +1073,12 @@
         "file_id": 297,
         "file_rom": "ROM\\0\\76.DAT",
         "name": "Crawlers Nest",
-        "name_clean": "crawlersnest",
+        "name_clean": "crawlers_nest",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\75.DAT",
         "dat_dir": 0,
         "dat_header": "h_el",
@@ -1087,12 +1087,12 @@
         "file_id": 298,
         "file_rom": "ROM\\0\\75.DAT",
         "name": "Maze of Shakhrami",
-        "name_clean": "mazeofshakhrami",
+        "name_clean": "maze_of_shakhrami",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\17.DAT",
         "dat_dir": 1,
         "dat_header": "h_al",
@@ -1101,12 +1101,12 @@
         "file_id": 300,
         "file_rom": "ROM\\1\\17.DAT",
         "name": "Garlaige Citadel",
-        "name_clean": "garlaigecitadel",
+        "name_clean": "garlaige_citadel",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\18.DAT",
         "dat_dir": 1,
         "dat_header": "h_ga",
@@ -1120,7 +1120,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\19.DAT",
         "dat_dir": 1,
         "dat_header": "h_ga",
@@ -1129,12 +1129,12 @@
         "file_id": 306,
         "file_rom": "ROM\\1\\19.DAT",
         "name": "QuBia Arena",
-        "name_clean": "qubiaarena",
+        "name_clean": "qubia_arena",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\280\\2.DAT",
         "dat_dir": 280,
         "dat_header": "d_at",
@@ -1148,7 +1148,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\0\\113.DAT",
         "dat_dir": 0,
         "dat_header": "t_sa",
@@ -1157,12 +1157,12 @@
         "file_id": 332,
         "file_rom": "ROM\\0\\113.DAT",
         "name": "Port San dOria",
-        "name_clean": "portsandoria",
+        "name_clean": "port_san_doria",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\33.DAT",
         "dat_dir": 1,
         "dat_header": "t_sa",
@@ -1171,12 +1171,12 @@
         "file_id": 333,
         "file_rom": "ROM\\1\\33.DAT",
         "name": "Chateau dOraguille",
-        "name_clean": "chateaudoraguille",
+        "name_clean": "chateau_doraguille",
         "rom_folder": "ROM",
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\43.DAT",
         "dat_dir": 1,
         "dat_header": "t_se",
@@ -1190,7 +1190,7 @@
         "rom_index": 1
     },
     {
-        "category": "Base Game",
+        "category": "base_game",
         "dat": "ROM\\1\\44.DAT",
         "dat_dir": 1,
         "dat_header": "t_ma",

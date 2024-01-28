@@ -58,7 +58,14 @@ set_error_handler("exception_error_handler");
  * load and return the ftable.
  */
 function load_ftable() {
-    return load_json("\\out\\dats_ftable_retail.json");
+    $ftable = load_json("\\out\\dats_ftable_retail.json");
+
+    $ftable_merged = [];
+    foreach($ftable as $rows) {
+        $ftable_merged = $ftable_merged + $rows;
+    }
+
+    return $ftable_merged;
 }
 
 /**
@@ -66,8 +73,8 @@ function load_ftable() {
  */
 function load_ftable_as_roms() {
     $ftable = load_ftable();
-
-    foreach ($ftable as $row) {
+    
+    foreach($ftable as $row) {
         $data[$row['dat']] = $row['file_id'];
     }
 
@@ -78,11 +85,15 @@ function load_ftable_as_roms() {
  * Save json
  */
 function save_data($filename, $data) {
-    file_put_contents(__DIR__ ."\\out\\{$filename}", json_encode($data, JSON_PRETTY_PRINT));
+    $filename = __DIR__ ."\\out\\{$filename}";
+    unlink($filename);
+    file_put_contents($filename, json_encode($data, JSON_PRETTY_PRINT));
 }
 
 function save_custom($filename, $data) {
-    file_put_contents(__DIR__ ."\\custom\\{$filename}", json_encode($data, JSON_PRETTY_PRINT));
+    $filename = __DIR__ ."\\custom\\{$filename}";
+    unlink($filename);
+    file_put_contents($filename, json_encode($data, JSON_PRETTY_PRINT));
 }
 
 /**
@@ -117,9 +128,17 @@ function sort_output($a, $b) {
 
 
 function get_simple_name($string) {
-    $cleanedString = preg_replace('/[^\w\d_-]/', '', $string);
-    $cleanedString = strtolower(trim($cleanedString));
-    return $cleanedString;
+    $string = str_replace(' ', '_', $string);
+    $string = preg_replace('/[^\w\d_-]/', '', $string);
+    $string = trim($string);
+    $string = strtolower($string);
+    return $string;
+}
+
+function fix_name($name) {
+    $name = str_replace(["\n", "\r"], '', $name);
+    $name = str_ireplace("_", " ", $name);
+    return $name;
 }
 
 function uc_string($string) {

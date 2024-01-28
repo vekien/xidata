@@ -75,12 +75,12 @@ foreach ($in_files_effects as $af_effect) {
             "name" => $name,
             "name_full" => $name,
             "name_clean" => get_simple_name($name),
-            "category" => $category,
+            "category" => get_simple_name($category),
             "type" => $type,
             "dat" => $dat,
         ];
 
-        $arr = array_merge($arr, $dat_data);
+        $arr = $arr + $dat_data;
 
         ksort($arr);
 

@@ -23,3 +23,6 @@ echo("\nBUILDING ZONES\n");
 require_once __DIR__ . "/build_zones.php";
 sleep(1);
 
+echo("\nBUILDING FACES\n");
+require_once __DIR__ . "/build_faces.php";
+sleep(1);

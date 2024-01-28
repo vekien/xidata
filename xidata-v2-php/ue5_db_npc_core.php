@@ -66,8 +66,6 @@ foreach($gearsets as $set) {
         $arr["Feet"] = "/Script/Engine.SkeletalMesh'/Game/Characters/XI_{$race}/Feet/{$feet}/{$feet}.{$feet}'";
     }
 
-    print_r($arr);
-
     $unrealdb[] = $arr;
 }
 

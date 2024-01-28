@@ -224,7 +224,7 @@ foreach($slots as $slot) {
                 "name_long" => $windower->name_long,
                 "name_clean" => get_simple_name($windower->name),
                 "name_windows" => get_windows_name($windower->name_long),
-                "category" => $windower->category,
+                "category" => get_simple_name($windower->category),
                 "level" => $item->level,
                 "item_level" => $item->item_level,
                 "item_super" => $item->sulevel,

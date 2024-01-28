@@ -1,6 +1,6 @@
 [
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\0.DAT",
         "dat_dir": 0,
         "dat_header": "f_te",
@@ -9,12 +9,12 @@
         "file_id": 213,
         "file_rom": "ROM2\\0\\0.DAT",
         "name": "Cape Teriggan",
-        "name_clean": "capeteriggan",
+        "name_clean": "cape_teriggan",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\1.DAT",
         "dat_dir": 0,
         "dat_header": "f_ri",
@@ -23,12 +23,12 @@
         "file_id": 214,
         "file_rom": "ROM2\\0\\1.DAT",
         "name": "Eastern Altepa Desert",
-        "name_clean": "easternaltepadesert",
+        "name_clean": "eastern_altepa_desert",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\2.DAT",
         "dat_dir": 0,
         "dat_header": "f_li",
@@ -37,12 +37,12 @@
         "file_id": 221,
         "file_rom": "ROM2\\0\\2.DAT",
         "name": "The Sanctuary of ZiTah",
-        "name_clean": "thesanctuaryofzitah",
+        "name_clean": "the_sanctuary_of_zitah",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\3.DAT",
         "dat_dir": 0,
         "dat_header": "f_sh",
@@ -56,7 +56,7 @@
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\4.DAT",
         "dat_dir": 0,
         "dat_header": "f_yu",
@@ -65,12 +65,12 @@
         "file_id": 223,
         "file_rom": "ROM2\\0\\4.DAT",
         "name": "Yuhtunga Jungle",
-        "name_clean": "yuhtungajungle",
+        "name_clean": "yuhtunga_jungle",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\5.DAT",
         "dat_dir": 0,
         "dat_header": "f_yu",
@@ -79,12 +79,12 @@
         "file_id": 224,
         "file_rom": "ROM2\\0\\5.DAT",
         "name": "Yhoator Jungle",
-        "name_clean": "yhoatorjungle",
+        "name_clean": "yhoator_jungle",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\6.DAT",
         "dat_dir": 0,
         "dat_header": "f_ri",
@@ -93,12 +93,12 @@
         "file_id": 225,
         "file_rom": "ROM2\\0\\6.DAT",
         "name": "Western Altepa Desert",
-        "name_clean": "westernaltepadesert",
+        "name_clean": "western_altepa_desert",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\7.DAT",
         "dat_dir": 0,
         "dat_header": "f_te",
@@ -107,12 +107,12 @@
         "file_id": 228,
         "file_rom": "ROM2\\0\\7.DAT",
         "name": "Valley of Sorrows",
-        "name_clean": "valleyofsorrows",
+        "name_clean": "valley_of_sorrows",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\107.DAT",
         "dat_dir": 12,
         "dat_header": "f_tu",
@@ -121,12 +121,12 @@
         "file_id": 230,
         "file_rom": "ROM2\\12\\107.DAT",
         "name": "RuAun Gardens",
-        "name_clean": "ruaungardens",
+        "name_clean": "ruaun_gardens",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\108.DAT",
         "dat_dir": 12,
         "dat_header": "f_ga",
@@ -135,12 +135,12 @@
         "file_id": 234,
         "file_rom": "ROM2\\12\\108.DAT",
         "name": "Dynamis - Beaucedine",
-        "name_clean": "dynamis-beaucedine",
+        "name_clean": "dynamis_-_beaucedine",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\109.DAT",
         "dat_dir": 12,
         "dat_header": "f_xa",
@@ -149,12 +149,12 @@
         "file_id": 235,
         "file_rom": "ROM2\\12\\109.DAT",
         "name": "Dynamis - Xarcabard",
-        "name_clean": "dynamis-xarcabard",
+        "name_clean": "dynamis_-_xarcabard",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\8.DAT",
         "dat_dir": 0,
         "dat_header": "d_bo",
@@ -163,12 +163,12 @@
         "file_id": 253,
         "file_rom": "ROM2\\0\\8.DAT",
         "name": "The Boyahda Tree",
-        "name_clean": "theboyahdatree",
+        "name_clean": "the_boyahda_tree",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\9.DAT",
         "dat_dir": 0,
         "dat_header": "d_bo",
@@ -177,12 +177,12 @@
         "file_id": 254,
         "file_rom": "ROM2\\0\\9.DAT",
         "name": "Dragons Aery",
-        "name_clean": "dragonsaery",
+        "name_clean": "dragons_aery",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\10.DAT",
         "dat_dir": 0,
         "dat_header": "d_ug",
@@ -191,12 +191,12 @@
         "file_id": 259,
         "file_rom": "ROM2\\0\\10.DAT",
         "name": "Temple of Uggalepih",
-        "name_clean": "templeofuggalepih",
+        "name_clean": "temple_of_uggalepih",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\110.DAT",
         "dat_dir": 12,
         "dat_header": "d_ug",
@@ -205,12 +205,12 @@
         "file_id": 260,
         "file_rom": "ROM2\\12\\110.DAT",
         "name": "Den of Rancor",
-        "name_clean": "denofrancor",
+        "name_clean": "den_of_rancor",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\111.DAT",
         "dat_dir": 12,
         "dat_header": "d_ug",
@@ -219,12 +219,12 @@
         "file_id": 263,
         "file_rom": "ROM2\\12\\111.DAT",
         "name": "Sacrificial Chamber",
-        "name_clean": "sacrificialchamber",
+        "name_clean": "sacrificial_chamber",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\11.DAT",
         "dat_dir": 0,
         "dat_header": "d_al",
@@ -233,12 +233,12 @@
         "file_id": 268,
         "file_rom": "ROM2\\0\\11.DAT",
         "name": "Chamber of Oracles",
-        "name_clean": "chamberoforacles",
+        "name_clean": "chamber_of_oracles",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\12.DAT",
         "dat_dir": 0,
         "dat_header": "d_wi",
@@ -247,12 +247,12 @@
         "file_id": 270,
         "file_rom": "ROM2\\0\\12.DAT",
         "name": "Full Moon Fountain",
-        "name_clean": "fullmoonfountain",
+        "name_clean": "full_moon_fountain",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\13.DAT",
         "dat_dir": 0,
         "dat_header": "d_co",
@@ -261,12 +261,12 @@
         "file_id": 273,
         "file_rom": "ROM2\\0\\13.DAT",
         "name": "Korroloka Tunnel",
-        "name_clean": "korrolokatunnel",
+        "name_clean": "korroloka_tunnel",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\14.DAT",
         "dat_dir": 0,
         "dat_header": "d_co",
@@ -275,12 +275,12 @@
         "file_id": 274,
         "file_rom": "ROM2\\0\\14.DAT",
         "name": "Kuftal Tunnel",
-        "name_clean": "kuftaltunnel",
+        "name_clean": "kuftal_tunnel",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\15.DAT",
         "dat_dir": 0,
         "dat_header": "d_no",
@@ -289,12 +289,12 @@
         "file_id": 276,
         "file_rom": "ROM2\\0\\15.DAT",
         "name": "Sea Serpent Grotto",
-        "name_clean": "seaserpentgrotto",
+        "name_clean": "sea_serpent_grotto",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\112.DAT",
         "dat_dir": 12,
         "dat_header": "d_be",
@@ -303,12 +303,12 @@
         "file_id": 277,
         "file_rom": "ROM2\\12\\112.DAT",
         "name": "VeLugannon Palace",
-        "name_clean": "velugannonpalace",
+        "name_clean": "velugannon_palace",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\113.DAT",
         "dat_dir": 12,
         "dat_header": "d_be",
@@ -317,12 +317,12 @@
         "file_id": 278,
         "file_rom": "ROM2\\12\\113.DAT",
         "name": "The Shrine of RuAvitau",
-        "name_clean": "theshrineofruavitau",
+        "name_clean": "the_shrine_of_ruavitau",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\16.DAT",
         "dat_dir": 0,
         "dat_header": "d_de",
@@ -331,12 +331,12 @@
         "file_id": 279,
         "file_rom": "ROM2\\0\\16.DAT",
         "name": "Stellar Fulcrum",
-        "name_clean": "stellarfulcrum",
+        "name_clean": "stellar_fulcrum",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\114.DAT",
         "dat_dir": 12,
         "dat_header": "d_be",
@@ -345,12 +345,12 @@
         "file_id": 280,
         "file_rom": "ROM2\\12\\114.DAT",
         "name": "LaLoff Amphitheater",
-        "name_clean": "laloffamphitheater",
+        "name_clean": "laloff_amphitheater",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\115.DAT",
         "dat_dir": 12,
         "dat_header": "d_be",
@@ -359,12 +359,12 @@
         "file_id": 281,
         "file_rom": "ROM2\\12\\115.DAT",
         "name": "The Celestial Nexus",
-        "name_clean": "thecelestialnexus",
+        "name_clean": "the_celestial_nexus",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\116.DAT",
         "dat_dir": 12,
         "dat_header": "d_ct",
@@ -373,12 +373,12 @@
         "file_id": 285,
         "file_rom": "ROM2\\12\\116.DAT",
         "name": "Dynamis - San dOria",
-        "name_clean": "dynamis-sandoria",
+        "name_clean": "dynamis_-_san_doria",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\117.DAT",
         "dat_dir": 12,
         "dat_header": "d_ct",
@@ -387,12 +387,12 @@
         "file_id": 286,
         "file_rom": "ROM2\\12\\117.DAT",
         "name": "Dynamis - Bastok",
-        "name_clean": "dynamis-bastok",
+        "name_clean": "dynamis_-_bastok",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\118.DAT",
         "dat_dir": 12,
         "dat_header": "d_ct",
@@ -401,12 +401,12 @@
         "file_id": 287,
         "file_rom": "ROM2\\12\\118.DAT",
         "name": "Dynamis - Windurst",
-        "name_clean": "dynamis-windurst",
+        "name_clean": "dynamis_-_windurst",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\119.DAT",
         "dat_dir": 12,
         "dat_header": "d_ct",
@@ -415,12 +415,12 @@
         "file_id": 288,
         "file_rom": "ROM2\\12\\119.DAT",
         "name": "Dynamis - Jeuno",
-        "name_clean": "dynamis-jeuno",
+        "name_clean": "dynamis_-_jeuno",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\17.DAT",
         "dat_dir": 0,
         "dat_header": "d_ga",
@@ -429,12 +429,12 @@
         "file_id": 301,
         "file_rom": "ROM2\\0\\17.DAT",
         "name": "Cloister of Gales",
-        "name_clean": "cloisterofgales",
+        "name_clean": "cloister_of_gales",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\18.DAT",
         "dat_dir": 0,
         "dat_header": "d_ra",
@@ -443,12 +443,12 @@
         "file_id": 302,
         "file_rom": "ROM2\\0\\18.DAT",
         "name": "Cloister of Storms",
-        "name_clean": "cloisterofstorms",
+        "name_clean": "cloister_of_storms",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\19.DAT",
         "dat_dir": 0,
         "dat_header": "d_sh",
@@ -457,12 +457,12 @@
         "file_id": 303,
         "file_rom": "ROM2\\0\\19.DAT",
         "name": "Cloister of Frost",
-        "name_clean": "cloisteroffrost",
+        "name_clean": "cloister_of_frost",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\20.DAT",
         "dat_dir": 0,
         "dat_header": "d_yu",
@@ -471,12 +471,12 @@
         "file_id": 305,
         "file_rom": "ROM2\\0\\20.DAT",
         "name": "Ifrits Cauldron",
-        "name_clean": "ifritscauldron",
+        "name_clean": "ifrits_cauldron",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\21.DAT",
         "dat_dir": 0,
         "dat_header": "d_if",
@@ -485,12 +485,12 @@
         "file_id": 307,
         "file_rom": "ROM2\\0\\21.DAT",
         "name": "Cloister of Flames",
-        "name_clean": "cloisterofflames",
+        "name_clean": "cloister_of_flames",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\120.DAT",
         "dat_dir": 12,
         "dat_header": "d_ri",
@@ -499,12 +499,12 @@
         "file_id": 308,
         "file_rom": "ROM2\\12\\120.DAT",
         "name": "Quicksand Caves",
-        "name_clean": "quicksandcaves",
+        "name_clean": "quicksand_caves",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\22.DAT",
         "dat_dir": 0,
         "dat_header": "d_ti",
@@ -513,12 +513,12 @@
         "file_id": 309,
         "file_rom": "ROM2\\0\\22.DAT",
         "name": "Cloister of Tremors",
-        "name_clean": "cloisteroftremors",
+        "name_clean": "cloister_of_tremors",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\23.DAT",
         "dat_dir": 0,
         "dat_header": "d_le",
@@ -527,12 +527,12 @@
         "file_id": 311,
         "file_rom": "ROM2\\0\\23.DAT",
         "name": "Cloister of Tides",
-        "name_clean": "cloisteroftides",
+        "name_clean": "cloister_of_tides",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\121.DAT",
         "dat_dir": 12,
         "dat_header": "d_ki",
@@ -541,12 +541,12 @@
         "file_id": 312,
         "file_rom": "ROM2\\12\\121.DAT",
         "name": "Gustav Tunnel",
-        "name_clean": "gustavtunnel",
+        "name_clean": "gustav_tunnel",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\122.DAT",
         "dat_dir": 12,
         "dat_header": "d_pa",
@@ -555,12 +555,12 @@
         "file_id": 313,
         "file_rom": "ROM2\\12\\122.DAT",
         "name": "Labyrinth of Onzozo",
-        "name_clean": "labyrinthofonzozo",
+        "name_clean": "labyrinth_of_onzozo",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\24.DAT",
         "dat_dir": 0,
         "dat_header": "s_em",
@@ -569,12 +569,12 @@
         "file_id": 326,
         "file_rom": "ROM2\\0\\24.DAT",
         "name": "Kazham-Jeuno Airship",
-        "name_clean": "kazham-jeunoairship",
+        "name_clean": "kazham-jeuno_airship",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\12\\123.DAT",
         "dat_dir": 12,
         "dat_header": "t_ri",
@@ -588,7 +588,7 @@
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\25.DAT",
         "dat_dir": 0,
         "dat_header": "t_ka",
@@ -602,7 +602,7 @@
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\21\\114.DAT",
         "dat_dir": 21,
         "dat_header": "wt_s",
@@ -611,12 +611,12 @@
         "file_id": 351,
         "file_rom": "ROM2\\21\\114.DAT",
         "name": "Hall of the Gods",
-        "name_clean": "hallofthegods",
+        "name_clean": "hall_of_the_gods",
         "rom_folder": "ROM2",
         "rom_index": 2
     },
     {
-        "category": "Rize Of Zilart",
+        "category": "rize_of_zilart",
         "dat": "ROM2\\0\\27.DAT",
         "dat_dir": 0,
         "dat_header": "t_no",

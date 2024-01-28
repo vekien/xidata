@@ -3,60 +3,68 @@ require_once __DIR__ . "/common.php";
 
 echo("Generating GearSets CSV\n");
 
-// Grab altana gearsets
-$altana_viewer_ini = "E:\\FF11 Tools\\3D - Altana Viewer\\Gearsets.ini";
-$altana_viewer_gearsets = parse_ini_file($altana_viewer_ini, true);
-
-// grab some jsons
 $faces = load_json("\\out\\faces.json");
-
 $sets = [];
-foreach($altana_viewer_gearsets as $gearset_name => $gearset) {
-    $arr = [
-        "name" => $gearset_name,
-    ];
 
-    echo("Gearset: {$gearset_name}\n");
+$altana_viewer_ini = "E:\\FF11 Tools\\3D - Altana Viewer";
+$altana_viewer_files = [
+    "Gearsets.ini",
+    "Gearsets_Altepa.ini",
+    "Gearsets_Jeuno.ini",
+    "Gearsets_Basic.ini",
+];
 
-    // Get the race data
-    $race_dat = get_simple_datname($gearset["Race"]);
-    $race_name = array_search($race_dat, $races_to_dats);
-    $race_index = array_search($race_name, $races);
-    $race_altana = $races_altanaviewer[$race_index];
+foreach($altana_viewer_files as $file) {
+    echo("{$file}\n");
+
+    $ini_file = "{$altana_viewer_ini}\\{$file}";
+    $altana_viewer_gearsets = parse_ini_file($ini_file, true);
+
+    foreach($altana_viewer_gearsets as $gearset_name => $gearset) {
+        $arr = [
+            "name" => $gearset_name,
+        ];
     
-    $arr["race"] = $race_name;
+        echo("Gearset: {$gearset_name}\n");
 
-    // Get the face
-    $face_dat = get_simple_datname($gearset["Face"]);
-    $face_dat = get_face_dat($face_dat);
-    $arr["face"] = get_windows_name($face_dat['name']);
+        // Get the race data
+        $race_dat = get_simple_datname($gearset["Race"]);
+        $race_name = array_search($race_dat, $races_to_dats);
+        $race_index = array_search($race_name, $races);
+        $race_altana = $races_altanaviewer[$race_index];
+        
+        $arr["race"] = $race_name;
+    
+        // Get the face
+        $face_dat = get_simple_datname($gearset["Face"]);
+        $face_dat = get_face_dat($face_dat);
+        $arr["face"] = get_windows_name($face_dat['name']);
+    
+        // Do each slot!
+        foreach($slots_altana as $slot_index => $slot_altana) {
+            // grab the true slot name (not the altana one)
+            $slot_name = $slots[$slot_index];
+    
+            // grab the dat name all cleaned up from the gearset
+            $slot_dat = get_simple_datname($gearset[$slot_altana]);
+    
+            // grab the name from the altanaviewer list as that matches my unreal engine for now...
+            $altana_name = search_altana_for_name($race_altana, $slot_altana, $slot_dat);
+            $altana_name = $altana_name == "None" ? "Default" : $altana_name;
 
-    // Do each slot!
-    foreach($slots_altana as $slot_index => $slot_altana) {
-        // grab the true slot name (not the altana one)
-        $slot_name = $slots[$slot_index];
+            $windows_name = get_windows_name($altana_name);
+    
+            // store against the true name
+            $arr[$slot_name] = $windows_name;
+        }
 
-        // grab the dat name all cleaned up from the gearset
-        $slot_dat = get_simple_datname($gearset[$slot_altana]);
-
-        // grab the name from the altanaviewer list as that matches my unreal engine for now...
-        $altana_name = search_altana_for_name($race_altana, $slot_altana, $slot_dat);
-        $windows_name = get_windows_name($altana_name);
-
-        // store against the true name
-        $arr[$slot_name] = $windows_name;
+        $sets[] = $arr;
     }
-
-    print_r($arr);
-
-    $sets[] = $arr;
-    echo("\n");
 }
 
 // save
 echo("- Saving: gearsets.json\n");
 save_custom("gearsets.json", $sets);
-
 
 
 // --------------------------------------------------------------------------------

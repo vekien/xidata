@@ -1,6 +1,6 @@
 [
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\0.DAT",
         "dat_dir": 0,
         "dat_header": "d_sa",
@@ -9,12 +9,12 @@
         "file_id": 180,
         "file_rom": "ROM5\\0\\0.DAT",
         "name": "Southern San dOria S",
-        "name_clean": "southernsandorias",
+        "name_clean": "southern_san_doria_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\1.DAT",
         "dat_dir": 0,
         "dat_header": "f_ro",
@@ -23,12 +23,12 @@
         "file_id": 181,
         "file_rom": "ROM5\\0\\1.DAT",
         "name": "East Ronfaure S",
-        "name_clean": "eastronfaures",
+        "name_clean": "east_ronfaure_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\2.DAT",
         "dat_dir": 0,
         "dat_header": "f_ju",
@@ -37,12 +37,12 @@
         "file_id": 182,
         "file_rom": "ROM5\\0\\2.DAT",
         "name": "Jugner Forest S",
-        "name_clean": "jugnerforests",
+        "name_clean": "jugner_forest_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\3.DAT",
         "dat_dir": 0,
         "dat_header": "f_gi",
@@ -51,12 +51,12 @@
         "file_id": 183,
         "file_rom": "ROM5\\0\\3.DAT",
         "name": "Vunkerl Inlet S",
-        "name_clean": "vunkerlinlets",
+        "name_clean": "vunkerl_inlet_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\4.DAT",
         "dat_dir": 0,
         "dat_header": "f_no",
@@ -65,12 +65,12 @@
         "file_id": 184,
         "file_rom": "ROM5\\0\\4.DAT",
         "name": "Batallia Downs S",
-        "name_clean": "batalliadownss",
+        "name_clean": "batallia_downs_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\5.DAT",
         "dat_dir": 0,
         "dat_header": "d_da",
@@ -79,12 +79,12 @@
         "file_id": 185,
         "file_rom": "ROM5\\0\\5.DAT",
         "name": "La Vaule S",
-        "name_clean": "lavaules",
+        "name_clean": "la_vaule_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\6.DAT",
         "dat_dir": 0,
         "dat_header": "d_la",
@@ -93,12 +93,12 @@
         "file_id": 186,
         "file_rom": "ROM5\\0\\6.DAT",
         "name": "Everbloom Hollow",
-        "name_clean": "everbloomhollow",
+        "name_clean": "everbloom_hollow",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\7.DAT",
         "dat_dir": 0,
         "dat_header": "d_ba",
@@ -107,12 +107,12 @@
         "file_id": 187,
         "file_rom": "ROM5\\0\\7.DAT",
         "name": "Bastok Markets S",
-        "name_clean": "bastokmarketss",
+        "name_clean": "bastok_markets_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\8.DAT",
         "dat_dir": 0,
         "dat_header": "f_gu",
@@ -121,12 +121,12 @@
         "file_id": 188,
         "file_rom": "ROM5\\0\\8.DAT",
         "name": "North Gustaberg S",
-        "name_clean": "northgustabergs",
+        "name_clean": "north_gustaberg_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\9.DAT",
         "dat_dir": 0,
         "dat_header": "f_dr",
@@ -135,12 +135,12 @@
         "file_id": 189,
         "file_rom": "ROM5\\0\\9.DAT",
         "name": "Grauberg S",
-        "name_clean": "graubergs",
+        "name_clean": "grauberg_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\10.DAT",
         "dat_dir": 0,
         "dat_header": "f_or",
@@ -149,12 +149,12 @@
         "file_id": 190,
         "file_rom": "ROM5\\0\\10.DAT",
         "name": "Pashhow Marshlands S",
-        "name_clean": "pashhowmarshlandss",
+        "name_clean": "pashhow_marshlands_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\11.DAT",
         "dat_dir": 0,
         "dat_header": "f_ro",
@@ -163,12 +163,12 @@
         "file_id": 191,
         "file_rom": "ROM5\\0\\11.DAT",
         "name": "Rolanberry Fields S",
-        "name_clean": "rolanberryfieldss",
+        "name_clean": "rolanberry_fields_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\12.DAT",
         "dat_dir": 0,
         "dat_header": "d_be",
@@ -177,12 +177,12 @@
         "file_id": 192,
         "file_rom": "ROM5\\0\\12.DAT",
         "name": "Beadeaux S",
-        "name_clean": "beadeauxs",
+        "name_clean": "beadeaux_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\13.DAT",
         "dat_dir": 0,
         "dat_header": "d_ko",
@@ -191,12 +191,12 @@
         "file_id": 193,
         "file_rom": "ROM5\\0\\13.DAT",
         "name": "Ruhotz Silvermines",
-        "name_clean": "ruhotzsilvermines",
+        "name_clean": "ruhotz_silvermines",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\14.DAT",
         "dat_dir": 0,
         "dat_header": "d_wi",
@@ -205,12 +205,12 @@
         "file_id": 194,
         "file_rom": "ROM5\\0\\14.DAT",
         "name": "Windurst Waters S",
-        "name_clean": "windurstwaterss",
+        "name_clean": "windurst_waters_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\15.DAT",
         "dat_dir": 0,
         "dat_header": "f_sa",
@@ -219,12 +219,12 @@
         "file_id": 195,
         "file_rom": "ROM5\\0\\15.DAT",
         "name": "West Sarutabaruta S",
-        "name_clean": "westsarutabarutas",
+        "name_clean": "west_sarutabaruta_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\16.DAT",
         "dat_dir": 0,
         "dat_header": "f_cr",
@@ -233,12 +233,12 @@
         "file_id": 196,
         "file_rom": "ROM5\\0\\16.DAT",
         "name": "Fort Karugo-Narugo S",
-        "name_clean": "fortkarugo-narugos",
+        "name_clean": "fort_karugo-narugo_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\17.DAT",
         "dat_dir": 0,
         "dat_header": "f_me",
@@ -247,12 +247,12 @@
         "file_id": 197,
         "file_rom": "ROM5\\0\\17.DAT",
         "name": "Meriphataud Mountains S",
-        "name_clean": "meriphataudmountainss",
+        "name_clean": "meriphataud_mountains_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\18.DAT",
         "dat_dir": 0,
         "dat_header": "f_al",
@@ -261,12 +261,12 @@
         "file_id": 198,
         "file_rom": "ROM5\\0\\18.DAT",
         "name": "Sauromugue Champaign S",
-        "name_clean": "sauromuguechampaigns",
+        "name_clean": "sauromugue_champaign_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\19.DAT",
         "dat_dir": 0,
         "dat_header": "d_oz",
@@ -275,12 +275,12 @@
         "file_id": 199,
         "file_rom": "ROM5\\0\\19.DAT",
         "name": "Castle Oztroja S",
-        "name_clean": "castleoztrojas",
+        "name_clean": "castle_oztroja_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\20.DAT",
         "dat_dir": 0,
         "dat_header": "d_el",
@@ -289,12 +289,12 @@
         "file_id": 229,
         "file_rom": "ROM5\\0\\20.DAT",
         "name": "Ghoyus Reverie",
-        "name_clean": "ghoyusreverie",
+        "name_clean": "ghoyus_reverie",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\21.DAT",
         "dat_dir": 0,
         "dat_header": "f_ga",
@@ -303,12 +303,12 @@
         "file_id": 236,
         "file_rom": "ROM5\\0\\21.DAT",
         "name": "Beaucedine Glacier S",
-        "name_clean": "beaucedineglaciers",
+        "name_clean": "beaucedine_glacier_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\22.DAT",
         "dat_dir": 0,
         "dat_header": "f_xa",
@@ -317,12 +317,12 @@
         "file_id": 237,
         "file_rom": "ROM5\\0\\22.DAT",
         "name": "Xarcabard S",
-        "name_clean": "xarcabards",
+        "name_clean": "xarcabard_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\23.DAT",
         "dat_dir": 0,
         "dat_header": "d_zv",
@@ -331,12 +331,12 @@
         "file_id": 238,
         "file_rom": "ROM5\\0\\23.DAT",
         "name": "Castle Zvahl Baileys S",
-        "name_clean": "castlezvahlbaileyss",
+        "name_clean": "castle_zvahl_baileys_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\24.DAT",
         "dat_dir": 0,
         "dat_header": "d_zv",
@@ -345,12 +345,12 @@
         "file_id": 255,
         "file_rom": "ROM5\\0\\24.DAT",
         "name": "Castle Zvahl Keep S",
-        "name_clean": "castlezvahlkeeps",
+        "name_clean": "castle_zvahl_keep_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\25.DAT",
         "dat_dir": 0,
         "dat_header": "d_zv",
@@ -359,12 +359,12 @@
         "file_id": 256,
         "file_rom": "ROM5\\0\\25.DAT",
         "name": "Throne Room S",
-        "name_clean": "thronerooms",
+        "name_clean": "throne_room_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\26.DAT",
         "dat_dir": 0,
         "dat_header": "d_al",
@@ -373,12 +373,12 @@
         "file_id": 264,
         "file_rom": "ROM5\\0\\26.DAT",
         "name": "Garlaige Citadel S",
-        "name_clean": "garlaigecitadels",
+        "name_clean": "garlaige_citadel_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\27.DAT",
         "dat_dir": 0,
         "dat_header": "d_ro",
@@ -387,12 +387,12 @@
         "file_id": 271,
         "file_rom": "ROM5\\0\\27.DAT",
         "name": "Crawlers Nest S",
-        "name_clean": "crawlersnests",
+        "name_clean": "crawlers_nest_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\28.DAT",
         "dat_dir": 0,
         "dat_header": "d_no",
@@ -401,12 +401,12 @@
         "file_id": 275,
         "file_rom": "ROM5\\0\\28.DAT",
         "name": "The Eldieme Necropolis S",
-        "name_clean": "theeldiemenecropoliss",
+        "name_clean": "the_eldieme_necropolis_s",
         "rom_folder": "ROM5",
         "rom_index": 5
     },
     {
-        "category": "Wings of the Goddess",
+        "category": "wings_of_the_goddess",
         "dat": "ROM5\\0\\29.DAT",
         "dat_dir": 0,
         "dat_header": "d_at",
@@ -415,7 +415,7 @@
         "file_id": 282,
         "file_rom": "ROM5\\0\\29.DAT",
         "name": "Walk of Echoes",
-        "name_clean": "walkofechoes",
+        "name_clean": "walk_of_echoes",
         "rom_folder": "ROM5",
         "rom_index": 5
     }

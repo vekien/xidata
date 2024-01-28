@@ -13,6 +13,7 @@ namespace xidata_v2.source
 		private const int LOG_MAX_SIZE_FILE = 8000;
 
 		readonly static string logFilename = $"{Folders.Root()}\\app.log";
+		readonly static string exceptionsFilename = $"{Folders.Root()}\\exceptions.log";
 
 		// List of log lines
 		private static readonly List<string> lines = [];
@@ -85,6 +86,37 @@ namespace xidata_v2.source
 		public static void Space()
 		{
 			Add(" ");
+		}
+
+		/// <summary>
+		/// Log exceptions
+		/// </summary>
+		public static void Exception(Exception exception)
+		{
+			// write to file
+			string text = $"!!!  EXCEPTION !!!\n{exception}\n\n";
+
+			// add to lists
+			lines.Add(text);
+			linesRecent.Add(text);
+			linesToLogs.Add(text);
+			Space();
+
+			if (exception.StackTrace != null)
+			{
+				text += $"\n\nStack Trace:\n{exception.StackTrace}";
+			}
+
+			text += "\n\n";
+
+			try
+			{
+				File.AppendAllText(exceptionsFilename, text);
+			}
+			catch
+			{
+				// ignore
+			}
 		}
 
 		/// <summary>

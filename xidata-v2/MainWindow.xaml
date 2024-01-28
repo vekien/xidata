@@ -43,41 +43,37 @@
                 </Button>
 
                 <Image Source="/assets/pol.png" Width="64" Margin="10,10,0,0" Height="64" HorizontalAlignment="Left" VerticalAlignment="Top" />
-                <Label Content="xidata v2.01" HorizontalAlignment="Left" Margin="90,20,0,0" VerticalAlignment="Top" FontSize="24" Foreground="White" Width="266" FontStyle="Italic" FontFamily="Open Sans" FontWeight="Medium"/>
+                <Label Content="xidata   v2.0" HorizontalAlignment="Left" Margin="90,20,0,0" VerticalAlignment="Top" FontSize="24" Foreground="White" Width="266" FontStyle="Italic" FontFamily="Open Sans" FontWeight="Medium"/>
+                <Label x:Name="LabelRunning" Content="RUNNING DATA EXTRACTION" HorizontalAlignment="Left" Margin="260,20,0,0" VerticalAlignment="Top" FontSize="24" Foreground="#FFFFEF80" Width="336" FontStyle="Italic" FontFamily="Open Sans" FontWeight="SemiBold" Visibility="Hidden"/>
 
 
-                <!-- Big Stop Button -->
-                <components:XI_Button x:Name="ButtonStop" DepContent="STOP" DepFontSize="20" Margin="0,10,60,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="44" Width="92"/>
+                <!-- Settings -->
+                <Border Background="#7F000000" HorizontalAlignment="Center" VerticalAlignment="Top" Height="158" Margin="0,86,0,0" Width="920"/>
 
                 <!-- Content Type -->
-                <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Content Type" Background="{x:Null}" Margin="20,110,0,0" Foreground="White" Width="160" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
-                <components:XI_Combobox x:Name="A7" DepFontSize="14" DepSelectItems="Zones,Armor,Weapons,Weapons Race,NPC Main,NPC,Animations" Margin="0,135,740,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="44" Width="160"/>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Content Type" Background="{x:Null}" Margin="20,99,0,0" Foreground="White" Width="160" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
+                <components:XI_Combobox x:Name="InputContentType" DepFontSize="14" DepSelectItems="Zones,Armor,Weapons,Weapons Race,NPC,Animations" Margin="0,124,740,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="44" Width="160"/>
 
                 <!-- Noesis Arguments -->
-                <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Noesis Arguments" Background="{x:Null}" Margin="200,110,0,0" Foreground="White" Width="232" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
-                <components:XI_Input x:Name="InputNoesisArguments" DepFontSize="14" DepText="-ff11bumpdir normals -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 0 -scale 100" Margin="200,135,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="44" Width="395"/>
+                <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Noesis Arguments" Background="{x:Null}" Margin="200,99,0,0" Foreground="White" Width="232" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
+                <components:XI_Input x:Name="InputNoesisArguments" DepFontSize="14" DepText="-ff11bumpdir normals -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 0 -scale 100" Margin="200,124,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="44" Width="395"/>
+
+                <!-- Limit -->
+                <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Limit (0 = All)" Background="{x:Null}" Margin="614,99,0,0" Foreground="White" Width="136" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
+                <components:XI_Input x:Name="InputLimitExportCount" DepFontSize="14" DepText="0" Margin="614,124,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="44" Width="136"/>
 
                 <!-- Start -->
-                <components:XI_Button x:Name="A1" DepContent="Start" DepFontSize="16" Margin="0,135,20,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="40" Width="132"/>
+                <components:XI_Button x:Name="ButtonStartExtract" DepContent="Start" DepFontSize="16" Margin="0,124,20,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="40" Width="132" Click="ButtonStartExtract_Click"/>
+
+                <!-- Big Stop Button -->
+                <components:XI_Button x:Name="ButtonStopExtract" DepContent="STOP" DepFontSize="16" Margin="0,185,20,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="38" Width="87" Click="ButtonStopExtract_Click"/>
 
                 <!-- A Hook key -->
-                <components:XI_Checkbox x:Name="CheckboxHookToStop" DepText="Enable A button to Stop" DepChecked="True" DepSubtext="Pressing the A button on your keyboard will stop everything." Margin="0,193,433,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="49" Width="466"/>
-
-                <!-- Noesis Arguments -->
-                <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Limit (0 = All)" Background="{x:Null}" Margin="614,110,0,0" Foreground="White" Width="136" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
-                <components:XI_Input x:Name="InputLimitExportCount" DepFontSize="14" DepText="0" Margin="614,135,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="44" Width="136"/>
-
-                
-                <!-- Settings -->
-                <Border Background="#7F000000" CornerRadius="4" HorizontalAlignment="Left" VerticalAlignment="Top" Height="110" Margin="20,252,0,0" Width="879">
-                    
-                </Border>
-                
-                
+                <components:XI_Checkbox x:Name="CheckboxHookToStop" DepText="Enable A button to Stop" DepChecked="True" DepSubtext="Pressing the A button on your keyboard will stop everything." Margin="0,182,433,0" HorizontalAlignment="Right" VerticalAlignment="Top" Height="49" Width="466"/>
 
                 <!-- Log Window -->
-                <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Width="880" Height="200" Margin="0,0,0,20" HorizontalAlignment="Center" VerticalAlignment="Bottom">
-                    <TextBox x:Name="AppLog" Background="#FF0A0A0A" BorderThickness="2" TextWrapping="Wrap" Width="880" Height="200" VerticalScrollBarVisibility="Visible" Text="(Loading logs...)" FontFamily="Consolas" BorderBrush="#FF3A3A3A" Foreground="#FFF1F6FF" HorizontalAlignment="Center" VerticalAlignment="Bottom" Padding="10,10,10,10" IsReadOnly="True" FontSize="13"/>
+                <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Disabled" Width="880" Height="315" Margin="0,0,0,20" HorizontalAlignment="Center" VerticalAlignment="Bottom">
+                    <TextBox x:Name="AppLog" Background="#FF0A0A0A" BorderThickness="2" TextWrapping="Wrap" Width="880" Height="315" VerticalScrollBarVisibility="Visible" Text="(Loading logs...)" FontFamily="Consolas" BorderBrush="#FF3A3A3A" Foreground="#FFF1F6FF" Padding="10,10,10,10" IsReadOnly="True" FontSize="13"/>
                 </ScrollViewer>
 
             </Grid>

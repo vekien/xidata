@@ -59,6 +59,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="ini-parser-new" Version="2.6.2" />
+    <PackageReference Include="MouseKeyHook" Version="5.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="assets\background.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>

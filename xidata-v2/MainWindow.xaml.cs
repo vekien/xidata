@@ -1,7 +1,6 @@
-﻿using System;
+﻿using Gma.System.MouseKeyHook;
+using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Reflection;
 using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media.Imaging;
@@ -17,7 +16,14 @@ namespace xidata_v2
 	{
 		public MainWindow()
 		{
+			// Set the main window instance
+			Instances.MainWindow = this;
+
 			InitializeComponent();
+
+			// Subscribe to the DispatcherUnhandledException event
+			Application.Current.DispatcherUnhandledException += Current_DispatcherUnhandledException;
+			AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
 
 			Loaded += MainWindow_Loaded;
 			Closed += MainWindow_Closed;
@@ -29,40 +35,38 @@ namespace xidata_v2
 		{
 			// Start logger output timer
 			Logger.Init();
-			InitLogger();
+			StartLoggerTimer();
+
+			// Ini Settings
+			Settings.InitSettings();
 
 			// Set background image
 			SetBackground("background.png");
 
+			// Set some defaults
+			InputContentType.Get().SelectedIndex = 0;
+
+			// Subscribe to hook listener
+			HookSubscribe();
+
+			// Credits
 			Logger.Add("Welcome to XI Data v2.0");
 			Logger.Add("Build by Vekien");
-
-		
 		}
 
 		private void MainWindow_Closed(object sender, EventArgs e)
 		{
+			// Unsub the hook listener
+			HookUnsubscribe();
+
+
 			// Shutdown the application
 			Application.Current.Shutdown();
 		}
 
-		public void CloseApplication()
-		{
-			// todo - end background workers and timers.
-			Close();
-		}
-
 		private void ButtonCloseApp_Click(object sender, RoutedEventArgs e)
 		{
-			CloseApplication();
-		}
-
-		public void SetBackground(string backgroundImage)
-		{
-			// Load image from local resources
-			string newImageResourcePath = $"pack://application:,,,/assets/{backgroundImage}";
-			BitmapImage bitmapImage = new(new Uri(newImageResourcePath));
-			AppBackgroundImage.ImageSource = bitmapImage;
+			Close();
 		}
 
 		private void Window_Drag(object sender, MouseEventArgs e)
@@ -76,6 +80,117 @@ namespace xidata_v2
 			}
 		}
 
+		/// <summary>
+		/// Set the background image for the application
+		/// </summary>
+		/// <param name="backgroundImage"></param>
+		private void SetBackground(string backgroundImage)
+		{
+			// Load image from local resources
+			string newImageResourcePath = $"pack://application:,,,/assets/{backgroundImage}";
+			BitmapImage bitmapImage = new(new Uri(newImageResourcePath));
+			AppBackgroundImage.ImageSource = bitmapImage;
+		}
+
+		/// <summary>
+		/// Stop button clicked.
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
+		private void ButtonStopExtract_Click(object sender, RoutedEventArgs e)
+		{
+			StopExtraction();
+		}
+
+		/// <summary>
+		/// Start extraction
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
+		private void ButtonStartExtract_Click(object sender, RoutedEventArgs e)
+		{
+			StartExtraction();
+		}
+
+		/// <summary>
+		/// Catch exceptions
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
+		private void Current_DispatcherUnhandledException(object sender, DispatcherUnhandledExceptionEventArgs e)
+		{
+			Logger.Exception(e.Exception);
+			e.Handled = true;
+		}
+
+		/// <summary>
+		/// Catch other exceptions
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
+		private void CurrentDomain_UnhandledException(object sender, UnhandledExceptionEventArgs e)
+		{
+			Exception ex = e.ExceptionObject as Exception;
+			Logger.Exception(ex);
+		}
+
+		/// <summary>
+		/// Get the windows current dispatcher
+		/// </summary>
+		/// <returns></returns>
+		public Dispatcher GetDispatcher()
+		{
+			return Application.Current.Dispatcher;
+		}
+
+		#endregion
+
+		#region Application Keyboard Hook Listener
+
+		/// -----------------------------------------------------------------------------------------
+		/// Escape Key Listener
+		/// - This listens for "Escape" key
+		/// It uses: https://github.com/gmamaladze/globalmousekeyhook
+		/// -----------------------------------------------------------------------------------------
+
+		private IKeyboardMouseEvents m_GlobalHook;
+		private void HookSubscribe()
+		{
+			m_GlobalHook = Hook.GlobalEvents();
+			m_GlobalHook.KeyPress += M_GlobalHook_KeyPress;
+		}
+
+		private void HookUnsubscribe()
+		{
+			m_GlobalHook.KeyPress -= M_GlobalHook_KeyPress;
+			m_GlobalHook.Dispose();
+		}
+
+		private void M_GlobalHook_KeyPress(object sender, System.Windows.Forms.KeyPressEventArgs e)
+		{
+			string character = e.KeyChar.ToString();
+			character = ((sbyte)e.KeyChar == 13) ? "ENTER" : character;
+			character = ((sbyte)e.KeyChar == 32) ? "SPACE" : character;
+			//Logger.Add($"Key: {(sbyte)e.KeyChar} == {character}");
+
+			// Escape
+			if ((sbyte)e.KeyChar == 27)
+			{
+				return;
+			}
+
+			// A
+			if ((sbyte)e.KeyChar == 97)
+			{
+				if (CheckboxHookToStop.IsChecked())
+				{
+					StopExtraction();
+				}
+
+				return;
+			}
+		}
+
 		#endregion
 
 		#region Logging
@@ -83,14 +198,14 @@ namespace xidata_v2
 		/// <summary>
 		/// Initialise the application logger
 		/// </summary>
-		private void InitLogger()
+		private void StartLoggerTimer()
 		{
 			// clear current log view
 			AppLog.Text = "";
 
 			DispatcherTimer logTimer = new()
 			{
-				Interval = TimeSpan.FromMilliseconds(1000)
+				Interval = TimeSpan.FromMilliseconds(300)
 			};
 
 			logTimer.Tick += (sender, e) => {
@@ -114,32 +229,30 @@ namespace xidata_v2
 
 		#endregion
 
-		/// <summary>
-		/// returns all the lines in a xidata resource data txt file.
-		/// </summary>
-		/// <param name="resourceDataName"></param>
-		/// <returns></returns>
-		private static List<string> GetResourceData(string resourceDataName)
+		private void StopExtraction()
 		{
-			List<string> lines = [];
-			string filename = $"{Folders.Root()}\\data\\{resourceDataName}.txt";
+			Logger.Add("Stopping extraction...");
+			Extractor.Stop();
+		}
 
-			if (File.Exists(filename))
-			{
-				using StreamReader reader = new(filename);
+		private void StartExtraction()
+		{
+			// Grab form data
+			string XiContentType = InputContentType.Get().SelectedItem.ToString().Trim();
+			string XiNoesisArgs = InputNoesisArguments.Get().Text.ToString().Trim();
+			int XiNoesisLimit = InputLimitExportCount.GetNumber();
 
-				while (!reader.EndOfStream)
-				{
-					string line = reader.ReadLine();
-					lines.Add(line);
-				}
-			}
-			else
-			{
-				Logger.Add("xidata resource file not found: " + filename);
-			}
+			// Init extractor
+			Extractor.Init(XiContentType, XiNoesisArgs, XiNoesisLimit);
+			Logger.Space();
+			Logger.Add($"Extractor initialized for: {XiContentType}");
 
-			return lines;
+			// Open Noesis
+			Logger.Add("Starting Noesis...");
+			Auto.OpenNoesis();
+
+			// Start Extraction
+			Extractor.Start();
 		}
 	}
 }

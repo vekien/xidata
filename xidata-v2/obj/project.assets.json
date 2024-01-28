@@ -1,11 +1,74 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows7.0": {
+      "ini-parser-new/2.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/IniParser.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/IniParser.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "MouseKeyHook/5.7.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows7.0/Gma.System.MouseKeyHook.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows7.0/Gma.System.MouseKeyHook.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ini-parser-new/2.6.2": {
+      "sha512": "NJhZKhxrWsO2h+WeDFZ8fFMRqL9N63qevKtvfmHvwxx8GzI1E/Mnk1dX0BlhyiDms5GTHl7Tb0cHwlXMjsZzSA==",
+      "type": "package",
+      "path": "ini-parser-new/2.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "ini-parser-new.2.6.2.nupkg.sha512",
+        "ini-parser-new.nuspec",
+        "lib/net40/IniParser.dll",
+        "lib/net40/IniParser.xml",
+        "lib/netstandard2.0/IniParser.dll",
+        "lib/netstandard2.0/IniParser.xml",
+        "nuget-ini-icon.png"
+      ]
+    },
+    "MouseKeyHook/5.7.1": {
+      "sha512": "c0VhB6cbcOpMOcoCQmvPMVqxaH76S4IPHwpbCIY7XKUNimdj9+81rX+Evnu5O53xYgUvdD7g0qmlVeZP2wGCnA==",
+      "type": "package",
+      "path": "mousekeyhook/5.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net472/Gma.System.MouseKeyHook.dll",
+        "lib/net48/Gma.System.MouseKeyHook.dll",
+        "lib/net6.0-windows7.0/Gma.System.MouseKeyHook.dll",
+        "lib/net7.0-windows7.0/Gma.System.MouseKeyHook.dll",
+        "mouse-keyboard-hook-logo64x64.png",
+        "mousekeyhook.5.7.1.nupkg.sha512",
+        "mousekeyhook.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows7.0": [
+      "MouseKeyHook >= 5.7.1",
+      "ini-parser-new >= 2.6.2"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Josh\\.nuget\\packages\\": {},
@@ -51,6 +114,16 @@
     "frameworks": {
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "MouseKeyHook": {
+            "target": "Package",
+            "version": "[5.7.1, )"
+          },
+          "ini-parser-new": {
+            "target": "Package",
+            "version": "[2.6.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

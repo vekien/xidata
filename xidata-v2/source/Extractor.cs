@@ -120,8 +120,10 @@ namespace xidata_v2.source
 					string xi_race_name = values[11];
 					string xi_race_skeleton = values[14];
 
-					// Save data
-					string out_folder = $"{DirectoryOutput}\\animations\\{xi_race_name}\\{xi_category}\\{xi_name_clean}";
+					// Set output folders/filenames, we specially set basic because SE split basic into 3 dats, but then never do this again....
+					string out_folder = xi_category == "basic" 
+						? $"{DirectoryOutput}\\animations\\{xi_race_name}\\{xi_category}"
+						: $"{DirectoryOutput}\\animations\\{xi_race_name}\\{xi_category}\\{xi_name_clean}";
 					string out_filename = $"{out_folder}\\{xi_name_clean}.fbx";
 
 					// Source data

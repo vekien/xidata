@@ -168,8 +168,9 @@ namespace xidata_v2.source
 						// If there are 2 Noesis windows, it's usually an error.
 						if (Auto.CountActiveWindows("Noesis") == 2)
 						{
+							Logger.Add($"-- Error: Could not process {xi_dat} as the preview error showed up. Skipping!");
 							Auto.SendKeyN(4, "{ESCAPE}", 200, "");
-							return;
+							continue;
 						}
 
 						// Escape any popups as we'll handle the skeleton later

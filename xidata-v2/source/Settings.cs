@@ -55,6 +55,16 @@ namespace xidata_v2.source
 				data["xidata"]["sendkey_delay"] = "400";
 			}
 
+			if (data["xidata"]["debug_race"] == null)
+			{
+				data["xidata"]["debug_race"] = "";
+			}
+
+			if (data["xidata"]["debug_anim"] == null)
+			{
+				data["xidata"]["debug_anim"] = "";
+			}
+
 			return data;
 		}
 
@@ -71,6 +81,15 @@ namespace xidata_v2.source
 		public static int GetSendKeyDelay()
 		{
 			return int.Parse(IniSettings["xidata"]["sendkey_delay"]);
+		}
+
+		public static string[] GetDebug()
+		{
+			return
+			[
+				IniSettings["xidata"]["debug_race"],
+				IniSettings["xidata"]["debug_anim"]
+			];
 		}
 	}
 }

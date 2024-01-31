@@ -56,7 +56,7 @@
 
                 <!-- Noesis Arguments -->
                 <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Noesis Arguments" Background="{x:Null}" Margin="200,99,0,0" Foreground="White" Width="232" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />
-                <components:XI_Input x:Name="InputNoesisArguments" DepFontSize="14" DepText="-ff11bumpdir normals -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 0 -scale 100" Margin="200,124,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="44" Width="395"/>
+                <components:XI_Input x:Name="InputNoesisArguments" DepFontSize="14" DepText="-ff11bumpdir normals -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 270 -scale 60" Margin="200,124,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="44" Width="395"/>
 
                 <!-- Limit -->
                 <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Limit (0 = All)" Background="{x:Null}" Margin="614,99,0,0" Foreground="White" Width="136" Height="22" Padding="0,0,0,0" FontSize="14" FontWeight="Medium" />

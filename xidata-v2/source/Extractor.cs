@@ -97,6 +97,7 @@ namespace xidata_v2.source
 		private static void ExtractAnimations()
 		{
 			int count = 0;
+			int skipped = 0;
 			int total = XiNoesisLimit > 0 ? XiNoesisLimit : ContentData.Count;
 
 			Logger.Add($"Starting: {total} Animations extract...");
@@ -104,14 +105,21 @@ namespace xidata_v2.source
 
 			foreach (string anim in ContentData)
 			{
-				
-
 				if (!IsEnabled) return;
 
 				try
 				{
 					// Grab anim data
 					string[] values = anim.Split('|');
+
+					// if there isn't at least 14 values, skip as it'll be a bugged entry
+					if (values.Length < 14) 
+					{
+						skipped++;
+						total--;
+						continue;
+					}
+
 					string xi_filename = values[0];
 					string xi_category = values[1];
 					string xi_dat = values[2];
@@ -120,16 +128,32 @@ namespace xidata_v2.source
 					string xi_race_name = values[11];
 					string xi_race_skeleton = values[14];
 
+					// check if we're skipping from debug
+					if (Settings.GetDebug()[0].Length > 2)
+					{
+						string debug_race = Settings.GetDebug()[0];
+						string debug_anim = Settings.GetDebug()[1];
+
+						if (xi_race_name != debug_race || xi_category != "basic")
+						{
+							skipped++;
+							total--;
+							continue;
+						}
+					}
+
 					// Set output folders/filenames, we specially set basic because SE split basic into 3 dats, but then never do this again....
 					string out_folder = xi_category == "basic" 
 						? $"{DirectoryOutput}\\animations\\{xi_race_name}\\{xi_category}"
 						: $"{DirectoryOutput}\\animations\\{xi_race_name}\\{xi_category}\\{xi_name_clean}";
+
 					string out_filename = $"{out_folder}\\{xi_name_clean}.fbx";
 
 					// Source data
 					string source_filename = $"{Settings.GetFFxiPath()}\\{xi_dat}";
 					string source_skeleton = $"{Settings.GetFFxiPath()}\\{xi_race_skeleton}";
 
+					// create output folder
 					if (!Directory.Exists(out_folder))
 					{
 						Directory.CreateDirectory(out_folder);
@@ -139,14 +163,16 @@ namespace xidata_v2.source
 					bool fbx_found = Directory.GetFiles(out_folder, "*.fbx").Length > 0;
 					bool png_found = Directory.GetFiles(out_folder, "*.png").Length > 0;
 
-					if (fbx_found || png_found) 
+					// We skip this on basic because of the way anims are split into multiple dats but get exported to the same folder
+					if (xi_category != "basic" && (fbx_found || png_found)) 
 					{
-						Logger.Add($"- {count}/{total} Skipped (Exists): {xi_race_name} {xi_category} {xi_name_clean}");
+						skipped++;
+						total--;
 						continue; 
 					}
 
 					count++;
-					Logger.Add($"- {count}/{total} Processing: {xi_race_name} {xi_category} {xi_name_clean} :: {xi_dat}");
+					Logger.Add($"- {count}/{total} (s{skipped}) Processing: {xi_race_name} {xi_category} {xi_name_clean} :: {xi_dat}");
 
 					// Focus Noesis
 					Auto.FocusNoesis();
@@ -234,7 +260,8 @@ namespace xidata_v2.source
 				}
 				catch (Exception ex)
 				{
-					Logger.Add($"Error: {ex.Message}");
+					Logger.Add($"Error: {anim} = {ex.Message}");
+					Logger.Exception(ex);
 				}
 
 				// Limit check

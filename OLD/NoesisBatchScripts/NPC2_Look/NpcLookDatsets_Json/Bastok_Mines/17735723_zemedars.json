@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/71.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/81.DAT",
+        "ModelID": 1,
+        "FileID": 26393,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/119.DAT",
+        "ModelID": 8,
+        "FileID": 26656,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/42.DAT",
+        "ModelID": 15,
+        "FileID": 26919,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/74.DAT",
+        "ModelID": 15,
+        "FileID": 27176,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/104.DAT",
+        "ModelID": 15,
+        "FileID": 27431,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17735723",
+        "name": "Zemedars",
+        "zone": "Bastok_Mines",
+        "look": "01000708011008200F300F400F50006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "248",
+            "x": "-25.099",
+            "y": "-0.044",
+            "z": "3.546"
+        }
+    }
+}

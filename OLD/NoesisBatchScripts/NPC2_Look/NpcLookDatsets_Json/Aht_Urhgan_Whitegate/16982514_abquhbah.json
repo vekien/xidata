@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/164\/102.DAT",
+        "ModelID": 173,
+        "FileID": 7541,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/145\/86.DAT",
+        "ModelID": 135,
+        "FileID": 7759,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/30.DAT",
+        "ModelID": 172,
+        "FileID": 8052,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/164\/108.DAT",
+        "ModelID": 173,
+        "FileID": 8309,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982514",
+        "name": "Abquhbah",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010005010010AD208730AC40AD50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

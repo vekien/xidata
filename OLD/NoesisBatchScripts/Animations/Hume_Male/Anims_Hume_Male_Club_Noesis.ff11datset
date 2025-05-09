@@ -1,0 +1,32 @@
+NOESIS_FF11_DAT_SET
+
+setPathAbs "E:/SquareEnix/SquareEnix/FINAL FANTASY XI/"
+
+dat "__skeleton" "ROM/27/82.dat"
+
+dat "__animation" "ROM/76/68.DAT"
+dat "__animation" "ROM/76/69.DAT"
+dat "__animation" "ROM/76/70.DAT"
+dat "__animation" "ROM/76/71.DAT"
+dat "__animation" "ROM/76/72.DAT"
+dat "__animation" "ROM/76/73.DAT"
+dat "__animation" "ROM/76/74.DAT"
+dat "__animation" "ROM/76/75.DAT"
+dat "__animation" "ROM/100/28.DAT"
+dat "__animation" "ROM/100/29.DAT"
+dat "__animation" "ROM/139/78.DAT"
+dat "__animation" "ROM/206/34.DAT"
+dat "__animation" "ROM/242/70.DAT"
+dat "__animation" "ROM/257/75.DAT"
+dat "__animation" "ROM/269/71.DAT"
+
+dat "face" "ROM/27/87.dat"
+dat "head" "ROM/27/103.dat"
+dat "body" "ROM/28/7.dat"
+dat "hands" "ROM/28/52.dat"
+dat "legs" "ROM/28/84.dat"
+dat "feet" "ROM/28/116.dat"
+
+dat "main" "ROM/29/20.dat"
+dat "sub" "ROM/31/26.dat"
+dat "ranged" "ROM/31/82.dat"

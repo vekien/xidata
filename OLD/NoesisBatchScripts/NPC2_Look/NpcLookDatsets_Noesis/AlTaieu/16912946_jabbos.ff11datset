@@ -1,0 +1,11 @@
+NOESIS_FF11_DAT_SET
+
+setPathAbs	"E:/SquareEnix/SquareEnix/FINAL FANTASY XI/"
+
+dat			"__skeleton"	"ROM/56/59.DAT"
+dat			"face"	"ROM/56/72.DAT"
+dat			"body"	"ROM/135/51.DAT"
+dat			"hands"	"ROM/57/29.DAT"
+dat			"feet"	"ROM/57/89.DAT"
+dat			"legs"	"ROM/130/45.DAT"
+dat			"main"	"ROM/58/39.DAT"

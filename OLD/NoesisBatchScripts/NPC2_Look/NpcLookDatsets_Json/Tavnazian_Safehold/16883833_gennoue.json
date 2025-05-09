@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/15.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/59.DAT",
+        "ModelID": 3,
+        "FileID": 16899,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/100.DAT",
+        "ModelID": 0,
+        "FileID": 17152,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/7.DAT",
+        "ModelID": 4,
+        "FileID": 17412,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/38.DAT",
+        "ModelID": 4,
+        "FileID": 17668,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883833",
+        "name": "Gennoue",
+        "zone": "Tavnazian_Safehold",
+        "look": "0100060400100320003004400450006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "94",
+            "x": "-4.282",
+            "y": "-36.598",
+            "z": "17.270"
+        }
+    }
+}

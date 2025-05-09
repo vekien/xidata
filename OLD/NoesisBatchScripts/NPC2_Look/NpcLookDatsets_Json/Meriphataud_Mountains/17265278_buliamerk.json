@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/17.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/34.DAT",
+        "ModelID": 13,
+        "FileID": 16653,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/62.DAT",
+        "ModelID": 6,
+        "FileID": 16902,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/112.DAT",
+        "ModelID": 12,
+        "FileID": 17164,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/15.DAT",
+        "ModelID": 12,
+        "FileID": 17420,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/46.DAT",
+        "ModelID": 12,
+        "FileID": 17676,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo5_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/45\/28.DAT",
+        "ModelID": 266,
+        "FileID": 18186,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_shie1",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/45\/86.DAT",
+        "ModelID": 36,
+        "FileID": 45075,
+        "Type": "Katana"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17265278",
+        "name": "Buliame, R.K.",
+        "zone": "Meriphataud_Mountains",
+        "look": "010008040D1006200C300C400C500A6124700000",
+        "content": "",
+        "pos": {
+            "rotation": "74",
+            "x": "-120.393",
+            "y": "-24.822",
+            "z": "-592.604"
+        }
+    }
+}

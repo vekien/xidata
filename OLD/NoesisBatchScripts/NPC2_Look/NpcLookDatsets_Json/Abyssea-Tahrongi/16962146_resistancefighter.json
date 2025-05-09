@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/102.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/129\/127.DAT",
+        "ModelID": 109,
+        "FileID": 23325,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/130\/5.DAT",
+        "ModelID": 109,
+        "FileID": 23581,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/130\/11.DAT",
+        "ModelID": 109,
+        "FileID": 23837,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/130\/17.DAT",
+        "ModelID": 109,
+        "FileID": 24094,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/130\/21.DAT",
+        "ModelID": 109,
+        "FileID": 24349,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_spea2",
+        "Race": "Mithra",
+        "Path": "ROM\/54\/51.DAT",
+        "ModelID": 204,
+        "FileID": 24700,
+        "Type": "Polearm"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16962146",
+        "name": "Resistance Fighter",
+        "zone": "Abyssea-Tahrongi",
+        "look": "010008076D106D206D306D406D50CC6000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "128",
+            "x": "-38.225",
+            "y": "-7.914",
+            "z": "-85.742"
+        }
+    }
+}

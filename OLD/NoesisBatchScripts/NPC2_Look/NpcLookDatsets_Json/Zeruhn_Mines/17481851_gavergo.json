@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/67.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/114.DAT",
+        "ModelID": 3,
+        "FileID": 26651,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/30.DAT",
+        "ModelID": 3,
+        "FileID": 26907,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/62.DAT",
+        "ModelID": 3,
+        "FileID": 27164,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/92.DAT",
+        "ModelID": 3,
+        "FileID": 27419,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17481851",
+        "name": "Gavergo",
+        "zone": "Zeruhn_Mines",
+        "look": "0100030803100320033003400350036000700000",
+        "content": "",
+        "pos": {
+            "rotation": "149",
+            "x": "-65.886",
+            "y": "0.000",
+            "z": "17.955"
+        }
+    }
+}

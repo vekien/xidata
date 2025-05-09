@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/60.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/27.DAT",
+        "ModelID": 56,
+        "FileID": 20128,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/35.DAT",
+        "ModelID": 56,
+        "FileID": 20384,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/43.DAT",
+        "ModelID": 56,
+        "FileID": 20640,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/51.DAT",
+        "ModelID": 56,
+        "FileID": 20896,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982416",
+        "name": "Teepapa",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100050600103820383038403850006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "108",
+            "x": "-65.239",
+            "y": "0.000",
+            "z": "-83.762"
+        }
+    }
+}

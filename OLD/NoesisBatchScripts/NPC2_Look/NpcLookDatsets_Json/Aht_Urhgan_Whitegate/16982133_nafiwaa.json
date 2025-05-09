@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/67.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/3.DAT",
+        "ModelID": 20,
+        "FileID": 10564,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/48.DAT",
+        "ModelID": 20,
+        "FileID": 10820,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/78.DAT",
+        "ModelID": 18,
+        "FileID": 11074,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/102.DAT",
+        "ModelID": 10,
+        "FileID": 11322,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982133",
+        "name": "Nafiwaa",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100040200101420143012400A50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "249",
+            "x": "-74.351",
+            "y": "-5.999",
+            "z": "126.575"
+        }
+    }
+}

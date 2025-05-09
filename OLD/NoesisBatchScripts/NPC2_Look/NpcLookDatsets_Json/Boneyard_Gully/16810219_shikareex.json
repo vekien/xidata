@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/99.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/129\/121.DAT",
+        "ModelID": 51,
+        "FileID": 23267,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/71.DAT",
+        "ModelID": 54,
+        "FileID": 23526,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/130\/12.DAT",
+        "ModelID": 110,
+        "FileID": 23838,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/134\/122.DAT",
+        "ModelID": 84,
+        "FileID": 24069,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/130\/22.DAT",
+        "ModelID": 110,
+        "FileID": 24350,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_knf8_",
+        "Race": "Mithra",
+        "Path": "ROM\/54\/27.DAT",
+        "ModelID": 180,
+        "FileID": 24676,
+        "Type": "Dagger"
+    },
+    "sub": {
+        "Identifier": "hf_knf8_",
+        "Race": "Mithra",
+        "Path": "ROM\/116\/14.DAT",
+        "ModelID": 180,
+        "FileID": 47779,
+        "Type": "Dagger"
+    },
+    "ranged": null,
+    "data": {
+        "id": "16810219",
+        "name": "Shikaree X",
+        "zone": "Boneyard_Gully",
+        "look": "01000507331036206E3054406E50B460B4700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "52",
+            "x": "-4.898",
+            "y": "3.521",
+            "z": "128.413"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+Cape Teriggan	ROM2/0/0.DAT
+Eastern Altepa Desert	ROM2/0/1.DAT
+The Sanctuary of Zi'Tah	ROM2/0/2.DAT
+Ro'Maeve	ROM2/0/3.DAT
+Yuhtunga Jungle	ROM2/0/4.DAT
+Yhoator Jungle	ROM2/0/5.DAT
+Western Altepa Desert	ROM2/0/6.DAT
+Valley of Sorrows	ROM2/0/7.DAT
+Ru'Aun Gardens	ROM2/12/107.DAT
+Dynamis - Beaucedine	ROM2/12/108.DAT
+Dynamis - Xarcabard	ROM2/12/109.DAT
+The Boyahda Tree	ROM2/0/8.DAT
+Dragon's Aery	ROM2/0/9.DAT
+Temple of Uggalepih	ROM2/0/10.DAT
+Den of Rancor	ROM2/12/110.DAT
+Sacrificial Chamber	ROM2/12/111.DAT
+Chamber of Oracles	ROM2/0/11.DAT
+Full Moon Fountain	ROM2/0/12.DAT
+Korroloka Tunnel	ROM2/0/13.DAT
+Kuftal Tunnel	ROM2/0/14.DAT
+Sea Serpent Grotto	ROM2/0/15.DAT
+Ve'Lugannon Palace	ROM2/12/112.DAT
+The Shrine of Ru'Avitau	ROM2/12/113.DAT
+Stellar Fulcrum	ROM2/0/16.DAT
+La'Loff Amphitheater	ROM2/12/114.DAT
+The Celestial Nexus	ROM2/12/115.DAT
+Dynamis - San d'Oria	ROM2/12/116.DAT
+Dynamis - Bastok	ROM2/12/117.DAT
+Dynamis - Windurst	ROM2/12/118.DAT
+Dynamis - Jeuno	ROM2/12/119.DAT
+Cloister of Gales	ROM2/0/17.DAT
+Cloister of Storms	ROM2/0/18.DAT
+Cloister of Frost	ROM2/0/19.DAT
+Ifrit's Cauldron	ROM2/0/20.DAT
+Cloister of Flames	ROM2/0/21.DAT
+Quicksand Caves	ROM2/12/120.DAT
+Cloister of Tremors	ROM2/0/22.DAT
+Cloister of Tides	ROM2/0/23.DAT
+Gustav Tunnel	ROM2/12/121.DAT
+Labyrinth of Onzozo	ROM2/12/122.DAT
+Kazham-Jeuno Airship	ROM2/0/24.DAT
+Rabao	ROM2/12/123.DAT
+Kazham	ROM2/0/25.DAT
+Hall of the Gods	ROM2/21/114.DAT
+Norg	ROM2/0/27.DAT

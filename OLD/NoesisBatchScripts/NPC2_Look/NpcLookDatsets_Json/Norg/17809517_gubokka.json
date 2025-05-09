@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/71.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/116.DAT",
+        "ModelID": 5,
+        "FileID": 26653,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/121\/123.DAT",
+        "ModelID": 53,
+        "FileID": 26957,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/122\/4.DAT",
+        "ModelID": 53,
+        "FileID": 27214,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/122\/11.DAT",
+        "ModelID": 53,
+        "FileID": 27469,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17809517",
+        "name": "Gubokka",
+        "zone": "Norg",
+        "look": "0100070800100520353035403550166000700000",
+        "content": "",
+        "pos": {
+            "rotation": "118",
+            "x": "-16.466",
+            "y": "1.097",
+            "z": "-22.695"
+        }
+    }
+}

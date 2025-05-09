@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/56.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/36.DAT",
+        "ModelID": 19,
+        "FileID": 20091,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/80.DAT",
+        "ModelID": 19,
+        "FileID": 20347,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/96\/77.DAT",
+        "ModelID": 82,
+        "FileID": 20666,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/96\/82.DAT",
+        "ModelID": 82,
+        "FileID": 20922,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982364",
+        "name": "Fari-Wari",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100010500101320133052405250006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "55",
+            "x": "80.453",
+            "y": "-6.000",
+            "z": "-137.707"
+        }
+    }
+}

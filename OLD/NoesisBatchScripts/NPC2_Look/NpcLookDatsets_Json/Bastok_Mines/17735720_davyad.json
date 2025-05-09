@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/70.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/112.DAT",
+        "ModelID": 1,
+        "FileID": 26649,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/27.DAT",
+        "ModelID": 0,
+        "FileID": 26904,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/74.DAT",
+        "ModelID": 15,
+        "FileID": 27176,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/104.DAT",
+        "ModelID": 15,
+        "FileID": 27431,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17735720",
+        "name": "Davyad",
+        "zone": "Bastok_Mines",
+        "look": "010006080010012000300F400F50006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "138",
+            "x": "83.023",
+            "y": "-0.087",
+            "z": "33.444"
+        }
+    }
+}

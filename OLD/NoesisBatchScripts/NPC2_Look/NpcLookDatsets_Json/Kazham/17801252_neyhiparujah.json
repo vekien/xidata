@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/102.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/16.DAT",
+        "ModelID": 3,
+        "FileID": 23475,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/60.DAT",
+        "ModelID": 3,
+        "FileID": 23731,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/92.DAT",
+        "ModelID": 3,
+        "FileID": 23988,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/122.DAT",
+        "ModelID": 3,
+        "FileID": 24243,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17801252",
+        "name": "Ney Hiparujah",
+        "zone": "Kazham",
+        "look": "0100080700100320033003400350006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "194",
+            "x": "55.222",
+            "y": "-12.101",
+            "z": "-168.355"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/61.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/138\/17.DAT",
+        "ModelID": 121,
+        "FileID": 19937,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/144\/98.DAT",
+        "ModelID": 131,
+        "FileID": 20203,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/158\/44.DAT",
+        "ModelID": 159,
+        "FileID": 20487,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/144\/107.DAT",
+        "ModelID": 128,
+        "FileID": 20712,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/148\/32.DAT",
+        "ModelID": 138,
+        "FileID": 20978,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982118",
+        "name": "Kaduru-Haiduru",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000605791083209F3080408A50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "192",
+            "x": "-71.041",
+            "y": "-6.000",
+            "z": "-71.247"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+Southern San d'Oria [S]	ROM5/0/0.DAT
+East Ronfaure [S]	ROM5/0/1.DAT
+Jugner Forest [S]	ROM5/0/2.DAT
+Vunkerl Inlet [S]	ROM5/0/3.DAT
+Batallia Downs [S]	ROM5/0/4.DAT
+La Vaule [S]	ROM5/0/5.DAT
+Everbloom Hollow	ROM5/0/6.DAT
+Bastok Markets [S]	ROM5/0/7.DAT
+North Gustaberg [S]	ROM5/0/8.DAT
+Grauberg [S]	ROM5/0/9.DAT
+Pashhow Marshlands [S]	ROM5/0/10.DAT
+Rolanberry Fields [S]	ROM5/0/11.DAT
+Beadeaux [S]	ROM5/0/12.DAT
+Ruhotz Silvermines	ROM5/0/13.DAT
+Windurst Waters [S]	ROM5/0/14.DAT
+West Sarutabaruta [S]	ROM5/0/15.DAT
+Fort Karugo-Narugo [S]	ROM5/0/16.DAT
+Meriphataud Mountains [S]	ROM5/0/17.DAT
+Sauromugue Champaign [S]	ROM5/0/18.DAT
+Castle Oztroja [S]	ROM5/0/19.DAT
+Ghoyu's Reverie	ROM5/0/20.DAT
+Beaucedine Glacier [S]	ROM5/0/21.DAT
+Xarcabard [S]	ROM5/0/22.DAT
+Castle Zvahl Baileys [S]	ROM5/0/23.DAT
+Castle Zvahl Keep [S]	ROM5/0/24.DAT
+Throne Room [S]	ROM5/0/25.DAT
+Garlaige Citadel [S]	ROM5/0/26.DAT
+Crawlers' Nest [S]	ROM5/0/27.DAT
+The Eldieme Necropolis [S]	ROM5/0/28.DAT
+Walk of Echoes	ROM5/0/29.DAT

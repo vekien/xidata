@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/71.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/145\/38.DAT",
+        "ModelID": 133,
+        "FileID": 26525,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/125\/16.DAT",
+        "ModelID": 61,
+        "FileID": 26709,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/166\/78.DAT",
+        "ModelID": 174,
+        "FileID": 27078,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/157\/119.DAT",
+        "ModelID": 159,
+        "FileID": 27320,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/146\/34.DAT",
+        "ModelID": 135,
+        "FileID": 27551,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974298",
+        "name": "Dabigo",
+        "zone": "Al_Zahbi",
+        "look": "0100070885103D20AE309F408750006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "33",
+            "x": "-34.289",
+            "y": "0.000",
+            "z": "-129.141"
+        }
+    }
+}

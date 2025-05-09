@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/37.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/88.DAT",
+        "ModelID": 5,
+        "FileID": 13725,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/4.DAT",
+        "ModelID": 5,
+        "FileID": 13981,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/35.DAT",
+        "ModelID": 5,
+        "FileID": 14237,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/66.DAT",
+        "ModelID": 5,
+        "FileID": 14493,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": {
+        "Identifier": "hf_swo6_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/112\/86.DAT",
+        "ModelID": 271,
+        "FileID": 44030,
+        "Type": "Sword"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17776790",
+        "name": "Pheauclemand",
+        "zone": "Upper_Jeuno",
+        "look": "010001031F10052005300540055000600F710000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

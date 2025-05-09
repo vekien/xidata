@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/63.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/133\/113.DAT",
+        "ModelID": 114,
+        "FileID": 19930,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/3.DAT",
+        "ModelID": 114,
+        "FileID": 20186,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/21.DAT",
+        "ModelID": 114,
+        "FileID": 20442,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/107.DAT",
+        "ModelID": 15,
+        "FileID": 20599,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/10.DAT",
+        "ModelID": 15,
+        "FileID": 20855,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982177",
+        "name": "Lageegee",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010008067210722072300F400F50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "63",
+            "x": "120.808",
+            "y": "1.161",
+            "z": "-30.435"
+        }
+    }
+}

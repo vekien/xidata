@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/62.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/22.DAT",
+        "ModelID": 5,
+        "FileID": 20077,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/32.DAT",
+        "ModelID": 53,
+        "FileID": 20381,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/40.DAT",
+        "ModelID": 53,
+        "FileID": 20637,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/48.DAT",
+        "ModelID": 53,
+        "FileID": 20893,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17809520",
+        "name": "Gomoya",
+        "zone": "Norg",
+        "look": "0100070500100520353035403550166000700000",
+        "content": "",
+        "pos": {
+            "rotation": "178",
+            "x": "-20.507",
+            "y": "1.097",
+            "z": "-17.581"
+        }
+    }
+}

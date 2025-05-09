@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/68.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/83.DAT",
+        "ModelID": 5,
+        "FileID": 10293,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/33.DAT",
+        "ModelID": 5,
+        "FileID": 10805,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/65.DAT",
+        "ModelID": 5,
+        "FileID": 11061,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/97.DAT",
+        "ModelID": 5,
+        "FileID": 11317,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_spea1",
+        "Race": "Hume Female",
+        "Path": "ROM\/35\/23.DAT",
+        "ModelID": 202,
+        "FileID": 11770,
+        "Type": "Polearm"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17339200",
+        "name": "Scout 02",
+        "zone": "Xarcabard_[S]",
+        "look": "0100050205100520053005400550CA6000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/71.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/89.DAT",
+        "ModelID": 13,
+        "FileID": 26405,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/138\/127.DAT",
+        "ModelID": 118,
+        "FileID": 26766,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/139\/8.DAT",
+        "ModelID": 118,
+        "FileID": 27022,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/74.DAT",
+        "ModelID": 15,
+        "FileID": 27176,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/104.DAT",
+        "ModelID": 15,
+        "FileID": 27431,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974284",
+        "name": "Ndego",
+        "zone": "Al_Zahbi",
+        "look": "010007080D10762076300F400F50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "252",
+            "x": "-37.192",
+            "y": "0.000",
+            "z": "-33.949"
+        }
+    }
+}

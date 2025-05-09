@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/64.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/101.DAT",
+        "ModelID": 26,
+        "FileID": 10314,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/113.DAT",
+        "ModelID": 2,
+        "FileID": 10546,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/28.DAT",
+        "ModelID": 0,
+        "FileID": 10800,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/81.DAT",
+        "ModelID": 21,
+        "FileID": 11077,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/118.DAT",
+        "ModelID": 26,
+        "FileID": 11338,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17134083",
+        "name": "Karlotte",
+        "zone": "Bastok_Markets_[S]",
+        "look": "010001021A100220003015401A50006000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "1",
+            "x": "-191.646",
+            "y": "-8.000",
+            "z": "-36.349"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/90.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/19.DAT",
+        "ModelID": 171,
+        "FileID": 7283,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/22.DAT",
+        "ModelID": 171,
+        "FileID": 7539,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/25.DAT",
+        "ModelID": 171,
+        "FileID": 7795,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/28.DAT",
+        "ModelID": 171,
+        "FileID": 8051,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/31.DAT",
+        "ModelID": 171,
+        "FileID": 8307,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982106",
+        "name": "Musdahl",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000301AB10AB20AB30AB40AB50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "254",
+            "x": "57.616",
+            "y": "0.000",
+            "z": "2.918"
+        }
+    }
+}

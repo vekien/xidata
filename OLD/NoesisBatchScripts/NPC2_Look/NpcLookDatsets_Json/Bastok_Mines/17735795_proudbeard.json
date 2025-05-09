@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/66.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/119.DAT",
+        "ModelID": 8,
+        "FileID": 26656,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/35.DAT",
+        "ModelID": 8,
+        "FileID": 26912,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/67.DAT",
+        "ModelID": 8,
+        "FileID": 27169,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/97.DAT",
+        "ModelID": 8,
+        "FileID": 27424,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17735795",
+        "name": "Proud Beard",
+        "zone": "Bastok_Mines",
+        "look": "0100020808100820083008400850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "156",
+            "x": "94.199",
+            "y": "0.624",
+            "z": "-77.382"
+        }
+    }
+}

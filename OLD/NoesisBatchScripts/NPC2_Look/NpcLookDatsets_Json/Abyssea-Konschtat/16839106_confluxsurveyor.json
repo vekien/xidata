@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/227\/53.DAT",
+        "ModelID": 252,
+        "FileID": 7364,
+        "Type": "Head"
+    },
+    "body": null,
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/185\/85.DAT",
+        "ModelID": 201,
+        "FileID": 7825,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/174\/59.DAT",
+        "ModelID": 185,
+        "FileID": 8065,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/146\/78.DAT",
+        "ModelID": 137,
+        "FileID": 8273,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16839106",
+        "name": "Conflux Surveyor",
+        "zone": "Abyssea-Konschtat",
+        "look": "01000501FC100221C930B9408950006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "82",
+            "x": "133.000",
+            "y": "-72.738",
+            "z": "-824.000"
+        }
+    }
+}

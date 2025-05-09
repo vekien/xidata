@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/56.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/2.DAT",
+        "ModelID": 20,
+        "FileID": 19836,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/42.DAT",
+        "ModelID": 25,
+        "FileID": 20097,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/73.DAT",
+        "ModelID": 12,
+        "FileID": 20340,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/94.DAT",
+        "ModelID": 2,
+        "FileID": 20586,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/125.DAT",
+        "ModelID": 2,
+        "FileID": 20842,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883892",
+        "name": "Atmacite Refiner",
+        "zone": "Tavnazian_Safehold",
+        "look": "01000105141019200C3002400250006000700000",
+        "content": "VOIDWATCH",
+        "pos": {
+            "rotation": "228",
+            "x": "-16.556",
+            "y": "-26.362",
+            "z": "122.545"
+        }
+    }
+}

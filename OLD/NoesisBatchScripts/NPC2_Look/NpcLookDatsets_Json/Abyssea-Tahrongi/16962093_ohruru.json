@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/0.DAT",
+        "ModelID": 18,
+        "FileID": 19834,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/40.DAT",
+        "ModelID": 23,
+        "FileID": 20095,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/84.DAT",
+        "ModelID": 23,
+        "FileID": 20351,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/115.DAT",
+        "ModelID": 23,
+        "FileID": 20607,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/18.DAT",
+        "ModelID": 23,
+        "FileID": 20863,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16962093",
+        "name": "Ohruru",
+        "zone": "Abyssea-Tahrongi",
+        "look": "0100020612101720173017401750006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "197",
+            "x": "9.844",
+            "y": "32.774",
+            "z": "-653.046"
+        }
+    }
+}

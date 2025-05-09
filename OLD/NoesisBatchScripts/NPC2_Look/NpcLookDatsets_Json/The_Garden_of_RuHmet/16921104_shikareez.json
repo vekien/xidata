@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/96.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/124\/116.DAT",
+        "ModelID": 63,
+        "FileID": 23279,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/72.DAT",
+        "ModelID": 55,
+        "FileID": 23527,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/85.DAT",
+        "ModelID": 60,
+        "FileID": 23788,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/134\/124.DAT",
+        "ModelID": 88,
+        "FileID": 24073,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/101.DAT",
+        "ModelID": 60,
+        "FileID": 24300,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_spea6",
+        "Race": "Mithra",
+        "Path": "ROM\/54\/63.DAT",
+        "ModelID": 216,
+        "FileID": 24712,
+        "Type": "Polearm"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16921104",
+        "name": "Shikaree Z",
+        "zone": "The_Garden_of_RuHmet",
+        "look": "010002073F1037203C3058403C50D86000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

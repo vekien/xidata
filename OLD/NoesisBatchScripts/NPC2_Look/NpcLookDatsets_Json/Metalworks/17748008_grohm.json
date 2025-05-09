@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/65.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/116.DAT",
+        "ModelID": 5,
+        "FileID": 26653,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/43.DAT",
+        "ModelID": 16,
+        "FileID": 26920,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/75.DAT",
+        "ModelID": 16,
+        "FileID": 27177,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/95.DAT",
+        "ModelID": 6,
+        "FileID": 27422,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17748008",
+        "name": "Grohm",
+        "zone": "Metalworks",
+        "look": "0100010800100520103010400650006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "122",
+            "x": "-18.084",
+            "y": "-10.000",
+            "z": "-27.576"
+        }
+    }
+}

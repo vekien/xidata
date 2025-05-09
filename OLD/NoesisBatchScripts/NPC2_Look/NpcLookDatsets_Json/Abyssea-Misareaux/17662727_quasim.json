@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/95.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/12.DAT",
+        "ModelID": 5,
+        "FileID": 7373,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/74.DAT",
+        "ModelID": 22,
+        "FileID": 7646,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/89.DAT",
+        "ModelID": 5,
+        "FileID": 7885,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/123.DAT",
+        "ModelID": 7,
+        "FileID": 8143,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17662727",
+        "name": "Quasim",
+        "zone": "Abyssea-Misareaux",
+        "look": "0100080100100520163005400750006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "110",
+            "x": "35.677",
+            "y": "-24.021",
+            "z": "635.805"
+        }
+    }
+}

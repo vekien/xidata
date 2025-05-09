@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/59.DAT",
+        "ModelID": 43,
+        "FileID": 20115,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/69.DAT",
+        "ModelID": 8,
+        "FileID": 20336,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/95.DAT",
+        "ModelID": 3,
+        "FileID": 20587,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/126.DAT",
+        "ModelID": 3,
+        "FileID": 20843,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982262",
+        "name": "Tinga-Matonga",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100020500102B20083003400350006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "173",
+            "x": "-67.629",
+            "y": "-6.500",
+            "z": "98.448"
+        }
+    }
+}

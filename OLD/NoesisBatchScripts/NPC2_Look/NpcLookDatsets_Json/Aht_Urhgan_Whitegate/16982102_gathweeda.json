@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/44.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/137\/60.DAT",
+        "ModelID": 120,
+        "FileID": 13840,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/126\/55.DAT",
+        "ModelID": 103,
+        "FileID": 14079,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/145\/112.DAT",
+        "ModelID": 135,
+        "FileID": 14367,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/145\/114.DAT",
+        "ModelID": 135,
+        "FileID": 14623,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982102",
+        "name": "Gathweeda",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100080300107820673087408750006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "55",
+            "x": "-81.322",
+            "y": "-6.000",
+            "z": "140.273"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/60.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/138\/16.DAT",
+        "ModelID": 119,
+        "FileID": 19935,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/127\/7.DAT",
+        "ModelID": 101,
+        "FileID": 20173,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/61.DAT",
+        "ModelID": 0,
+        "FileID": 20328,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/102.DAT",
+        "ModelID": 10,
+        "FileID": 20594,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/163\/62.DAT",
+        "ModelID": 172,
+        "FileID": 21012,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982580",
+        "name": "kenbutsu10",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010005067710652000300A40AC50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

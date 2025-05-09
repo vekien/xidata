@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/43.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/165\/97.DAT",
+        "ModelID": 178,
+        "FileID": 13642,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/165\/98.DAT",
+        "ModelID": 178,
+        "FileID": 13898,
+        "Type": "Body"
+    },
+    "hands": null,
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/165\/99.DAT",
+        "ModelID": 178,
+        "FileID": 14410,
+        "Type": "Legs"
+    },
+    "feet": null,
+    "main": {
+        "Identifier": "2hs_8",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/163\/109.DAT",
+        "ModelID": 377,
+        "FileID": 15121,
+        "Type": "GreatSword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982367",
+        "name": "Rughadjeen",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000703B210B220B230B240B250796100700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

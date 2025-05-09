@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/37.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/93\/81.DAT",
+        "ModelID": 49,
+        "FileID": 13769,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/127.DAT",
+        "ModelID": 0,
+        "FileID": 13976,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/153\/58.DAT",
+        "ModelID": 149,
+        "FileID": 14381,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/72.DAT",
+        "ModelID": 11,
+        "FileID": 14499,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982261",
+        "name": "Ahaadah",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100010300103120003095400B50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "189",
+            "x": "-70.243",
+            "y": "-5.999",
+            "z": "105.246"
+        }
+    }
+}

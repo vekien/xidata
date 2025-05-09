@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/96.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/21.DAT",
+        "ModelID": 8,
+        "FileID": 23480,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/65.DAT",
+        "ModelID": 8,
+        "FileID": 23736,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/97.DAT",
+        "ModelID": 8,
+        "FileID": 23993,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/127.DAT",
+        "ModelID": 8,
+        "FileID": 24248,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17752189",
+        "name": "Khuta Colaara",
+        "zone": "Windurst_Waters",
+        "look": "0100020700100820083008400850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "230",
+            "x": "11.763",
+            "y": "-2.000",
+            "z": "65.277"
+        }
+    }
+}

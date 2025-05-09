@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/67.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/82.DAT",
+        "ModelID": 2,
+        "FileID": 26394,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/29.DAT",
+        "ModelID": 2,
+        "FileID": 26906,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/80.DAT",
+        "ModelID": 21,
+        "FileID": 27182,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_axe7_",
+        "Race": "Galka",
+        "Path": "ROM\/145\/68.DAT",
+        "ModelID": 353,
+        "FileID": 28025,
+        "Type": "Axe"
+    },
+    "sub": {
+        "Identifier": "hf_lshi4",
+        "Race": "Galka",
+        "Path": "ROM\/60\/10.DAT",
+        "ModelID": 33,
+        "FileID": 48912,
+        "Type": "Shield"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17134250",
+        "name": "Invincible Shield",
+        "zone": "Bastok_Markets_[S]",
+        "look": "0100030802100220023015400250616121700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

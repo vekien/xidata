@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/58.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/125\/56.DAT",
+        "ModelID": 96,
+        "FileID": 19912,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/60.DAT",
+        "ModelID": 44,
+        "FileID": 20116,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/37.DAT",
+        "ModelID": 58,
+        "FileID": 20386,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/45.DAT",
+        "ModelID": 58,
+        "FileID": 20642,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/53.DAT",
+        "ModelID": 58,
+        "FileID": 20898,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_wand5",
+        "Race": "Tarutaru",
+        "Path": "ROM\/50\/27.DAT",
+        "ModelID": 304,
+        "FileID": 21400,
+        "Type": "Staff"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16953363",
+        "name": "Pursuivant",
+        "zone": "Diorama_Abdhaljs-Ghelsba",
+        "look": "0100030560102C203A303A403A50306100700000",
+        "content": "",
+        "pos": {
+            "rotation": "238",
+            "x": "-155.861",
+            "y": "-10.000",
+            "z": "66.829"
+        }
+    }
+}

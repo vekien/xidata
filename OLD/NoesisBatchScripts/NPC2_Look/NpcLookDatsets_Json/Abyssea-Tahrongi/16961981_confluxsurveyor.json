@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/99.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/230\/37.DAT",
+        "ModelID": 252,
+        "FileID": 23468,
+        "Type": "Head"
+    },
+    "body": null,
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/186\/21.DAT",
+        "ModelID": 201,
+        "FileID": 23929,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/176\/27.DAT",
+        "ModelID": 185,
+        "FileID": 24170,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/103.DAT",
+        "ModelID": 137,
+        "FileID": 24377,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16961981",
+        "name": "Conflux Surveyor",
+        "zone": "Abyssea-Tahrongi",
+        "look": "01000507FC100221C930B9408950006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "164",
+            "x": "1.100",
+            "y": "40.000",
+            "z": "-681.582"
+        }
+    }
+}

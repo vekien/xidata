@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/3.DAT",
+        "ModelID": 21,
+        "FileID": 19837,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/25.DAT",
+        "ModelID": 8,
+        "FileID": 20080,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/71.DAT",
+        "ModelID": 10,
+        "FileID": 20338,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/113.DAT",
+        "ModelID": 21,
+        "FileID": 20605,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/19.DAT",
+        "ModelID": 24,
+        "FileID": 20864,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17764411",
+        "name": "Amimi",
+        "zone": "Windurst_Woods",
+        "look": "01000206151008200A3015401850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "127",
+            "x": "136.112",
+            "y": "-5.250",
+            "z": "-121.850"
+        }
+    }
+}

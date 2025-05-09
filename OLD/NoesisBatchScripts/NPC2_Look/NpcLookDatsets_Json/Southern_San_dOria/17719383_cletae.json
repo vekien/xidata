@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/11.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/26.DAT",
+        "ModelID": 1,
+        "FileID": 16641,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/63.DAT",
+        "ModelID": 7,
+        "FileID": 16903,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/108.DAT",
+        "ModelID": 8,
+        "FileID": 17160,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/11.DAT",
+        "ModelID": 8,
+        "FileID": 17416,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/35.DAT",
+        "ModelID": 1,
+        "FileID": 17665,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17719383",
+        "name": "Cletae",
+        "zone": "Southern_San_dOria",
+        "look": "0100020401100720083008400150006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "127",
+            "x": "-189.142",
+            "y": "-8.800",
+            "z": "14.449"
+        }
+    }
+}

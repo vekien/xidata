@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/100.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/127\/52.DAT",
+        "ModelID": 102,
+        "FileID": 23574,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/127\/59.DAT",
+        "ModelID": 102,
+        "FileID": 23830,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/127\/67.DAT",
+        "ModelID": 102,
+        "FileID": 24087,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/127\/73.DAT",
+        "ModelID": 102,
+        "FileID": 24342,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16789533",
+        "name": "Khots Chalahko",
+        "zone": "Manaclipper",
+        "look": "0100060700106620663066406650006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "192",
+            "x": "0.019",
+            "y": "-3.674",
+            "z": "-18.782"
+        }
+    }
+}

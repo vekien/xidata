@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/101.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/0.DAT",
+        "ModelID": 22,
+        "FileID": 23238,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/77.DAT",
+        "ModelID": 60,
+        "FileID": 23532,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/85.DAT",
+        "ModelID": 60,
+        "FileID": 23788,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/96.DAT",
+        "ModelID": 7,
+        "FileID": 23992,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/99.DAT",
+        "ModelID": 58,
+        "FileID": 24298,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_scy3",
+        "Race": "Mithra",
+        "Path": "ROM\/54\/48.DAT",
+        "ModelID": 201,
+        "FileID": 24697,
+        "Type": "Scythe"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16794015",
+        "name": "Shikaree Y",
+        "zone": "Bibiki_Bay",
+        "look": "0100070716103C203C3007403A50C96000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "93",
+            "x": "-548.938",
+            "y": "1.342",
+            "z": "-415.367"
+        }
+    }
+}

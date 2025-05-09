@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/58.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/133\/103.DAT",
+        "ModelID": 75,
+        "FileID": 19891,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/133\/121.DAT",
+        "ModelID": 75,
+        "FileID": 20147,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/11.DAT",
+        "ModelID": 75,
+        "FileID": 20403,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/29.DAT",
+        "ModelID": 75,
+        "FileID": 20659,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/46.DAT",
+        "ModelID": 75,
+        "FileID": 20915,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_knf5_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/138\/35.DAT",
+        "ModelID": 334,
+        "FileID": 21430,
+        "Type": "Dagger"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17617233",
+        "name": "Putori-Tutori",
+        "zone": "Ifrits_Cauldron",
+        "look": "010003054B104B204B304B404B504E6100700000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

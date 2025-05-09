@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/43.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/53.DAT",
+        "ModelID": 1,
+        "FileID": 13465,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/84.DAT",
+        "ModelID": 1,
+        "FileID": 13721,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/127.DAT",
+        "ModelID": 0,
+        "FileID": 13976,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/54.DAT",
+        "ModelID": 24,
+        "FileID": 14256,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/85.DAT",
+        "ModelID": 24,
+        "FileID": 14512,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17739800",
+        "name": "Peritrage",
+        "zone": "Bastok_Markets",
+        "look": "0100070301100120003018401850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "242",
+            "x": "-286.985",
+            "y": "-10.319",
+            "z": "-142.586"
+        }
+    }
+}

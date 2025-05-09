@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/94.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/28.DAT",
+        "ModelID": 21,
+        "FileID": 7389,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/73.DAT",
+        "ModelID": 21,
+        "FileID": 7645,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/105.DAT",
+        "ModelID": 21,
+        "FileID": 7901,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/116.DAT",
+        "ModelID": 0,
+        "FileID": 8136,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16839245",
+        "name": "Flaco",
+        "zone": "Abyssea-Konschtat",
+        "look": "0100070100101520153015400050006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "160",
+            "x": "98.630",
+            "y": "-73.324",
+            "z": "-809.661"
+        }
+    }
+}

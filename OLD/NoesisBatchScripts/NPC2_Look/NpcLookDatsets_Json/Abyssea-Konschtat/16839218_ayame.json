@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/66.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/92.DAT",
+        "ModelID": 17,
+        "FileID": 10305,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/120.DAT",
+        "ModelID": 9,
+        "FileID": 10553,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/28.DAT",
+        "ModelID": 0,
+        "FileID": 10800,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/69.DAT",
+        "ModelID": 9,
+        "FileID": 11065,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/101.DAT",
+        "ModelID": 9,
+        "FileID": 11321,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16839218",
+        "name": "Ayame",
+        "zone": "Abyssea-Konschtat",
+        "look": "0100030211100920003009400950006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "224",
+            "x": "105.788",
+            "y": "-72.758",
+            "z": "-817.506"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/62.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/27.DAT",
+        "ModelID": 10,
+        "FileID": 20082,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/71.DAT",
+        "ModelID": 10,
+        "FileID": 20338,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/102.DAT",
+        "ModelID": 10,
+        "FileID": 20594,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/5.DAT",
+        "ModelID": 10,
+        "FileID": 20850,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16962107",
+        "name": "Fuepepe",
+        "zone": "Abyssea-Tahrongi",
+        "look": "0100070600100A200A300A400A50006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "5",
+            "x": "-3.670",
+            "y": "39.208",
+            "z": "567.579"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/37.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/58.DAT",
+        "ModelID": 7,
+        "FileID": 13471,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/84.DAT",
+        "ModelID": 1,
+        "FileID": 13721,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/127.DAT",
+        "ModelID": 0,
+        "FileID": 13976,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/35.DAT",
+        "ModelID": 5,
+        "FileID": 14237,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/66.DAT",
+        "ModelID": 5,
+        "FileID": 14493,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_clw8_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/39\/57.DAT",
+        "ModelID": 140,
+        "FileID": 14884,
+        "Type": "Hand2Hand"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17735742",
+        "name": "Faustin",
+        "zone": "Bastok_Mines",
+        "look": "01000103071001200030054005508C6000700000",
+        "content": "",
+        "pos": {
+            "rotation": "200",
+            "x": "61.968",
+            "y": "0.000",
+            "z": "-96.017"
+        }
+    }
+}

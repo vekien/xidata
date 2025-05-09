@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/59.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/144\/94.DAT",
+        "ModelID": 133,
+        "FileID": 19949,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/124\/94.DAT",
+        "ModelID": 61,
+        "FileID": 20133,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/166\/46.DAT",
+        "ModelID": 174,
+        "FileID": 20502,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/158\/45.DAT",
+        "ModelID": 159,
+        "FileID": 20743,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/146\/10.DAT",
+        "ModelID": 135,
+        "FileID": 20975,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974296",
+        "name": "Opococo",
+        "zone": "Al_Zahbi",
+        "look": "0100040685103D20AE309F408750006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "200",
+            "x": "-24.702",
+            "y": "0.000",
+            "z": "-139.982"
+        }
+    }
+}

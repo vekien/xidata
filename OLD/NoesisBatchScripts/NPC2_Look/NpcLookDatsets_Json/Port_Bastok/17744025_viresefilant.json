@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/42.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/87.DAT",
+        "ModelID": 4,
+        "FileID": 13724,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/98\/98.DAT",
+        "ModelID": 88,
+        "FileID": 14064,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/98\/101.DAT",
+        "ModelID": 86,
+        "FileID": 14318,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/70.DAT",
+        "ModelID": 9,
+        "FileID": 14497,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17744025",
+        "name": "Viresefilant",
+        "zone": "Port_Bastok",
+        "look": "0100060300100420583056400950006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "62",
+            "x": "-100.000",
+            "y": "-2.000",
+            "z": "20.000"
+        }
+    }
+}

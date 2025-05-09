@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/99.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/15.DAT",
+        "ModelID": 2,
+        "FileID": 23474,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/72.DAT",
+        "ModelID": 15,
+        "FileID": 23743,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/104.DAT",
+        "ModelID": 15,
+        "FileID": 24000,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/6.DAT",
+        "ModelID": 15,
+        "FileID": 24255,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17743926",
+        "name": "Mine Konte",
+        "zone": "Port_Bastok",
+        "look": "01000507001002200F300F400F50006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "149",
+            "x": "-168.519",
+            "y": "-5.999",
+            "z": "-10.370"
+        }
+    }
+}

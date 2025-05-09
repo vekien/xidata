@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/67.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/119.DAT",
+        "ModelID": 8,
+        "FileID": 26656,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/27.DAT",
+        "ModelID": 0,
+        "FileID": 26904,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/77.DAT",
+        "ModelID": 18,
+        "FileID": 27179,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/107.DAT",
+        "ModelID": 18,
+        "FileID": 27434,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17735718",
+        "name": "Babenn",
+        "zone": "Bastok_Mines",
+        "look": "0100030800100820003012401250006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "231",
+            "x": "73.458",
+            "y": "-0.047",
+            "z": "34.724"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/12.DAT",
+        "ModelID": 5,
+        "FileID": 7373,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/74.DAT",
+        "ModelID": 22,
+        "FileID": 7646,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/89.DAT",
+        "ModelID": 5,
+        "FileID": 7885,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/121.DAT",
+        "ModelID": 5,
+        "FileID": 8141,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Male",
+        "Path": "ROM\/30\/29.DAT",
+        "ModelID": 184,
+        "FileID": 8576,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17481818",
+        "name": "Lasthenes",
+        "zone": "Zeruhn_Mines",
+        "look": "0100050100100520163005400550B86000700000",
+        "content": "",
+        "pos": {
+            "rotation": "254",
+            "x": "-78.366",
+            "y": "0.000",
+            "z": "21.864"
+        }
+    }
+}

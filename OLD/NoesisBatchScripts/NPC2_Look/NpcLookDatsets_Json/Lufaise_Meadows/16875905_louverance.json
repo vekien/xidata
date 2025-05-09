@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/38.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/129\/37.DAT",
+        "ModelID": 109,
+        "FileID": 13573,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/104.DAT",
+        "ModelID": 21,
+        "FileID": 13741,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/13.DAT",
+        "ModelID": 14,
+        "FileID": 13990,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/39.DAT",
+        "ModelID": 9,
+        "FileID": 14241,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/75.DAT",
+        "ModelID": 14,
+        "FileID": 14502,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16875905",
+        "name": "Louverance",
+        "zone": "Lufaise_Meadows",
+        "look": "010002036D1015200E3009400E50086000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

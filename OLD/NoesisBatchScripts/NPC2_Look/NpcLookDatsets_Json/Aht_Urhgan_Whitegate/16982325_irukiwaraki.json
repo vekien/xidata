@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/61.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/163\/44.DAT",
+        "ModelID": 169,
+        "FileID": 19985,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/60.DAT",
+        "ModelID": 44,
+        "FileID": 20116,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/127\/17.DAT",
+        "ModelID": 104,
+        "FileID": 20432,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/144\/108.DAT",
+        "ModelID": 129,
+        "FileID": 20713,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/163\/60.DAT",
+        "ModelID": 169,
+        "FileID": 21009,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982325",
+        "name": "Iruki-Waraki",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000605A9102C2068308140A950006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "152",
+            "x": "101.329",
+            "y": "-5.999",
+            "z": "-29.042"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/56.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/25.DAT",
+        "ModelID": 8,
+        "FileID": 20080,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/61.DAT",
+        "ModelID": 0,
+        "FileID": 20328,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/116.DAT",
+        "ModelID": 24,
+        "FileID": 20608,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/19.DAT",
+        "ModelID": 24,
+        "FileID": 20864,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17666764",
+        "name": "Teigero-Bangero",
+        "zone": "Abyssea-Vunkerl",
+        "look": "0100010500100820003018401850006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "32",
+            "x": "-555.966",
+            "y": "-46.187",
+            "z": "221.712"
+        }
+    }
+}

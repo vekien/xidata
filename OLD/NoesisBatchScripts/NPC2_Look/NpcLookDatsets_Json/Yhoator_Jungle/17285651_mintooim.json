@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/65.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/33.DAT",
+        "ModelID": 5,
+        "FileID": 10805,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/65.DAT",
+        "ModelID": 5,
+        "FileID": 11061,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/99.DAT",
+        "ModelID": 7,
+        "FileID": 11319,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_rap4_",
+        "Race": "Hume Female",
+        "Path": "ROM\/35\/10.DAT",
+        "ModelID": 189,
+        "FileID": 11757,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Female",
+        "Path": "ROM\/110\/102.DAT",
+        "ModelID": 182,
+        "FileID": 42661,
+        "Type": "Sword"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17285651",
+        "name": "Mintoo, I.M.",
+        "zone": "Yhoator_Jungle",
+        "look": "0100020200100520053005400750BD60B6700000",
+        "content": "",
+        "pos": {
+            "rotation": "33",
+            "x": "200.254",
+            "y": "0.000",
+            "z": "-80.324"
+        }
+    }
+}

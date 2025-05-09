@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/107.DAT",
+        "ModelID": 5,
+        "FileID": 7117,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/12.DAT",
+        "ModelID": 5,
+        "FileID": 7373,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/74.DAT",
+        "ModelID": 22,
+        "FileID": 7646,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/89.DAT",
+        "ModelID": 5,
+        "FileID": 7885,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/121.DAT",
+        "ModelID": 5,
+        "FileID": 8141,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_rap4_",
+        "Race": "Hume Male",
+        "Path": "ROM\/30\/33.DAT",
+        "ModelID": 188,
+        "FileID": 8580,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Male",
+        "Path": "ROM\/109\/56.DAT",
+        "ModelID": 183,
+        "FileID": 41382,
+        "Type": "Sword"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17224327",
+        "name": "Souun, I.M.",
+        "zone": "Pashhow_Marshlands",
+        "look": "0100050105100520163005400550BC60B7700000",
+        "content": "",
+        "pos": {
+            "rotation": "160",
+            "x": "470.843",
+            "y": "24.465",
+            "z": "415.520"
+        }
+    }
+}

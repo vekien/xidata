@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/14.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/64.DAT",
+        "ModelID": 8,
+        "FileID": 16904,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/111.DAT",
+        "ModelID": 11,
+        "FileID": 17163,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/11.DAT",
+        "ModelID": 8,
+        "FileID": 17416,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/52.DAT",
+        "ModelID": 18,
+        "FileID": 17682,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17780862",
+        "name": "Morefie",
+        "zone": "Lower_Jeuno",
+        "look": "01000504001008200B3008401250006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "146",
+            "x": "-38.194",
+            "y": "-6.099",
+            "z": "-123.883"
+        }
+    }
+}

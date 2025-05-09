@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/37.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/125\/47.DAT",
+        "ModelID": 96,
+        "FileID": 13816,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/1.DAT",
+        "ModelID": 2,
+        "FileID": 13978,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/54.DAT",
+        "ModelID": 24,
+        "FileID": 14256,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/125\/50.DAT",
+        "ModelID": 96,
+        "FileID": 14584,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883776",
+        "name": "Leporaitceau",
+        "zone": "Tavnazian_Safehold",
+        "look": "0100010300106020023018406050006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "94",
+            "x": "76.037",
+            "y": "-25.019",
+            "z": "13.174"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/72.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/229\/53.DAT",
+        "ModelID": 252,
+        "FileID": 26644,
+        "Type": "Head"
+    },
+    "body": null,
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/186\/27.DAT",
+        "ModelID": 201,
+        "FileID": 27105,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/176\/42.DAT",
+        "ModelID": 185,
+        "FileID": 27346,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/146\/108.DAT",
+        "ModelID": 137,
+        "FileID": 27553,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16839108",
+        "name": "Atma Infusionist",
+        "zone": "Abyssea-Konschtat",
+        "look": "01000808FC100221C930B9408950006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "105",
+            "x": "135.000",
+            "y": "-72.922",
+            "z": "-825.000"
+        }
+    }
+}

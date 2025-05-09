@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/107.DAT",
+        "ModelID": 5,
+        "FileID": 7117,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/12.DAT",
+        "ModelID": 5,
+        "FileID": 7373,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/74.DAT",
+        "ModelID": 22,
+        "FileID": 7646,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/89.DAT",
+        "ModelID": 5,
+        "FileID": 7885,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/121.DAT",
+        "ModelID": 5,
+        "FileID": 8141,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Male",
+        "Path": "ROM\/30\/29.DAT",
+        "ModelID": 184,
+        "FileID": 8576,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Male",
+        "Path": "ROM\/109\/57.DAT",
+        "ModelID": 184,
+        "FileID": 41383,
+        "Type": "Sword"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17760421",
+        "name": "Sachetan, I.M.",
+        "zone": "Port_Windurst",
+        "look": "0100050105100520163005400550B860B8700000",
+        "content": "",
+        "pos": {
+            "rotation": "119",
+            "x": "-81.717",
+            "y": "-5.750",
+            "z": "164.843"
+        }
+    }
+}

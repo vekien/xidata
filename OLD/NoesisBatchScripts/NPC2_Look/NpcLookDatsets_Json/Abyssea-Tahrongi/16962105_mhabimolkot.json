@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/97.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/99\/63.DAT",
+        "ModelID": 88,
+        "FileID": 23560,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/66.DAT",
+        "ModelID": 9,
+        "FileID": 23737,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/134\/124.DAT",
+        "ModelID": 88,
+        "FileID": 24073,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/0.DAT",
+        "ModelID": 9,
+        "FileID": 24249,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo3_",
+        "Race": "Mithra",
+        "Path": "ROM\/54\/103.DAT",
+        "ModelID": 256,
+        "FileID": 24752,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_shi2_",
+        "Race": "Mithra",
+        "Path": "ROM\/116\/104.DAT",
+        "ModelID": 313,
+        "FileID": 47912,
+        "Type": "Katana"
+    },
+    "ranged": null,
+    "data": {
+        "id": "16962105",
+        "name": "Mhabi Molkot",
+        "zone": "Abyssea-Tahrongi",
+        "look": "0100030700105820093058400950006139710000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "32",
+            "x": "95.000",
+            "y": "14.000",
+            "z": "145.000"
+        }
+    }
+}

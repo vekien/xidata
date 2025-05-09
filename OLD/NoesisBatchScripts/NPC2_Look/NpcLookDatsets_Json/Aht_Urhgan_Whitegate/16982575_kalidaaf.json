@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/94.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/143\/83.DAT",
+        "ModelID": 132,
+        "FileID": 7500,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/52.DAT",
+        "ModelID": 0,
+        "FileID": 7624,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/143\/95.DAT",
+        "ModelID": 132,
+        "FileID": 8012,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/143\/101.DAT",
+        "ModelID": 132,
+        "FileID": 8268,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982575",
+        "name": "Kalidaaf",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100070100108420003084408450006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

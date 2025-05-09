@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/88.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/119.DAT",
+        "ModelID": 20,
+        "FileID": 7132,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/32.DAT",
+        "ModelID": 25,
+        "FileID": 7393,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/64.DAT",
+        "ModelID": 12,
+        "FileID": 7636,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/86.DAT",
+        "ModelID": 2,
+        "FileID": 7882,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/118.DAT",
+        "ModelID": 2,
+        "FileID": 8138,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883890",
+        "name": "Owain",
+        "zone": "Tavnazian_Safehold",
+        "look": "01000101141019200C3002400250006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "216",
+            "x": "-17.929",
+            "y": "-26.057",
+            "z": "124.653"
+        }
+    }
+}

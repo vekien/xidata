@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/25.DAT",
+        "ModelID": 8,
+        "FileID": 20080,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/69.DAT",
+        "ModelID": 8,
+        "FileID": 20336,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/100.DAT",
+        "ModelID": 8,
+        "FileID": 20592,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/3.DAT",
+        "ModelID": 8,
+        "FileID": 20848,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17752166",
+        "name": "Amagusa-Chigurusa",
+        "zone": "Windurst_Waters",
+        "look": "0100020500100820083008400850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "199",
+            "x": "-28.746",
+            "y": "-3.500",
+            "z": "61.954"
+        }
+    }
+}

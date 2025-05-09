@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="14.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <ProjectGuid>{0E5DF1A6-9060-4E56-BCFC-6928AC4DB179}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x64</Platform>
+    <AssemblyName>PlayOnline.FFXI.Utils.DataBrowser</AssemblyName>
+    <AssemblyOriginatorKeyFile>..\POLUtils.snk</AssemblyOriginatorKeyFile>
+    <OutputType>Library</OutputType>
+    <RootNamespace />
+    <SignAssembly>true</SignAssembly>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <NoWarn>1607</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>1607</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Version.cs">
+      <Link>Properties\Version.cs</Link>
+    </Compile>
+    <Compile Include="FileScanDialog.Designer.cs">
+      <DependentUpon>FileScanDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FileScanner.cs">
+    </Compile>
+    <Compile Include="ItemFindDialog.Designer.cs">
+      <DependentUpon>ItemFindDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemPredicate.Designer.cs">
+      <DependentUpon>ItemPredicate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FileScanDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemFindDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemPredicate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListViewColumnSorter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="FileScanDialog.resx">
+      <DependentUpon>FileScanDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemFindDialog.resx">
+      <DependentUpon>ItemFindDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemPredicate.resx">
+      <DependentUpon>ItemPredicate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ROMFileMappings.xml">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PlayOnline.Core\PlayOnline.Core.csproj">
+      <Project>{84C42502-1564-4617-B80C-ACE781051CE8}</Project>
+      <Name>PlayOnline.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PlayOnline.FFXI\PlayOnline.FFXI.csproj">
+      <Project>{F98E06E7-A9BF-4E8A-9059-96DF4DD2BEEC}</Project>
+      <Name>PlayOnline.FFXI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

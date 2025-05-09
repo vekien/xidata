@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/67.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/33.DAT",
+        "ModelID": 5,
+        "FileID": 10805,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/65.DAT",
+        "ModelID": 5,
+        "FileID": 11061,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/97.DAT",
+        "ModelID": 5,
+        "FileID": 11317,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982493",
+        "name": "4",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100040200100520053005400550006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

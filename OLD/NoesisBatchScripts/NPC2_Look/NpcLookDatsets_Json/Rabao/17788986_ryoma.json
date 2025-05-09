@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/95.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/11.DAT",
+        "ModelID": 4,
+        "FileID": 7372,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/56.DAT",
+        "ModelID": 4,
+        "FileID": 7628,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/88.DAT",
+        "ModelID": 4,
+        "FileID": 7884,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/120.DAT",
+        "ModelID": 4,
+        "FileID": 8140,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17788986",
+        "name": "Ryoma",
+        "zone": "Rabao",
+        "look": "0100080100100420043004400450006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "116",
+            "x": "-26.276",
+            "y": "0.530",
+            "z": "-8.323"
+        }
+    }
+}

@@ -1,0 +1,1634 @@
+@Body
+56/111,None
+56/112,Leather Vest
+56/113,Breastplate
+56/114,Tunic
+56/115,Shinobi Gi
+56/116,Chainmail
+56/117,Lizard Jerkin
+56/118,Raptor Jerkin
+56/119,Galkan Surcoat
+56/120,Hara-Ate
+56/121,Cloak
+56/122,Silk Cloak
+56/123,Royal Squire's Chainmail
+56/124,Royal Knight's Chainmail
+56/125,Padded Armor
+56/126,Bronze Harness
+56/127,Bone Harness
+57/0,Kenpogi
+57/1,Wool Robe
+57/2,Tactician Magician's Coat
+57/3,Robe
+57/4,Doublet
+57/5,Darksteel Cuirass
+57/6,Gambison
+57/7,Battle Jupon
+57/8,Iron Musketeer's Cuirass
+57/9,Centurion's Scale Mail
+57/10,Gavial Mail
+57/11,Scale Mail
+57/12,Mythril Breastplate
+57/13,Elder's Surcoat
+57/14,Assault Breastplate
+57/15,Cardinal Vest
+57/16,Scorpion Harness
+57/17,Demon's Harness
+57/18,Lord's Cuirass
+57/19,Jujitsu Gi
+57/20,Royal Knight's Aketon
+57/21,Aketon
+57/22,Haubergeon
+57/23,Byrnie
+57/24,War Shinobi Gi
+57/25,Earth Doublet
+57/26,Brigandine
+94/89,Justaucorps
+94/90,Black Cloak
+94/91,Vermillion Cloak
+94/92,Blue Cotehardie
+94/93,Black Cotehardie
+94/94,Fighter's Lorica (WAR AF1)
+94/95,Temple Cyclas (MNK AF1)
+94/96,Healer's Briault (WHM AF1)
+94/97,Wizard's Coat (BLM AF1)
+94/98,Warlock's Tabard (RDM AF1)
+94/99,Rogue's Vest (THF AF1)
+96/114,Gallant Surcoat (PLD AF1)
+96/115,Chaos Cuirass (DRK AF1)
+96/116,Beast Jackcoat (BST AF1)
+96/117,Choral Justaucorps (BRD AF1)
+96/118,Hunter's Jerkin (RNG AF1)
+99/93,Myochin Domaru (SAM AF1)
+99/94,Ninja Chainmail (NIN AF1)
+99/95,Drachen Mail (DRG AF1)
+99/96,Evoker's Doublet (SMN AF1)
+164/7,Magus Jubbah (BLU AF1)
+164/8,Corsair's Frac (COR AF1)
+162/82,Puppetry Tobe (PUP AF1)
+198/97,Dancer's Casaque (DNC AF1)
+198/98,Scholar's Gown (SCH AF1)
+119/42,Tiger Jerkin
+119/43,Iron Scale Mail
+121/115,Steel Scale Mail
+121/116,Coeurl Jerkin
+121/117,Adaman Cuirass
+121/118,Coral Harness
+121/119,Noble's Tunic
+121/120,Hauberk
+121/121,Arhat's Gi
+121/122,Dragon Mail
+125/16,Rasetsu Samue
+125/17,Crimson Scale Mail
+125/18,Adaman Hauberk
+125/19,Ogre Jerkin
+125/20,Koenig Cuirass
+125/67,War Aketon
+127/91,Holy Breastplate
+127/92,Yasha Samue
+127/93,Kirin's Osode
+127/94,Hecatomb Harness
+127/95,Errant Houppelande
+127/96,Fisherman's Tunica
+127/97,Chocobo Jack Coat
+127/98,Vagabond's Tunica
+130/31,Field Tunica
+130/32,Shura Togi
+130/33,Dalmatica
+130/34,Carapace Breastplate
+130/35,Dusk Jerkin
+130/36,Dragon Harness
+135/35,Warrior's Lorica (WAR AF2)
+135/36,Melee Cyclas (MNK AF2)
+135/37,Cleric's Briault (WHM AF2)
+135/38,Sorcerer's Coat (BLM AF2)
+135/39,Duelist's Tabard (RDM AF2)
+135/40,Assassin's Vest (THF AF2)
+135/41,Valor Surcoat (PLD AF2)
+135/42,Abyss Cuirass (DRK AF2)
+135/43,Monster Jackcoat (BST AF2)
+135/44,Bard's Justaucorps (BRD AF2)
+135/45,Scout's Jerkin (RNG AF2)
+135/46,Saotome Domaru (SAM AF2)
+135/47,Koga Chainmail (NIN AF2)
+135/48,Wyrm Mail (DRG AF2)
+135/49,Summoner's Doublet (SMN AF2)
+214/125,Mirage Jubbah (BLU AF2)
+214/126,Commodore Frac (COR AF2)
+214/127,Pantin Tobe (PUP AF2)
+218/18,Etoile Casaque (DNC AF2)
+217/104,Argute Gown (SCH AF2)
+135/50,Scorpion Breastplate
+135/51,Austere Robe
+138/123,Kingdom Aketon
+138/124,Federation Aketon
+138/125,Republic Aketon
+138/126,Carpenter's Apron
+138/127,Blacksmith's Apron
+139/0,Weaver's Apron
+139/1,Alchemist's Apron
+139/2,Boneworker's Apron
+139/3,Fisherman's Apron
+139/4,Tanner's Apron
+139/5,Culinarian's Apron
+139/6,Goldsmith's Apron
+145/39,Hydra Harness
+145/40,Shade Harness
+145/41,Garish Tunic
+145/42,Seer's Tunic
+145/43,Hydra Doublet
+145/44,Noct Doublet
+146/27,Bison Jacket
+146/28,Sha'ir Manteel
+146/66,Barone Corazza
+146/105,Igqira Weskit
+148/39,Eisenbrust
+150/91,Hachiman Domaru
+150/92,Blessed Briault
+151/68,Chasuble
+153/39,Unicorn Harness
+153/76,Trader's Saio
+154/89,Alumine Haubert
+155/15,Plastron
+157/117,Nashira Manteel
+158/59,Homam Corazza
+158/112,Trader's Saio (Black)
+159/19,Crow Jupon
+159/90,Dream Robe
+154/31,Hydra Haubert
+160/87,Hydra Jupon
+164/9,Sipahi Jawshan
+163/81,Jaridah Peti
+166/75,Amir Korazin
+166/76,Pahluwan Khazagand
+166/77,Yigit Gomlek
+157/39,Galka Gilet
+143/43,Onoko Yukata
+170/94,Corselet
+170/95,Kyudogi
+174/118,Ares's Cuirass
+174/119,Skadi's Cuirie
+176/34,Usukane Haramaki
+176/35,Marduk's Jubbah
+176/36,Morrigan's Robe
+183/49,Goliard Saio
+182/37,Denali Jacket
+183/48,Askar Korazin
+183/40,Orange Racing Silks
+183/41,Black Racing Silks
+183/42,Purple Racing Silks
+183/43,Sky Blue Racing Silks
+183/44,Blue Racing Silks
+183/45,Red Racing Silks
+183/46,White Racing Silks
+183/47,Green Racing Silks
+185/116,Shadow Breastplate
+186/26,Shadow Coat
+184/77,Valhalla Breastplate
+199/70,Cobra Unit Harness
+200/106,Cobra Unit Coat
+201/52,Iron Ram Hauberk
+199/29,Fourth Division Brunne
+199/28,Bastokan Armor
+204/76,Elder Gilet
+207/51,Hachiryu Haramaki
+215/1,Eerie Cloak
+215/0,Tidal Talisman
+219/56,Benedight Coat
+221/60,Royal Redingote
+221/59,Nuevo Coselete
+221/87,Mirke Wardecors
+223/55,Onnagusa Yukata
+225/102,Carpenter's Smock
+225/103,Blacksmith's Smock
+225/104,Weaver's Smock
+225/105,Alchemist's Smock
+225/106,Boneworker's Smock
+225/107,Fisherman's Smock
+225/108,Tanner's Smock
+225/109,Culinarian's Smock
+225/110,Goldsmith's Smock
+237/119,Ebon Cuirass
+237/120,Furia Cuirass
+237/121,Ebur Cuirass
+237/122,Ebon Mail
+237/123,Furia Mail
+237/124,Ebur Mail
+237/125,Ebon Haubert
+237/126,Furia Haubert
+237/127,Ebur Haubert
+238/0,Ebon Breastplate
+238/1,Furia Breastplate
+238/2,Ebur Breastplate
+229/57,Ebon Harness
+229/58,Furia Harness
+229/59,Ebur Harness
+229/60,Ebon Jerkin
+229/61,Furia Jerkin
+229/62,Ebur Jerkin
+229/63,Shikkoku Togi
+229/64,Shinku Togi
+229/65,Ginhaku Togi
+229/66,Ebon Vest
+230/22,Furia Vest
+230/23,Ebur Vest
+234/65,Ebon Talar
+234/66,Furia Talar
+234/67,Ebur Talar
+234/68,Ebon Coat
+234/69,Furia Coat
+234/70,Ebur Coat
+234/71,Ebon Bliaut
+234/72,Furia Bliaut
+234/73,Ebur Bliaut
+234/74,Ebon Frock
+234/75,Furia Frock
+234/76,Ebur Frock
+239/9,Dinner Jacket
+239/10,Nocturnus Mail
+249/7,Grim Cuirass
+249/8,Timarli Jawshan
+249/9,Yhel Jacket
+249/10,Juogi
+249/11,Augur's Jaseran
+249/12,Loki's Kaftan
+249/13,Perle Hauberk
+249/14,Teal Saio
+249/15,Aurore Doublet
+255/2,Purple Tabard
+241/66,Goetia Coat (BLM AF3)
+241/67,Creed Cuirass (PLD AF3)
+244/49,Ravager's Lorica (WAR AF3)
+244/50,Estoqueur's Sayon (RDM AF3)
+253/87,Tantra Cyclas (MNK AF3)
+253/88,Raider's Vest (THF AF3)
+253/89,Bale Cuirass (DRK AF3)
+253/90,Ferine Gausape (BST AF3)
+253/91,Aoidos' Hongreline (BRD AF3)
+253/92,Unkai Domaru (SAM AF3)
+253/93,Iga Ningi (NIN AF3)
+253/94,Lancer Plackart (DRG AF3)
+253/95,Mavi Mintan (BLU AF3)
+253/96,Navarch's Frac (COR AF3)
+253/97,Cirque Farsetto (PUP AF3)
+253/98,Savant's Gown (SCH AF3)
+254/49,Orison Bliaud (WHM AF3)
+254/110,Charis Casaque (DNC AF3)
+256/79,Sylvan Caban (RNG AF3)
+256/80,Caller's Doublet (SMN AF3)
+261/91,Twilight Mail
+261/92,Twilight Cloak
+263/33,Cuauhtli Harness
+263/34,Fazheluo Mail
+263/68,Hyksos Robe
+263/73,Novennial Coat
+263/94,Mextli Harness
+263/95,Anhur Robe
+263/96,Fazheluo Radiant Mail
+265/120,Hikogami Yukata
+266/38,Ocelomeh Harness
+266/39,Nefer Kalasiris
+266/40,Mekira Toshugai
+266/120,Heka's Kalasiris
+267/1,Toci's Harness
+267/22,Mekira Meikogai
+272/17,Ogier's Surcoat
+272/18,Athos's Tabard
+272/19,Rubeus Jacket
+272/20,Fulad-Zereh
+272/21,Praeco Doublet
+278/68,Kheper Jacket
+278/69,Paean Bliaut
+278/70,Auspex Doublet
+278/71,Hrafn Haubert
+278/72,Tenryu Domaru
+278/73,Tessera Saio
+281/118,Matanca harness
+281/119,Dune Gilet
+282/28,Decennial Coat
+282/94,Dux Scale Mail
+282/95,Chelona Blazer
+286/53,Moogle Suit
+288/106,Baalmuian Robe
+289/124, Chocobo Shirt
+291/120, Geomancy tunic (GEO AF1)
+292/92, Runeist coat (RUN AF1)
+291/30, Karieyh Haubert
+291/31, Thurandaut Tabard
+291/32, Orvail Robe
+291/33, Councilor's garb
+291/34, Morass tunic
+301/69, Mikinaak Breastplate
+301/70, Manibozho Jerkin
+301/71, Bokwus Robe
+304/61, Chocobo Suit
+304/62, Rustic Maillot
+305/22, Bagua tunic (GEO AF2)
+306/22, Futhark coat (RUN AF2)
+306/23, Gorney Haubert
+306/24, Shneddick Tabard
+306/25, Weatherspoon Robe
+310/105, G. Spriggan Coat
+310/106, Overalls
+312/107, Qaaxo Harness
+312/108, Artsieq Jubbah
+312/109, Xaddi Mail
+314/27, Purple Spriggan Coat
+314/28, Red Spriggan Coat
+315/97, Erilaz surcoat (RUN AF3)
+315/98, Goblin Suit
+317/65, Kengyu happi
+320/94, Mekosuchinae harness
+321/111, Mandragora suit
+325/54, Ravenous Breastplate
+325/55, Wretched Coat
+325/56, Foppish Tunica
+326/56, Heart apron
+327/65, Azimuth Robe (GEO AF3)
+327/66, Tartarus Platemail
+327/116, Pupil's Shirt
+331/49, Despair mail
+331/50, Pursuer's doublet
+331/51, Psycloth vest
+331/52, Eschite breastplate
+331/53, Rawhide vest
+331/54, Naga samue
+331/55, Vanya robe
+331/56, Behemoth suit
+331/57, Poroggo coat
+334/109, Vrikodara jupon
+334/110, Lapidary tunic
+334/126, Pupil's camisa
+335/16, Ta Moko
+335/30, Chozoron coselete
+336/109, Founder's breastplate
+336/110, Jumalik mail
+336/111, Samnuha coat
+336/112, Agent coat
+339/18, Terminal plate
+339/19, Gyve doublet
+339/35, Track shirt
+341/28, Botulus suit
+344/98, Odyssean chestplate
+344/99, Valorus mail
+344/100, Korrigan suit
+346/41, Merlinic jubbah
+347/37, Wyrmking suit
+348/76, Chironic doublet
+349/73, Herculean vest
+351/29, Pieuje Unity shirt
+351/30, Ayame Unity shirt
+351/31, I. Shield Unity shirt
+351/32, Apururu Unity shirt
+351/33, Maat Unity shirt
+351/34, Aldo Unity shirt
+351/35, Jakoh Unity shirt
+351/36, Naja Unity shirt
+351/37, Flaviria Unity shirt
+351/38, Yoran Unity shirt
+351/39, Sylvie Unity shirt
+351/47, Rhapsody shirt
+351/123, Akitu shirt
+289/124, Chocobo shirt
+307/62, Alliance shirt
+352/96,Delegate's Garb
+353/25,Jubilee Shirt
+353/53,Black Chocobo Suit
+353/109,Crustacean Shirt
+355/109,Gil Nabber Shirt
+357/76,Swimsuit
+358/95,Shadow Lord Shirt
+361/60,Jody Shirt
+361/128,Sacro Breastplate
+362/16,Citrullus Shirt
+362/71,Malignance Tabard
+363/58,Mithkabob Shirt
+
+@Face
+56/64,F1A
+56/65,F1B
+56/66,F2A
+56/67,F2B
+56/68,F3A
+56/69,F3B
+56/70,F4A
+56/71,F4B
+56/72,F5A
+56/73,F5B
+56/74,F6A
+56/75,F6B
+56/76,F7A
+56/77,F7B
+56/78,F8A
+56/79,F8B
+143/42,Mannequin
+154/87;3/8/40,Fomor
+255/0,???
+
+@Feet
+57/89,None
+157/51,Invisible
+57/90,Leather Highboots
+57/91,Plate Leggings
+57/92,Solea
+57/93,Shinobi Kyahan
+57/94,Greaves
+57/95,Lizard Ledelsens
+57/96,Raptor Ledelsens
+57/97,Galkan Santals
+57/98,Sune-Ate
+57/99,Shoes
+57/100,Moccasins
+57/101,Royal Squire's Sollerets
+57/102,Royal Knight's Sollerets
+57/103,Leggings
+57/104,Bronze Leggings
+57/105,Bone Leggings
+57/106,Kyahan
+57/107,Chestnut Sabots
+57/108,Tactician Magician's Pigaches
+57/109,Ash Clogs
+57/110,Gaiters
+57/111,Darksteel Sabatons
+57/112,Socks
+57/113,Battle Boots
+57/114,Iron Musketeer's Sabatons
+57/115,Centurion's Greaves
+57/116,Gavial Greaves
+57/117,Scale Greaves
+57/118,Mythril Leggings
+57/119,Elder's Sandals
+94/112,Fighter's Calligae (WAR AF1)
+94/113,Temple Hose (MNK AF1)
+94/114,Healer's Duckbills (WHM AF1)
+94/115,Wizard's Sabots (BLM AF1)
+94/116,Warlock's Boots (RDM AF1)
+94/117,Rogue's Poulaines (THF AF1)
+97/1,Gallant Leggings (PLD AF1)
+97/2,Chaos Sollerets (DRK AF1)
+97/3,Beast Gaiters (BST AF1)
+97/4,Choral Slippers (BRD AF1)
+97/5,Hunter's Socks (RNG AF1)
+99/105,Myochin Sune-Ate (SAM AF1)
+99/106,Ninja Kyahan (NIN AF1)
+99/107,Drachen Greaves (DRG AF1)
+99/108,Evoker's Pigaches (SMN AF1)
+164/16,Magus Charuqs (BLU AF1)
+164/17,Corsair's Bottes (COR AF1)
+162/85,Puppetry Babouches (PUP AF1)
+198/103,Dancer's Shoes (DNC AF1)
+198/104,Scholar's Loafers (SCH AF1)
+119/48,Tiger Ledelsens
+119/49,Iron Greaves
+122/11,Steel Greaves
+122/12,Coeurl Ledelsens
+122/13,Adaman Sabatons
+122/14,Coral Leggings
+122/15,Noble's Pumps
+122/16,Thick Sollerets
+122/17,Arhat's Sune-Ate
+122/18,Dragon Greaves
+125/31,Rasetsu Sune-Ate
+125/32,Crimson Greaves
+125/33,Adaman Sollerets
+125/34,Ogre Ledelsens
+125/35,Koenig Schuhs
+125/70,War Boots
+127/113,Yasha Sune-Ate
+127/114,Suzaku's Sune-Ate
+127/115,Hecatomb Leggings
+127/116,Errant Pigaches
+127/117,Fisherman's Boots
+127/118,Chocobo Boots
+127/119,Vagabond's Boots
+130/48,Field Boots
+130/49,Shura Sune-Ate
+130/50,Zenith Pumps
+130/51,Dusk Ledelsens
+130/52,Dragon Leggings
+135/85,Warrior's Calligae (WAR AF2)
+135/86,Melee Gaiters (MNK AF2)
+135/87,Cleric's Duckbills (WHM AF2)
+135/88,Sorcerer's Sabots (BLM AF2)
+135/89,Duelist's Boots (RDM AF2)
+135/90,Assassin's Poulaines (THF AF2)
+135/91,Valor Leggings (PLD AF2)
+135/92,Abyss Sollerets (DRK AF2)
+135/93,Monster Gaiters (BST AF2)
+135/94,Bard's Slippers (BRD AF2)
+135/95,Scout's Socks (RNG AF2)
+135/96,Saotome Sune-Ate (SAM AF2)
+135/97,Koga Kyahan (NIN AF2)
+135/98,Wyrm Greaves (DRG AF2)
+135/99,Summoner's Pigaches (SMN AF2)
+215/8,Mirage Charuqs (BLU AF2)
+215/9,Commodore Bottes (COR AF2)
+215/10,Pantin Babouches (PUP AF2)
+218/21,Etoile Shoes (DNC AF2)
+217/107,Argute Loafers (SCH AF2)
+135/100,Austere Sabots
+139/9,Waders
+145/57,Hydra Spats
+145/58,Shade Leggings
+145/59,Garish Pumps
+145/60,Seer's Pumps
+145/61,Hydra Gaiters
+145/62,Noct Gaiters
+146/33,Bison Gamashes
+146/34,Sha'ir Crackows
+146/69,Barone Gambieras
+146/108,Igqira Huaraches
+148/42,Eisenschuhs
+149/71,Lord's Sabatons
+150/97,Hachiman Sune-Ate
+150/98,Blessed Pumps
+151/71,Wise Pigaches
+153/42,Unicorn Leggings
+153/79,Trader's Pigaches
+154/92,Alumine Solerets
+155/18,Black Sollerets
+157/120,Nashira Crackows
+158/62,Homam Gambieras
+158/115,Trader's Pigaches (Black)
+159/22,Crow Gaiters
+154/34,Hydra Sollerets
+160/90,Hydra Boots
+164/18,Sipahi Boots
+163/84,Jaridah Nails
+166/84,Amir Boots
+166/85,Pahluwan Crackows
+166/86,Yigit Crackows
+174/124,Ares's Sollerets
+174/125,Skadi's Jambeaux
+176/43,Usukane Sune-Ate
+176/44,Marduk's Crackows
+176/45,Morrigan's Pigaches
+183/55,Goliard Clogs
+182/40,Denali Gamashes
+183/54,Askar Gambieras
+185/119,Shadow Sabatons
+186/29,Shadow Clogs
+196/127,Dream Boots
+199/73,Cobra Unit Boots
+200/109,Cobra Unit Sabots
+201/55,Iron Ram Sollerets
+199/35,Fourth Division Boots
+199/34,Bastokan Armor
+195/93,Karasutengu Kogake
+207/54,Hachiryu Sune-Ate
+217/108,Noble Poulaines
+219/84,Gothic Sabatons
+238/27,Ebon Sabatons
+238/28,Furia Sabatons
+238/29,Ebur Sabatons
+238/30,Ebon Greaves
+238/31,Furia Greaves
+238/32,Ebur Greaves
+238/33,Ebon Sollerets
+238/34,Furia Sollerets
+238/35,Ebur Sollerets
+238/36,Ebon Leggings
+238/37,Furia Leggings
+238/38,Ebur Leggings
+229/87,Ebon Boots
+229/88,Furia Boots
+229/89,Ebur Boots
+229/90,Ebon Socks
+229/91,Furia Socks
+229/92,Ebur Socks
+229/93,Shikkoku Sune-ate
+229/94,Shinku Sune-ate
+229/95,Ginhaku Sune-ate
+229/96,Ebon Gaiters
+230/28,Furia Gaiters
+230/29,Ebur Gaiters
+234/101,Ebon Brogues
+234/102,Furia Brogues
+234/103,Ebur Brogues
+234/104,Ebon Sabots
+234/105,Furia Sabots
+234/106,Ebur Sabots
+234/107,Ebon Galoshes
+234/108,Furia Galoshes
+234/109,Ebur Galoshes
+234/110,Ebon Clogs
+234/111,Furia Clogs
+234/112,Ebur Clogs
+240/82,Spritewarden's Sabatons
+249/32,Serpentes Sabots
+249/33,Praeda Sabatons
+249/34,Augur's Gaiters
+249/35,Perle Solerets
+249/36,Teal Pigaches
+249/37,Aurore Gaiters
+255/5,Purple Boots
+241/72,Goetia Sabots (BLM AF3)
+241/73,Creed Sabatons (PLD AF3)
+244/55,Ravager's Calligae (WAR AF3)
+244/56,Estoqueur's Houseeaux (RDM AF3)
+253/123,Tantra Gaiters (MNK AF3)
+253/124,Raider's Poulaines (THF AF3)
+253/125,Bale Sollerets (DRK AF3)
+253/126,Ferine Ocreae (BST AF3)
+253/127,Aoidos' Cothurnes (BRD AF3)
+254/0,Unkai Sune-Ate (SAM AF3)
+254/1,Iga Kyahan (NIN AF3)
+254/2,Lancer's Schynbalds (DRG AF3)
+254/3,Mavi Basmak (BLU AF3)
+254/4,Navarch's Bottes (COR AF3)
+254/5,Cirque Scarpe (PUP AF3)
+254/6,Savant's Loafers (SCH AF3)
+254/52,Orison Duckbills (WHM AF3)
+254/113,Charis Toeshoes (DNC AF3)
+256/85,Sylvan Bottillons (RNG AF3)
+256/86,Caller's Pigaches (SMN AF3)
+264/74,Calmecac Leggings
+264/75,Jingang Greaves
+264/76,Menhit Leggings
+272/29,Ogier's Leggings
+272/30,Athos's Boots
+272/31,Rubeus Boots
+278/84,Kheper Gamashes
+278/85,Paean Boots
+278/86,Auspex Nails
+278/87,Hrafn Gambieras
+278/88,Tenryu Sune-Ate
+281/16,???
+281/17,???
+282/100,Dux Greaves
+282/101,Chelona Boots
+291/123, Geomancer AF1
+292/98, Rune Fencer AF1
+291/42, Karieyh Sollerets
+291/43, Thurandaut Boots
+291/44, Orvail Souliers
+291/45, Morass boots
+292/97, Chocaliztli / Whirlpool
+301/78, Mikinaak Greaves
+301/79, Manibozho Boots
+301/80, Bokwus Boots
+304/65, Uk'uxkaj boots
+305/25, Geomancer Feet
+306/34, Runefencer Feet
+306/35, Gorney Sollerets
+306/36, Shneddick Boots
+306/37, Weatherspoon Souliers
+310/109, Thatch boots
+312/116, Qaaxo Leggings
+312/117, Artsieq Boots
+312/118, Xaddi Boots
+315/101, Erilaz greaves (RUN AF3)
+325/59, Punchinellos
+327/69, Azimuth Gaiters (GEO AF3)
+327/118, Pupil's Shoes
+331/72, Despair greaves
+331/73, Pursuer's gaiters
+331/74, Psycloth shoes
+331/75, Eschite greaves
+331/76, Rawhide boots
+331/77, Naga kyahan
+331/78, Vanya clogs
+336/118, Founder's greaves
+336/119, Agent boots
+344/106, Composer's sabots
+344/107, Odyssean greaves
+344/108, Valorus greaves
+346/44, Merlinic crackows
+348/79, Chironic slippers
+349/76, Herculean boots
+307/64, Alliance boots
+362/74,Malignance Boots
+
+@Hands
+57/27,None
+157/50,Invisible
+57/28,Leather Gloves
+57/29,Gauntlets
+57/30,Mitts
+57/31,Shinobi Tekko
+57/32,Chain Mittens
+57/33,Lizard Gloves
+57/34,Raptor Gloves
+57/35,Galkan Bracers
+57/36,Kote
+57/37,Linen Mitts
+57/38,Black Mitts
+57/39,Royal Squire's Mufflers
+57/40,Royal Knight's Mufflers
+57/41,Iron Mittens
+57/42,Bronze Mittens
+57/43,Bone Mittens
+57/44,Tekko
+57/45,Wool Cuffs
+57/46,Tactician Magician's Cuffs
+57/47,Cuffs
+57/48,Gloves
+57/49,Darksteel Gauntlets
+57/50,Bracers
+57/51,Battle Bracers
+57/52,Iron Musketeer's Gauntlets
+57/53,Centurion's Finger Gauntlets
+57/54,Gavial Finger Gauntlets
+57/55,Scale Finger Gauntlets
+57/56,Mythril Gauntlets
+57/57,Elder's Bracers
+94/100,Fighter's Mufflers (WAR AF1)
+94/101,Temple Gloves (MNK AF1)
+94/102,Healer's Mitts (WHM AF1)
+94/103,Wizard's Gloves (BLM AF1)
+94/104,Warlock's Gloves (RDM AF1)
+94/105,Rogue's Armlets (THF AF1)
+96/119,Gallant Gauntlets (PLD AF1)
+96/120,Chaos Gauntlets (DRK AF1)
+96/121,Beast Gloves (BST AF1)
+96/122,Choral Cuffs (BRD AF1)
+96/123,Hunter's Bracers (RNG AF1)
+99/97,Myochin Kote (SAM AF1)
+99/98,Ninja Tekko (NIN AF1)
+99/99,Drachen Finger Gauntlets (DRG AF1)
+99/100,Evoker's Bracers (SMN AF1)
+164/10,Magus Bazubands (BLU AF1)
+164/11,Corsair's Gants (COR AF1)
+162/83,Puppetry Dastanas (PUP AF1)
+198/99,Dancer's Bangles (DNC AF1)
+198/100,Scholar's Bracers (SCH AF1)
+119/44,Tiger Gloves
+119/45,Iron Finger Gauntlets
+121/123,Steel Finger Gauntlets
+121/124,Coeurl Gloves
+121/125,Adaman Gauntlets
+121/126,Coral Mittens
+121/127,Noble's Mitts
+122/0,Thick Mufflers
+122/1,Arhat's Tekko
+122/2,Dragon Finger Gauntlets
+125/21,Rasetsu Tekko
+125/22,Crimson Finger Gauntlets
+125/23,Adaman Mufflers
+125/24,Ogre Gloves
+125/25,Koenig Handschuhs
+125/68,War Gloves
+127/99,Yasha Tekko
+127/100,Seiryu's Kote
+127/101,Hecatomb Mittens
+127/102,Errant Cuffs
+127/103,Fisherman's Gloves
+127/104,Chocobo Gloves
+127/105,Vagabond's Gloves
+130/37,Field Gloves
+130/38,Shura Kote
+130/39,Zenith Mitts
+130/40,Carapace Gauntlets
+130/41,Dusk Gloves
+130/42,Dragon Mittens
+135/52,Warrior's Mufflers (WAR AF2)
+135/53,Melee Gloves (MNK AF2)
+135/54,Cleric's Mitts (WHM AF2)
+135/55,Sorcerer's Gloves (BLM AF2)
+135/56,Duelist's Gloves (RDM AF2)
+135/57,Assassin's Armlets (THF AF2)
+135/58,Valor Gauntlets (PLD AF2)
+135/59,Abyss Gauntlets (DRK AF2)
+135/60,Monster Gloves (BST AF2)
+135/61,Bard's Cuffs (BRD AF2)
+135/62,Scout's Bracers (RNG AF2)
+135/63,Saotome Kote (SAM AF2)
+135/64,Koga Tekko (NIN AF2)
+135/65,Wyrm Finger Gauntlets (DRG AF2)
+135/66,Summoner's Bracers (SMN AF2)
+215/2,Mirage Bazubands (BLU AF2)
+215/3,Commodore Gants (COR AF2)
+215/4,Pantin Dastanas (PUP AF2)
+218/19,Etoile Bangles (DNC AF2)
+217/105,Argute Bracers (SCH AF2)
+135/67,Scorpion Gauntlets
+135/68,Austere Cuffs
+139/7,Carpenter's Gloves
+139/8,Smithy's Mitts 
+145/45,Hydra Mitts
+145/46,Shade Mittens
+145/47,Garish Mitts
+145/48,Seer's Mitts
+145/49,Hydra Gloves
+145/50,Noct Gloves
+146/29,Bison Wristbands
+146/30,Sha'ir Gages
+146/67,Barone Manopolas
+146/106,Igqira Manillas
+148/40,Eisenhentzes
+149/69,Lord's Gauntlets
+150/93,Hachiman Kote
+150/94,Blessed Mitts
+151/69,Wise Gloves
+153/40,Unicorn Mittens
+153/77,Trader's Cuffs
+154/90,Alumine Moufles
+155/16,Black Gadlings
+157/118,Nashira Gages
+158/60,Homam Manopolas
+158/113,Trader's Cuffs (Black)
+159/20,Crow Bracers
+154/32,Hydra Moufles
+160/88,Hydra Bracers
+164/12,Sipahi Dastanas
+163/82,Jaridah Bazubands
+166/78,Amir Kolluks
+166/79,Pahluwan Dastanas
+166/80,Yigit Gages
+157/50,-for Galkan Gilet-
+174/120,Ares's Gauntlets
+174/121,Skadi's Bazubands
+176/37,Usukane Gote
+176/38,Marduk's Dastanas
+176/39,Morrigan's Cuffs
+183/51,Goliard Cuffs
+182/38,Denali Wristbands
+183/50,Askar Manopolas
+185/117,Shadow Gauntlets
+186/27,Shadow Cuffs
+199/71,Cobra Unit Gloves
+200/107,Cobra Unit Mittens
+201/53,Iron Ram Dastanas
+199/31,Fourth Division Hentzes
+199/30,Bastokan Armor
+195/92,Orcish Gauntlets
+157/50,-for Elder Gilet-
+207/52,Hachiryu Kote
+157/50,-for Benedight Coat-
+219/82,Gothic Gauntlets
+225/111,Synergy Gloves
+238/3,Ebon Dastanas
+238/4,Furia Dastanas
+238/5,Ebur Dastanas
+238/6,Ebon Mufflers
+238/7,Furia Mufflers
+238/8,Ebur Mufflers
+238/9,Ebon Moufles
+238/10,Furia Moufles
+238/11,Ebur Moufles
+238/12,Ebon Gauntlets
+238/13,Furia Gauntlets
+238/14,Ebur Gauntlets
+229/67,Ebon Gloves
+229/68,Furia Gloves
+229/69,Ebur Gloves
+229/70,Ebon Bracers
+229/71,Furia Bracers
+229/72,Ebur Bracers
+229/73,Shikkoku Kote
+229/74,Shinku Kote
+229/75,Ginhaku Kote
+229/76,Ebon Wristbands
+230/24,Furia Wristbands
+230/25,Ebur Wristbands
+234/77,Ebon Gants
+234/78,Furia Gants
+234/79,Ebur Gants
+234/80,Ebon Cuffs
+234/81,Furia Cuffs
+234/82,Ebur Cuffs
+234/83,Ebon Gages
+234/84,Furia Gages
+234/85,Ebur Gages
+234/86,Ebon Mitts
+234/87,Furia Mitts
+234/88,Ebur Mitts
+157/50,-for Dinner Jacket-
+249/16,Serpentes Cuffs
+249/17,Praeda Gauntlets
+249/18,Timarli Dastanas
+249/19,Augur's Gloves
+249/20,Ocelot Gloves
+249/21,Perle Moufles
+249/22,Teal Cuffs
+249/23,Aurore Gloves
+255/3,Purple Gloves
+241/68,Goetia Gloves (BLM AF3)
+241/69,Creed Gauntlets (PLD AF3)
+244/51,Ravager's Mufflers (WAR AF3)
+244/52,Estoqueur's Gantherots (RDM AF3)
+253/99,Tantra Gloves (MNK AF3)
+253/100,Raider's Armlets (THF AF3)
+253/101,Bale Gauntlets (DRK AF3)
+253/102,Ferine Manoplas (BST AF3)
+253/103,Aoidos' Manchettes (BRD AF3)
+253/104,Unkai Kote (SAM AF3)
+253/105,Iga Tekko (NIN AF3)
+253/106,Lancer Vambraces (DRG AF3)
+253/107,Mavi Bazuband (BLU AF3)
+253/108,Navarch's Gants (COR AF3)
+253/109,Cirque Guanti (PUP AF3)
+253/110,Savant's Bracers (SCH AF3)
+254/50,Orison Mitts (WHM AF3)
+254/111,Charis Bangles (DNC AF3)
+256/81,Sylvan Glovelettes (RNG AF3)
+256/82,Caller's Bracers (SMN AF3)
+270/110,Brego Gloves
+272/22,Ogier's Gauntlets
+272/23,Athos's Gloves
+272/24,Rubeus Gloves
+278/74,Kheper Wristbands
+278/75,Paean Cuffs
+278/76,Auspex Gages
+278/77,Hrafn Gauntlets
+278/78,Tenryu Tekko
+281/11,Palaaka gloves
+281/12,Aneirin's gloves
+281/13,Alcedo gauntlets
+282/96,Dux Finger Gauntlets
+282/97,Chelona Gloves
+287/79,Dream Mittens
+291/121, Geomancy mitaines (GEO AF1)
+292/94, Runeist mitons (RUN AF1)
+291/35, Karieyh Moufles
+291/36, Thurandaut Gloves
+291/37, Orvail Cuffs
+291/38, Councilor's cuffs
+292/93, Yaoyotl / Quauhpilli
+301/72, Mikinaak Gauntlets
+301/73, Manibozho Gloves
+301/74, Bokwus Gloves
+304/63, Buremte Gloves
+305/23, Bagua mitaines (GEO AF2)
+306/26, Futhark mitons (RUN AF2)
+306/27, Gorney Moufles
+306/28, Shneddick Gloves
+306/29, Weatherspoon Cuffs
+310/107, Work Gloves
+312/110, Qaaxo Mitaines
+312/111, Artsieq Cuffs
+312/112, Xaddi Gauntlets
+315/99, Erilaz gauntlets (RUN AF3)
+325/57, Crusher's Gauntlets
+327/67, Azimuth Gloves (GEO AF3)
+331/58, Despair finger gauntlets
+331/59, Pursuer's cuffs
+331/60, Psycloth manillas
+331/61, Eschite gauntlets
+331/62, Rawhide gloves
+331/63, Naga tekko
+331/64, Vanya cuffs
+336/113, Founder's gauntlets
+336/114, Agent cuffs
+344/101, Composer's mitts
+344/102, Odyssean gauntlets 
+344/103, Valorus mitts
+346/42, Merlinic dastanas
+348/77, Chironic gloves
+349/74, Herculean gloves
+352/97,Delegate's Cuffs
+362/72,Malignance Gloves
+
+@Head
+56/80,None
+56/81,Leather Bandana
+56/82,Sallet
+56/83,Shinobi Hachigane
+56/84,Iron Mask
+56/85,Lizard Helm
+56/86,Raptor Helm
+56/87,Zunari Kabuto
+56/88,Royal Squire's Helm
+56/89,Royal Knight's Bascinet
+56/90,Padded Cap
+56/91,Bronze Cap
+56/92,Bone Mask
+56/93,Hachimaki
+56/94,Wool Hat
+56/95,Tactician Magician's Hat
+56/96,Circlet
+56/97,Headgear
+56/98,Darksteel Armet
+56/99,Red Cap
+56/100,Green Beret
+56/101,Iron Musketeer's Armet
+56/102,Centurion's Visor
+56/103,Gavial Mask
+56/104,Faceguard
+56/105,Mythril Sallet
+56/106,Blue Ribbon
+56/107,Purple Ribbon
+56/108,Green Ribbon
+56/109,Black Ribbon
+56/110,Scarlet Ribbon
+94/83,Fighter's Mask (WAR AF1)
+94/84,Temple Crown (MNK AF1)
+94/85,Healer's Cap (WHM AF1)
+94/86,Wizard's Petasos (BLM AF1)
+94/87,Warlock's Chapeau (RDM AF1)
+94/88,Rogue's Bonnet (THF AF1)
+96/109,Gallant Coronet (PLD AF1)
+96/110,Chaos Burgeonet (DRK AF1)
+96/111,Beast Helm (BST AF1)
+96/112,Choral Roundlet (BRD AF1)
+96/113,Hunter's Beret (RNG AF1)
+99/89,Myochin Kabuto (SAM AF1)
+99/90,Ninja Hatsuburi (NIN AF1)
+99/91,Drachen Armet (DRG AF1)
+99/92,Evoker's Horn (SMN AF1)
+164/4,Magus Keffiyeh (BLU AF1)
+164/5,Corsair's Tricorne (COR AF1)
+162/81,Pup. Taj (PUP AF1)
+198/95,Dancer's Tiara (DNC AF1)
+198/96,Scholar's Mortarboard (SCH AF1)
+121/108,Coeurl Mask
+121/109,Adaman Barbuta
+121/110,Coral Cap
+121/111,Noble's Crown
+121/112,Celata
+121/113,Arhat's Jinpachi
+121/114,Dragon Mask
+125/11,Rasetsu Jinpachi
+125/12,Crimson Mask
+125/13,Adaman Celata
+125/14,Ogre Mask
+125/15,Koenig Schaller
+125/66,War Beret
+127/86,Pumpkin Head
+127/87,Roshi Jinpachi
+127/88,Genbu's Kabuto
+127/89,Hecatomb Cap
+127/90,Errant Hat
+130/23,Tiger Mask
+130/24,Wyvern Helm
+130/25,Demon Helm
+130/26,Shura Zunari Kabuto
+130/27,Zenith Crown
+130/28,Carapace Helm
+130/29,Dusk Mask
+130/30,Dragon Cap
+135/18,Warrior's Mask (WAR AF2)
+135/19,Melee Crown (MNK AF2)
+135/20,Cleric's Cap (WHM AF2)
+135/21,Sorcerer's Petasos (BLM AF2)
+135/22,Duelist's Chapeau (RDM AF2)
+135/23,Assassin's Bonnet (THF AF2)
+135/24,Valor Coronet (PLD AF2)
+135/25,Abyss Burgeonet (DRK AF2)
+135/26,Monster Helm (BST AF2)
+135/27,Bard's Roundlet (BRD AF2)
+135/28,Scout's Beret (RNG AF2)
+135/29,Saotome Kabuto (SAM AF2)
+135/30,Koga Hatsuburi (NIN AF2)
+135/31,Wyrm Armet (DRG AF2)
+135/32,Summoner's Horn (SMN AF2)
+214/122,Mirage Keffiyeh (BLU AF2)
+214/123,Commodore Tricorne (COR AF2)
+214/124,Pantin Taj (PUP AF2)
+218/17,Etoile Tiara (DNC AF2)
+217/103,Argute Mortarboard (SCH AF2)
+135/33,Scorpion Helm
+135/34,Austere Hat
+138/117,Panther Mask
+138/118,Opo-opo Crown
+138/119,Magnifying Specs.
+138/120,Protective Specs.
+138/121,Chef's Hat
+138/122,Shaded Specs.
+145/35,Garish Crown
+145/36,Seer's Crown
+145/37,Hydra Beret
+145/38,Noct Beret 
+146/23,Hydra Tiara
+146/24,Shade Tiara
+146/25,Bison Warbonnet
+146/26,Sha'ir Turban
+146/65,Barone Zucchetto
+146/104,Igqira Tiara
+148/38,Eisenschaller
+149/68,Lord's Armet
+149/114,Dream Hat
+150/90,Hachiman Jinpachi
+151/67,Wise Cap
+152/80,Orc Helm
+152/81,Yagudo Headgear
+152/57,Goblin Coif
+152/82,Quadav Barbut
+153/38,Unicorn Cap
+153/75,Trader's Chapeau
+154/88,Alumine Salade
+155/14,Black Sallet
+155/79,Maat's Cap
+155/80,Mandragora Beret
+155/81,Guide Beret
+156/93,Stars Cap
+156/109,Laurel Crown
+157/116,Nashira Turban
+158/58,Homam Zucchetto
+158/111,Trader's Chapeau (Black)
+159/18,Crow Beret
+154/30,Hydra Moufles
+160/86,Hydra Cap
+164/6,Sipahi Turban
+163/80,Jaridah Khud
+166/72,Amir Puggaree
+166/73,Pahluwan Qalansuwa
+166/74,Yigit Turban
+170/122,Witch Hat
+174/116,Ares's Mask
+174/117,Skadi's Visor
+176/31,Usukane Somen
+176/32,Marduk's Tiara
+176/33,Morrigan's Coronal
+182/36,Egg helm
+183/39,Goliard Chapeau
+182/35,Denali Bonnet
+183/38,Askar Zucchetto
+185/115,Shadow Helm
+186/25,Shadow Hat
+186/24,Valhalla Helm
+186/125,Glory Crown
+186/126,Moogle Cap
+186/127,Nomad Cap
+187/64,Dandy Specs.
+188/8,Mamool Ja Helm
+188/9,Lamia Garland
+188/10,Troll Coif
+188/11,Qiqirn Hood
+199/69,Cobra Unit Cap
+200/105,Cobra Unit Cloche
+201/49,Iron Ram Sallet
+199/27,Fourth Division Haube
+199/26,Bastokan Armor
+201/50,Sol cap
+201/51,Lunar cap
+210/81,Viking Helm
+219/81,Eyepatch
+220/7,Spelunker's Helm
+223/66,Jester's Cap
+224/50,Champion's Galea
+224/62,Anwing Salade
+224/51,Selenian Cap
+225/101,Snow Bunny Hat
+237/107,Ebon Celata
+237/108,Furia Celata
+237/109,Ebur Celata
+237/110,Ebon Helm
+237/111,Furia Helm
+237/112,Ebur Helm
+237/113,Ebon Galea
+237/114,Furia Galea
+237/115,Ebur Galea
+237/116,Ebon Armet
+237/117,Furia Armet
+237/118,Ebur Armet
+229/47,Ebon Mask
+229/48,Furia Mask
+229/49,Ebur Mask
+229/50,Ebon Visor
+229/51,Furia Visor
+229/52,Ebur Visor
+229/53,Shikkoku Hatsuburi
+229/54,Shinku Hatsuburi
+229/55,Ginhaku Hatsuburi
+229/56,Ebon Headgear
+230/20,Furia Headgear
+230/21,Ebur Headgear
+234/53,Ebon Tam
+234/54,Furia Tam
+234/55,Ebur Tam
+234/56,Ebon Hat
+234/57,Furia Hat
+234/58,Ebur Hat
+234/59,Ebon Caubeen
+234/60,Furia Caubeen
+234/61,Ebur Caubeen
+234/62,Ebon Beret
+234/63,Furia Beret
+234/64,Ebur Beret
+238/105,Chocobo Beret
+239/8,Nocturnus Helm
+249/2,Hero's Galea
+249/3,Tokon Hachimaki
+249/4,Perle Salade
+249/5,Teal Chapeau
+249/6,Aurore Beret
+255/1,Purple Chapeau
+241/64,Goetia Petasos (BLM AF3)
+241/65,Creed Armet (PLD AF3)
+244/47,Ravager's Mask (WAR AF3)
+244/48,Estoqueur's Chappel (RDM AF3)
+253/75,Tantra Crown (MNK AF3)
+253/76,Raider's Bonnet (THF AF3)
+253/77,Bale Burgeonet (DRK AF3)
+253/78,Ferine Cabasset (BST AF3)
+253/79,Aoidos' Calot (BRD AF3)
+253/80,Unkai Kabuto (SAM AF3)
+253/81,Iga Zukin (NIN AF3)
+253/82,Lancer's Mezail (DRG AF3)
+253/83,Mavi Kavuk (BLU AF3)
+253/84,Navarch's Tricorne (COR AF3)
+253/85,Cirque Capello (PUP AF3)
+253/86,Savant's Bonnet (SCH AF3)
+254/48,Orison Cap (WHM AF3)
+254/109,Charis Tiara (DNC AF3)
+256/77,Sylvan Gapette (RNG AF3)
+256/78,Caller's Horn (SMN AF3)
+261/90,Twilight Helm
+263/31,Cuauhtli Headpiece
+263/32,Fazheluo Helm
+263/67,Hyksos Khat
+263/127,Destrier Beret
+264/69,Charity Cap
+266/35,Ocelomeh Headpiece
+266/36,Nefer Khat
+266/37,Mekira-oto
+270/106,Smilodon Mask
+270/107,Gallian Helm
+270/108,Brego Helm
+270/109,Snowman Cap
+272/13,Ogier's Helm
+272/14,Athos's Chapeau
+272/15,Rubeus Bandeau
+272/16,Praeco Beret
+277/39,Drachenhorn
+277/40,Hyaline Hat
+278/63,Kheper Bonnet
+278/64,Paean Mitra
+278/65,Auspex Coif
+278/66,Hrafn Coronet
+278/67,Tenryu Somen
+282/27,Decennial Crown
+282/92,Dux Visor
+282/93,Chelona Hat
+286/52,Moogle Masque
+287/71,Ahriman Cap
+291/119, Geomancy galero (GEO AF1)
+292/88, Runeist bandeau (RUN AF1)
+291/26, Karieyh Morion
+291/27, Thurandaut Chapeau
+291/28, Orvail Corona
+291/29, Mirth masque
+292/89, Xux / Nahtirah Hat
+292/90, Chocaliztli / Whirlpool
+292/91, Quauhpilli / Yaoyotl
+301/66, Mikinaak Helm
+301/67, Manibozho Beret
+301/68, Bokwus Circlet
+304/58, Uk'uxkaj Cap
+304/59, Buremte Hat
+304/60, Chocobo Masque
+305/21, Bagua galero (GEO AF2)
+306/18, Futhark bandeau (RUN AF2)
+306/19, Gorney Morion
+306/20, Shneddick Chapeau
+306/21, Weatherspoon Corona 
+308/89, Quiahuiz Helm
+310/103, Slime Cap
+310/104, Straw Hat
+312/104, Qaaxo Mask
+312/105, Artsieq Hat
+312/106, Xaddi Headgear
+314/25, She-Slime Hat
+314/26, Metal Slime Hat
+314/111, Worm Masque
+315/94, Erilaz galea (RUN AF3)
+315/95, Gobbie Masque
+315/96, G. Moogle Masque
+318/111, Morbol cap
+320/93, Gavialis helm
+321/108, Mandragora masque
+321/109, Lycopodium masque
+321/110, Flan masque
+325/53, Cait Sith cap
+325/107, Sheep cap
+326/78, Leafkin cap
+327/61, Azimuth Hood (GEO AF3)
+327/62, Befouled Crown
+327/63, Rabbit cap
+327/64, Shobuhouou Kabuto
+331/40, Volto Oscuro's mask
+331/41, Despair Helm
+331/42, Pursuer's beret
+331/43, Psycloth tiara
+331/44, Eschite helm
+331/45, Rawhide Mask
+331/46, Naga Somen
+331/47, Vanya hood
+331/48, Behemoth masque
+333/28, Skormoth mask
+336/104, Founder's corona
+336/105, Jumalik Helm
+336/106, Buffalo hat
+336/107, Carbie cap
+336/108, Agent hood
+339/17, Terminal helm
+344/91, Odyssean helm
+344/92, Valorus mask
+344/93, Pachypodium masque
+344/94, Korrigan masque
+344/95, Gazer's helmet
+344/96, Curmudgeon's helmet
+344/97, Retching helmet
+346/40, Merlinic hood
+347/36, Wyrmking masque
+348/75, Chironic hat
+349/72, Herculean helm
+351/98, Rarab cap
+351/99, Snoll masque
+307/71, Bomb masque
+352/20,Crab Cap
+352/127,Kakai Cap
+353/52,Black Chocobo Cap
+353/72,Arthro Cap
+353/80,White Rarab Cap
+357/114,Royal Chocobo Beret
+358/61,Karakul Cap
+361/106,Cath Palug Crown
+362/70,Malignance Chapeau
+363/1,Tiger Helm
+
+@Legs
+57/58,None
+157/51,Invisible
+57/59,Leather Trousers
+57/60,Cuisses
+57/61,Slacks
+57/62,Shinobi Hakama
+57/63,Chain Hose
+57/64,Lizard Trousers
+57/65,Raptor Trousers
+57/66,Galkan Braguette
+57/67,Haidate
+57/68,Linen Slacks
+57/69,White Slacks
+57/70,Royal Squire's Breeches
+57/71,Royal Knight's Breeches
+57/72,Iron Subligar
+57/73,Bronze Subligar
+57/74,Bone Subligar
+57/75,Sitabaki
+57/76,Wool Slops
+57/77,Tactician Magician's Slops
+57/78,Slops
+57/79,Brais
+57/80,Darksteel Cuisses
+57/81,Hose
+57/82,Battle Hose
+57/83,Iron Musketeer's Cuisses
+57/84,Centurion's Cuisses
+57/85,Gavial Cuisses
+57/86,Scale Cuisses
+57/87,Mythril Cuisses
+57/88,Elder's Braguette
+94/106,Fighter's Cuisses (WAR AF1)
+94/107,Temple Gaiters (MNK AF1)
+94/108,Healer's Pantaloons (WHM AF1)
+94/109,Wizard's Tonban (BLM AF1)
+94/110,Warlock's Tights (RDM AF1)
+94/111,Rogue's Culotte (THF AF1)
+96/124,Gallant Breeches (PLD AF1)
+96/125,Chaos Flanchard (DRK AF1)
+96/126,Beast Trousers (BST AF1)
+96/127,Choral Cannions (BRD AF1)
+97/0,Hunter's Braccae (RNG AF1)
+99/101,Myochin Haidate (SAM AF1)
+99/102,Ninja Hakama (NIN AF1)
+99/103,Drachen Brais (DRG AF1)
+99/104,Evoker's Spats (SMN AF1)
+164/13,Magus Shalwar (BLU AF1)
+164/14,Corsair's Culotte (COR AF1)
+162/84,Puppetry Churidars (PUP AF1)
+198/101,Dancer's Tights (DNC AF1)
+198/102,Scholar's Pants (SCH AF1)
+119/46,Tiger Trousers
+119/47,Iron Cuisses
+122/3,Steel Cuisses
+122/4,Coeurl Trousers
+122/5,Adaman Cuisses
+122/6,Coral Subligar
+122/7,Noble's Slacks
+122/8,Thick Breeches
+122/9,Arhat's Hakama
+122/10,Dragon Cuisses
+125/26,Rasetsu Hakama
+125/27,Crimson Cuisses
+125/28,Adaman Breeches
+125/29,Ogre Trousers
+125/30,Koenig Diechlings
+125/69,War Brais
+127/106,Yasha Hakama
+127/107,Byakko's Haidate
+127/108,Hecatomb Subligar
+127/109,Errant Slops
+127/110,Fisherman's Hose
+127/111,Chocobo Hose
+127/112,Vagabond's Hose
+130/43,Field Hose
+130/44,Shura Haidate
+130/45,Zenith Slacks
+130/46,Dusk Trousers
+130/47,Dragon Subligar
+135/69,Warrior's Cuisses (WAR AF2)
+135/70,Melee Hose (MNK AF2)
+135/71,Cleric's Pantaloons (WHM AF2)
+135/72,Sorcerer's Tonban (BLM AF2)
+135/73,Duelist's Tights (RDM AF2)
+135/74,Assassin's Culotte (THF AF2)
+135/75,Valor Breeches (PLD AF2)
+135/76,Abyss Flanchard (DRK AF2)
+135/77,Monster Trousers (BST AF2)
+135/78,Bard's Cannions (BRD AF2)
+135/79,Scout's Braccae (RNG AF2)
+135/80,Saotome Haidate (SAM AF2)
+135/81,Koga Hakama (NIN AF2)
+135/82,Wyrm Brais (DRG AF2)
+135/83,Summoner's Spats (SMN AF2)
+215/5,Mirage Shalwar (BLU AF2)
+215/6,Commodore Culotte (COR AF2)
+215/7,Pantin Churidars (PUP AF2)
+218/20,Etoile Tights (DNC AF2)
+217/106,Argute Pants (SCH AF2)
+135/84,Austere Slops
+145/51,Hydra Tights
+145/52,Shade Tights
+145/53,Garish Slacks
+145/54,Seer's Slacks
+145/55,Hydra Brais
+145/56,Noct Brais
+146/31,Bison Kecks
+146/32,Sha'ir Seraweels
+146/68,Barone Cosciales
+146/107,Igqira Lappa
+148/41,Eisendiechlings
+149/70,Lord's Cuisses
+150/2,Zodiac Subligar
+149/123,Vir Subligar
+150/95,Hachiman Hakama
+150/96,Blessed Trousers
+151/70,Wise Braconi
+153/41,Unicorn Subligar
+153/78,Trader's Slops
+154/91,Alumine Brayettes
+155/17,Black Cuisses
+157/119,Nashira Seraweels
+158/61,Homam Cosciales
+158/114,Trader's Slops (Black)
+159/21,Crow Hose
+154/33,Hydra Brayettes
+160/89,Hydra Hose
+164/15,Sipahi Zerehs
+163/83,Jaridah Salvars
+166/81,Amir Dirs
+166/82,Pahluwan Seraweels
+166/83,Yigit Seraweels
+157/41,Galka Trunks
+174/122,Ares's Flanchard
+174/123,Skadi's Chausses
+176/40,Usukane Hizayoroi
+176/41,Marduk's Shalwar
+176/42,Morrigan's Slops
+183/53,Goliard Trews
+182/39,Denali Kecks
+183/52,Askar Dirs
+185/118,Shadow Cuishes
+186/28,Shadow Trews
+199/72,Cobra Unit Trousers
+200/108,Cobra Unit Slops
+201/54,Iron Ram Breeches
+199/33,Fourth Division Breeches
+199/32,Bastokan Armor
+204/77,Elder Trunks
+207/53,Hachiryu Haidate
+219/83,Benedight Hose
+225/31,Blizter Poleyn
+225/32,Desultor Tassets
+225/33,Tatsumaki Sitagoromo
+238/15,Ebon Cuisses
+238/16,Furia Cuisses
+238/17,Ebur Cuisses
+238/18,Ebon Breeches
+238/19,Furia Breeches
+238/20,Ebur Breeches
+238/21,Ebon Brayettes
+238/22,Furia Brayettes
+238/23,Ebur Brayettes
+238/24,Ebon Hose
+238/25,Furia Hose
+238/26,Ebur Hose
+229/77,Ebon Brias
+229/78,Furia Brias
+229/79,Ebur Brias
+229/80,Ebon Braccae
+229/81,Furia Braccae
+229/82,Ebur Braccae
+229/83,Shikkoku Haidate
+229/84,Shinku Haidate
+229/85,Ginhaku Haidate
+229/86,Ebon Tights
+230/26,Furia Tights
+230/27,Ebur Tights
+234/89,Ebon Slacks
+234/90,Furia Slacks
+234/91,Ebur Slacks
+234/92,Ebon Pants
+234/93,Furia Pants
+234/94,Ebur Pants
+234/95,Ebon Spats
+234/96,Furia Spats
+234/97,Ebur Spats
+234/98,Ebon Slops
+234/99,Furia Slops
+234/100,Ebur Slops
+239/11,Dinner Hose
+249/24,Teutates Subligar
+249/25,Torrent Subligar
+249/26,Wicca Subligar
+249/27,Augur's Brais
+249/28,Ocelot Trousers
+249/29,Perle Brayettes
+249/30,Teal Slops
+249/31,Aurore Brais
+255/4,Purple Tights
+241/70,Goetia Chausses (BLM AF3)
+241/71,Creed Cuisses (PLD AF3)
+244/53,Ravager's Cuisses (WAR AF3)
+244/54,Estoqueur's Fuseau (RDM AF3)
+253/111,Tantra Hose (MNK AF3)
+253/112,Raider's Culottes (THF AF3)
+253/113,Bale Flanchard (DRK AF3)
+253/114,Ferine Quijotes (BST AF3)
+253/115,Aoidos' Rhingrave (BRD AF3)
+253/116,Unkai Haidate (SAM AF3)
+253/117,Iga Hakama (NIN AF3)
+253/118,Lancer's Cuissots (DRG AF3)
+253/119,Mavi Tayt (BLU AF3)
+253/120,Navarch's Culottes (COR AF3)
+253/121,Cirque Pantaloni (PUP AF3)
+253/122,Savant's Pants (SCH AF3)
+254/51,Orison Pantaloons (WHM AF3)
+254/112,Charis Tights (DNC AF3)
+256/83,Sylvan Brague (RNG AF3)
+256/84,Caller's Spats (SMN AF3)
+263/74,Novennial Hose
+264/70,Calmecac Trousers
+264/71,Calmecac Subligar
+264/72,Jingang Hose
+264/73,Menhit Slacks
+270/111,Triplus Subligar
+270/112,Dream Trousers
+272/25,Ogier's Breeches
+272/26,Athos's Tights
+272/27,Rubeus Spats
+272/28,Praeco Slacks
+272/84,Tussle Breeches
+278/79,Kheper Kecks
+278/80,Paean Tights
+278/81,Auspex Slops
+278/82,Hrafn Hose
+278/83,Tenryu Hakama
+281/14,Akasha chaps
+281/15,Alcedo cuisses
+281/120,Dune Boxers
+282/1,Abatteur subligar?
+282/29,Decennial Hose
+282/98,Dux Cuisses
+282/99,Chelona Trousers
+291/122, Geomancy pants (GEO AF1)
+292/95, Runeist trousers (RUN AF1)
+289/1, Orvail pants
+291/39, Karieyh Sollerets
+291/40, Thurandaut tights
+291/41, Morass pants
+292/96, Xux / Nahtirah
+301/75, Mikinaak Cuisses
+301/76, Manibozho Brais
+301/77, Bokwus Slops
+304/64, Rustic Trunks
+305/24, Bagua pants (GEO AF2)
+306/30, Futhark trousers (RUN AF2)
+306/31, Gorney Brayettes
+306/32, Shneddick Tights
+306/33, Weatherspoon Pants 
+308/90, Quiahuiz leggings
+312/113, Qaaxo Tights
+312/114, Artsieq Hose
+312/115, Xaddi Cuisses
+315/100, Erilaz leg guards (RUN AF3)
+317/66, Kengyu hanmomohiki
+325/58, Miasmic Pants
+327/68, Azimuth Tights (GEO AF3)
+327/117, Pupil's Trousers
+331/65, Despair cuisses
+331/66, Pursuer's pants
+331/67, Psycloth lappas
+331/68, Eschite cuisses
+331/69, Rawhide trousers
+331/70, Naga hakama
+331/71, Vanya slops
+335/17, Swimming togs
+336/115, Founder's hose
+336/116, Samnuha Tights
+336/117, Agent pants
+339/20, Gyve trousers
+339/36, Track pants
+344/104, Odyssean cuisses
+344/105, Valorus hose
+346/43, Merlinic shalwar
+348/78, Chironic hose
+349/35, Dashing subligar
+349/75, Herculean trousers
+307/63, Alliance pants
+355/63,Pink Panties
+357/77,Swim Trunks
+362/73,Malignance Tights

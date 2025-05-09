@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/10.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/42.DAT",
+        "ModelID": 21,
+        "FileID": 16661,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/64.DAT",
+        "ModelID": 8,
+        "FileID": 16904,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/110.DAT",
+        "ModelID": 10,
+        "FileID": 17162,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/24.DAT",
+        "ModelID": 21,
+        "FileID": 17429,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/58.DAT",
+        "ModelID": 24,
+        "FileID": 17688,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17735731",
+        "name": "Eulaphe",
+        "zone": "Bastok_Mines",
+        "look": "01000104151008200A3015401850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "185",
+            "x": "38.975",
+            "y": "0.750",
+            "z": "-108.629"
+        }
+    }
+}

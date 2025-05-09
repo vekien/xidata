@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/71.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/82.DAT",
+        "ModelID": 2,
+        "FileID": 26394,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/49.DAT",
+        "ModelID": 22,
+        "FileID": 26926,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo4_",
+        "Race": "Galka",
+        "Path": "ROM\/59\/79.DAT",
+        "ModelID": 262,
+        "FileID": 27934,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_lshi2",
+        "Race": "Galka",
+        "Path": "ROM\/60\/7.DAT",
+        "ModelID": 30,
+        "FileID": 48909,
+        "Type": "Shield"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17261158",
+        "name": "Wise Turtle, I.M.",
+        "zone": "Buburimu_Peninsula",
+        "look": "010007080210022016300240025006611E700000",
+        "content": "",
+        "pos": {
+            "rotation": "56",
+            "x": "-599.903",
+            "y": "-40.441",
+            "z": "165.776"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/98.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/20.DAT",
+        "ModelID": 7,
+        "FileID": 23479,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/65.DAT",
+        "ModelID": 8,
+        "FileID": 23736,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/97.DAT",
+        "ModelID": 8,
+        "FileID": 23993,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/120.DAT",
+        "ModelID": 1,
+        "FileID": 24241,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17719384",
+        "name": "Kueh Igunahmori",
+        "zone": "Southern_San_dOria",
+        "look": "0100040700100720083008400150006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "236",
+            "x": "-194.791",
+            "y": "-8.800",
+            "z": "13.130"
+        }
+    }
+}

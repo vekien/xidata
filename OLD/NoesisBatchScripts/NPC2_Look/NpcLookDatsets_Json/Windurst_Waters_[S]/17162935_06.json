@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/46\/119.DAT",
+        "ModelID": 6,
+        "FileID": 19822,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/23.DAT",
+        "ModelID": 6,
+        "FileID": 20078,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/67.DAT",
+        "ModelID": 6,
+        "FileID": 20334,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/98.DAT",
+        "ModelID": 6,
+        "FileID": 20590,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/1.DAT",
+        "ModelID": 6,
+        "FileID": 20846,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_5rap_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/49\/41.DAT",
+        "ModelID": 190,
+        "FileID": 21286,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17162935",
+        "name": "06",
+        "zone": "Windurst_Waters_[S]",
+        "look": "0100020506100620063006400650BE6000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

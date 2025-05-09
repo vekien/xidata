@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/40.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/86.DAT",
+        "ModelID": 3,
+        "FileID": 13723,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/2.DAT",
+        "ModelID": 3,
+        "FileID": 13979,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/33.DAT",
+        "ModelID": 3,
+        "FileID": 14235,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/64.DAT",
+        "ModelID": 3,
+        "FileID": 14491,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17727497",
+        "name": "Morjean",
+        "zone": "Port_San_dOria",
+        "look": "0100040303100320033003400350006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "85",
+            "x": "14.560",
+            "y": "-13.999",
+            "z": "-96.496"
+        }
+    }
+}

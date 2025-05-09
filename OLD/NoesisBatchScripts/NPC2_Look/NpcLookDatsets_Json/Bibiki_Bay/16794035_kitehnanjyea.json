@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/100.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/61.DAT",
+        "ModelID": 136,
+        "FileID": 23608,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/62.DAT",
+        "ModelID": 136,
+        "FileID": 23864,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/102.DAT",
+        "ModelID": 136,
+        "FileID": 24121,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/64.DAT",
+        "ModelID": 136,
+        "FileID": 24376,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16794035",
+        "name": "Kiteh Nanjyea",
+        "zone": "Bibiki_Bay",
+        "look": "0100060700108820883088408850006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "44",
+            "x": "298.915",
+            "y": "-1.892",
+            "z": "172.090"
+        }
+    }
+}

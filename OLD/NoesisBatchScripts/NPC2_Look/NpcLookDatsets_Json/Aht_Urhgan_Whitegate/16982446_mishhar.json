@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/42.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/146\/46.DAT",
+        "ModelID": 136,
+        "FileID": 13856,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/162\/58.DAT",
+        "ModelID": 172,
+        "FileID": 14148,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/166\/17.DAT",
+        "ModelID": 174,
+        "FileID": 14406,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/146\/49.DAT",
+        "ModelID": 136,
+        "FileID": 14624,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo4_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/40\/51.DAT",
+        "ModelID": 262,
+        "FileID": 15006,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982446",
+        "name": "Mishhar",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100060300108820AC30AE408850066100700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "66",
+            "x": "-12.195",
+            "y": "-5.999",
+            "z": "29.371"
+        }
+    }
+}

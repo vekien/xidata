@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/96.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/145\/5.DAT",
+        "ModelID": 130,
+        "FileID": 23602,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/76.DAT",
+        "ModelID": 19,
+        "FileID": 23747,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/110.DAT",
+        "ModelID": 21,
+        "FileID": 24006,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/145\/23.DAT",
+        "ModelID": 130,
+        "FileID": 24370,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17784959",
+        "name": "Luto Mewrilah",
+        "zone": "Port_Jeuno",
+        "look": "0100020700108220133015408250006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "115",
+            "x": "-12.868",
+            "y": "0.000",
+            "z": "8.553"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/67.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/82.DAT",
+        "ModelID": 2,
+        "FileID": 26394,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/148\/40.DAT",
+        "ModelID": 138,
+        "FileID": 27042,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_b_ax4",
+        "Race": "Galka",
+        "Path": "ROM\/58\/42.DAT",
+        "ModelID": 97,
+        "FileID": 27769,
+        "Type": "GreatAxe"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17117942",
+        "name": "Feral Moon, L.C.",
+        "zone": "Vunkerl_Inlet_[S]",
+        "look": "01000308021002208A3002400250616000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "0",
+            "x": "-189.480",
+            "y": "-39.999",
+            "z": "-279.146"
+        }
+    }
+}

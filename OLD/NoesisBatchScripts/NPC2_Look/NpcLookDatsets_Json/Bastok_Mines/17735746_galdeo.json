@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/70.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/82.DAT",
+        "ModelID": 2,
+        "FileID": 26394,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/29.DAT",
+        "ModelID": 2,
+        "FileID": 26906,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17735746",
+        "name": "Galdeo",
+        "zone": "Bastok_Mines",
+        "look": "01000608021002200230024002500A6000700000",
+        "content": "",
+        "pos": {
+            "rotation": "247",
+            "x": "-137.970",
+            "y": "-11.919",
+            "z": "28.581"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+Western Adoulin,ROM9/0/3.DAT
+Eastern Adoulin,ROM9/0/4.DAT
+Rala Waterways,ROM9/0/5.DAT
+Rala Waterways [U],ROM9/0/6.DAT
+Yahse Hunting Grounds,ROM9/0/7.DAT
+Ceizak Battlegrounds,ROM9/0/8.DAT
+Foret de Hennetiel,ROM9/0/9.DAT
+Yorcia Weald,ROM9/0/10.DAT
+Yorcia Weald [U],ROM9/0/11.DAT
+Morimar Basalt Fields,ROM9/0/12.DAT
+Marjami Ravine,ROM9/0/13.DAT
+Kamihr Drifts,ROM9/0/14.DAT
+Sih Gates,ROM9/0/15.DAT
+Moh Gates,ROM9/0/16.DAT
+Cirdas Caverns,ROM9/0/17.DAT
+Cirdas Caverns [U],ROM9/0/18.DAT
+Dho Gates,ROM9/0/19.DAT
+Woh Gates,ROM9/0/20.DAT
+Outer Ra'Kaznar,ROM9/0/21.DAT
+Outer Ra'Kaznar [U],ROM9/0/22.DAT
+Ra'Kaznar Inner Court,ROM9/0/23.DAT
+Ra'Kaznar Turris,ROM9/0/24.DAT
+Mog Garden,ROM/309/10.DAT
+Leafallia,ROM9/8/10.DAT
+Mount Kamihr,ROM/315/102.DAT
+Celennia Memorial Library,ROM/303/26.DAT
+Feretory,ROM/306/54.DAT

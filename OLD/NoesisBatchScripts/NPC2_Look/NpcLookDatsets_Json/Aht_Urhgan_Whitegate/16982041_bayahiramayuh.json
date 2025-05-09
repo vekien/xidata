@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/96.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/51\/126.DAT",
+        "ModelID": 20,
+        "FileID": 23236,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/36.DAT",
+        "ModelID": 23,
+        "FileID": 23495,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/65.DAT",
+        "ModelID": 8,
+        "FileID": 23736,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/99.DAT",
+        "ModelID": 10,
+        "FileID": 23995,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/122.DAT",
+        "ModelID": 3,
+        "FileID": 24243,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982041",
+        "name": "Baya Hiramayuh",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010002071410172008300A400350006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "192",
+            "x": "-12.082",
+            "y": "1.999",
+            "z": "-143.367"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/17.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/61.DAT",
+        "ModelID": 5,
+        "FileID": 16901,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/118.DAT",
+        "ModelID": 18,
+        "FileID": 17170,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/24.DAT",
+        "ModelID": 21,
+        "FileID": 17429,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/38.DAT",
+        "ModelID": 4,
+        "FileID": 17668,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17719355",
+        "name": "Thadiene",
+        "zone": "Southern_San_dOria",
+        "look": "0100080400100520123015400450006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "28",
+            "x": "68.674",
+            "y": "0.000",
+            "z": "64.302"
+        }
+    }
+}

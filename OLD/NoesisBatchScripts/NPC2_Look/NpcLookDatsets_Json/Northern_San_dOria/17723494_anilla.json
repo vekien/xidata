@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/13.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/64.DAT",
+        "ModelID": 8,
+        "FileID": 16904,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/100.DAT",
+        "ModelID": 0,
+        "FileID": 17152,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/11.DAT",
+        "ModelID": 8,
+        "FileID": 17416,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/42.DAT",
+        "ModelID": 8,
+        "FileID": 17672,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17723494",
+        "name": "Anilla",
+        "zone": "Northern_San_dOria",
+        "look": "0100040400100820003008400850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "102",
+            "x": "10.361",
+            "y": "0.000",
+            "z": "63.764"
+        }
+    }
+}

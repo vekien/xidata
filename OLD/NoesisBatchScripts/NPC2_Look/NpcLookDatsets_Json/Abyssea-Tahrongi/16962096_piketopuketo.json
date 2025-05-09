@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/59.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/46\/124.DAT",
+        "ModelID": 14,
+        "FileID": 19830,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/17.DAT",
+        "ModelID": 0,
+        "FileID": 20072,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/61.DAT",
+        "ModelID": 0,
+        "FileID": 20328,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/103.DAT",
+        "ModelID": 11,
+        "FileID": 20595,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/6.DAT",
+        "ModelID": 11,
+        "FileID": 20851,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16962096",
+        "name": "Piketo-Puketo",
+        "zone": "Abyssea-Tahrongi",
+        "look": "010004050E10002000300B400B50006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "191",
+            "x": "-358.770",
+            "y": "-40.480",
+            "z": "-245.962"
+        }
+    }
+}

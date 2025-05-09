@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="xidata_v2.components.XI_Button"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d">
+    <Button x:Name="Button" 
+        HorizontalAlignment="Stretch"
+        HorizontalContentAlignment="Center"
+        VerticalContentAlignment="Center"
+        VerticalAlignment="Stretch"
+        Foreground="Black" 
+        MinWidth="28"
+        MinHeight="28"
+        Padding="8,4,8,4" 
+        Cursor="Hand"
+        FontWeight="SemiBold"
+        FontFamily="Open Sans"
+        FontSize="16"
+        Content="Button">
+        <Button.Background>
+            <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                <GradientStop Color="#FFF1F1F1"/>
+                <GradientStop Color="#FFD0D0D0" Offset="1"/>
+            </LinearGradientBrush>
+        </Button.Background>
+        <Button.Effect>
+            <DropShadowEffect Color="Black" Direction="270" ShadowDepth="1" Opacity="1" BlurRadius="4" RenderingBias="Quality"/>
+        </Button.Effect>
+        <Button.Style>
+            <Style TargetType="Button">
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Border x:Name="ButtonBorder" Background="{TemplateBinding Background}" CornerRadius="1" BorderBrush="#FF000000" BorderThickness="1,1,1,1">
+                                <ContentPresenter Margin="{TemplateBinding Padding}"
+                                    HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                    VerticalAlignment="{TemplateBinding VerticalContentAlignment}"
+                                    TextElement.Foreground="{TemplateBinding Foreground}"
+                                    RecognizesAccessKey="True" />
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter TargetName="ButtonBorder" Property="Background">
+                                        <Setter.Value>
+                                            <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                                                <GradientStop Color="#FFDEDEDE"/>
+                                                <GradientStop Color="#FFC2C2C2" Offset="1"/>
+                                            </LinearGradientBrush>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="Background" Value="#FFE8E8E8"/>
+            </Style>
+        </Button.Style>
+    </Button>
+</UserControl>

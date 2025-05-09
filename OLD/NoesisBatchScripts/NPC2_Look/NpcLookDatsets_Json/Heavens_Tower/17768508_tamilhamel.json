@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/22.DAT",
+        "ModelID": 5,
+        "FileID": 20077,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/66.DAT",
+        "ModelID": 5,
+        "FileID": 20333,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/97.DAT",
+        "ModelID": 5,
+        "FileID": 20589,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/0.DAT",
+        "ModelID": 5,
+        "FileID": 20845,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17768508",
+        "name": "Tamil-Hamel",
+        "zone": "Heavens_Tower",
+        "look": "0100020500100520053005400550006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "52",
+            "x": "-2.282",
+            "y": "0.500",
+            "z": "18.788"
+        }
+    }
+}

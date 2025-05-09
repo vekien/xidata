@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/72.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/99.DAT",
+        "ModelID": 23,
+        "FileID": 26415,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/6.DAT",
+        "ModelID": 23,
+        "FileID": 26671,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/50.DAT",
+        "ModelID": 23,
+        "FileID": 26927,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/82.DAT",
+        "ModelID": 23,
+        "FileID": 27184,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/112.DAT",
+        "ModelID": 23,
+        "FileID": 27439,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982285",
+        "name": "Deminza",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100080817101720173017401750006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

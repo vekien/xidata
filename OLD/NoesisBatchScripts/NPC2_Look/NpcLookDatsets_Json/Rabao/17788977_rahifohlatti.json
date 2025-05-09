@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/99.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/20.DAT",
+        "ModelID": 7,
+        "FileID": 23479,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/64.DAT",
+        "ModelID": 7,
+        "FileID": 23735,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/89.DAT",
+        "ModelID": 36,
+        "FileID": 24021,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/120.DAT",
+        "ModelID": 36,
+        "FileID": 24276,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_clw8_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/117.DAT",
+        "ModelID": 142,
+        "FileID": 24638,
+        "Type": "Hand2Hand"
+    },
+    "sub": {
+        "Identifier": "hf_clw8_",
+        "Race": "Mithra",
+        "Path": "ROM\/55\/79.DAT",
+        "ModelID": 142,
+        "FileID": 47741,
+        "Type": "Hand2Hand"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17788977",
+        "name": "Rahi Fohlatti",
+        "zone": "Rabao",
+        "look": "01000507001007200730244024508E608E700000",
+        "content": "",
+        "pos": {
+            "rotation": "171",
+            "x": "-14.624",
+            "y": "7.868",
+            "z": "-10.363"
+        }
+    }
+}

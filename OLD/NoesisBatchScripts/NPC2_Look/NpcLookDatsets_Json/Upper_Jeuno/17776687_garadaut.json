@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/43.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/91.DAT",
+        "ModelID": 8,
+        "FileID": 13728,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/18.DAT",
+        "ModelID": 19,
+        "FileID": 13995,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/36.DAT",
+        "ModelID": 6,
+        "FileID": 14238,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/67.DAT",
+        "ModelID": 6,
+        "FileID": 14494,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17776687",
+        "name": "Garadaut",
+        "zone": "Upper_Jeuno",
+        "look": "0100070300100820133006400650006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "48",
+            "x": "-61.043",
+            "y": "0.000",
+            "z": "128.999"
+        }
+    }
+}

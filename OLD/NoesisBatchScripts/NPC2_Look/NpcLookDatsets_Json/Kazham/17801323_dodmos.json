@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/66.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/114.DAT",
+        "ModelID": 3,
+        "FileID": 26651,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/30.DAT",
+        "ModelID": 3,
+        "FileID": 26907,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/62.DAT",
+        "ModelID": 3,
+        "FileID": 27164,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/92.DAT",
+        "ModelID": 3,
+        "FileID": 27419,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17801323",
+        "name": "Dodmos",
+        "zone": "Kazham",
+        "look": "0100020800100320033003400350006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "101",
+            "x": "102.647",
+            "y": "-13.999",
+            "z": "-97.664"
+        }
+    }
+}

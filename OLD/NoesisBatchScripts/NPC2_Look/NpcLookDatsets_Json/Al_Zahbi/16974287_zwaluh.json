@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/37.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/75.DAT",
+        "ModelID": 27,
+        "FileID": 13491,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/137\/63.DAT",
+        "ModelID": 123,
+        "FileID": 13843,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/0.DAT",
+        "ModelID": 123,
+        "FileID": 14099,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/124\/57.DAT",
+        "ModelID": 94,
+        "FileID": 14326,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/124\/62.DAT",
+        "ModelID": 94,
+        "FileID": 14582,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974287",
+        "name": "Zwaluh",
+        "zone": "Al_Zahbi",
+        "look": "010001031B107B207B305E405E50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "254",
+            "x": "-71.556",
+            "y": "-5.999",
+            "z": "-103.015"
+        }
+    }
+}

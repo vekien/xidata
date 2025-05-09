@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/60.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/146\/94.DAT",
+        "ModelID": 137,
+        "FileID": 19953,
+        "Type": "Head"
+    },
+    "body": null,
+    "hands": null,
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/34.DAT",
+        "ModelID": 85,
+        "FileID": 20669,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/146\/98.DAT",
+        "ModelID": 137,
+        "FileID": 20977,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_sti3_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/49\/84.DAT",
+        "ModelID": 233,
+        "FileID": 21329,
+        "Type": "Club"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16961984",
+        "name": "Atma Fabricant",
+        "zone": "Abyssea-Tahrongi",
+        "look": "0100050589100421043155408950E96000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "128",
+            "x": "12.500",
+            "y": "37.792",
+            "z": "-669.000"
+        }
+    }
+}

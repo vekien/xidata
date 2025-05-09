@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/44.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/84.DAT",
+        "ModelID": 1,
+        "FileID": 13721,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/0.DAT",
+        "ModelID": 1,
+        "FileID": 13977,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/31.DAT",
+        "ModelID": 1,
+        "FileID": 14233,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/62.DAT",
+        "ModelID": 1,
+        "FileID": 14489,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17391844",
+        "name": "Francmage",
+        "zone": "Monastic_Cavern",
+        "look": "0100080300100120013001400150006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "58",
+            "x": "340.715",
+            "y": "-1.500",
+            "z": "-355.020"
+        }
+    }
+}

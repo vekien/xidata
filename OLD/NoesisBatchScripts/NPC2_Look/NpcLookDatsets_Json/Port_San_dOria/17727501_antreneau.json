@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/44.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/89.DAT",
+        "ModelID": 6,
+        "FileID": 13726,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/11.DAT",
+        "ModelID": 12,
+        "FileID": 13988,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/36.DAT",
+        "ModelID": 6,
+        "FileID": 14238,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/73.DAT",
+        "ModelID": 12,
+        "FileID": 14500,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17727501",
+        "name": "Antreneau",
+        "zone": "Port_San_dOria",
+        "look": "01000803001006200C3006400C50006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "251",
+            "x": "-71.465",
+            "y": "-5.497",
+            "z": "-41.081"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/88.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/164\/101.DAT",
+        "ModelID": 176,
+        "FileID": 7288,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/164\/103.DAT",
+        "ModelID": 176,
+        "FileID": 7544,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/26.DAT",
+        "ModelID": 174,
+        "FileID": 7798,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/29.DAT",
+        "ModelID": 174,
+        "FileID": 8054,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/32.DAT",
+        "ModelID": 174,
+        "FileID": 8310,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "scy4_ng",
+        "Race": "Hume Male",
+        "Path": "ROM\/172\/0.DAT",
+        "ModelID": 393,
+        "FileID": 8785,
+        "Type": "Scythe"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982373",
+        "name": "Gadalar",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000101B010B020AE30AE40AE50896100700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

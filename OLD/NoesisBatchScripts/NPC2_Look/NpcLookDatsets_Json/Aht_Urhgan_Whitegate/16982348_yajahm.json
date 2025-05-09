@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/95.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/21.DAT",
+        "ModelID": 172,
+        "FileID": 7284,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/24.DAT",
+        "ModelID": 172,
+        "FileID": 7540,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/27.DAT",
+        "ModelID": 172,
+        "FileID": 7796,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/30.DAT",
+        "ModelID": 172,
+        "FileID": 8052,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/33.DAT",
+        "ModelID": 172,
+        "FileID": 8308,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_2hs2_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/41.DAT",
+        "ModelID": 68,
+        "FileID": 8460,
+        "Type": "GreatSword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982348",
+        "name": "Yajahm",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000801AC10AC20AC30AC40AC50446000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

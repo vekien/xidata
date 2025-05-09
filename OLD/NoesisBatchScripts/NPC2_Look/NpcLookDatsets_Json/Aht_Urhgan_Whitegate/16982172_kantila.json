@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/12.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/163\/33.DAT",
+        "ModelID": 171,
+        "FileID": 16811,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/163\/35.DAT",
+        "ModelID": 171,
+        "FileID": 17067,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/163\/37.DAT",
+        "ModelID": 171,
+        "FileID": 17323,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/163\/39.DAT",
+        "ModelID": 171,
+        "FileID": 17579,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/163\/41.DAT",
+        "ModelID": 171,
+        "FileID": 17835,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_spea8",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/144\/84.DAT",
+        "ModelID": 349,
+        "FileID": 18269,
+        "Type": "Polearm"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982172",
+        "name": "Kantila",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000304AB10AB20AB30AB40AB505D6100700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "191",
+            "x": "109.829",
+            "y": "-0.338",
+            "z": "-45.025"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/10.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/144\/59.DAT",
+        "ModelID": 128,
+        "FileID": 17024,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/100.DAT",
+        "ModelID": 0,
+        "FileID": 17152,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/144\/74.DAT",
+        "ModelID": 131,
+        "FileID": 17539,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/144\/80.DAT",
+        "ModelID": 131,
+        "FileID": 17795,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982414",
+        "name": "Yadhiwa",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100010400108020003083408350006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "126",
+            "x": "68.637",
+            "y": "-6.500",
+            "z": "-129.092"
+        }
+    }
+}

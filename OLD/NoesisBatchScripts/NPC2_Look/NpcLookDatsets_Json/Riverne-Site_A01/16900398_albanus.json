@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/94.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/26.DAT",
+        "ModelID": 19,
+        "FileID": 7387,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/71.DAT",
+        "ModelID": 19,
+        "FileID": 7643,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/103.DAT",
+        "ModelID": 19,
+        "FileID": 7899,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/6.DAT",
+        "ModelID": 18,
+        "FileID": 8154,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16900398",
+        "name": "Albanus",
+        "zone": "Riverne-Site_A01",
+        "look": "0100070100101320133013401250006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "149",
+            "x": "-727.502",
+            "y": "-43.601",
+            "z": "-305.725"
+        }
+    }
+}

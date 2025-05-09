@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/65.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/138\/122.DAT",
+        "ModelID": 125,
+        "FileID": 26517,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/111.DAT",
+        "ModelID": 0,
+        "FileID": 26648,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/37.DAT",
+        "ModelID": 10,
+        "FileID": 26914,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/150\/2.DAT",
+        "ModelID": 31,
+        "FileID": 27192,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/139\/9.DAT",
+        "ModelID": 122,
+        "FileID": 27538,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16798139",
+        "name": "Zebada",
+        "zone": "Uleguerand_Range",
+        "look": "010001087D1000200A301F407A50006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "232",
+            "x": "-308.112",
+            "y": "-41.137",
+            "z": "-570.096"
+        }
+    }
+}

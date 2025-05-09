@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/18.DAT",
+        "ModelID": 5,
+        "FileID": 23477,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/62.DAT",
+        "ModelID": 5,
+        "FileID": 23733,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/94.DAT",
+        "ModelID": 5,
+        "FileID": 23990,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/124.DAT",
+        "ModelID": 5,
+        "FileID": 24245,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17764447",
+        "name": "An Shanaa",
+        "zone": "Windurst_Woods",
+        "look": "0100010700100520053005400550006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "241",
+            "x": "51.341",
+            "y": "-2.201",
+            "z": "-130.470"
+        }
+    }
+}

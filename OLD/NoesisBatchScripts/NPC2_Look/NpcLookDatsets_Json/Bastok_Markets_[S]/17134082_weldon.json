@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/90.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/125.DAT",
+        "ModelID": 26,
+        "FileID": 7138,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/9.DAT",
+        "ModelID": 2,
+        "FileID": 7370,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/52.DAT",
+        "ModelID": 0,
+        "FileID": 7624,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/105.DAT",
+        "ModelID": 21,
+        "FileID": 7901,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/14.DAT",
+        "ModelID": 26,
+        "FileID": 8162,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17134082",
+        "name": "Weldon",
+        "zone": "Bastok_Markets_[S]",
+        "look": "010003011A100220003015401A50006000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "54",
+            "x": "-191.575",
+            "y": "-8.000",
+            "z": "36.688"
+        }
+    }
+}

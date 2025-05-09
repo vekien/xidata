@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/43.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/98.DAT",
+        "ModelID": 15,
+        "FileID": 13735,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/6.DAT",
+        "ModelID": 7,
+        "FileID": 13983,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/36.DAT",
+        "ModelID": 6,
+        "FileID": 14238,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/64.DAT",
+        "ModelID": 3,
+        "FileID": 14491,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974309",
+        "name": "Suldiran",
+        "zone": "Al_Zahbi",
+        "look": "0100070300100F20073006400350006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "97",
+            "x": "41.658",
+            "y": "-5.999",
+            "z": "-42.528"
+        }
+    }
+}

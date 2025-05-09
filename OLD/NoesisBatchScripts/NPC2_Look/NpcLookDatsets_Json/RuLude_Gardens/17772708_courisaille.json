@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/41.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/88.DAT",
+        "ModelID": 5,
+        "FileID": 13725,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/7.DAT",
+        "ModelID": 8,
+        "FileID": 13984,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/42.DAT",
+        "ModelID": 12,
+        "FileID": 14244,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/76.DAT",
+        "ModelID": 15,
+        "FileID": 14503,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17772708",
+        "name": "Courisaille",
+        "zone": "RuLude_Gardens",
+        "look": "010005030010052008300C400F50006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "95.642",
+            "y": "-24.000",
+            "z": "24.953"
+        }
+    }
+}

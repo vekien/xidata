@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/12.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/54.DAT",
+        "ModelID": 35,
+        "FileID": 16675,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/90.DAT",
+        "ModelID": 35,
+        "FileID": 16931,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/126\/97.DAT",
+        "ModelID": 100,
+        "FileID": 17252,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/126\/104.DAT",
+        "ModelID": 100,
+        "FileID": 17508,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/126\/115.DAT",
+        "ModelID": 104,
+        "FileID": 17768,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_clb2_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/125.DAT",
+        "ModelID": 107,
+        "FileID": 18027,
+        "Type": "Club"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883793",
+        "name": "Melleupaux",
+        "zone": "Tavnazian_Safehold",
+        "look": "01000304231023206430644068506B6000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "234",
+            "x": "-32.029",
+            "y": "-36.250",
+            "z": "-0.155"
+        }
+    }
+}

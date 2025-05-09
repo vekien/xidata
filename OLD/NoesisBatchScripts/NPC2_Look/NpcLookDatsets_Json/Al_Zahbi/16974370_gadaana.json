@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/65.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/4.DAT",
+        "ModelID": 21,
+        "FileID": 10565,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/49.DAT",
+        "ModelID": 21,
+        "FileID": 10821,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/81.DAT",
+        "ModelID": 21,
+        "FileID": 11077,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/113.DAT",
+        "ModelID": 21,
+        "FileID": 11333,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974370",
+        "name": "Gadaana",
+        "zone": "Al_Zahbi",
+        "look": "0100020200101520153015401550006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "255",
+            "x": "18.596",
+            "y": "0.000",
+            "z": "-29.891"
+        }
+    }
+}

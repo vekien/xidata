@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/69.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/82.DAT",
+        "ModelID": 2,
+        "FileID": 26394,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/49.DAT",
+        "ModelID": 22,
+        "FileID": 26926,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_axe5_",
+        "Race": "Galka",
+        "Path": "ROM\/58\/33.DAT",
+        "ModelID": 88,
+        "FileID": 27760,
+        "Type": "Axe"
+    },
+    "sub": {
+        "Identifier": "hf_lshi4",
+        "Race": "Galka",
+        "Path": "ROM\/60\/10.DAT",
+        "ModelID": 33,
+        "FileID": 48912,
+        "Type": "Shield"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17224334",
+        "name": "Sharp Tooth, I.M.",
+        "zone": "Pashhow_Marshlands",
+        "look": "0100050802100220163002400250586021700000",
+        "content": "",
+        "pos": {
+            "rotation": "199",
+            "x": "536.291",
+            "y": "24.517",
+            "z": "694.063"
+        }
+    }
+}

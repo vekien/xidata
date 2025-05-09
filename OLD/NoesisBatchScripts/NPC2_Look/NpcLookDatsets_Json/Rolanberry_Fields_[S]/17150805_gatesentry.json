@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/69.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/148\/38.DAT",
+        "ModelID": 138,
+        "FileID": 26530,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/29.DAT",
+        "ModelID": 2,
+        "FileID": 26906,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_b_ax4",
+        "Race": "Galka",
+        "Path": "ROM\/58\/42.DAT",
+        "ModelID": 97,
+        "FileID": 27769,
+        "Type": "GreatAxe"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17150805",
+        "name": "Gate Sentry",
+        "zone": "Rolanberry_Fields_[S]",
+        "look": "010005088A100220023002400250616000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "205",
+            "x": "-36.439",
+            "y": "0.285",
+            "z": "-855.856"
+        }
+    }
+}

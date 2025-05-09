@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/91.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/105.DAT",
+        "ModelID": 2,
+        "FileID": 7114,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/9.DAT",
+        "ModelID": 2,
+        "FileID": 7370,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/54.DAT",
+        "ModelID": 2,
+        "FileID": 7626,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/86.DAT",
+        "ModelID": 2,
+        "FileID": 7882,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/118.DAT",
+        "ModelID": 2,
+        "FileID": 8138,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swob_",
+        "Race": "Hume Male",
+        "Path": "ROM\/31\/1.DAT",
+        "ModelID": 284,
+        "FileID": 8676,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17122136",
+        "name": "Thorben",
+        "zone": "Batallia_Downs_[S]",
+        "look": "01000401021002200230024002501C6100700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "26",
+            "x": "175.346",
+            "y": "8.038",
+            "z": "-419.244"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/12.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/61.DAT",
+        "ModelID": 5,
+        "FileID": 16901,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/100.DAT",
+        "ModelID": 0,
+        "FileID": 17152,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/11.DAT",
+        "ModelID": 8,
+        "FileID": 17416,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/42.DAT",
+        "ModelID": 8,
+        "FileID": 17672,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17723447",
+        "name": "Tavourine",
+        "zone": "Northern_San_dOria",
+        "look": "0100030400100520003008400850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "63",
+            "x": "-185.721",
+            "y": "1.738",
+            "z": "208.225"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/66.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/118.DAT",
+        "ModelID": 7,
+        "FileID": 10551,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/35.DAT",
+        "ModelID": 7,
+        "FileID": 10807,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/69.DAT",
+        "ModelID": 9,
+        "FileID": 11065,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/99.DAT",
+        "ModelID": 7,
+        "FileID": 11319,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17788934",
+        "name": "Skeea",
+        "zone": "Rabao",
+        "look": "0100030200100720073009400750006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "192",
+            "x": "-33.359",
+            "y": "8.000",
+            "z": "100.004"
+        }
+    }
+}

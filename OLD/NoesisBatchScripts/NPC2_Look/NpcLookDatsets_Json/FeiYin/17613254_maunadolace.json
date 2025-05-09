@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/38.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/60.DAT",
+        "ModelID": 12,
+        "FileID": 13476,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/89.DAT",
+        "ModelID": 6,
+        "FileID": 13726,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/11.DAT",
+        "ModelID": 12,
+        "FileID": 13988,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/36.DAT",
+        "ModelID": 6,
+        "FileID": 14238,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/73.DAT",
+        "ModelID": 12,
+        "FileID": 14500,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": {
+        "Identifier": "hf_lshi1",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/40\/104.DAT",
+        "ModelID": 27,
+        "FileID": 43786,
+        "Type": "Shield"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17613254",
+        "name": "Maunadolace",
+        "zone": "FeiYin",
+        "look": "010002030C1006200C3006400C501A601B700000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

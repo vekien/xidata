@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/17.DAT",
+        "ModelID": 4,
+        "FileID": 23476,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/61.DAT",
+        "ModelID": 4,
+        "FileID": 23732,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/93.DAT",
+        "ModelID": 4,
+        "FileID": 23989,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/123.DAT",
+        "ModelID": 4,
+        "FileID": 24244,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17764532",
+        "name": "Gottah Maporushanoh",
+        "zone": "Windurst_Woods",
+        "look": "0100010700100420043004400450006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "159",
+            "x": "-19.477",
+            "y": "2.374",
+            "z": "-59.155"
+        }
+    }
+}

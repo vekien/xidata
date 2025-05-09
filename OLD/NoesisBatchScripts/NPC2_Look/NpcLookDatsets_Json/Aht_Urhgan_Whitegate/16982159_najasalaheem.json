@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/101.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/138\/72.DAT",
+        "ModelID": 119,
+        "FileID": 23335,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/157\/111.DAT",
+        "ModelID": 160,
+        "FileID": 23632,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/157\/112.DAT",
+        "ModelID": 160,
+        "FileID": 23888,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/158\/109.DAT",
+        "ModelID": 160,
+        "FileID": 24145,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/157\/114.DAT",
+        "ModelID": 160,
+        "FileID": 24400,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982159",
+        "name": "Naja Salaheem",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010007077710A020A030A040A050006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

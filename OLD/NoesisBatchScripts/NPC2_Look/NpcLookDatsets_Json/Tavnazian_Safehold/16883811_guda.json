@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/90.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/127.DAT",
+        "ModelID": 28,
+        "FileID": 7140,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/21.DAT",
+        "ModelID": 14,
+        "FileID": 7382,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/60.DAT",
+        "ModelID": 8,
+        "FileID": 7632,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/104.DAT",
+        "ModelID": 104,
+        "FileID": 7984,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/19.DAT",
+        "ModelID": 31,
+        "FileID": 8167,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_b_ax4",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/71.DAT",
+        "ModelID": 98,
+        "FileID": 8490,
+        "Type": "GreatAxe"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883811",
+        "name": "Guda",
+        "zone": "Tavnazian_Safehold",
+        "look": "010003011C100E20083068401F50626000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "139",
+            "x": "95.039",
+            "y": "-41.000",
+            "z": "39.797"
+        }
+    }
+}

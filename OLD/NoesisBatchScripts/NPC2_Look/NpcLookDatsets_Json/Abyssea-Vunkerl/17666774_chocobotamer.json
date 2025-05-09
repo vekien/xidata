@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/11.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/42.DAT",
+        "ModelID": 21,
+        "FileID": 16661,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/64.DAT",
+        "ModelID": 8,
+        "FileID": 16904,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/110.DAT",
+        "ModelID": 10,
+        "FileID": 17162,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/24.DAT",
+        "ModelID": 21,
+        "FileID": 17429,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/58.DAT",
+        "ModelID": 24,
+        "FileID": 17688,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17666774",
+        "name": "Chocobo Tamer",
+        "zone": "Abyssea-Vunkerl",
+        "look": "01000204151008200A3015401850006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "0",
+            "x": "148.000",
+            "y": "-38.000",
+            "z": "-163.000"
+        }
+    }
+}

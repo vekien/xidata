@@ -1,0 +1,20 @@
+NOESIS_FF11_DAT_SET
+
+setPathAbs "[[FFXI_PATH]]"
+
+dat "__skeleton" "ROM/46/93.dat"
+
+dat "__animation" "ROM/46/93.dat"
+dat "__animation" "ROM/46/94.dat"
+dat "__animation" "ROM/46/97.dat"
+
+dat "face" "ROM/46/99.dat"
+dat "head" "ROM/46/114.dat"
+dat "body" "ROM/47/17.dat"
+dat "hands" "ROM/47/61.dat"
+dat "legs" "ROM/47/92.dat"
+dat "feet" "ROM/47/123.dat"
+
+dat "main" "ROM/48/26.dat"
+dat "sub" "ROM/50/31.dat"
+dat "ranged" "ROM/50/88.dat"

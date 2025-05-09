@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/70.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/119.DAT",
+        "ModelID": 8,
+        "FileID": 10552,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/28.DAT",
+        "ModelID": 0,
+        "FileID": 10800,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/78.DAT",
+        "ModelID": 18,
+        "FileID": 11074,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/110.DAT",
+        "ModelID": 18,
+        "FileID": 11330,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17743904",
+        "name": "Rafaela",
+        "zone": "Port_Bastok",
+        "look": "0100070200100820003012401250006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "64",
+            "x": "-3.405",
+            "y": "-2.101",
+            "z": "1.528"
+        }
+    }
+}

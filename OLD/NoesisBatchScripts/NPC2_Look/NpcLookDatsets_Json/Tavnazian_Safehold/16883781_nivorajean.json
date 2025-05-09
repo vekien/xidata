@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/43.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/132\/71.DAT",
+        "ModelID": 115,
+        "FileID": 13579,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/144\/28.DAT",
+        "ModelID": 133,
+        "FileID": 13853,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/29.DAT",
+        "ModelID": 31,
+        "FileID": 14007,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/132\/121.DAT",
+        "ModelID": 115,
+        "FileID": 14347,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/71.DAT",
+        "ModelID": 10,
+        "FileID": 14498,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883781",
+        "name": "Nivorajean",
+        "zone": "Tavnazian_Safehold",
+        "look": "01000703731085201F3073400A50006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "77",
+            "x": "15.890",
+            "y": "-21.999",
+            "z": "13.322"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/95.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/92\/127.DAT",
+        "ModelID": 64,
+        "FileID": 7176,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/158\/11.DAT",
+        "ModelID": 159,
+        "FileID": 7527,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/158\/12.DAT",
+        "ModelID": 159,
+        "FileID": 7783,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/158\/13.DAT",
+        "ModelID": 159,
+        "FileID": 8039,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/158\/14.DAT",
+        "ModelID": 159,
+        "FileID": 8295,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982171",
+        "name": "Rytaal",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100080140109F209F309F409F50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "191",
+            "x": "112.002",
+            "y": "-0.338",
+            "z": "-45.038"
+        }
+    }
+}

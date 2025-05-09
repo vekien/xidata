@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/17.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/145\/118.DAT",
+        "ModelID": 135,
+        "FileID": 16775,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/145\/120.DAT",
+        "ModelID": 135,
+        "FileID": 17031,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/157\/95.DAT",
+        "ModelID": 160,
+        "FileID": 17312,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/145\/124.DAT",
+        "ModelID": 135,
+        "FileID": 17543,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/157\/97.DAT",
+        "ModelID": 160,
+        "FileID": 17824,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17784962",
+        "name": "Sagheera",
+        "zone": "Port_Jeuno",
+        "look": "0100080487108720A0308740A050006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "168",
+            "x": "-2.270",
+            "y": "0.000",
+            "z": "-10.561"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/66.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/33.DAT",
+        "ModelID": 5,
+        "FileID": 10805,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/65.DAT",
+        "ModelID": 5,
+        "FileID": 11061,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/99.DAT",
+        "ModelID": 7,
+        "FileID": 11319,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo8_",
+        "Race": "Hume Female",
+        "Path": "ROM\/35\/97.DAT",
+        "ModelID": 276,
+        "FileID": 11844,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Female",
+        "Path": "ROM\/110\/102.DAT",
+        "ModelID": 182,
+        "FileID": 42661,
+        "Type": "Sword"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17236295",
+        "name": "Kaya, I.M.",
+        "zone": "Xarcabard",
+        "look": "01000302001005200530054007501461B6700000",
+        "content": "",
+        "pos": {
+            "rotation": "54",
+            "x": "207.548",
+            "y": "-23.795",
+            "z": "-203.694"
+        }
+    }
+}

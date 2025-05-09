@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/61.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/150\/66.DAT",
+        "ModelID": 141,
+        "FileID": 19957,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/150\/67.DAT",
+        "ModelID": 141,
+        "FileID": 20213,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/150\/69.DAT",
+        "ModelID": 141,
+        "FileID": 20469,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/150\/71.DAT",
+        "ModelID": 141,
+        "FileID": 20725,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/150\/73.DAT",
+        "ModelID": 141,
+        "FileID": 20981,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_kata1",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/123.DAT",
+        "ModelID": 144,
+        "FileID": 21240,
+        "Type": "GreatKatana"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16962156",
+        "name": "Resistance Fighter",
+        "zone": "Abyssea-Tahrongi",
+        "look": "010006068D108D208D308D408D50906000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "0",
+            "x": "132.047",
+            "y": "23.054",
+            "z": "-670.667"
+        }
+    }
+}

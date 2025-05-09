@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/14.DAT",
+        "ModelID": 1,
+        "FileID": 23473,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/58.DAT",
+        "ModelID": 1,
+        "FileID": 23729,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/90.DAT",
+        "ModelID": 1,
+        "FileID": 23986,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/120.DAT",
+        "ModelID": 1,
+        "FileID": 24241,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17719436",
+        "name": "Hae Jakhya",
+        "zone": "Southern_San_dOria",
+        "look": "0100010700100120013001400150006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "242",
+            "x": "-73.226",
+            "y": "-7.398",
+            "z": "-24.159"
+        }
+    }
+}

@@ -1,0 +1,1252 @@
+[
+    {
+        "Name": "XI_Omega",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Terminal_helm\/Terminal_helm.Terminal_helm'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Terminal_plate\/Terminal_plate.Terminal_plate'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Composers_mitts\/Composers_mitts.Composers_mitts'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Founders_hose\/Founders_hose.Founders_hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Founders_greaves\/Founders_greaves.Founders_greaves'"
+    },
+    {
+        "Name": "XI_Sphinxaur",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Agent_hood\/Agent_hood.Agent_hood'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Agent_coat\/Agent_coat.Agent_coat'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Agent_cuffs\/Agent_cuffs.Agent_cuffs'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Agent_pants\/Agent_pants.Agent_pants'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Agent_boots\/Agent_boots.Agent_boots'"
+    },
+    {
+        "Name": "XI_Trauma",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Herculean_helm\/Herculean_helm.Herculean_helm'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Herculean_vest\/Herculean_vest.Herculean_vest'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Herculean_gloves\/Herculean_gloves.Herculean_gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Herculean_trousers\/Herculean_trousers.Herculean_trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Herculean_boots\/Herculean_boots.Herculean_boots'"
+    },
+    {
+        "Name": "XI_Player_Monk",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Tantra_Cyclas_MNK_AF3\/Tantra_Cyclas_MNK_AF3.Tantra_Cyclas_MNK_AF3'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Tantra_Gloves_MNK_AF3\/Tantra_Gloves_MNK_AF3.Tantra_Gloves_MNK_AF3'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Naga_hakama\/Naga_hakama.Naga_hakama'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Herculean_boots\/Herculean_boots.Herculean_boots'"
+    },
+    {
+        "Name": "XI_CapturedPaladin",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/Fomor\/Fomor.Fomor'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Odyssean_helm\/Odyssean_helm.Odyssean_helm'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Odyssean_chestplate\/Odyssean_chestplate.Odyssean_chestplate'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Odyssean_gauntlets\/Odyssean_gauntlets.Odyssean_gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Odyssean_cuisses\/Odyssean_cuisses.Odyssean_cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Odyssean_greaves\/Odyssean_greaves.Odyssean_greaves'"
+    },
+    {
+        "Name": "CEXI_Carver",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/Fomor\/Fomor.Fomor'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Valhalla_Helm\/Valhalla_Helm.Valhalla_Helm'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Valor_Surcoat_PLD_AF2\/Valor_Surcoat_PLD_AF2.Valor_Surcoat_PLD_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Homam_Manopolas\/Homam_Manopolas.Homam_Manopolas'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Crimson_Cuisses\/Crimson_Cuisses.Crimson_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Askar_Gambieras\/Askar_Gambieras.Askar_Gambieras'"
+    },
+    {
+        "Name": "CEXI_Hax(check)",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Sorcerers_Petasos_BLM_AF2\/Sorcerers_Petasos_BLM_AF2.Sorcerers_Petasos_BLM_AF2'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Cobra_Unit_Coat\/Cobra_Unit_Coat.Cobra_Unit_Coat'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Morrigans_Cuffs\/Morrigans_Cuffs.Morrigans_Cuffs'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Savants_Pants_SCH_AF3\/Savants_Pants_SCH_AF3.Savants_Pants_SCH_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Savants_Loafers_SCH_AF3\/Savants_Loafers_SCH_AF3.Savants_Loafers_SCH_AF3'"
+    },
+    {
+        "Name": "CEXI_Xaver",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F4A\/F4A.F4A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Duelists_Chapeau_RDM_AF2\/Duelists_Chapeau_RDM_AF2.Duelists_Chapeau_RDM_AF2'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Dalmatica\/Dalmatica.Dalmatica'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Duelists_Gloves_RDM_AF2\/Duelists_Gloves_RDM_AF2.Duelists_Gloves_RDM_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Crimson_Cuisses\/Crimson_Cuisses.Crimson_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Crimson_Greaves\/Crimson_Greaves.Crimson_Greaves'"
+    },
+    {
+        "Name": "CEXI_Rumham",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F6B\/Male_F6B.Male_F6B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Commodore_Frac_COR_AF2\/Commodore_Frac_COR_AF2.Commodore_Frac_COR_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Commodore_Gants_COR_AF2\/Commodore_Gants_COR_AF2.Commodore_Gants_COR_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Commodore_Culotte_COR_AF2\/Commodore_Culotte_COR_AF2.Commodore_Culotte_COR_AF2'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Waders\/Waders.Waders'"
+    },
+    {
+        "Name": "CEXI_Aeltorian",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F6B\/F6B.F6B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Protective_Specs\/Protective_Specs.Protective_Specs'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Shikkoku_Togi\/Shikkoku_Togi.Shikkoku_Togi'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Shikkoku_Kote\/Shikkoku_Kote.Shikkoku_Kote'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Shikkoku_Haidate\/Shikkoku_Haidate.Shikkoku_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Shikkoku_Suneate\/Shikkoku_Suneate.Shikkoku_Suneate'"
+    },
+    {
+        "Name": "CEXI_Shirahime",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Lilac_Corsage\/Lilac_Corsage.Lilac_Corsage'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Askar_Korazin\/Askar_Korazin.Askar_Korazin'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Usukane_Gote\/Usukane_Gote.Usukane_Gote'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Byakkos_Haidate\/Byakkos_Haidate.Byakkos_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Usukane_SuneAte\/Usukane_SuneAte.Usukane_SuneAte'"
+    },
+    {
+        "Name": "CEXI_Loxley",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Summoners_Horn_SMN_AF2\/Summoners_Horn_SMN_AF2.Summoners_Horn_SMN_AF2'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Chironic_doublet\/Chironic_doublet.Chironic_doublet'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Summoners_Bracers_SMN_AF2\/Summoners_Bracers_SMN_AF2.Summoners_Bracers_SMN_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Chironic_hose\/Chironic_hose.Chironic_hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Summoners_Pigaches_SMN_AF2\/Summoners_Pigaches_SMN_AF2.Summoners_Pigaches_SMN_AF2'"
+    },
+    {
+        "Name": "CEXI_Spicy",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Furia_Beret\/Furia_Beret.Furia_Beret'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Furia_Talar\/Furia_Talar.Furia_Talar'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Furia_Gages\/Furia_Gages.Furia_Gages'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Furia_Pants\/Furia_Pants.Furia_Pants'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Punchinellos\/Punchinellos.Punchinellos'"
+    },
+    {
+        "Name": "NPC_GoblinFan",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F7A\/F7A.F7A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Gobbie_Masque\/Gobbie_Masque.Gobbie_Masque'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Goblin_suit\/Goblin_suit.Goblin_suit'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Invisible\/Invisible.Invisible'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "NPC_ChocoboFan",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Chocobo_Masque\/Chocobo_Masque.Chocobo_Masque'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Chocobo_Suit\/Chocobo_Suit.Chocobo_Suit'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Invisible\/Invisible.Invisible'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "NPC_ChocoboFan2",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Chocobo_Masque\/Chocobo_Masque.Chocobo_Masque'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Chocobo_Suit\/Chocobo_Suit.Chocobo_Suit'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Invisible\/Invisible.Invisible'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "NPC_MandyFan",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Mandragora_masque\/Mandragora_masque.Mandragora_masque'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Mandragora_body\/Mandragora_body.Mandragora_body'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Invisible\/Invisible.Invisible'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "NPC_LadyInWhite",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F6A\/F6A.F6A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Shaded_Specs\/Shaded_Specs.Shaded_Specs'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Delegates_Garb\/Delegates_Garb.Delegates_Garb'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Delegates_Cuffs\/Delegates_Cuffs.Delegates_Cuffs'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Shneddick_Tights\/Shneddick_Tights.Shneddick_Tights'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Despair_greaves\/Despair_greaves.Despair_greaves'"
+    },
+    {
+        "Name": "NPC_Chironic",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Chironic_doublet\/Chironic_doublet.Chironic_doublet'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Chironic_gloves\/Chironic_gloves.Chironic_gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Chironic_hose\/Chironic_hose.Chironic_hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Chironic_slippers\/Chironic_slippers.Chironic_slippers'"
+    },
+    {
+        "Name": "NPC_BLM",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F4B\/Male_F4B.Male_F4B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Cuauhtli_Harness\/Cuauhtli_Harness.Cuauhtli_Harness'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Wizards_Gloves_BLM_AF1\/Wizards_Gloves_BLM_AF1.Wizards_Gloves_BLM_AF1'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Goetia_Chausses_BLM_AF3\/Goetia_Chausses_BLM_AF3.Goetia_Chausses_BLM_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Sorcerers_Sabots_BLM_AF2\/Sorcerers_Sabots_BLM_AF2.Sorcerers_Sabots_BLM_AF2'"
+    },
+    {
+        "Name": "NPC_GEO",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Geomancy_galero_GEO_AF1\/Geomancy_galero_GEO_AF1.Geomancy_galero_GEO_AF1'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Geomancy_tunic_GEO_AF1\/Geomancy_tunic_GEO_AF1.Geomancy_tunic_GEO_AF1'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Geomancy_mitaines_GEO_AF1\/Geomancy_mitaines_GEO_AF1.Geomancy_mitaines_GEO_AF1'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Geomancy_pants_GEO_AF1\/Geomancy_pants_GEO_AF1.Geomancy_pants_GEO_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Geomancy_sandals_GEO_AF1\/Geomancy_sandals_GEO_AF1.Geomancy_sandals_GEO_AF1'"
+    },
+    {
+        "Name": "NPC_ChocoboFan3",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F1A\/Male_F1A.Male_F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Chocobo_Beret\/Chocobo_Beret.Chocobo_Beret'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Chocobo_Suit\/Chocobo_Suit.Chocobo_Suit'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Invisible\/Invisible.Invisible'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "NPC_ChocoboFan4",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Chocobo_Beret\/Chocobo_Beret.Chocobo_Beret'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Chocobo_Suit\/Chocobo_Suit.Chocobo_Suit'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Invisible\/Invisible.Invisible'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "NPC_Altepa_1",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Shinobi_Gi\/Shinobi_Gi.Shinobi_Gi'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Shinobi_Tekko\/Shinobi_Tekko.Shinobi_Tekko'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Elvaan_M_Chausses\/Elvaan_M_Chausses.Elvaan_M_Chausses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Raptor_Ledelsens\/Raptor_Ledelsens.Raptor_Ledelsens'"
+    },
+    {
+        "Name": "NPC_Altepa_2",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F8A\/F8A.F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Shinobi_Gi\/Shinobi_Gi.Shinobi_Gi'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Shinobi_Tekko\/Shinobi_Tekko.Shinobi_Tekko'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Raptor_Ledelsens\/Raptor_Ledelsens.Raptor_Ledelsens'"
+    },
+    {
+        "Name": "NPC_Altepa_3",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F8A\/F8A.F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Shinobi_Gi\/Shinobi_Gi.Shinobi_Gi'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Shinobi_Tekko\/Shinobi_Tekko.Shinobi_Tekko'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Raptor_Ledelsens\/Raptor_Ledelsens.Raptor_Ledelsens'"
+    },
+    {
+        "Name": "NPC_Altepa_4",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F8A\/F8A.F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Orange_Racing_Silks\/Orange_Racing_Silks.Orange_Racing_Silks'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Sylvan_Brague_RNG_AF3\/Sylvan_Brague_RNG_AF3.Sylvan_Brague_RNG_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Bards_Slippers_BRD_AF2\/Bards_Slippers_BRD_AF2.Bards_Slippers_BRD_AF2'"
+    },
+    {
+        "Name": "NPC_Altepa_5",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F1A\/Female_F1A.Female_F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Brigandine\/Brigandine.Brigandine'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Sylvan_Brague_RNG_AF3\/Sylvan_Brague_RNG_AF3.Sylvan_Brague_RNG_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Bards_Slippers_BRD_AF2\/Bards_Slippers_BRD_AF2.Bards_Slippers_BRD_AF2'"
+    },
+    {
+        "Name": "NPC_Altepa_6",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F2A\/Male_F2A.Male_F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Earth_Doublet\/Earth_Doublet.Earth_Doublet'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Sylvan_Brague_RNG_AF3\/Sylvan_Brague_RNG_AF3.Sylvan_Brague_RNG_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Bards_Slippers_BRD_AF2\/Bards_Slippers_BRD_AF2.Bards_Slippers_BRD_AF2'"
+    },
+    {
+        "Name": "NPC_Altepa_7",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F5A\/F5A.F5A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Valor_Surcoat_PLD_AF2\/Valor_Surcoat_PLD_AF2.Valor_Surcoat_PLD_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Valor_Gauntlets_PLD_AF2\/Valor_Gauntlets_PLD_AF2.Valor_Gauntlets_PLD_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Valor_Breeches_PLD_AF2\/Valor_Breeches_PLD_AF2.Valor_Breeches_PLD_AF2'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Valor_Leggings_PLD_AF2\/Valor_Leggings_PLD_AF2.Valor_Leggings_PLD_AF2'"
+    },
+    {
+        "Name": "NPC_Altepa_8",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F6B\/F6B.F6B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Rustic_Maillot\/Rustic_Maillot.Rustic_Maillot'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Alcedo_cuisses\/Alcedo_cuisses.Alcedo_cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Bards_Slippers_BRD_AF2\/Bards_Slippers_BRD_AF2.Bards_Slippers_BRD_AF2'"
+    },
+    {
+        "Name": "Race_Hume_Male",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Default\/Default.Default'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "Race_Hume_Female",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Default\/Default.Default'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "Race_Elvaan_Male",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Default\/Default.Default'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "Race_Elvaan_Female",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Default\/Default.Default'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "Race_Tarutaru",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F1A\/Female_F1A.Female_F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Default\/Default.Default'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "Race_Mithra",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Default\/Default.Default'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "Race_Galka",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Default\/Default.Default'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Default\/Default.Default'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "NPC_Jeuno_1",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F3B\/F3B.F3B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Chainmail\/Chainmail.Chainmail'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Leather_Gloves\/Leather_Gloves.Leather_Gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Leather_Trousers\/Leather_Trousers.Leather_Trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Royal_Squires_Sollerets\/Royal_Squires_Sollerets.Royal_Squires_Sollerets'"
+    },
+    {
+        "Name": "NPC_Jeuno_2",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Doublet\/Doublet.Doublet'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Slacks\/Slacks.Slacks'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Socks\/Socks.Socks'"
+    },
+    {
+        "Name": "NPC_Jeuno_3",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F7A\/F7A.F7A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Overalls\/Overalls.Overalls'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Invisible\/Invisible.Invisible'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "NPC_Jeuno_4",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Heart_apron\/Heart_apron.Heart_apron'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Starlet_gloves\/Starlet_gloves.Starlet_gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Starlet_skirt\/Starlet_skirt.Starlet_skirt'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Starlet_boots\/Starlet_boots.Starlet_boots'"
+    },
+    {
+        "Name": "NPC_Jeuno_5",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F7A\/F7A.F7A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Kirins_Osode\/Kirins_Osode.Kirins_Osode'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Seiryus_Kote\/Seiryus_Kote.Seiryus_Kote'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Haidate\/Haidate.Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Gothic_Sabatons\/Gothic_Sabatons.Gothic_Sabatons'"
+    },
+    {
+        "Name": "NPC_Jeuno_6",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Cloak\/Cloak.Cloak'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Lizard_Trousers\/Lizard_Trousers.Lizard_Trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Hunters_Socks_RNG_AF1\/Hunters_Socks_RNG_AF1.Hunters_Socks_RNG_AF1'"
+    },
+    {
+        "Name": "NPC_Jeuno_7",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F7B\/F7B.F7B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Bronze_Harness\/Bronze_Harness.Bronze_Harness'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Bronze_Mittens\/Bronze_Mittens.Bronze_Mittens'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Bronze_Subligar\/Bronze_Subligar.Bronze_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Bronze_Leggings\/Bronze_Leggings.Bronze_Leggings'"
+    },
+    {
+        "Name": "NPC_Jeuno_Airship_1",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Wool_Robe\/Wool_Robe.Wool_Robe'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Greaves\/Greaves.Greaves'"
+    },
+    {
+        "Name": "NPC_Jeuno_Airship_2",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F3A\/F3A.F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Wool_Robe\/Wool_Robe.Wool_Robe'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Greaves\/Greaves.Greaves'"
+    },
+    {
+        "Name": "NPC_Jeuno_Airship_3",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Wool_Robe\/Wool_Robe.Wool_Robe'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Greaves\/Greaves.Greaves'"
+    },
+    {
+        "Name": "NPC_Jeuno_Airship_4",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F3A\/F3A.F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Wool_Robe\/Wool_Robe.Wool_Robe'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Greaves\/Greaves.Greaves'"
+    },
+    {
+        "Name": "NPC_Jeuno_8",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Aoidos_Hongreline_BRD_AF3\/Aoidos_Hongreline_BRD_AF3.Aoidos_Hongreline_BRD_AF3'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Raiders_Culottes_THF_AF3\/Raiders_Culottes_THF_AF3.Raiders_Culottes_THF_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "NPC_Jeuno_Music_1",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F7B\/F7B.F7B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/River_Top\/River_Top.River_Top'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Alliance_pants\/Alliance_pants.Alliance_pants'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Athoss_Boots\/Athoss_Boots.Athoss_Boots'"
+    },
+    {
+        "Name": "NPC_Jeuno_Music_2",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/River_Top\/River_Top.River_Top'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Alliance_pants\/Alliance_pants.Alliance_pants'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Athoss_Boots\/Athoss_Boots.Athoss_Boots'"
+    },
+    {
+        "Name": "NPC_Jeuno_9",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Scorpion_Harness\/Scorpion_Harness.Scorpion_Harness'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Shinobi_Tekko\/Shinobi_Tekko.Shinobi_Tekko'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Byakkos_Haidate\/Byakkos_Haidate.Byakkos_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Shinobi_Kyahan\/Shinobi_Kyahan.Shinobi_Kyahan'"
+    },
+    {
+        "Name": "NPC_Jeuno_10",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F2A\/F2A.F2A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Haubergeon\/Haubergeon.Haubergeon'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Centurions_Finger_Gauntlets\/Centurions_Finger_Gauntlets.Centurions_Finger_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Shura_Haidate\/Shura_Haidate.Shura_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Centurions_Greaves\/Centurions_Greaves.Centurions_Greaves'"
+    },
+    {
+        "Name": "NPC_Jeuno_11",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F6B\/F6B.F6B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/HaraAte\/HaraAte.HaraAte'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Haidate\/Haidate.Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Shinobi_Kyahan\/Shinobi_Kyahan.Shinobi_Kyahan'"
+    },
+    {
+        "Name": "NPC_Jeuno_12",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F5B\/Female_F5B.Female_F5B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Nobles_Tunic\/Nobles_Tunic.Nobles_Tunic'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Healers_Pantaloons_WHM_AF1\/Healers_Pantaloons_WHM_AF1.Healers_Pantaloons_WHM_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "NPC_Jeuno_Music_3",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Woodsy_Top\/Woodsy_Top.Woodsy_Top'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Alliance_pants\/Alliance_pants.Alliance_pants'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Athoss_Boots\/Athoss_Boots.Athoss_Boots'"
+    },
+    {
+        "Name": "NPC_Jeuno_Music_4",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Woodsy_Top\/Woodsy_Top.Woodsy_Top'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Alliance_pants\/Alliance_pants.Alliance_pants'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Athoss_Boots\/Athoss_Boots.Athoss_Boots'"
+    },
+    {
+        "Name": "NPC_Jeuno_Guard_1",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F5A\/F5A.F5A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Nobles_Crown\/Nobles_Crown.Nobles_Crown'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Iron_Musketeers_Cuirass\/Iron_Musketeers_Cuirass.Iron_Musketeers_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Iron_Musketeers_Gauntlets\/Iron_Musketeers_Gauntlets.Iron_Musketeers_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Iron_Musketeers_Cuisses\/Iron_Musketeers_Cuisses.Iron_Musketeers_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Iron_Musketeers_Sabatons\/Iron_Musketeers_Sabatons.Iron_Musketeers_Sabatons'"
+    },
+    {
+        "Name": "NPC_Jeuno_Guard_2",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F3B\/F3B.F3B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Nobles_Crown\/Nobles_Crown.Nobles_Crown'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Iron_Musketeers_Cuirass\/Iron_Musketeers_Cuirass.Iron_Musketeers_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Iron_Musketeers_Gauntlets\/Iron_Musketeers_Gauntlets.Iron_Musketeers_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Iron_Musketeers_Cuisses\/Iron_Musketeers_Cuisses.Iron_Musketeers_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Iron_Musketeers_Sabatons\/Iron_Musketeers_Sabatons.Iron_Musketeers_Sabatons'"
+    },
+    {
+        "Name": "NPC_Jeuno_Guard_3",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F5B\/F5B.F5B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Nobles_Crown\/Nobles_Crown.Nobles_Crown'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Iron_Musketeers_Cuirass\/Iron_Musketeers_Cuirass.Iron_Musketeers_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Iron_Musketeers_Gauntlets\/Iron_Musketeers_Gauntlets.Iron_Musketeers_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Iron_Musketeers_Cuisses\/Iron_Musketeers_Cuisses.Iron_Musketeers_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Iron_Musketeers_Sabatons\/Iron_Musketeers_Sabatons.Iron_Musketeers_Sabatons'"
+    },
+    {
+        "Name": "NPC_Jeuno_Guard_4",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F3A\/Male_F3A.Male_F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Nobles_Crown\/Nobles_Crown.Nobles_Crown'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Iron_Musketeers_Cuirass\/Iron_Musketeers_Cuirass.Iron_Musketeers_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Iron_Musketeers_Gauntlets\/Iron_Musketeers_Gauntlets.Iron_Musketeers_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Iron_Musketeers_Cuisses\/Iron_Musketeers_Cuisses.Iron_Musketeers_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Iron_Musketeers_Sabatons\/Iron_Musketeers_Sabatons.Iron_Musketeers_Sabatons'"
+    },
+    {
+        "Name": "NPC_Jeuno_Guard_5",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Nobles_Crown\/Nobles_Crown.Nobles_Crown'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Iron_Musketeers_Cuirass\/Iron_Musketeers_Cuirass.Iron_Musketeers_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Iron_Musketeers_Gauntlets\/Iron_Musketeers_Gauntlets.Iron_Musketeers_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Iron_Musketeers_Cuisses\/Iron_Musketeers_Cuisses.Iron_Musketeers_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Iron_Musketeers_Sabatons\/Iron_Musketeers_Sabatons.Iron_Musketeers_Sabatons'"
+    },
+    {
+        "Name": "NPC_Jeuno_Guard_6",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F4A\/F4A.F4A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Nobles_Crown\/Nobles_Crown.Nobles_Crown'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Iron_Musketeers_Cuirass\/Iron_Musketeers_Cuirass.Iron_Musketeers_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Iron_Musketeers_Gauntlets\/Iron_Musketeers_Gauntlets.Iron_Musketeers_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Iron_Musketeers_Cuisses\/Iron_Musketeers_Cuisses.Iron_Musketeers_Cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Iron_Musketeers_Sabatons\/Iron_Musketeers_Sabatons.Iron_Musketeers_Sabatons'"
+    },
+    {
+        "Name": "NPC_BarLady",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Dinner_Jacket\/Dinner_Jacket.Dinner_Jacket'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Invisible\/Invisible.Invisible'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Dinner_Hose\/Dinner_Hose.Dinner_Hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "NPC_ChocoboStable_1",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F3B\/F3B.F3B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Elvaan_Bodice\/Elvaan_Bodice.Elvaan_Bodice'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Royal_Squires_Breeches\/Royal_Squires_Breeches.Royal_Squires_Breeches'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Battle_Boots\/Battle_Boots.Battle_Boots'"
+    },
+    {
+        "Name": "NPC_ChocoboStable_2",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F3B\/F3B.F3B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Custom_Vest\/Custom_Vest.Custom_Vest'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Royal_Squires_Breeches\/Royal_Squires_Breeches.Royal_Squires_Breeches'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Socks\/Socks.Socks'"
+    },
+    {
+        "Name": "NPC_ChocoboStable_3",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F8A\/F8A.F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Apururu_Unity_shirt\/Apururu_Unity_shirt.Apururu_Unity_shirt'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Hume_F_Gloves\/Hume_F_Gloves.Hume_F_Gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Battle_Hose\/Battle_Hose.Battle_Hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "NPC_ChocoboStable_4",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F1A\/Female_F1A.Female_F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Doublet\/Doublet.Doublet'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Battle_Hose\/Battle_Hose.Battle_Hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "NPC_ChocoboStable_5",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Chocobo_Jack_Coat\/Chocobo_Jack_Coat.Chocobo_Jack_Coat'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Mithran_Gauntlets\/Mithran_Gauntlets.Mithran_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Hose\/Hose.Hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Chocobo_Boots\/Chocobo_Boots.Chocobo_Boots'"
+    },
+    {
+        "Name": "NPC_ChocoboStable_6",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F7B\/F7B.F7B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Vagabonds_Tunica\/Vagabonds_Tunica.Vagabonds_Tunica'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Hose\/Hose.Hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Lizard_Ledelsens\/Lizard_Ledelsens.Lizard_Ledelsens'"
+    },
+    {
+        "Name": "NPC_Misc2_1",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Leather_Bandana\/Leather_Bandana.Leather_Bandana'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Breastplate\/Breastplate.Breastplate'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Mitts\/Mitts.Mitts'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Leather_Trousers\/Leather_Trousers.Leather_Trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Royal_Squires_Sollerets\/Royal_Squires_Sollerets.Royal_Squires_Sollerets'"
+    },
+    {
+        "Name": "NPC_Misc2_2",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F3B\/F3B.F3B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Merlinic_jubbah\/Merlinic_jubbah.Merlinic_jubbah'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Merlinic_shalwar\/Merlinic_shalwar.Merlinic_shalwar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "NPC_Misc2_3",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F5B\/F5B.F5B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Vanya_robe\/Vanya_robe.Vanya_robe'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Chironic_hose\/Chironic_hose.Chironic_hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "NPC_Misc2_4",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Naga_samue\/Naga_samue.Naga_samue'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Shinobi_Tekko\/Shinobi_Tekko.Shinobi_Tekko'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Shikkoku_Haidate\/Shikkoku_Haidate.Shikkoku_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Shikkoku_Suneate\/Shikkoku_Suneate.Shikkoku_Suneate'"
+    },
+    {
+        "Name": "NPC_Misc2_5",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F8A\/F8A.F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Ebur_Vest\/Ebur_Vest.Ebur_Vest'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Ebur_Dastanas\/Ebur_Dastanas.Ebur_Dastanas'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Ebur_Brayettes\/Ebur_Brayettes.Ebur_Brayettes'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Ebur_Sollerets\/Ebur_Sollerets.Ebur_Sollerets'"
+    },
+    {
+        "Name": "NPC_Misc2_6",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F4B\/F4B.F4B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Shadow_Breastplate\/Shadow_Breastplate.Shadow_Breastplate'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Shadow_Gauntlets\/Shadow_Gauntlets.Shadow_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Shadow_Cuishes\/Shadow_Cuishes.Shadow_Cuishes'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Shadow_Sabatons\/Shadow_Sabatons.Shadow_Sabatons'"
+    },
+    {
+        "Name": "NPC_Misc2_7",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F6A\/F6A.F6A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Denali_Jacket\/Denali_Jacket.Denali_Jacket'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Shadow_Gauntlets\/Shadow_Gauntlets.Shadow_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Denali_Kecks\/Denali_Kecks.Denali_Kecks'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Bards_Slippers_BRD_AF2\/Bards_Slippers_BRD_AF2.Bards_Slippers_BRD_AF2'"
+    },
+    {
+        "Name": "NPC_Misc2_8",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Usukane_Haramaki\/Usukane_Haramaki.Usukane_Haramaki'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Usukane_Gote\/Usukane_Gote.Usukane_Gote'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Usukane_Hizayoroi\/Usukane_Hizayoroi.Usukane_Hizayoroi'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Usukane_SuneAte\/Usukane_SuneAte.Usukane_SuneAte'"
+    },
+    {
+        "Name": "NPC_Misc2_9",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Yigit_Gomlek\/Yigit_Gomlek.Yigit_Gomlek'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Yigit_Seraweels\/Yigit_Seraweels.Yigit_Seraweels'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Bards_Slippers_BRD_AF2\/Bards_Slippers_BRD_AF2.Bards_Slippers_BRD_AF2'"
+    },
+    {
+        "Name": "NPC_Misc2_10",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F7A\/F7A.F7A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Delegates_Garb\/Delegates_Garb.Delegates_Garb'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Ziamet_Salvars\/Ziamet_Salvars.Ziamet_Salvars'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Ziamet_Nails\/Ziamet_Nails.Ziamet_Nails'"
+    },
+    {
+        "Name": "NPC_Misc2_11",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F1A\/Female_F1A.Female_F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Chocobo_Shirt_f\/Chocobo_Shirt_f.Chocobo_Shirt_f'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Ziamet_Salvars\/Ziamet_Salvars.Ziamet_Salvars'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Ziamet_Nails\/Ziamet_Nails.Ziamet_Nails'"
+    },
+    {
+        "Name": "NPC_Misc2_12",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F8B\/Female_F8B.Female_F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Savants_Gown_f_SCH_AF3\/Savants_Gown_f_SCH_AF3.Savants_Gown_f_SCH_AF3'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Azimuth_Tights_GEO_AF3\/Azimuth_Tights_GEO_AF3.Azimuth_Tights_GEO_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Azimuth_Gaiters_GEO_AF3\/Azimuth_Gaiters_GEO_AF3.Azimuth_Gaiters_GEO_AF3'"
+    },
+    {
+        "Name": "NPC_Misc2_13",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F8B\/Male_F8B.Male_F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Bale_Cuirass_DRK_AF3\/Bale_Cuirass_DRK_AF3.Bale_Cuirass_DRK_AF3'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Bale_Gauntlets_DRK_AF3\/Bale_Gauntlets_DRK_AF3.Bale_Gauntlets_DRK_AF3'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Bale_Flanchard_DRK_AF3\/Bale_Flanchard_DRK_AF3.Bale_Flanchard_DRK_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Bale_Sollerets_DRK_AF3\/Bale_Sollerets_DRK_AF3.Bale_Sollerets_DRK_AF3'"
+    },
+    {
+        "Name": "NPC_Misc2_14",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F7A\/Male_F7A.Male_F7A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Arhats_Gi\/Arhats_Gi.Arhats_Gi'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Raiders_Culottes_THF_AF3\/Raiders_Culottes_THF_AF3.Raiders_Culottes_THF_AF3'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Estoqueurs_Houseeaux_RDM_AF3\/Estoqueurs_Houseeaux_RDM_AF3.Estoqueurs_Houseeaux_RDM_AF3'"
+    },
+    {
+        "Name": "NPC_Misc2_15",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Kirins_Osode\/Kirins_Osode.Kirins_Osode'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Calmecac_Subligar\/Calmecac_Subligar.Calmecac_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Crimson_Greaves\/Crimson_Greaves.Crimson_Greaves'"
+    },
+    {
+        "Name": "NPC_Misc2_16",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Etoile_Casaque_DNC_AF2\/Etoile_Casaque_DNC_AF2.Etoile_Casaque_DNC_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Mithran_Gauntlets\/Mithran_Gauntlets.Mithran_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Jingang_Hose\/Jingang_Hose.Jingang_Hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Etoile_Shoes_DNC_AF2\/Etoile_Shoes_DNC_AF2.Etoile_Shoes_DNC_AF2'"
+    },
+    {
+        "Name": "NPC_Misc2_17",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F4A\/F4A.F4A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Argute_Gown_SCH_AF2\/Argute_Gown_SCH_AF2.Argute_Gown_SCH_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Mithran_Gauntlets\/Mithran_Gauntlets.Mithran_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Auspex_Slops\/Auspex_Slops.Auspex_Slops'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Argute_Loafers_SCH_AF2\/Argute_Loafers_SCH_AF2.Argute_Loafers_SCH_AF2'"
+    },
+    {
+        "Name": "NPC_Misc2_18",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Noct_Doublet\/Noct_Doublet.Noct_Doublet'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Mithran_Gauntlets\/Mithran_Gauntlets.Mithran_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Despair_cuisses\/Despair_cuisses.Despair_cuisses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Commodore_Bottes_COR_AF2\/Commodore_Bottes_COR_AF2.Commodore_Bottes_COR_AF2'"
+    },
+    {
+        "Name": "NPC_Misc2_19",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F6A\/F6A.F6A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Gavial_Mail\/Gavial_Mail.Gavial_Mail'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Gavial_Finger_Gauntlets\/Gavial_Finger_Gauntlets.Gavial_Finger_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Rawhide_trousers\/Rawhide_trousers.Rawhide_trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Eisenschuhs\/Eisenschuhs.Eisenschuhs'"
+    },
+    {
+        "Name": "NPC_Misc2_20",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F4B\/F4B.F4B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Hunters_Jerkin_RNG_AF1\/Hunters_Jerkin_RNG_AF1.Hunters_Jerkin_RNG_AF1'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Hunters_Bracers_RNG_AF1\/Hunters_Bracers_RNG_AF1.Hunters_Bracers_RNG_AF1'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Hunters_Braccae_RNG_AF1\/Hunters_Braccae_RNG_AF1.Hunters_Braccae_RNG_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Hunters_Socks_RNG_AF1\/Hunters_Socks_RNG_AF1.Hunters_Socks_RNG_AF1'"
+    },
+    {
+        "Name": "Pirate_1",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F8A\/F8A.F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Ziamet_Peti\/Ziamet_Peti.Ziamet_Peti'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Furia_Gages\/Furia_Gages.Furia_Gages'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Furia_Pants\/Furia_Pants.Furia_Pants'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Punchinellos\/Punchinellos.Punchinellos'"
+    },
+    {
+        "Name": "Pirate_2",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F5B\/F5B.F5B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Samnuha_coat\/Samnuha_coat.Samnuha_coat'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Furia_Gages\/Furia_Gages.Furia_Gages'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Dinner_Hose\/Dinner_Hose.Dinner_Hose'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Invisible\/Invisible.Invisible'"
+    },
+    {
+        "Name": "Pirate_3",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F3A\/Male_F3A.Male_F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Creek_Mailot\/Creek_Mailot.Creek_Mailot'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Timarli_Dastanas\/Timarli_Dastanas.Timarli_Dastanas'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Furia_Slacks\/Furia_Slacks.Furia_Slacks'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "Pirate_4",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/Haja_Zhwan\/Haja_Zhwan.Haja_Zhwan'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Rawhide_vest\/Rawhide_vest.Rawhide_vest'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Timarli_Dastanas\/Timarli_Dastanas.Timarli_Dastanas'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Furia_Slacks\/Furia_Slacks.Furia_Slacks'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "Pirate_5",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F3A\/F3A.F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Hikogami_Yukata\/Hikogami_Yukata.Hikogami_Yukata'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Furia_Slacks\/Furia_Slacks.Furia_Slacks'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Choral_Slippers_BRD_AF1\/Choral_Slippers_BRD_AF1.Choral_Slippers_BRD_AF1'"
+    },
+    {
+        "Name": "NPC_RE_1",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Royal_Knights_Chainmail\/Royal_Knights_Chainmail.Royal_Knights_Chainmail'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Chain_Mittens\/Chain_Mittens.Chain_Mittens'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Elvaan_M_Chausses\/Elvaan_M_Chausses.Elvaan_M_Chausses'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Shinobi_Kyahan\/Shinobi_Kyahan.Shinobi_Kyahan'"
+    },
+    {
+        "Name": "NPC_RE_2",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F3A\/F3A.F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Gavial_Mail\/Gavial_Mail.Gavial_Mail'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Gavial_Finger_Gauntlets\/Gavial_Finger_Gauntlets.Gavial_Finger_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Haidate\/Haidate.Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Bone_Leggings\/Bone_Leggings.Bone_Leggings'"
+    },
+    {
+        "Name": "NPC_RE_3",
+        "Race": "Elvaan_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Face\/F6A\/F6A.F6A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Head\/Chaos_Burgeonet_DRK_AF1\/Chaos_Burgeonet_DRK_AF1.Chaos_Burgeonet_DRK_AF1'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Body\/Chaos_Cuirass_DRK_AF1\/Chaos_Cuirass_DRK_AF1.Chaos_Cuirass_DRK_AF1'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Hands\/Chaos_Gauntlets_DRK_AF1\/Chaos_Gauntlets_DRK_AF1.Chaos_Gauntlets_DRK_AF1'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Legs\/Chaos_Flanchard_DRK_AF1\/Chaos_Flanchard_DRK_AF1.Chaos_Flanchard_DRK_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Male\/Feet\/Chaos_Sollerets_DRK_AF1\/Chaos_Sollerets_DRK_AF1.Chaos_Sollerets_DRK_AF1'"
+    },
+    {
+        "Name": "NPC_RE_4",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Scholars_Gown_SCH_AF1\/Scholars_Gown_SCH_AF1.Scholars_Gown_SCH_AF1'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Scholars_Pants_SCH_AF1\/Scholars_Pants_SCH_AF1.Scholars_Pants_SCH_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Scholars_Loafers_SCH_AF1\/Scholars_Loafers_SCH_AF1.Scholars_Loafers_SCH_AF1'"
+    },
+    {
+        "Name": "NPC_RE_5",
+        "Race": "Elvaan_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Face\/F8B\/F8B.F8B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Body\/Tiger_Jerkin\/Tiger_Jerkin.Tiger_Jerkin'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Hands\/Raptor_Gloves\/Raptor_Gloves.Raptor_Gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Legs\/Tiger_Trousers\/Tiger_Trousers.Tiger_Trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Elvaan_Female\/Feet\/Iron_Greaves\/Iron_Greaves.Iron_Greaves'"
+    },
+    {
+        "Name": "NPC_RG_1",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F6B\/F6B.F6B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Timarli_Jawshan\/Timarli_Jawshan.Timarli_Jawshan'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Shneddick_Gloves\/Shneddick_Gloves.Shneddick_Gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Ziamet_Salvars\/Ziamet_Salvars.Ziamet_Salvars'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Ukuxkaj_boots\/Ukuxkaj_boots.Ukuxkaj_boots'"
+    },
+    {
+        "Name": "NPC_RG_2",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Augurs_Jaseran\/Augurs_Jaseran.Augurs_Jaseran'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Shneddick_Gloves\/Shneddick_Gloves.Shneddick_Gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Brais\/Brais.Brais'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Gorney_Sollerets\/Gorney_Sollerets.Gorney_Sollerets'"
+    },
+    {
+        "Name": "NPC_RG_3",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Galkan_Surcoat\/Galkan_Surcoat.Galkan_Surcoat'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Brais\/Brais.Brais'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Raptor_Ledelsens\/Raptor_Ledelsens.Raptor_Ledelsens'"
+    },
+    {
+        "Name": "NPC_RG_4",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F7A\/F7A.F7A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Adaman_Cuirass\/Adaman_Cuirass.Adaman_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Drachen_Finger_Gauntlets_DRG_AF1\/Drachen_Finger_Gauntlets_DRG_AF1.Drachen_Finger_Gauntlets_DRG_AF1'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Brais\/Brais.Brais'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Mythril_Leggings\/Mythril_Leggings.Mythril_Leggings'"
+    },
+    {
+        "Name": "NPC_RG_5",
+        "Race": "Galka",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Face\/F8A\/F8A.F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Body\/Nobles_Tunic\/Nobles_Tunic.Nobles_Tunic'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Hands\/Mitts\/Mitts.Mitts'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Legs\/Healers_Pantaloons_WHM_AF1\/Healers_Pantaloons_WHM_AF1.Healers_Pantaloons_WHM_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Galka\/Feet\/Healers_Duckbills_WHM_AF1\/Healers_Duckbills_WHM_AF1.Healers_Duckbills_WHM_AF1'"
+    },
+    {
+        "Name": "NPC_RH_1",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F7A\/F7A.F7A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Lizard_Jerkin\/Lizard_Jerkin.Lizard_Jerkin'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Lizard_Gloves\/Lizard_Gloves.Lizard_Gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Leather_Trousers\/Leather_Trousers.Leather_Trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Lizard_Ledelsens\/Lizard_Ledelsens.Lizard_Ledelsens'"
+    },
+    {
+        "Name": "NPC_RH_2",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F4B\/F4B.F4B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Royal_Squires_Chainmail\/Royal_Squires_Chainmail.Royal_Squires_Chainmail'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Royal_Squires_Mufflers\/Royal_Squires_Mufflers.Royal_Squires_Mufflers'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Leather_Trousers\/Leather_Trousers.Leather_Trousers'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Royal_Squires_Sollerets\/Royal_Squires_Sollerets.Royal_Squires_Sollerets'"
+    },
+    {
+        "Name": "NPC_RH_3",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F4B\/F4B.F4B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Robe\/Robe.Robe'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Tactician_Magicians_Slops\/Tactician_Magicians_Slops.Tactician_Magicians_Slops'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Default\/Default.Default'"
+    },
+    {
+        "Name": "NPC_RH_4",
+        "Race": "Hume_Male",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Body\/Rogues_Vest_THF_AF1\/Rogues_Vest_THF_AF1.Rogues_Vest_THF_AF1'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Hands\/Rogues_Armlets_THF_AF1\/Rogues_Armlets_THF_AF1.Rogues_Armlets_THF_AF1'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Legs\/Rogues_Culotte_THF_AF1\/Rogues_Culotte_THF_AF1.Rogues_Culotte_THF_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Male\/Feet\/Rogues_Poulaines_THF_AF1\/Rogues_Poulaines_THF_AF1.Rogues_Poulaines_THF_AF1'"
+    },
+    {
+        "Name": "NPC_RH_5",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F1B\/F1B.F1B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Assassins_Vest_THF_AF2\/Assassins_Vest_THF_AF2.Assassins_Vest_THF_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Assassins_Armlets_THF_AF2\/Assassins_Armlets_THF_AF2.Assassins_Armlets_THF_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Assassins_Culotte_THF_AF2\/Assassins_Culotte_THF_AF2.Assassins_Culotte_THF_AF2'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Assassins_Poulaines_THF_AF2\/Assassins_Poulaines_THF_AF2.Assassins_Poulaines_THF_AF2'"
+    },
+    {
+        "Name": "NPC_RH_6",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F5B\/F5B.F5B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/War_Shinobi_Gi\/War_Shinobi_Gi.War_Shinobi_Gi'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Assassins_Armlets_THF_AF2\/Assassins_Armlets_THF_AF2.Assassins_Armlets_THF_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Byakkos_Haidate\/Byakkos_Haidate.Byakkos_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Adaman_Sollerets\/Adaman_Sollerets.Adaman_Sollerets'"
+    },
+    {
+        "Name": "NPC_RH_7",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Blacksmiths_Smock\/Blacksmiths_Smock.Blacksmiths_Smock'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Bokwus_Slops\/Bokwus_Slops.Bokwus_Slops'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Athoss_Boots\/Athoss_Boots.Athoss_Boots'"
+    },
+    {
+        "Name": "NPC_RH_8",
+        "Race": "Hume_Female",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Face\/Elvira\/Elvira.Elvira'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Body\/Ziamet_Peti\/Ziamet_Peti.Ziamet_Peti'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Hands\/Delegates_Cuffs\/Delegates_Cuffs.Delegates_Cuffs'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Legs\/Bokwus_Slops\/Bokwus_Slops.Bokwus_Slops'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Hume_Female\/Feet\/Ziamet_Nails\/Ziamet_Nails.Ziamet_Nails'"
+    },
+    {
+        "Name": "NPC_RM_1",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F1A\/F1A.F1A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Dusk_Jerkin\/Dusk_Jerkin.Dusk_Jerkin'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Dancers_Bangles_DNC_AF1\/Dancers_Bangles_DNC_AF1.Dancers_Bangles_DNC_AF1'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Darksteel_Sabatons\/Darksteel_Sabatons.Darksteel_Sabatons'"
+    },
+    {
+        "Name": "NPC_RM_2",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F7B\/F7B.F7B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Duelists_Chapeau_RDM_AF2\/Duelists_Chapeau_RDM_AF2.Duelists_Chapeau_RDM_AF2'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Duelists_Tabard_RDM_AF2\/Duelists_Tabard_RDM_AF2.Duelists_Tabard_RDM_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Duelists_Gloves_RDM_AF2\/Duelists_Gloves_RDM_AF2.Duelists_Gloves_RDM_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Duelists_Tights_RDM_AF2\/Duelists_Tights_RDM_AF2.Duelists_Tights_RDM_AF2'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Duelists_Boots_RDM_AF2\/Duelists_Boots_RDM_AF2.Duelists_Boots_RDM_AF2'"
+    },
+    {
+        "Name": "NPC_RM_3",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F2B\/F2B.F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Summoners_Horn_SMN_AF2\/Summoners_Horn_SMN_AF2.Summoners_Horn_SMN_AF2'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Summoners_Doublet_SMN_AF2\/Summoners_Doublet_SMN_AF2.Summoners_Doublet_SMN_AF2'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Summoners_Bracers_SMN_AF2\/Summoners_Bracers_SMN_AF2.Summoners_Bracers_SMN_AF2'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Summoners_Spats_SMN_AF2\/Summoners_Spats_SMN_AF2.Summoners_Spats_SMN_AF2'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Summoners_Pigaches_SMN_AF2\/Summoners_Pigaches_SMN_AF2.Summoners_Pigaches_SMN_AF2'"
+    },
+    {
+        "Name": "NPC_RM_4",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F6B\/F6B.F6B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Darksteel_Cuirass\/Darksteel_Cuirass.Darksteel_Cuirass'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Shinobi_Tekko\/Shinobi_Tekko.Shinobi_Tekko'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Shadow_Sabatons\/Shadow_Sabatons.Shadow_Sabatons'"
+    },
+    {
+        "Name": "NPC_RM_5",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F3A\/F3A.F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Hecatomb_Harness\/Hecatomb_Harness.Hecatomb_Harness'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Shadow_Gauntlets\/Shadow_Gauntlets.Shadow_Gauntlets'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Byakkos_Haidate\/Byakkos_Haidate.Byakkos_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Karasutengu_Kogake\/Karasutengu_Kogake.Karasutengu_Kogake'"
+    },
+    {
+        "Name": "NPC_RM_6",
+        "Race": "Mithra",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Face\/F6A\/F6A.F6A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Body\/Nuevo_Coselete\/Nuevo_Coselete.Nuevo_Coselete'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Hands\/Herculean_gloves\/Herculean_gloves.Herculean_gloves'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Legs\/Byakkos_Haidate\/Byakkos_Haidate.Byakkos_Haidate'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Mithra\/Feet\/Chocaliztli_Whirlpool\/Chocaliztli_Whirlpool.Chocaliztli_Whirlpool'"
+    },
+    {
+        "Name": "NPC_RT_1",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F8A\/Female_F8A.Female_F8A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Royal_Squires_Chainmail\/Royal_Squires_Chainmail.Royal_Squires_Chainmail'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Kote\/Kote.Kote'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Puppetry_Churidars_PUP_AF1\/Puppetry_Churidars_PUP_AF1.Puppetry_Churidars_PUP_AF1'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Dragon_Greaves\/Dragon_Greaves.Dragon_Greaves'"
+    },
+    {
+        "Name": "NPC_RT_2",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F6A\/Female_F6A.Female_F6A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Aketon\/Aketon.Aketon'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Leggings\/Leggings.Leggings'"
+    },
+    {
+        "Name": "NPC_RT_3",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Female_F7B\/Female_F7B.Female_F7B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Black_Cotehardie\/Black_Cotehardie.Black_Cotehardie'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Leggings\/Leggings.Leggings'"
+    },
+    {
+        "Name": "NPC_RT_4",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F3A\/Male_F3A.Male_F3A'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Hunters_Jerkin_RNG_AF1\/Hunters_Jerkin_RNG_AF1.Hunters_Jerkin_RNG_AF1'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Default\/Default.Default'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Gaiters\/Gaiters.Gaiters'"
+    },
+    {
+        "Name": "NPC_RT_5",
+        "Race": "Tarutaru",
+        "Face": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Face\/Male_F2B\/Male_F2B.Male_F2B'",
+        "Head": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Head\/Default\/Default.Default'",
+        "Body": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Body\/Dalmatica\/Dalmatica.Dalmatica'",
+        "Hands": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Hands\/Mitts\/Mitts.Mitts'",
+        "Legs": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Legs\/Bone_Subligar\/Bone_Subligar.Bone_Subligar'",
+        "Feet": "\/Script\/Engine.SkeletalMesh'\/Game\/Characters\/XI_Tarutaru\/Feet\/Centurions_Greaves\/Centurions_Greaves.Centurions_Greaves'"
+    }
+]

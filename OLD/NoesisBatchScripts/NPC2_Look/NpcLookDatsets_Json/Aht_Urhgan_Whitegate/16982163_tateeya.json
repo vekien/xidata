@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/67.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/137\/5.DAT",
+        "ModelID": 125,
+        "FileID": 10413,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/137\/17.DAT",
+        "ModelID": 125,
+        "FileID": 10669,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/28.DAT",
+        "ModelID": 0,
+        "FileID": 10800,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/75.DAT",
+        "ModelID": 15,
+        "FileID": 11071,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/107.DAT",
+        "ModelID": 15,
+        "FileID": 11327,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982163",
+        "name": "Tateeya",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010004027D107D2000300F400F50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "255",
+            "x": "37.236",
+            "y": "-7.199",
+            "z": "43.047"
+        }
+    }
+}

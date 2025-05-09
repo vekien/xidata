@@ -1,0 +1,43 @@
+Phanauet Channel,ROM3/0/0.DAT
+Carpenters' Landing,ROM3/0/1.DAT
+Manaclipper,ROM3/0/2.DAT
+Bibiki Bay,ROM3/0/3.DAT
+Uleguerand Range,ROM3/0/4.DAT
+Bearclaw Pinnacle,ROM3/0/5.DAT
+Attohwa Chasm,ROM3/0/6.DAT
+Boneyard Gully,ROM3/0/7.DAT
+Pso'Xja,ROM3/0/8.DAT
+The Shrouded Maw,ROM3/0/9.DAT
+Oldton Movalpolos,ROM3/0/10.DAT
+Newton Movalpolos,ROM3/0/11.DAT
+Mine Shaft #2716,ROM3/0/12.DAT
+Hall of Transference,ROM3/0/13.DAT
+Promyvion - Holla,ROM3/0/15.DAT
+Spire of Holla,ROM3/0/16.DAT
+Promyvion - Dem,ROM3/0/17.DAT
+Spire of Dem,ROM3/0/18.DAT
+Promyvion - Mea,ROM3/0/19.DAT
+Spire of Mea,ROM3/0/20.DAT
+Promyvion - Vahzl,ROM3/0/21.DAT
+Spire of Vahzl,ROM3/0/22.DAT
+Lufaise Meadows,ROM3/0/23.DAT
+Misareaux Coast,ROM3/0/24.DAT
+Tavnazian Safehold,ROM3/0/25.DAT
+Phomiuna Aqueducts,ROM3/0/26.DAT
+Sacrarium,ROM3/0/27.DAT
+Riverne - Site #B01,ROM3/0/28.DAT
+Riverne - Site #A01,ROM3/0/29.DAT
+Monarch Linn,ROM3/0/30.DAT
+Sealion's Den,ROM3/0/31.DAT
+Al'Taieu,ROM3/0/32.DAT
+Grand Palace of Hu'Xzoi,ROM3/0/33.DAT
+The Garden of Ru'Hmet,ROM3/0/34.DAT
+Empyreal Paradox,ROM3/0/35.DAT
+Temenos,ROM3/3/82.DAT
+Apollyon,ROM3/5/1.DAT
+Dynamis - Valkurm,ROM3/5/2.DAT
+Dynamis - Buburimu,ROM3/5/3.DAT
+Dynamis - Qufim,ROM3/5/4.DAT
+Dynamis - Tavnazia,ROM3/5/5.DAT
+Diorama Abdhaljs-Ghelsba,ROM3/5/6.DAT
+Abdhaljs Isle-Purgonorgo,ROM3/5/7.DAT

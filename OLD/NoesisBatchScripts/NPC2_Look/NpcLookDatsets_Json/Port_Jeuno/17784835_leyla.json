@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/71.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/28.DAT",
+        "ModelID": 0,
+        "FileID": 10800,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/72.DAT",
+        "ModelID": 12,
+        "FileID": 11068,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/112.DAT",
+        "ModelID": 20,
+        "FileID": 11332,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17784835",
+        "name": "Leyla",
+        "zone": "Port_Jeuno",
+        "look": "010008020010052000300C401450006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "254",
+            "x": "-66.995",
+            "y": "7.999",
+            "z": "-0.554"
+        }
+    }
+}

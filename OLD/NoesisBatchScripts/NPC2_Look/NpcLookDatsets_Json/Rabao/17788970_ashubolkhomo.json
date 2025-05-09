@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/16.DAT",
+        "ModelID": 3,
+        "FileID": 23475,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/65.DAT",
+        "ModelID": 8,
+        "FileID": 23736,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/93.DAT",
+        "ModelID": 4,
+        "FileID": 23989,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/123.DAT",
+        "ModelID": 4,
+        "FileID": 24244,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17788970",
+        "name": "Ashu Bolkhomo",
+        "zone": "Rabao",
+        "look": "0100010700100320083004400450006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "164",
+            "x": "142.332",
+            "y": "8.000",
+            "z": "43.674"
+        }
+    }
+}

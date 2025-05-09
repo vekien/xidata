@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/96.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/30.DAT",
+        "ModelID": 17,
+        "FileID": 23489,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/74.DAT",
+        "ModelID": 17,
+        "FileID": 23745,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/106.DAT",
+        "ModelID": 17,
+        "FileID": 24002,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/8.DAT",
+        "ModelID": 17,
+        "FileID": 24257,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16962109",
+        "name": "Baha Mannohl",
+        "zone": "Abyssea-Tahrongi",
+        "look": "0100020700101120113011401150006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "201",
+            "x": "-13.446",
+            "y": "37.072",
+            "z": "551.222"
+        }
+    }
+}

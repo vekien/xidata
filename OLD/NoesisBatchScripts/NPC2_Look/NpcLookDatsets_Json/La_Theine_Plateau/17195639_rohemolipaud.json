@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/41.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/58.DAT",
+        "ModelID": 7,
+        "FileID": 13471,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/90.DAT",
+        "ModelID": 7,
+        "FileID": 13727,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/6.DAT",
+        "ModelID": 7,
+        "FileID": 13983,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/37.DAT",
+        "ModelID": 7,
+        "FileID": 14239,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/68.DAT",
+        "ModelID": 7,
+        "FileID": 14495,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": {
+        "Identifier": "hf_cro1_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/41\/55.DAT",
+        "ModelID": 53,
+        "FileID": 15821,
+        "Type": "Gun"
+    },
+    "data": {
+        "id": "17195639",
+        "name": "Rohemolipaud",
+        "zone": "La_Theine_Plateau",
+        "look": "0100050307100720073007400750006000703580",
+        "content": "",
+        "pos": {
+            "rotation": "44",
+            "x": "-93.869",
+            "y": "42.734",
+            "z": "-422.947"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/20.DAT",
+        "ModelID": 3,
+        "FileID": 20075,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/64.DAT",
+        "ModelID": 3,
+        "FileID": 20331,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/95.DAT",
+        "ModelID": 3,
+        "FileID": 20587,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/126.DAT",
+        "ModelID": 3,
+        "FileID": 20843,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17670774",
+        "name": "Ronta-Onta",
+        "zone": "Abyssea-Altepa",
+        "look": "0100020500100320033003400350006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "195",
+            "x": "-220.086",
+            "y": "-7.479",
+            "z": "116.249"
+        }
+    }
+}

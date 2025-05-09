@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/43.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/58.DAT",
+        "ModelID": 7,
+        "FileID": 13471,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/88.DAT",
+        "ModelID": 5,
+        "FileID": 13725,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/127.DAT",
+        "ModelID": 0,
+        "FileID": 13976,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/35.DAT",
+        "ModelID": 5,
+        "FileID": 14237,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/66.DAT",
+        "ModelID": 5,
+        "FileID": 14493,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17793036",
+        "name": "Torapiont",
+        "zone": "Selbina",
+        "look": "0100070307100520003005400550006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "85",
+            "x": "64.272",
+            "y": "-15.273",
+            "z": "13.419"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/58.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/46\/115.DAT",
+        "ModelID": 1,
+        "FileID": 19817,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/18.DAT",
+        "ModelID": 1,
+        "FileID": 20073,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/62.DAT",
+        "ModelID": 1,
+        "FileID": 20329,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/93.DAT",
+        "ModelID": 1,
+        "FileID": 20585,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/124.DAT",
+        "ModelID": 1,
+        "FileID": 20841,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17764543",
+        "name": "Harara, W.W.",
+        "zone": "Windurst_Woods",
+        "look": "0100030601100120013001400150016001700000",
+        "content": "",
+        "pos": {
+            "rotation": "133",
+            "x": "106.974",
+            "y": "-5.000",
+            "z": "-49.121"
+        }
+    }
+}

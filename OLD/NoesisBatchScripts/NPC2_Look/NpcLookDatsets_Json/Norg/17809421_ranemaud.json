@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/41.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/88.DAT",
+        "ModelID": 5,
+        "FileID": 13725,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/127.DAT",
+        "ModelID": 0,
+        "FileID": 13976,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/60.DAT",
+        "ModelID": 31,
+        "FileID": 14263,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/91.DAT",
+        "ModelID": 31,
+        "FileID": 14519,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17809421",
+        "name": "Ranemaud",
+        "zone": "Norg",
+        "look": "010005030010052000301F401F50006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "73",
+            "x": "16.439",
+            "y": "0.096",
+            "z": "25.704"
+        }
+    }
+}

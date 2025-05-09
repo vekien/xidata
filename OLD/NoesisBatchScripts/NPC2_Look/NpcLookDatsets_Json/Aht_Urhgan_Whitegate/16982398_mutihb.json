@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/94.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/143\/84.DAT",
+        "ModelID": 133,
+        "FileID": 7501,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/52.DAT",
+        "ModelID": 0,
+        "FileID": 7624,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/100.DAT",
+        "ModelID": 16,
+        "FileID": 7896,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/4.DAT",
+        "ModelID": 16,
+        "FileID": 8152,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_knf1_",
+        "Race": "Hume Male",
+        "Path": "ROM\/30\/5.DAT",
+        "ModelID": 160,
+        "FileID": 8552,
+        "Type": "Dagger"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982398",
+        "name": "Mutihb",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100070100108520003010401050A06000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "66",
+            "x": "91.007",
+            "y": "-6.499",
+            "z": "-129.685"
+        }
+    }
+}

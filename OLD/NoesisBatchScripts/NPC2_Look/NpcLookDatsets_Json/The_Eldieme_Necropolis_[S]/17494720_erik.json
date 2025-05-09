@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/93.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/105.DAT",
+        "ModelID": 2,
+        "FileID": 7114,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/9.DAT",
+        "ModelID": 2,
+        "FileID": 7370,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/54.DAT",
+        "ModelID": 2,
+        "FileID": 7626,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/86.DAT",
+        "ModelID": 2,
+        "FileID": 7882,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/118.DAT",
+        "ModelID": 2,
+        "FileID": 8138,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_2hs4_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/45.DAT",
+        "ModelID": 72,
+        "FileID": 8464,
+        "Type": "GreatSword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17494720",
+        "name": "Erik",
+        "zone": "The_Eldieme_Necropolis_[S]",
+        "look": "0100060102100220023002400250486000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "125",
+            "x": "258.643",
+            "y": "-33.249",
+            "z": "99.901"
+        }
+    }
+}

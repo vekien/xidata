@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/38.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/91.DAT",
+        "ModelID": 8,
+        "FileID": 13728,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/7.DAT",
+        "ModelID": 8,
+        "FileID": 13984,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/43.DAT",
+        "ModelID": 13,
+        "FileID": 14245,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/65.DAT",
+        "ModelID": 4,
+        "FileID": 14492,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17744019",
+        "name": "Gueravrel",
+        "zone": "Port_Bastok",
+        "look": "010002030010082008300D400450006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "226",
+            "x": "-149.749",
+            "y": "-7.480",
+            "z": "9.089"
+        }
+    }
+}

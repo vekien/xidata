@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/71.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/119.DAT",
+        "ModelID": 8,
+        "FileID": 26656,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/46.DAT",
+        "ModelID": 19,
+        "FileID": 26923,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/65.DAT",
+        "ModelID": 6,
+        "FileID": 27167,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/95.DAT",
+        "ModelID": 6,
+        "FileID": 27422,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17776688",
+        "name": "Silver Tail",
+        "zone": "Upper_Jeuno",
+        "look": "0100070800100820133006400650006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "118",
+            "x": "-44.339",
+            "y": "7.999",
+            "z": "89.164"
+        }
+    }
+}

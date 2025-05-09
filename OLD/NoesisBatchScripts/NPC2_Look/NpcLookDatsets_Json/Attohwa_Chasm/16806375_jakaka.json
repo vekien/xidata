@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/61.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/133\/114.DAT",
+        "ModelID": 115,
+        "FileID": 19931,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/4.DAT",
+        "ModelID": 115,
+        "FileID": 20187,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/22.DAT",
+        "ModelID": 115,
+        "FileID": 20443,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/39.DAT",
+        "ModelID": 115,
+        "FileID": 20699,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/134\/56.DAT",
+        "ModelID": 115,
+        "FileID": 20955,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_knf4_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/49\/22.DAT",
+        "ModelID": 171,
+        "FileID": 21267,
+        "Type": "Dagger"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16806375",
+        "name": "Jakaka",
+        "zone": "Attohwa_Chasm",
+        "look": "0100060673107320733073407350AB6000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "255",
+            "x": "-144.711",
+            "y": "7.246",
+            "z": "-250.309"
+        }
+    }
+}

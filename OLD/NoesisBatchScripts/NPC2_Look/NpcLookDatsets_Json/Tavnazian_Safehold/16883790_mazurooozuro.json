@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/56.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/127\/9.DAT",
+        "ModelID": 103,
+        "FileID": 20175,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/127\/17.DAT",
+        "ModelID": 104,
+        "FileID": 20432,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/127\/24.DAT",
+        "ModelID": 104,
+        "FileID": 20688,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/127\/31.DAT",
+        "ModelID": 104,
+        "FileID": 20944,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883790",
+        "name": "Mazuro-Oozuro",
+        "zone": "Tavnazian_Safehold",
+        "look": "0100010500106720683068406850006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "9",
+            "x": "-89.329",
+            "y": "-12.789",
+            "z": "9.267"
+        }
+    }
+}

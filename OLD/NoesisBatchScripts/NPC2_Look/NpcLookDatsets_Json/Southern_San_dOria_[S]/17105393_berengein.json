@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/42.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/56.DAT",
+        "ModelID": 5,
+        "FileID": 13469,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/88.DAT",
+        "ModelID": 5,
+        "FileID": 13725,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/4.DAT",
+        "ModelID": 5,
+        "FileID": 13981,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/35.DAT",
+        "ModelID": 5,
+        "FileID": 14237,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/61.DAT",
+        "ModelID": 0,
+        "FileID": 14488,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17105393",
+        "name": "Berengein",
+        "zone": "Southern_San_dOria_[S]",
+        "look": "0100060305100520053005400050006000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "156",
+            "x": "116.112",
+            "y": "0.000",
+            "z": "91.662"
+        }
+    }
+}

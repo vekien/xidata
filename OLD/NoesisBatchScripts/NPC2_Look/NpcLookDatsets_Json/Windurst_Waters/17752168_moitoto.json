@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/59.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/25.DAT",
+        "ModelID": 8,
+        "FileID": 20080,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/69.DAT",
+        "ModelID": 8,
+        "FileID": 20336,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/100.DAT",
+        "ModelID": 8,
+        "FileID": 20592,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/3.DAT",
+        "ModelID": 8,
+        "FileID": 20848,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17752168",
+        "name": "Moitoto",
+        "zone": "Windurst_Waters",
+        "look": "0100040600100820083008400850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "3",
+            "x": "-28.221",
+            "y": "-4.999",
+            "z": "87.995"
+        }
+    }
+}

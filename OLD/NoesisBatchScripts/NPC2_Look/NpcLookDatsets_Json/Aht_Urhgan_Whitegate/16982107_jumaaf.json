@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/44.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/163\/19.DAT",
+        "ModelID": 171,
+        "FileID": 13635,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/163\/22.DAT",
+        "ModelID": 171,
+        "FileID": 13891,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/163\/25.DAT",
+        "ModelID": 171,
+        "FileID": 14147,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/163\/28.DAT",
+        "ModelID": 171,
+        "FileID": 14403,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/163\/31.DAT",
+        "ModelID": 171,
+        "FileID": 14659,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982107",
+        "name": "Jumaaf",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000803AB10AB20AB30AB40AB50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "190",
+            "x": "114.717",
+            "y": "-0.316",
+            "z": "-22.914"
+        }
+    }
+}

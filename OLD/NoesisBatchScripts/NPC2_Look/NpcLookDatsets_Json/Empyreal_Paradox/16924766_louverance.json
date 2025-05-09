@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/38.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/124\/40.DAT",
+        "ModelID": 62,
+        "FileID": 13526,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/126.DAT",
+        "ModelID": 44,
+        "FileID": 13764,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/127.DAT",
+        "ModelID": 0,
+        "FileID": 13976,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/126\/59.DAT",
+        "ModelID": 100,
+        "FileID": 14332,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/126\/66.DAT",
+        "ModelID": 100,
+        "FileID": 14588,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_2hs1_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/109.DAT",
+        "ModelID": 64,
+        "FileID": 14808,
+        "Type": "GreatSword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16924766",
+        "name": "Louverance",
+        "zone": "Empyreal_Paradox",
+        "look": "010002033E102C20003064406450406000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

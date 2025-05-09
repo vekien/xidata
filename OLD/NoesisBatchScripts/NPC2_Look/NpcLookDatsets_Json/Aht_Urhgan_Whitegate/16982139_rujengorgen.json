@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/59.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/124\/97.DAT",
+        "ModelID": 94,
+        "FileID": 20166,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/124\/102.DAT",
+        "ModelID": 94,
+        "FileID": 20422,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/124\/107.DAT",
+        "ModelID": 94,
+        "FileID": 20678,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/125\/60.DAT",
+        "ModelID": 96,
+        "FileID": 20936,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982139",
+        "name": "Rujen-Gorgen",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100040500105E205E305E406050006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "80",
+            "x": "-110.080",
+            "y": "0.000",
+            "z": "6.318"
+        }
+    }
+}

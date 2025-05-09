@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/99.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/163\/65.DAT",
+        "ModelID": 171,
+        "FileID": 23387,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/138\/79.DAT",
+        "ModelID": 117,
+        "FileID": 23589,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/138\/88.DAT",
+        "ModelID": 117,
+        "FileID": 23845,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/89.DAT",
+        "ModelID": 96,
+        "FileID": 24081,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/125\/65.DAT",
+        "ModelID": 96,
+        "FileID": 24336,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974291",
+        "name": "Yudi Yolhbi",
+        "zone": "Al_Zahbi",
+        "look": "01000507AB107520753060406050006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "-71.584",
+            "y": "-6.000",
+            "z": "-56.018"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/46\/124.DAT",
+        "ModelID": 14,
+        "FileID": 19830,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/23.DAT",
+        "ModelID": 6,
+        "FileID": 20078,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/61.DAT",
+        "ModelID": 0,
+        "FileID": 20328,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/100.DAT",
+        "ModelID": 8,
+        "FileID": 20592,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/5.DAT",
+        "ModelID": 10,
+        "FileID": 20850,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17797138",
+        "name": "Pikini-Mikini",
+        "zone": "Mhaura",
+        "look": "010002050E100620003008400A50006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "68",
+            "x": "-47.161",
+            "y": "-4.096",
+            "z": "35.298"
+        }
+    }
+}

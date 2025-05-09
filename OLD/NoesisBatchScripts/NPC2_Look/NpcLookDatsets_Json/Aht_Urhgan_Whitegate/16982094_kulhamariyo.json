@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/97.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/130\/0.DAT",
+        "ModelID": 110,
+        "FileID": 23326,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/13.DAT",
+        "ModelID": 0,
+        "FileID": 23472,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/57.DAT",
+        "ModelID": 0,
+        "FileID": 23728,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/102.DAT",
+        "ModelID": 136,
+        "FileID": 24121,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/64.DAT",
+        "ModelID": 136,
+        "FileID": 24376,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982094",
+        "name": "Kulh Amariyo",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010003076E100020003088408850006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "87",
+            "x": "1.264",
+            "y": "0.000",
+            "z": "-59.086"
+        }
+    }
+}

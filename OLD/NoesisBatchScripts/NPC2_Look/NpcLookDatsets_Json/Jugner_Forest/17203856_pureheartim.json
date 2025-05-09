@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/67.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/82.DAT",
+        "ModelID": 2,
+        "FileID": 26394,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/49.DAT",
+        "ModelID": 22,
+        "FileID": 26926,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/104.DAT",
+        "ModelID": 15,
+        "FileID": 27431,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_axe3_",
+        "Race": "Galka",
+        "Path": "ROM\/58\/29.DAT",
+        "ModelID": 84,
+        "FileID": 27756,
+        "Type": "Axe"
+    },
+    "sub": {
+        "Identifier": "hf_shie3",
+        "Race": "Galka",
+        "Path": "ROM\/60\/22.DAT",
+        "ModelID": 45,
+        "FileID": 48924,
+        "Type": "Katana"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17203856",
+        "name": "Pure Heart, I.M.",
+        "zone": "Jugner_Forest",
+        "look": "0100030802100220163002400F5054602D700000",
+        "content": "",
+        "pos": {
+            "rotation": "152",
+            "x": "570.732",
+            "y": "-1.637",
+            "z": "553.508"
+        }
+    }
+}

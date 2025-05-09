@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/22.DAT",
+        "ModelID": 15,
+        "FileID": 7383,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/164\/104.DAT",
+        "ModelID": 173,
+        "FileID": 7797,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/104.DAT",
+        "ModelID": 104,
+        "FileID": 7984,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/4.DAT",
+        "ModelID": 16,
+        "FileID": 8152,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982127",
+        "name": "Talwahn",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100050100100F20AD3068401050006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "212",
+            "x": "-105.953",
+            "y": "0.000",
+            "z": "13.603"
+        }
+    }
+}

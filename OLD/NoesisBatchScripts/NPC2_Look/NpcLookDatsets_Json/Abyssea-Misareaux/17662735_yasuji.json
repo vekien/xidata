@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/89.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/11.DAT",
+        "ModelID": 4,
+        "FileID": 7372,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/52.DAT",
+        "ModelID": 0,
+        "FileID": 7624,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/88.DAT",
+        "ModelID": 4,
+        "FileID": 7884,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/116.DAT",
+        "ModelID": 0,
+        "FileID": 8136,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17662735",
+        "name": "Yasuji",
+        "zone": "Abyssea-Misareaux",
+        "look": "0100020100100420003004400050006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "237",
+            "x": "-80.611",
+            "y": "-30.431",
+            "z": "257.032"
+        }
+    }
+}

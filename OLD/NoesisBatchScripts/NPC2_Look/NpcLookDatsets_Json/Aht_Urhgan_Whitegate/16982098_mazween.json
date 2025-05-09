@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/69.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/157\/82.DAT",
+        "ModelID": 160,
+        "FileID": 10704,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/157\/83.DAT",
+        "ModelID": 160,
+        "FileID": 10960,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/157\/84.DAT",
+        "ModelID": 160,
+        "FileID": 11216,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/157\/85.DAT",
+        "ModelID": 160,
+        "FileID": 11472,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982098",
+        "name": "Mazween",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010006020010A020A030A040A050006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "69",
+            "x": "-74.037",
+            "y": "0.000",
+            "z": "77.709"
+        }
+    }
+}

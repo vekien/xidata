@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/58.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/148\/28.DAT",
+        "ModelID": 138,
+        "FileID": 19954,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/163\/49.DAT",
+        "ModelID": 171,
+        "FileID": 20243,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/144\/105.DAT",
+        "ModelID": 132,
+        "FileID": 20460,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/163\/57.DAT",
+        "ModelID": 171,
+        "FileID": 20755,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/153\/32.DAT",
+        "ModelID": 148,
+        "FileID": 20988,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974292",
+        "name": "Goyuyu",
+        "zone": "Al_Zahbi",
+        "look": "010003068A10AB208430AB409450006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "6",
+            "x": "-33.412",
+            "y": "-0.398",
+            "z": "-121.245"
+        }
+    }
+}

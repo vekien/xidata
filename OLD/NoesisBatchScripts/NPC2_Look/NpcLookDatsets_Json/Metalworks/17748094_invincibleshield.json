@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/67.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/82.DAT",
+        "ModelID": 2,
+        "FileID": 26394,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/121\/125.DAT",
+        "ModelID": 55,
+        "FileID": 26959,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/80.DAT",
+        "ModelID": 21,
+        "FileID": 27182,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_b_ax4",
+        "Race": "Galka",
+        "Path": "ROM\/58\/43.DAT",
+        "ModelID": 98,
+        "FileID": 27770,
+        "Type": "GreatAxe"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17748094",
+        "name": "Invincible Shield",
+        "zone": "Metalworks",
+        "look": "0100030802100220373015400250626000700000",
+        "content": "",
+        "pos": {
+            "rotation": "137",
+            "x": "-51.083",
+            "y": "-10.000",
+            "z": "2.126"
+        }
+    }
+}

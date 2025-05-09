@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/97.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/21.DAT",
+        "ModelID": 8,
+        "FileID": 23480,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/57.DAT",
+        "ModelID": 0,
+        "FileID": 23728,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/112.DAT",
+        "ModelID": 23,
+        "FileID": 24008,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/14.DAT",
+        "ModelID": 23,
+        "FileID": 24263,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17743941",
+        "name": "Fo Mocorho",
+        "zone": "Port_Bastok",
+        "look": "0100030700100820003017401750006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "223",
+            "x": "73.079",
+            "y": "7.499",
+            "z": "-183.717"
+        }
+    }
+}

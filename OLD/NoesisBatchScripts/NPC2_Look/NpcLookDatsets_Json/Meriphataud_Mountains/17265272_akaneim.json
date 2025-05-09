@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/64.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/33.DAT",
+        "ModelID": 5,
+        "FileID": 10805,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/65.DAT",
+        "ModelID": 5,
+        "FileID": 11061,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/99.DAT",
+        "ModelID": 7,
+        "FileID": 11319,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo3_",
+        "Race": "Hume Female",
+        "Path": "ROM\/35\/77.DAT",
+        "ModelID": 256,
+        "FileID": 11824,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Female",
+        "Path": "ROM\/110\/103.DAT",
+        "ModelID": 183,
+        "FileID": 42662,
+        "Type": "Sword"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17265272",
+        "name": "Akane, I.M.",
+        "zone": "Meriphataud_Mountains",
+        "look": "01000102001005200530054007500061B7700000",
+        "content": "",
+        "pos": {
+            "rotation": "97",
+            "x": "-294.470",
+            "y": "16.806",
+            "z": "420.117"
+        }
+    }
+}

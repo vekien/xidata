@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/41.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/53.DAT",
+        "ModelID": 1,
+        "FileID": 13465,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/104.DAT",
+        "ModelID": 21,
+        "FileID": 13741,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/2.DAT",
+        "ModelID": 3,
+        "FileID": 13979,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/33.DAT",
+        "ModelID": 3,
+        "FileID": 14235,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/129\/58.DAT",
+        "ModelID": 107,
+        "FileID": 14595,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883772",
+        "name": "Frescheque",
+        "zone": "Tavnazian_Safehold",
+        "look": "0100050301101520033003406B50006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "214",
+            "x": "19.599",
+            "y": "-36.000",
+            "z": "12.538"
+        }
+    }
+}

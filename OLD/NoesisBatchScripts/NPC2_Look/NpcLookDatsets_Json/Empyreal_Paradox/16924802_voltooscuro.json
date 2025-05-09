@@ -1,0 +1,55 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/70.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/331\/40.DAT",
+        "ModelID": 388,
+        "FileID": 80531,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/239\/9.DAT",
+        "ModelID": 230,
+        "FileID": 26878,
+        "Type": "Body"
+    },
+    "hands": null,
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/249\/28.DAT",
+        "ModelID": 230,
+        "FileID": 27391,
+        "Type": "Legs"
+    },
+    "feet": null,
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16924802",
+        "name": "Volto Oscuro",
+        "zone": "Empyreal_Paradox",
+        "look": "010006088411E620E630E640E650006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

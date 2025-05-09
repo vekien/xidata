@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/7.DAT",
+        "ModelID": 0,
+        "FileID": 7368,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/52.DAT",
+        "ModelID": 0,
+        "FileID": 7624,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/84.DAT",
+        "ModelID": 0,
+        "FileID": 7880,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/116.DAT",
+        "ModelID": 0,
+        "FileID": 8136,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16839227",
+        "name": "Naji",
+        "zone": "Abyssea-Konschtat",
+        "look": "0100050100000000000000000000000000000000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "195",
+            "x": "247.928",
+            "y": "20.748",
+            "z": "480.097"
+        }
+    }
+}

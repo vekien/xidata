@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/101.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/138\/73.DAT",
+        "ModelID": 121,
+        "FileID": 23337,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/43.DAT",
+        "ModelID": 31,
+        "FileID": 23503,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/57.DAT",
+        "ModelID": 0,
+        "FileID": 23728,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/89.DAT",
+        "ModelID": 0,
+        "FileID": 23985,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/103.DAT",
+        "ModelID": 137,
+        "FileID": 24377,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo3_",
+        "Race": "Mithra",
+        "Path": "ROM\/54\/102.DAT",
+        "ModelID": 255,
+        "FileID": 24751,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16794028",
+        "name": "Tswe Panipahr",
+        "zone": "Bibiki_Bay",
+        "look": "0100070779101F20003000408950FF6000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "222",
+            "x": "484.604",
+            "y": "-3.035",
+            "z": "729.671"
+        }
+    }
+}

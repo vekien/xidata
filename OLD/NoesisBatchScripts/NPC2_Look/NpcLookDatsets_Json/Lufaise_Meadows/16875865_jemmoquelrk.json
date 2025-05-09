@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/37.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/61.DAT",
+        "ModelID": 13,
+        "FileID": 13477,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/95.DAT",
+        "ModelID": 12,
+        "FileID": 13732,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/1.DAT",
+        "ModelID": 2,
+        "FileID": 13978,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/42.DAT",
+        "ModelID": 12,
+        "FileID": 14244,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/63.DAT",
+        "ModelID": 2,
+        "FileID": 14490,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo1_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/40\/39.DAT",
+        "ModelID": 250,
+        "FileID": 14994,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16875865",
+        "name": "Jemmoquel, R.K.",
+        "zone": "Lufaise_Meadows",
+        "look": "010001030D100C2002300C400250FA6000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "54",
+            "x": "-542.418",
+            "y": "-6.124",
+            "z": "-53.521"
+        }
+    }
+}

@@ -1,0 +1,602 @@
+zones_abyssea.json|abyssea|ROM\240\106.DAT|240|f_ko|30826|106|115|ROM\240\106.DAT|Abyssea - Konschtat|abyssea_-_konschtat|ROM|1
+zones_abyssea.json|abyssea|ROM\240\107.DAT|240|f_el|30827|107|145|ROM\240\107.DAT|Abyssea - Tahrongi|abyssea_-_tahrongi|ROM|1
+zones_abyssea.json|abyssea|ROM\240\108.DAT|240|f_la|30828|108|232|ROM\240\108.DAT|Abyssea - La Theine|abyssea_-_la_theine|ROM|1
+zones_abyssea.json|abyssea|ROM\254\7.DAT|254|f_el|32519|7|315|ROM\254\7.DAT|Abyssea - Attohwa|abyssea_-_attohwa|ROM|1
+zones_abyssea.json|abyssea|ROM\254\8.DAT|254|f_ta|32520|8|316|ROM\254\8.DAT|Abyssea - Misareaux|abyssea_-_misareaux|ROM|1
+zones_abyssea.json|abyssea|ROM\254\9.DAT|254|f_gi|32521|9|317|ROM\254\9.DAT|Abyssea - Vunkerl|abyssea_-_vunkerl|ROM|1
+zones_abyssea.json|abyssea|ROM\258\110.DAT|258|f_ri|33134|110|318|ROM\258\110.DAT|Abyssea - Altepa|abyssea_-_altepa|ROM|1
+zones_abyssea.json|abyssea|ROM\258\111.DAT|258|f_xa|33135|111|353|ROM\258\111.DAT|Abyssea - Uleguerand|abyssea_-_uleguerand|ROM|1
+zones_abyssea.json|abyssea|ROM\258\112.DAT|258|f_dr|33136|112|354|ROM\258\112.DAT|Abyssea - Grauberg|abyssea_-_grauberg|ROM|1
+zones_abyssea.json|abyssea|ROM\258\113.DAT|258|d_mo|33137|113|355|ROM\258\113.DAT|Abyssea - Empyreal Paradox|abyssea_-_empyreal_paradox|ROM|1
+zones_base_game.json|base_game|ROM\0\115.DAT|0|f_la|115|115|202|ROM\0\115.DAT|La Theine Plateau|la_theine_plateau|ROM|1
+zones_base_game.json|base_game|ROM\0\120.DAT|0|f_ro|120|120|200|ROM\0\120.DAT|West Ronfaure|west_ronfaure|ROM|1
+zones_base_game.json|base_game|ROM\0\121.DAT|0|f_ro|121|121|201|ROM\0\121.DAT|East Ronfaure|east_ronfaure|ROM|1
+zones_base_game.json|base_game|ROM\1\14.DAT|1|h_ro|142|14|290|ROM\1\14.DAT|King Ranperres Tomb|king_ranperres_tomb|ROM|1
+zones_base_game.json|base_game|ROM\0\123.DAT|0|f_gu|123|123|206|ROM\0\123.DAT|North Gustaberg|north_gustaberg|ROM|1
+zones_base_game.json|base_game|ROM\0\124.DAT|0|f_gu|124|124|207|ROM\0\124.DAT|South Gustaberg|south_gustaberg|ROM|1
+zones_base_game.json|base_game|ROM\0\127.DAT|0|f_sa|127|127|215|ROM\0\127.DAT|West Sarutabaruta|west_sarutabaruta|ROM|1
+zones_base_game.json|base_game|ROM\1\0.DAT|1|f_sa|128|0|216|ROM\1\0.DAT|East Sarutabaruta|east_sarutabaruta|ROM|1
+zones_base_game.json|base_game|ROM\1\31.DAT|1|t_sa|159|31|330|ROM\1\31.DAT|Southern San dOria|southern_san_doria|ROM|1
+zones_base_game.json|base_game|ROM\1\32.DAT|1|wt_s|160|32|331|ROM\1\32.DAT|Northern San dOria|northern_san_doria|ROM|1
+zones_base_game.json|base_game|ROM\0\78.DAT|0|t_wi|78|78|338|ROM\0\78.DAT|Windurst Waters|windurst_waters|ROM|1
+zones_base_game.json|base_game|ROM\0\79.DAT|0|t_wi|79|79|339|ROM\0\79.DAT|Windurst Walls|windurst_walls|ROM|1
+zones_base_game.json|base_game|ROM\0\81.DAT|0|t_wi|81|81|341|ROM\0\81.DAT|Windurst Woods|windurst_woods|ROM|1
+zones_base_game.json|base_game|ROM\1\38.DAT|1|t_wi|166|38|342|ROM\1\38.DAT|Heavens Tower|heavens_tower|ROM|1
+zones_base_game.json|base_game|ROM\0\80.DAT|0|t_wi|80|80|340|ROM\0\80.DAT|Port Windurst|port_windurst|ROM|1
+zones_base_game.json|base_game|ROM\1\34.DAT|1|t_ba|162|34|334|ROM\1\34.DAT|Bastok Mines|bastok_mines|ROM|1
+zones_base_game.json|base_game|ROM\1\35.DAT|1|t_ba|163|35|335|ROM\1\35.DAT|Bastok Markets|bastok_markets|ROM|1
+zones_base_game.json|base_game|ROM\1\36.DAT|1|t_ba|164|36|336|ROM\1\36.DAT|Port Bastok|port_bastok|ROM|1
+zones_base_game.json|base_game|ROM\1\37.DAT|1|wt_b|165|37|337|ROM\1\37.DAT|Metalworks|metalworks|ROM|1
+zones_base_game.json|base_game|ROM\1\40.DAT|1|t_ju|168|40|344|ROM\1\40.DAT|Upper Jeuno|upper_jeuno|ROM|1
+zones_base_game.json|base_game|ROM\1\41.DAT|1|t_ju|169|41|345|ROM\1\41.DAT|Lower Jeuno|lower_jeuno|ROM|1
+zones_base_game.json|base_game|ROM\1\42.DAT|1|t_ju|170|42|346|ROM\1\42.DAT|Port Jeuno|port_jeuno|ROM|1
+zones_base_game.json|base_game|ROM\1\39.DAT|1|t_ju|167|39|343|ROM\1\39.DAT|RuLude Gardens|rulude_gardens|ROM|1
+zones_base_game.json|base_game|ROM\0\58.DAT|0|f_qu|58|58|226|ROM\0\58.DAT|Qufim Island|qufim_island|ROM|1
+zones_base_game.json|base_game|ROM\1\24.DAT|1|s_ba|152|24|320|ROM\1\24.DAT|Ship bound for Selbina|ship_bound_for_selbina|ROM|1
+zones_base_game.json|base_game|ROM\1\25.DAT|1|s_ba|153|25|321|ROM\1\25.DAT|Ship bound for Mhaura|ship_bound_for_mhaura|ROM|1
+zones_base_game.json|base_game|ROM\1\29.DAT|1|s_ba|157|29|327|ROM\1\29.DAT|Ship bound for Selbina|ship_bound_for_selbina|ROM|1
+zones_base_game.json|base_game|ROM\1\30.DAT|1|s_ba|158|30|328|ROM\1\30.DAT|Ship bound for Mhaura|ship_bound_for_mhaura|ROM|1
+zones_base_game.json|base_game|ROM\1\26.DAT|1|s_em|154|26|323|ROM\1\26.DAT|San dOria-Jeuno Airship|san_doria-jeuno_airship|ROM|1
+zones_base_game.json|base_game|ROM\1\27.DAT|1|s_em|155|27|324|ROM\1\27.DAT|Bastok-Jeuno Airship|bastok-jeuno_airship|ROM|1
+zones_base_game.json|base_game|ROM\1\28.DAT|1|s_em|156|28|325|ROM\1\28.DAT|Windurst-Jeuno Airship|windurst-jeuno_airship|ROM|1
+zones_base_game.json|base_game|ROM\1\1.DAT|1|f_el|129|1|217|ROM\1\1.DAT|Tahrongi Canyon|tahrongi_canyon|ROM|1
+zones_base_game.json|base_game|ROM\0\102.DAT|0|f_ki|102|102|203|ROM\0\102.DAT|Valkurm Dunes|valkurm_dunes|ROM|1
+zones_base_game.json|base_game|ROM\0\114.DAT|0|f_ju|114|114|204|ROM\0\114.DAT|Jugner Forest|jugner_forest|ROM|1
+zones_base_game.json|base_game|ROM\0\122.DAT|0|f_no|122|122|205|ROM\0\122.DAT|Batallia Downs|batallia_downs|ROM|1
+zones_base_game.json|base_game|ROM\0\90.DAT|0|f_ko|90|90|208|ROM\0\90.DAT|Konschtat Highlands|konschtat_highlands|ROM|1
+zones_base_game.json|base_game|ROM\0\125.DAT|0|f_or|125|125|209|ROM\0\125.DAT|Pashhow Marshlands|pashhow_marshlands|ROM|1
+zones_base_game.json|base_game|ROM\0\126.DAT|0|f_ro|126|126|210|ROM\0\126.DAT|Rolanberry Fields|rolanberry_fields|ROM|1
+zones_base_game.json|base_game|ROM\0\72.DAT|0|f_ga|72|72|211|ROM\0\72.DAT|Beaucedine Glacier|beaucedine_glacier|ROM|1
+zones_base_game.json|base_game|ROM\0\57.DAT|0|f_xa|57|57|212|ROM\0\57.DAT|Xarcabard|xarcabard|ROM|1
+zones_base_game.json|base_game|ROM\0\71.DAT|0|f_pa|71|71|218|ROM\0\71.DAT|Buburimu Peninsula|buburimu_peninsula|ROM|1
+zones_base_game.json|base_game|ROM\0\101.DAT|0|f_me|101|101|219|ROM\0\101.DAT|Meriphataud Mountains|meriphataud_mountains|ROM|1
+zones_base_game.json|base_game|ROM\1\2.DAT|1|f_al|130|2|220|ROM\1\2.DAT|Sauromugue Champaign|sauromugue_champaign|ROM|1
+zones_base_game.json|base_game|ROM\1\3.DAT|1|f_qu|131|3|227|ROM\1\3.DAT|Behemoths Dominion|behemoths_dominion|ROM|1
+zones_base_game.json|base_game|ROM\1\4.DAT|1|j_ai|132|4|231|ROM\1\4.DAT|Mordion Gaol|mordion_gaol|ROM|1
+zones_base_game.json|base_game|ROM\1\6.DAT|1|d_gh|134|6|239|ROM\1\6.DAT|Horlais Peak|horlais_peak|ROM|1
+zones_base_game.json|base_game|ROM\0\95.DAT|0|d_gh|95|95|240|ROM\0\95.DAT|Ghelsba Outpost|ghelsba_outpost|ROM|1
+zones_base_game.json|base_game|ROM\1\7.DAT|1|d_gh|135|7|241|ROM\1\7.DAT|Fort Ghelsba|fort_ghelsba|ROM|1
+zones_base_game.json|base_game|ROM\1\8.DAT|1|d_gh|136|8|242|ROM\1\8.DAT|Yughott Grotto|yughott_grotto|ROM|1
+zones_base_game.json|base_game|ROM\0\88.DAT|0|d_pa|88|88|243|ROM\0\88.DAT|Palborough Mines|palborough_mines|ROM|1
+zones_base_game.json|base_game|ROM\0\89.DAT|0|d_pa|89|89|244|ROM\0\89.DAT|Waughroon Shrine|waughroon_shrine|ROM|1
+zones_base_game.json|base_game|ROM\0\104.DAT|0|d_gi|104|104|245|ROM\0\104.DAT|Giddeus|giddeus|ROM|1
+zones_base_game.json|base_game|ROM\0\105.DAT|0|d_gi|105|105|246|ROM\0\105.DAT|Balgas Dais|balgas_dais|ROM|1
+zones_base_game.json|base_game|ROM\0\61.DAT|0|d_be|61|61|247|ROM\0\61.DAT|Beadeaux|beadeaux|ROM|1
+zones_base_game.json|base_game|ROM\0\62.DAT|0|d_be|62|62|248|ROM\0\62.DAT|Qulun Dome|qulun_dome|ROM|1
+zones_base_game.json|base_game|ROM\0\99.DAT|0|d_da|99|99|249|ROM\0\99.DAT|Davoi|davoi|ROM|1
+zones_base_game.json|base_game|ROM\0\100.DAT|0|d_da|100|100|250|ROM\0\100.DAT|Monastic Cavern|monastic_cavern|ROM|1
+zones_base_game.json|base_game|ROM\0\63.DAT|0|d_oz|63|63|251|ROM\0\63.DAT|Castle Oztroja|castle_oztroja|ROM|1
+zones_base_game.json|base_game|ROM\0\64.DAT|0|d_oz|64|64|252|ROM\0\64.DAT|Altar Room|altar_room|ROM|1
+zones_base_game.json|base_game|ROM\0\56.DAT|0|d_de|56|56|257|ROM\0\56.DAT|Middle Delkfutts Tower|middle_delkfutts_tower|ROM|1
+zones_base_game.json|base_game|ROM\1\9.DAT|1|d_de|137|9|258|ROM\1\9.DAT|Upper Delkfutts Tower|upper_delkfutts_tower|ROM|1
+zones_base_game.json|base_game|ROM\1\13.DAT|1|d_de|141|13|284|ROM\1\13.DAT|Lower Delkfutts Tower|lower_delkfutts_tower|ROM|1
+zones_base_game.json|base_game|ROM\0\60.DAT|0|d_zv|60|60|261|ROM\0\60.DAT|Castle Zvahl Baileys|castle_zvahl_baileys|ROM|1
+zones_base_game.json|base_game|ROM\0\73.DAT|0|d_zv|73|73|262|ROM\0\73.DAT|Castle Zvahl Keep|castle_zvahl_keep|ROM|1
+zones_base_game.json|base_game|ROM\0\74.DAT|0|d_zv|74|74|265|ROM\0\74.DAT|Throne Room|throne_room|ROM|1
+zones_base_game.json|base_game|ROM\1\10.DAT|1|d_sa|138|10|266|ROM\1\10.DAT|Ranguemont Pass|ranguemont_pass|ROM|1
+zones_base_game.json|base_game|ROM\0\108.DAT|0|d_sa|108|108|267|ROM\0\108.DAT|Bostaunieux Oubliette|bostaunieux_oubliette|ROM|1
+zones_base_game.json|base_game|ROM\0\65.DAT|0|d_wi|65|65|269|ROM\0\65.DAT|Toraimarai Canal|toraimarai_canal|ROM|1
+zones_base_game.json|base_game|ROM\1\11.DAT|1|d_co|139|11|272|ROM\1\11.DAT|Zeruhn Mines|zeruhn_mines|ROM|1
+zones_base_game.json|base_game|ROM\1\12.DAT|1|d_wl|140|12|283|ROM\1\12.DAT|Maquette Abdhaljs-Legion|maquette_abdhaljs-legion|ROM|1
+zones_base_game.json|base_game|ROM\0\112.DAT|0|h_sa|112|112|292|ROM\0\112.DAT|Inner Horutoto Ruins|inner_horutoto_ruins|ROM|1
+zones_base_game.json|base_game|ROM\1\15.DAT|1|h_sa|143|15|294|ROM\1\15.DAT|Outer Horutoto Ruins|outer_horutoto_ruins|ROM|1
+zones_base_game.json|base_game|ROM\0\52.DAT|0|h_gu|52|52|291|ROM\0\52.DAT|Dangruf Wadi|dangruf_wadi|ROM|1
+zones_base_game.json|base_game|ROM\0\92.DAT|0|h_la|92|92|293|ROM\0\92.DAT|Ordelles Caves|ordelles_caves|ROM|1
+zones_base_game.json|base_game|ROM\0\77.DAT|0|h_no|77|77|295|ROM\0\77.DAT|The Eldieme Necropolis|the_eldieme_necropolis|ROM|1
+zones_base_game.json|base_game|ROM\1\16.DAT|1|h_ko|144|16|296|ROM\1\16.DAT|Gusgen Mines|gusgen_mines|ROM|1
+zones_base_game.json|base_game|ROM\0\76.DAT|0|h_ro|76|76|297|ROM\0\76.DAT|Crawlers Nest|crawlers_nest|ROM|1
+zones_base_game.json|base_game|ROM\0\75.DAT|0|h_el|75|75|298|ROM\0\75.DAT|Maze of Shakhrami|maze_of_shakhrami|ROM|1
+zones_base_game.json|base_game|ROM\1\17.DAT|1|h_al|145|17|300|ROM\1\17.DAT|Garlaige Citadel|garlaige_citadel|ROM|1
+zones_base_game.json|base_game|ROM\1\18.DAT|1|h_ga|146|18|304|ROM\1\18.DAT|FeiYin|feiyin|ROM|1
+zones_base_game.json|base_game|ROM\1\19.DAT|1|h_ga|147|19|306|ROM\1\19.DAT|QuBia Arena|qubia_arena|ROM|1
+zones_base_game.json|base_game|ROM\280\2.DAT|280|d_at|35842|2|322|ROM\280\2.DAT|Provenance|provenance|ROM|1
+zones_base_game.json|base_game|ROM\0\113.DAT|0|t_sa|113|113|332|ROM\0\113.DAT|Port San dOria|port_san_doria|ROM|1
+zones_base_game.json|base_game|ROM\1\33.DAT|1|t_sa|161|33|333|ROM\1\33.DAT|Chateau dOraguille|chateau_doraguille|ROM|1
+zones_base_game.json|base_game|ROM\1\43.DAT|1|t_se|171|43|348|ROM\1\43.DAT|Selbina|selbina|ROM|1
+zones_base_game.json|base_game|ROM\1\44.DAT|1|t_ma|172|44|349|ROM\1\44.DAT|Mhaura|mhaura|ROM|1
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\0.DAT|0|s_ju|0|0|101|ROM3\0\0.DAT|Phanauet Channel|phanauet_channel|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\1.DAT|0|f_ju|1|1|102|ROM3\0\1.DAT|Carpenters Landing|carpenters_landing|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\2.DAT|0|s_pa|2|2|103|ROM3\0\2.DAT|Manaclipper|manaclipper|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\3.DAT|0|f_pa|3|3|104|ROM3\0\3.DAT|Bibiki Bay|bibiki_bay|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\4.DAT|0|f_xa|4|4|105|ROM3\0\4.DAT|Uleguerand Range|uleguerand_range|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\5.DAT|0|f_xa|5|5|106|ROM3\0\5.DAT|Bearclaw Pinnacle|bearclaw_pinnacle|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\6.DAT|0|f_el|6|6|107|ROM3\0\6.DAT|Attohwa Chasm|attohwa_chasm|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\7.DAT|0|f_el|7|7|108|ROM3\0\7.DAT|Boneyard Gully|boneyard_gully|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\8.DAT|0|d_ga|8|8|109|ROM3\0\8.DAT|PsoXja|psoxja|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\9.DAT|0|d_ga|9|9|110|ROM3\0\9.DAT|The Shrouded Maw|the_shrouded_maw|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\10.DAT|0|d_go|10|10|111|ROM3\0\10.DAT|Oldton Movalpolos|oldton_movalpolos|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\11.DAT|0|d_go|11|11|112|ROM3\0\11.DAT|Newton Movalpolos|newton_movalpolos|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\12.DAT|0|d_go|12|12|113|ROM3\0\12.DAT|Mine Shaft 2716|mine_shaft_2716|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\13.DAT|0|d_cr|13|13|114|ROM3\0\13.DAT|Hall of Transference|hall_of_transference|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\15.DAT|0|d_ho|15|15|116|ROM3\0\15.DAT|Promyvion - Holla|promyvion_-_holla|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\16.DAT|0|d_ho|16|16|117|ROM3\0\16.DAT|Spire of Holla|spire_of_holla|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\17.DAT|0|d_de|17|17|118|ROM3\0\17.DAT|Promyvion - Dem|promyvion_-_dem|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\18.DAT|0|d_de|18|18|119|ROM3\0\18.DAT|Spire of Dem|spire_of_dem|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\19.DAT|0|d_me|19|19|120|ROM3\0\19.DAT|Promyvion - Mea|promyvion_-_mea|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\20.DAT|0|d_me|20|20|121|ROM3\0\20.DAT|Spire of Mea|spire_of_mea|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\21.DAT|0|d_va|21|21|122|ROM3\0\21.DAT|Promyvion - Vahzl|promyvion_-_vahzl|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\22.DAT|0|d_va|22|22|123|ROM3\0\22.DAT|Spire of Vahzl|spire_of_vahzl|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\23.DAT|0|f_ta|23|23|124|ROM3\0\23.DAT|Lufaise Meadows|lufaise_meadows|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\24.DAT|0|f_ta|24|24|125|ROM3\0\24.DAT|Misareaux Coast|misareaux_coast|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\25.DAT|0|t_ta|25|25|126|ROM3\0\25.DAT|Tavnazian Safehold|tavnazian_safehold|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\26.DAT|0|d_re|26|26|127|ROM3\0\26.DAT|Phomiuna Aqueducts|phomiuna_aqueducts|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\27.DAT|0|d_re|27|27|128|ROM3\0\27.DAT|Sacrarium|sacrarium|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\28.DAT|0|d_ba|28|28|129|ROM3\0\28.DAT|Riverne - Site B01|riverne_-_site_b01|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\29.DAT|0|d_ba|29|29|130|ROM3\0\29.DAT|Riverne - Site A01|riverne_-_site_a01|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\30.DAT|0|d_ba|30|30|131|ROM3\0\30.DAT|Monarch Linn|monarch_linn|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\31.DAT|0|d_sk|31|31|132|ROM3\0\31.DAT|Sealions Den|sealions_den|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\32.DAT|0|f_si|32|32|133|ROM3\0\32.DAT|AlTaieu|altaieu|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\33.DAT|0|d_si|33|33|134|ROM3\0\33.DAT|Grand Palace of HuXzoi|grand_palace_of_huxzoi|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\34.DAT|0|d_si|34|34|135|ROM3\0\34.DAT|The Garden of RuHmet|the_garden_of_ruhmet|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\0\35.DAT|0|d_si|35|35|136|ROM3\0\35.DAT|Empyreal Paradox|empyreal_paradox|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\3\82.DAT|3|d_li|466|82|137|ROM3\3\82.DAT|Temenos|temenos|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\5\1.DAT|5|wd_d|641|1|138|ROM3\5\1.DAT|Apollyon|apollyon|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\5\2.DAT|5|f_ki|642|2|139|ROM3\5\2.DAT|Dynamis - Valkurm|dynamis_-_valkurm|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\5\3.DAT|5|f_pa|643|3|140|ROM3\5\3.DAT|Dynamis - Buburimu|dynamis_-_buburimu|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\5\4.DAT|5|f_qu|644|4|141|ROM3\5\4.DAT|Dynamis - Qufim|dynamis_-_qufim|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\5\5.DAT|5|d_ct|645|5|142|ROM3\5\5.DAT|Dynamis - Tavnazia|dynamis_-_tavnazia|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\5\6.DAT|5|c_pv|646|6|143|ROM3\5\6.DAT|Diorama Abdhaljs-Ghelsba|diorama_abdhaljs-ghelsba|ROM3|3
+zones_chains_of_promathia.json|chains_of_promathia|ROM3\5\7.DAT|5|c_pv|647|7|144|ROM3\5\7.DAT|Abdhaljs Isle-Purgonorgo|abdhaljs_isle-purgonorgo|ROM3|3
+zones_rhapsodies.json|rhapsodies|ROM\332\99.DAT|332|f_li|42595|99|83923|ROM\332\99.DAT|Escha - ZiTah|escha_-_zitah|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\337\59.DAT|337|f_tu|43195|59|83924|ROM\337\59.DAT|Escha - RuAun|escha_-_ruaun|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\342\72.DAT|342|d_mo|43848|72|83925|ROM\342\72.DAT|Desuetia - Empyreal Paradox|desuetia_-_empyreal_paradox|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\342\73.DAT|342|f_hi|43849|73|83926|ROM\342\73.DAT|Reisenjima|reisenjima|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\351\58.DAT|351|f_hi|44986|58|83927|ROM\351\58.DAT|Reisenjima Henge|reisenjima_henge|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\342\74.DAT|342|d_hi|43850|74|83928|ROM\342\74.DAT|Reisenjima Sanctorium|reisenjima_sanctorium|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\354\109.DAT|354|d_ct|45421|109|83929|ROM\354\109.DAT|Dynamis - San dOria D|dynamis_-_san_doria_d|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\355\3.DAT|355|d_ct|45443|3|83930|ROM\355\3.DAT|Dynamis - Bastok D|dynamis_-_bastok_d|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\355\32.DAT|355|d_ct|45472|32|83931|ROM\355\32.DAT|Dynamis - Windurst D|dynamis_-_windurst_d|ROM|1
+zones_rhapsodies.json|rhapsodies|ROM\355\47.DAT|355|d_ct|45487|47|83932|ROM\355\47.DAT|Dynamis - Jeuno D|dynamis_-_jeuno_d|ROM|1
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\0.DAT|0|f_te|0|0|213|ROM2\0\0.DAT|Cape Teriggan|cape_teriggan|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\1.DAT|0|f_ri|1|1|214|ROM2\0\1.DAT|Eastern Altepa Desert|eastern_altepa_desert|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\2.DAT|0|f_li|2|2|221|ROM2\0\2.DAT|The Sanctuary of ZiTah|the_sanctuary_of_zitah|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\3.DAT|0|f_sh|3|3|222|ROM2\0\3.DAT|RoMaeve|romaeve|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\4.DAT|0|f_yu|4|4|223|ROM2\0\4.DAT|Yuhtunga Jungle|yuhtunga_jungle|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\5.DAT|0|f_yu|5|5|224|ROM2\0\5.DAT|Yhoator Jungle|yhoator_jungle|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\6.DAT|0|f_ri|6|6|225|ROM2\0\6.DAT|Western Altepa Desert|western_altepa_desert|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\7.DAT|0|f_te|7|7|228|ROM2\0\7.DAT|Valley of Sorrows|valley_of_sorrows|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\107.DAT|12|f_tu|1643|107|230|ROM2\12\107.DAT|RuAun Gardens|ruaun_gardens|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\108.DAT|12|f_ga|1644|108|234|ROM2\12\108.DAT|Dynamis - Beaucedine|dynamis_-_beaucedine|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\109.DAT|12|f_xa|1645|109|235|ROM2\12\109.DAT|Dynamis - Xarcabard|dynamis_-_xarcabard|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\8.DAT|0|d_bo|8|8|253|ROM2\0\8.DAT|The Boyahda Tree|the_boyahda_tree|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\9.DAT|0|d_bo|9|9|254|ROM2\0\9.DAT|Dragons Aery|dragons_aery|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\10.DAT|0|d_ug|10|10|259|ROM2\0\10.DAT|Temple of Uggalepih|temple_of_uggalepih|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\110.DAT|12|d_ug|1646|110|260|ROM2\12\110.DAT|Den of Rancor|den_of_rancor|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\111.DAT|12|d_ug|1647|111|263|ROM2\12\111.DAT|Sacrificial Chamber|sacrificial_chamber|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\11.DAT|0|d_al|11|11|268|ROM2\0\11.DAT|Chamber of Oracles|chamber_of_oracles|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\12.DAT|0|d_wi|12|12|270|ROM2\0\12.DAT|Full Moon Fountain|full_moon_fountain|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\13.DAT|0|d_co|13|13|273|ROM2\0\13.DAT|Korroloka Tunnel|korroloka_tunnel|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\14.DAT|0|d_co|14|14|274|ROM2\0\14.DAT|Kuftal Tunnel|kuftal_tunnel|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\15.DAT|0|d_no|15|15|276|ROM2\0\15.DAT|Sea Serpent Grotto|sea_serpent_grotto|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\112.DAT|12|d_be|1648|112|277|ROM2\12\112.DAT|VeLugannon Palace|velugannon_palace|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\113.DAT|12|d_be|1649|113|278|ROM2\12\113.DAT|The Shrine of RuAvitau|the_shrine_of_ruavitau|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\16.DAT|0|d_de|16|16|279|ROM2\0\16.DAT|Stellar Fulcrum|stellar_fulcrum|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\114.DAT|12|d_be|1650|114|280|ROM2\12\114.DAT|LaLoff Amphitheater|laloff_amphitheater|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\115.DAT|12|d_be|1651|115|281|ROM2\12\115.DAT|The Celestial Nexus|the_celestial_nexus|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\116.DAT|12|d_ct|1652|116|285|ROM2\12\116.DAT|Dynamis - San dOria|dynamis_-_san_doria|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\117.DAT|12|d_ct|1653|117|286|ROM2\12\117.DAT|Dynamis - Bastok|dynamis_-_bastok|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\118.DAT|12|d_ct|1654|118|287|ROM2\12\118.DAT|Dynamis - Windurst|dynamis_-_windurst|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\119.DAT|12|d_ct|1655|119|288|ROM2\12\119.DAT|Dynamis - Jeuno|dynamis_-_jeuno|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\17.DAT|0|d_ga|17|17|301|ROM2\0\17.DAT|Cloister of Gales|cloister_of_gales|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\18.DAT|0|d_ra|18|18|302|ROM2\0\18.DAT|Cloister of Storms|cloister_of_storms|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\19.DAT|0|d_sh|19|19|303|ROM2\0\19.DAT|Cloister of Frost|cloister_of_frost|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\20.DAT|0|d_yu|20|20|305|ROM2\0\20.DAT|Ifrits Cauldron|ifrits_cauldron|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\21.DAT|0|d_if|21|21|307|ROM2\0\21.DAT|Cloister of Flames|cloister_of_flames|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\120.DAT|12|d_ri|1656|120|308|ROM2\12\120.DAT|Quicksand Caves|quicksand_caves|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\22.DAT|0|d_ti|22|22|309|ROM2\0\22.DAT|Cloister of Tremors|cloister_of_tremors|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\23.DAT|0|d_le|23|23|311|ROM2\0\23.DAT|Cloister of Tides|cloister_of_tides|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\121.DAT|12|d_ki|1657|121|312|ROM2\12\121.DAT|Gustav Tunnel|gustav_tunnel|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\122.DAT|12|d_pa|1658|122|313|ROM2\12\122.DAT|Labyrinth of Onzozo|labyrinth_of_onzozo|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\24.DAT|0|s_em|24|24|326|ROM2\0\24.DAT|Kazham-Jeuno Airship|kazham-jeuno_airship|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\12\123.DAT|12|t_ri|1659|123|347|ROM2\12\123.DAT|Rabao|rabao|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\25.DAT|0|t_ka|25|25|350|ROM2\0\25.DAT|Kazham|kazham|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\21\114.DAT|21|wt_s|2802|114|351|ROM2\21\114.DAT|Hall of the Gods|hall_of_the_gods|ROM2|2
+zones_rize_of_zilart.json|rize_of_zilart|ROM2\0\27.DAT|0|t_no|27|27|352|ROM2\0\27.DAT|Norg|norg|ROM2|2
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\3.DAT|0|t_ad|3|3|83891|ROM9\0\3.DAT|Western Adoulin|western_adoulin|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\4.DAT|0|t_ad|4|4|83892|ROM9\0\4.DAT|Eastern Adoulin|eastern_adoulin|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\5.DAT|0|d_la|5|5|83893|ROM9\0\5.DAT|Rala Waterways|rala_waterways|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\6.DAT|0|d_la|6|6|83894|ROM9\0\6.DAT|Rala Waterways U|rala_waterways_u|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\7.DAT|0|f_ya|7|7|83895|ROM9\0\7.DAT|Yahse Hunting Grounds|yahse_hunting_grounds|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\8.DAT|0|f_ke|8|8|83896|ROM9\0\8.DAT|Ceizak Battlegrounds|ceizak_battlegrounds|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\9.DAT|0|f_en|9|9|83897|ROM9\0\9.DAT|Foret de Hennetiel|foret_de_hennetiel|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\10.DAT|0|f_yo|10|10|83898|ROM9\0\10.DAT|Yorcia Weald|yorcia_weald|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\11.DAT|0|f_yo|11|11|83899|ROM9\0\11.DAT|Yorcia Weald U|yorcia_weald_u|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\12.DAT|0|f_mo|12|12|83900|ROM9\0\12.DAT|Morimar Basalt Fields|morimar_basalt_fields|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\13.DAT|0|f_ma|13|13|83901|ROM9\0\13.DAT|Marjami Ravine|marjami_ravine|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\14.DAT|0|f_ka|14|14|83902|ROM9\0\14.DAT|Kamihr Drifts|kamihr_drifts|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\15.DAT|0|d_si|15|15|83903|ROM9\0\15.DAT|Sih Gates|sih_gates|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\16.DAT|0|d_bo|16|16|83904|ROM9\0\16.DAT|Moh Gates|moh_gates|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\17.DAT|0|d_si|17|17|83905|ROM9\0\17.DAT|Cirdas Caverns|cirdas_caverns|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\18.DAT|0|d_si|18|18|83906|ROM9\0\18.DAT|Cirdas Caverns U|cirdas_caverns_u|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\19.DAT|0|d_su|19|19|83907|ROM9\0\19.DAT|Dho Gates|dho_gates|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\20.DAT|0|d_pi|20|20|83908|ROM9\0\20.DAT|Woh Gates|woh_gates|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\21.DAT|0|d_me|21|21|83909|ROM9\0\21.DAT|Outer RaKaznar|outer_rakaznar|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\22.DAT|0|d_me|22|22|83910|ROM9\0\22.DAT|Outer RaKaznar U|outer_rakaznar_u|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\23.DAT|0|d_me|23|23|83911|ROM9\0\23.DAT|RaKaznar Inner Court|rakaznar_inner_court|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\0\24.DAT|0|d_me|24|24|83912|ROM9\0\24.DAT|RaKaznar Turris|rakaznar_turris|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM\309\10.DAT|309|m_ad|39562|10|83915|ROM\309\10.DAT|Mog Garden|mog_garden|ROM|1
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM9\8\10.DAT|8|f_ka|1034|10|83916|ROM9\8\10.DAT|Leafallia|leafallia|ROM9|9
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM\315\102.DAT|315|f_ka|40422|102|83917|ROM\315\102.DAT|Mount Kamihr|mount_kamihr|ROM|1
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM\303\26.DAT|303|t_ad|38810|26|83919|ROM\303\26.DAT|Celennia Memorial Library|celennia_memorial_library|ROM|1
+zones_seekers_of_adoulin.json|seekers_of_adoulin|ROM\306\54.DAT|306|t_mn|39222|54|83920|ROM\306\54.DAT|Feretory|feretory|ROM|1
+zones_subrooms.json|subrooms|ROM3\7\49.DAT|7|r_1s|945|49|651|ROM3\7\49.DAT|AlTaieu|altaieu|ROM3|3
+zones_subrooms.json|subrooms|ROM3\7\50.DAT|7|r_1s|946|50|652|ROM3\7\50.DAT|AlTaieu|altaieu|ROM3|3
+zones_subrooms.json|subrooms|ROM3\7\51.DAT|7|r_1s|947|51|653|ROM3\7\51.DAT|AlTaieu|altaieu|ROM3|3
+zones_subrooms.json|subrooms|ROM3\7\52.DAT|7|r_1s|948|52|654|ROM3\7\52.DAT|AlTaieu|altaieu|ROM3|3
+zones_subrooms.json|subrooms|ROM4\0\39.DAT|0|r_2g|39|39|660|ROM4\0\39.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\40.DAT|0|r_2g|40|40|661|ROM4\0\40.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\41.DAT|0|r_2g|41|41|662|ROM4\0\41.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\42.DAT|0|r_2g|42|42|663|ROM4\0\42.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\43.DAT|0|r_2g|43|43|664|ROM4\0\43.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\44.DAT|0|r_2g|44|44|665|ROM4\0\44.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\45.DAT|0|r_2g|45|45|666|ROM4\0\45.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\46.DAT|0|r_2g|46|46|667|ROM4\0\46.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\47.DAT|0|r_2g|47|47|668|ROM4\0\47.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\48.DAT|0|r_2g|48|48|669|ROM4\0\48.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\49.DAT|0|r_2g|49|49|670|ROM4\0\49.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\39.DAT|0|r_2g|39|39|660|ROM4\0\39.DAT|Aht_Urhgan_Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_subrooms.json|subrooms|ROM4\0\50.DAT|0|r_3g|50|50|671|ROM4\0\50.DAT|Nashmau|nashmau|ROM4|4
+zones_subrooms.json|subrooms|ROM4\4\123.DAT|4|r_1p|635|123|674|ROM4\4\123.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\4\124.DAT|4|r_1p|636|124|675|ROM4\4\124.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\4\125.DAT|4|r_1p|637|125|676|ROM4\4\125.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\4\126.DAT|4|r_1p|638|126|677|ROM4\4\126.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\4\127.DAT|4|r_1p|639|127|678|ROM4\4\127.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\5\0.DAT|5|r_1p|640|0|679|ROM4\5\0.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\5\1.DAT|5|r_1p|641|1|680|ROM4\5\1.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\5\2.DAT|5|r_1p|642|2|681|ROM4\5\2.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\5\3.DAT|5|r_1p|643|3|682|ROM4\5\3.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\5\4.DAT|5|r_1p|644|4|683|ROM4\5\4.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM4\4\126.DAT|4|r_1p|638|126|677|ROM4\4\126.DAT|Arrapago_Reef|arrapago_reef|ROM4|4
+zones_subrooms.json|subrooms|ROM2\21\115.DAT|21|r_1s|2803|115|622|ROM2\21\115.DAT|RoMaeve|romaeve|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\116.DAT|21|r_1s|2804|116|623|ROM2\21\116.DAT|RoMaeve|romaeve|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\116.DAT|21|r_1s|2804|116|623|ROM2\21\116.DAT|RoMaeve|romaeve|ROM2|2
+zones_subrooms.json|subrooms|ROM2\15\124.DAT|15|r_1s|2044|124|618|ROM2\15\124.DAT|RoMaeve|romaeve|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\115.DAT|21|r_1s|2803|115|622|ROM2\21\115.DAT|RoMaeve|romaeve|ROM2|2
+zones_subrooms.json|subrooms|ROM2\15\124.DAT|15|r_1s|2044|124|618|ROM2\15\124.DAT|RoMaeve|romaeve|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\117.DAT|21|r_1t|2805|117|624|ROM2\21\117.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\124.DAT|21|r_1t|2812|124|631|ROM2\21\124.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\125.DAT|21|r_1t|2813|125|632|ROM2\21\125.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\126.DAT|21|r_1t|2814|126|633|ROM2\21\126.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\127.DAT|21|r_1t|2815|127|634|ROM2\21\127.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\22\0.DAT|22|r_1t|2816|0|635|ROM2\22\0.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\22\1.DAT|22|r_1t|2817|1|636|ROM2\22\1.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\22\2.DAT|22|r_1t|2818|2|637|ROM2\22\2.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\22\3.DAT|22|r_1t|2819|3|638|ROM2\22\3.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\22\4.DAT|22|r_1t|2820|4|639|ROM2\22\4.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\118.DAT|21|r_1t|2806|118|625|ROM2\21\118.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\119.DAT|21|r_1t|2807|119|626|ROM2\21\119.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\120.DAT|21|r_1t|2808|120|627|ROM2\21\120.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\121.DAT|21|r_1t|2809|121|628|ROM2\21\121.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\121.DAT|21|r_1t|2809|121|628|ROM2\21\121.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\122.DAT|21|r_1t|2810|122|629|ROM2\21\122.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\122.DAT|21|r_1t|2810|122|629|ROM2\21\122.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM2\21\123.DAT|21|r_1t|2811|123|630|ROM2\21\123.DAT|RuAun_Gardens|ruaun_gardens|ROM2|2
+zones_subrooms.json|subrooms|ROM\1\114.DAT|1|r_1s|242|114|438|ROM\1\114.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\114.DAT|1|r_1s|242|114|438|ROM\1\114.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\118.DAT|1|r_1s|246|118|442|ROM\1\118.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\118.DAT|1|r_1s|246|118|442|ROM\1\118.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\119.DAT|1|r_1s|247|119|443|ROM\1\119.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\119.DAT|1|r_1s|247|119|443|ROM\1\119.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\113.DAT|1|r_1s|241|113|437|ROM\1\113.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\113.DAT|1|r_1s|241|113|437|ROM\1\113.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\111.DAT|1|r_1s|239|111|435|ROM\1\111.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\117.DAT|1|r_1s|245|117|441|ROM\1\117.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\117.DAT|1|r_1s|245|117|441|ROM\1\117.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\110.DAT|1|r_1s|238|110|433|ROM\1\110.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\110.DAT|1|r_1s|238|110|433|ROM\1\110.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\112.DAT|1|r_1s|240|112|436|ROM\1\112.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\112.DAT|1|r_1s|240|112|436|ROM\1\112.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\106.DAT|1|r_1s|234|106|429|ROM\1\106.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\108.DAT|1|r_1s|236|108|431|ROM\1\108.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\108.DAT|1|r_1s|236|108|431|ROM\1\108.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\109.DAT|1|r_1s|237|109|432|ROM\1\109.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\109.DAT|1|r_1s|237|109|432|ROM\1\109.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\116.DAT|1|r_1s|244|116|440|ROM\1\116.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\116.DAT|1|r_1s|244|116|440|ROM\1\116.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\115.DAT|1|r_1s|243|115|439|ROM\1\115.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\115.DAT|1|r_1s|243|115|439|ROM\1\115.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\120.DAT|1|r_1s|248|120|444|ROM\1\120.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\120.DAT|1|r_1s|248|120|444|ROM\1\120.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\105.DAT|1|r_1s|233|105|428|ROM\1\105.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\107.DAT|1|r_1s|235|107|430|ROM\1\107.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\107.DAT|1|r_1s|235|107|430|ROM\1\107.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\103.DAT|1|r_1s|231|103|426|ROM\1\103.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\104.DAT|1|r_1s|232|104|427|ROM\1\104.DAT|Southern_San_dOria|southern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\1.DAT|2|r_2s|257|1|457|ROM\2\1.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\2.DAT|2|r_2s|258|2|458|ROM\2\2.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\0.DAT|2|r_2s|256|0|456|ROM\2\0.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\125.DAT|1|r_2s|253|125|453|ROM\1\125.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\3.DAT|2|r_2s|259|3|459|ROM\2\3.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\5.DAT|2|r_2s|261|5|461|ROM\2\5.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\121.DAT|1|r_2s|249|121|449|ROM\1\121.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\124.DAT|1|r_2s|252|124|452|ROM\1\124.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\122.DAT|1|r_2s|250|122|450|ROM\1\122.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\127.DAT|1|r_2s|255|127|455|ROM\1\127.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\4.DAT|2|r_2s|260|4|460|ROM\2\4.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\123.DAT|1|r_2s|251|123|451|ROM\1\123.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\1\126.DAT|1|r_2s|254|126|454|ROM\1\126.DAT|Northern_San_dOria|northern_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\9.DAT|2|r_3s|265|9|467|ROM\2\9.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\10.DAT|2|r_3s|266|10|468|ROM\2\10.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\9.DAT|2|r_3s|265|9|467|ROM\2\9.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\10.DAT|2|r_3s|266|10|468|ROM\2\10.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\6.DAT|2|r_3s|262|6|464|ROM\2\6.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\6.DAT|2|r_3s|262|6|464|ROM\2\6.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\6.DAT|2|r_3s|262|6|464|ROM\2\6.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\8.DAT|2|r_3s|264|8|466|ROM\2\8.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\7.DAT|2|r_3s|263|7|465|ROM\2\7.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\11.DAT|2|r_3s|267|11|469|ROM\2\11.DAT|Port_San_dOria|port_san_doria|ROM|1
+zones_subrooms.json|subrooms|ROM\2\13.DAT|2|r_4s|269|13|472|ROM\2\13.DAT|Chateau_dOraguille|chateau_doraguille|ROM|1
+zones_subrooms.json|subrooms|ROM\2\12.DAT|2|r_4s|268|12|471|ROM\2\12.DAT|Chateau_dOraguille|chateau_doraguille|ROM|1
+zones_subrooms.json|subrooms|ROM\2\16.DAT|2|r_4s|272|16|475|ROM\2\16.DAT|Chateau_dOraguille|chateau_doraguille|ROM|1
+zones_subrooms.json|subrooms|ROM\2\15.DAT|2|r_4s|271|15|474|ROM\2\15.DAT|Chateau_dOraguille|chateau_doraguille|ROM|1
+zones_subrooms.json|subrooms|ROM\2\17.DAT|2|r_4s|273|17|476|ROM\2\17.DAT|Chateau_dOraguille|chateau_doraguille|ROM|1
+zones_subrooms.json|subrooms|ROM\2\14.DAT|2|r_4s|270|14|473|ROM\2\14.DAT|Chateau_dOraguille|chateau_doraguille|ROM|1
+zones_subrooms.json|subrooms|ROM\1\50.DAT|1|r_1b|178|50|361|ROM\1\50.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\51.DAT|1|r_1b|179|51|362|ROM\1\51.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\52.DAT|1|r_1b|180|52|363|ROM\1\52.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\60.DAT|1|r_1b|188|60|371|ROM\1\60.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\55.DAT|1|r_1b|183|55|366|ROM\1\55.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\54.DAT|1|r_1b|182|54|365|ROM\1\54.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\56.DAT|1|r_1b|184|56|367|ROM\1\56.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\59.DAT|1|r_1b|187|59|370|ROM\1\59.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\57.DAT|1|r_1b|185|57|368|ROM\1\57.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\58.DAT|1|r_1b|186|58|369|ROM\1\58.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\53.DAT|1|r_1b|181|53|364|ROM\1\53.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\49.DAT|1|r_1b|177|49|360|ROM\1\49.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\49.DAT|1|r_1b|177|49|360|ROM\1\49.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\48.DAT|1|r_1b|176|48|359|ROM\1\48.DAT|Bastok_Mines|bastok_mines|ROM|1
+zones_subrooms.json|subrooms|ROM\1\70.DAT|1|r_2b|198|70|383|ROM\1\70.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\64.DAT|1|r_2b|192|64|377|ROM\1\64.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\61.DAT|1|r_2b|189|61|374|ROM\1\61.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\67.DAT|1|r_2b|195|67|380|ROM\1\67.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\71.DAT|1|r_2b|199|71|384|ROM\1\71.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\69.DAT|1|r_2b|197|69|382|ROM\1\69.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\65.DAT|1|r_2b|193|65|378|ROM\1\65.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\68.DAT|1|r_2b|196|68|381|ROM\1\68.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\62.DAT|1|r_2b|190|62|375|ROM\1\62.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\63.DAT|1|r_2b|191|63|376|ROM\1\63.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\66.DAT|1|r_2b|194|66|379|ROM\1\66.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\72.DAT|1|r_2b|200|72|385|ROM\1\72.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\73.DAT|1|r_2b|201|73|386|ROM\1\73.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\74.DAT|1|r_2b|202|74|387|ROM\1\74.DAT|Bastok_Markets|bastok_markets|ROM|1
+zones_subrooms.json|subrooms|ROM\1\100.DAT|1|r_3b|228|100|421|ROM\1\100.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\98.DAT|1|r_3b|226|98|419|ROM\1\98.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\101.DAT|1|r_3b|229|101|422|ROM\1\101.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\102.DAT|1|r_3b|230|102|423|ROM\1\102.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\96.DAT|1|r_3b|224|96|417|ROM\1\96.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\99.DAT|1|r_3b|227|99|420|ROM\1\99.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\95.DAT|1|r_3b|223|95|416|ROM\1\95.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\95.DAT|1|r_3b|223|95|416|ROM\1\95.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\95.DAT|1|r_3b|223|95|416|ROM\1\95.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\95.DAT|1|r_3b|223|95|416|ROM\1\95.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\96.DAT|1|r_3b|224|96|417|ROM\1\96.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\99.DAT|1|r_3b|227|99|420|ROM\1\99.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\97.DAT|1|r_3b|225|97|418|ROM\1\97.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\94.DAT|1|r_3b|222|94|415|ROM\1\94.DAT|Port_Bastok|port_bastok|ROM|1
+zones_subrooms.json|subrooms|ROM\1\79.DAT|1|r_4b|207|79|397|ROM\1\79.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\78.DAT|1|r_4b|206|78|396|ROM\1\78.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\80.DAT|1|r_4b|208|80|398|ROM\1\80.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\90.DAT|1|r_4b|218|90|408|ROM\1\90.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\88.DAT|1|r_4b|216|88|406|ROM\1\88.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\87.DAT|1|r_4b|215|87|405|ROM\1\87.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\85.DAT|1|r_4b|213|85|403|ROM\1\85.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\85.DAT|1|r_4b|213|85|403|ROM\1\85.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\91.DAT|1|r_4b|219|91|409|ROM\1\91.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\86.DAT|1|r_4b|214|86|404|ROM\1\86.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\89.DAT|1|r_4b|217|89|407|ROM\1\89.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\93.DAT|1|r_4b|221|93|411|ROM\1\93.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\77.DAT|1|r_4b|205|77|395|ROM\1\77.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\81.DAT|1|r_4b|209|81|399|ROM\1\81.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\83.DAT|1|r_4b|211|83|401|ROM\1\83.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\84.DAT|1|r_4b|212|84|402|ROM\1\84.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\75.DAT|1|r_4b|203|75|393|ROM\1\75.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\76.DAT|1|r_4b|204|76|394|ROM\1\76.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\82.DAT|1|r_4b|210|82|400|ROM\1\82.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\1\92.DAT|1|r_4b|220|92|410|ROM\1\92.DAT|Metalworks|metalworks|ROM|1
+zones_subrooms.json|subrooms|ROM\2\22.DAT|2|r_1w|278|22|483|ROM\2\22.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\23.DAT|2|r_1w|279|23|484|ROM\2\23.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\28.DAT|2|r_1w|284|28|489|ROM\2\28.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\29.DAT|2|r_1w|285|29|490|ROM\2\29.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\30.DAT|2|r_1w|286|30|491|ROM\2\30.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\31.DAT|2|r_1w|287|31|492|ROM\2\31.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\32.DAT|2|r_1w|288|32|493|ROM\2\32.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\34.DAT|2|r_1w|290|34|495|ROM\2\34.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\37.DAT|2|r_1w|293|37|498|ROM\2\37.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\38.DAT|2|r_1w|294|38|499|ROM\2\38.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\23.DAT|2|r_1w|279|23|484|ROM\2\23.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\19.DAT|2|r_1w|275|19|480|ROM\2\19.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\20.DAT|2|r_1w|276|20|481|ROM\2\20.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\18.DAT|2|r_1w|274|18|479|ROM\2\18.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\21.DAT|2|r_1w|277|21|482|ROM\2\21.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\24.DAT|2|r_1w|280|24|485|ROM\2\24.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\25.DAT|2|r_1w|281|25|486|ROM\2\25.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\33.DAT|2|r_1w|289|33|494|ROM\2\33.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\26.DAT|2|r_1w|282|26|487|ROM\2\26.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\27.DAT|2|r_1w|283|27|488|ROM\2\27.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\35.DAT|2|r_1w|291|35|496|ROM\2\35.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\36.DAT|2|r_1w|292|36|497|ROM\2\36.DAT|Windurst_Waters|windurst_waters|ROM|1
+zones_subrooms.json|subrooms|ROM\2\39.DAT|2|r_2w|295|39|501|ROM\2\39.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\40.DAT|2|r_2w|296|40|502|ROM\2\40.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\41.DAT|2|r_2w|297|41|503|ROM\2\41.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\42.DAT|2|r_2w|298|42|504|ROM\2\42.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\43.DAT|2|r_2w|299|43|505|ROM\2\43.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\44.DAT|2|r_2w|300|44|506|ROM\2\44.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\45.DAT|2|r_2w|301|45|507|ROM\2\45.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\45.DAT|2|r_2w|301|45|507|ROM\2\45.DAT|Windurst_Walls|windurst_walls|ROM|1
+zones_subrooms.json|subrooms|ROM\2\46.DAT|2|r_3w|302|46|508|ROM\2\46.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\46.DAT|2|r_3w|302|46|508|ROM\2\46.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\47.DAT|2|r_3w|303|47|509|ROM\2\47.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\47.DAT|2|r_3w|303|47|509|ROM\2\47.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\48.DAT|2|r_3w|304|48|510|ROM\2\48.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\49.DAT|2|r_3w|305|49|511|ROM\2\49.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\49.DAT|2|r_3w|305|49|511|ROM\2\49.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\50.DAT|2|r_3w|306|50|512|ROM\2\50.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\51.DAT|2|r_3w|307|51|513|ROM\2\51.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\52.DAT|2|r_3w|308|52|516|ROM\2\52.DAT|Port_Windurst|port_windurst|ROM|1
+zones_subrooms.json|subrooms|ROM\2\56.DAT|2|r_4w|312|56|520|ROM\2\56.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\53.DAT|2|r_4w|309|53|517|ROM\2\53.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\60.DAT|2|r_4w|316|60|524|ROM\2\60.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\55.DAT|2|r_4w|311|55|519|ROM\2\55.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\54.DAT|2|r_4w|310|54|518|ROM\2\54.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\57.DAT|2|r_4w|313|57|521|ROM\2\57.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\59.DAT|2|r_4w|315|59|523|ROM\2\59.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\58.DAT|2|r_4w|314|58|522|ROM\2\58.DAT|Windurst_Woods|windurst_woods|ROM|1
+zones_subrooms.json|subrooms|ROM\2\61.DAT|2|r_5w|317|61|525|ROM\2\61.DAT|Heavens_Tower|heavens_tower|ROM|1
+zones_subrooms.json|subrooms|ROM\2\62.DAT|2|r_5w|318|62|526|ROM\2\62.DAT|Heavens_Tower|heavens_tower|ROM|1
+zones_subrooms.json|subrooms|ROM\2\62.DAT|2|r_5w|318|62|526|ROM\2\62.DAT|Heavens_Tower|heavens_tower|ROM|1
+zones_subrooms.json|subrooms|ROM\2\62.DAT|2|r_5w|318|62|526|ROM\2\62.DAT|Heavens_Tower|heavens_tower|ROM|1
+zones_subrooms.json|subrooms|ROM\2\63.DAT|2|r_5w|319|63|527|ROM\2\63.DAT|Heavens_Tower|heavens_tower|ROM|1
+zones_subrooms.json|subrooms|ROM\2\63.DAT|2|r_5w|319|63|527|ROM\2\63.DAT|Heavens_Tower|heavens_tower|ROM|1
+zones_subrooms.json|subrooms|ROM\2\64.DAT|2|r_5w|320|64|528|ROM\2\64.DAT|Heavens_Tower|heavens_tower|ROM|1
+zones_subrooms.json|subrooms|ROM\2\65.DAT|2|r_1j|321|65|531|ROM\2\65.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\67.DAT|2|r_1j|323|67|533|ROM\2\67.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\69.DAT|2|r_1j|325|69|535|ROM\2\69.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\72.DAT|2|r_1j|328|72|538|ROM\2\72.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\73.DAT|2|r_1j|329|73|539|ROM\2\73.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\75.DAT|2|r_1j|331|75|541|ROM\2\75.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\74.DAT|2|r_1j|330|74|540|ROM\2\74.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\65.DAT|2|r_1j|321|65|531|ROM\2\65.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\66.DAT|2|r_1j|322|66|532|ROM\2\66.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\67.DAT|2|r_1j|323|67|533|ROM\2\67.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\68.DAT|2|r_1j|324|68|534|ROM\2\68.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\69.DAT|2|r_1j|325|69|535|ROM\2\69.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\70.DAT|2|r_1j|326|70|536|ROM\2\70.DAT|RuLude_Gardens|rulude_gardens|ROM|1
+zones_subrooms.json|subrooms|ROM\2\80.DAT|2|r_2j|336|80|547|ROM\2\80.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\85.DAT|2|r_2j|341|85|552|ROM\2\85.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\79.DAT|2|r_2j|335|79|546|ROM\2\79.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\82.DAT|2|r_2j|338|82|549|ROM\2\82.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\83.DAT|2|r_2j|339|83|550|ROM\2\83.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\84.DAT|2|r_2j|340|84|551|ROM\2\84.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\81.DAT|2|r_2j|337|81|548|ROM\2\81.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\76.DAT|2|r_2j|332|76|543|ROM\2\76.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\78.DAT|2|r_2j|334|78|545|ROM\2\78.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\77.DAT|2|r_2j|333|77|544|ROM\2\77.DAT|Upper_Jeuno|upper_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\87.DAT|2|r_3j|343|87|555|ROM\2\87.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\88.DAT|2|r_3j|344|88|556|ROM\2\88.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\87.DAT|2|r_3j|343|87|555|ROM\2\87.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\89.DAT|2|r_3j|345|89|557|ROM\2\89.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\88.DAT|2|r_3j|344|88|556|ROM\2\88.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\96.DAT|2|r_3j|352|96|564|ROM\2\96.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\96.DAT|2|r_3j|352|96|564|ROM\2\96.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\94.DAT|2|r_3j|350|94|562|ROM\2\94.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\90.DAT|2|r_3j|346|90|558|ROM\2\90.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\93.DAT|2|r_3j|349|93|561|ROM\2\93.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\91.DAT|2|r_3j|347|91|559|ROM\2\91.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\92.DAT|2|r_3j|348|92|560|ROM\2\92.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\92.DAT|2|r_3j|348|92|560|ROM\2\92.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\95.DAT|2|r_3j|351|95|563|ROM\2\95.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\97.DAT|2|r_3j|353|97|565|ROM\2\97.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\98.DAT|2|r_3j|354|98|566|ROM\2\98.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\86.DAT|2|r_3j|342|86|554|ROM\2\86.DAT|Lower_Jeuno|lower_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\101.DAT|2|r_4j|357|101|570|ROM\2\101.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\122.DAT|2|r_4j|378|122|595|ROM\2\122.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\104.DAT|2|r_4j|360|104|573|ROM\2\104.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\125.DAT|2|r_4j|381|125|598|ROM\2\125.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\123.DAT|2|r_4j|379|123|596|ROM\2\123.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\102.DAT|2|r_4j|358|102|571|ROM\2\102.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\124.DAT|2|r_4j|380|124|597|ROM\2\124.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\103.DAT|2|r_4j|359|103|572|ROM\2\103.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\101.DAT|2|r_4j|357|101|570|ROM\2\101.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\122.DAT|2|r_4j|378|122|595|ROM\2\122.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\104.DAT|2|r_4j|360|104|573|ROM\2\104.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\125.DAT|2|r_4j|381|125|598|ROM\2\125.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\123.DAT|2|r_4j|379|123|596|ROM\2\123.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\102.DAT|2|r_4j|358|102|571|ROM\2\102.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\124.DAT|2|r_4j|380|124|597|ROM\2\124.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\103.DAT|2|r_4j|359|103|572|ROM\2\103.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\99.DAT|2|r_4j|355|99|568|ROM\2\99.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\100.DAT|2|r_4j|356|100|569|ROM\2\100.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\105.DAT|2|r_4j|361|105|574|ROM\2\105.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\108.DAT|2|r_4j|364|108|577|ROM\2\108.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\107.DAT|2|r_4j|363|107|576|ROM\2\107.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\106.DAT|2|r_4j|362|106|575|ROM\2\106.DAT|Port_Jeuno|port_jeuno|ROM|1
+zones_subrooms.json|subrooms|ROM\2\113.DAT|2|r_1s|369|113|584|ROM\2\113.DAT|Selbina|selbina|ROM|1
+zones_subrooms.json|subrooms|ROM\2\109.DAT|2|r_1s|365|109|580|ROM\2\109.DAT|Selbina|selbina|ROM|1
+zones_subrooms.json|subrooms|ROM\2\110.DAT|2|r_1s|366|110|581|ROM\2\110.DAT|Selbina|selbina|ROM|1
+zones_subrooms.json|subrooms|ROM\2\111.DAT|2|r_1s|367|111|582|ROM\2\111.DAT|Selbina|selbina|ROM|1
+zones_subrooms.json|subrooms|ROM\2\114.DAT|2|r_1s|370|114|585|ROM\2\114.DAT|Selbina|selbina|ROM|1
+zones_subrooms.json|subrooms|ROM\2\115.DAT|2|r_1m|371|115|587|ROM\2\115.DAT|Mhaura|mhaura|ROM|1
+zones_subrooms.json|subrooms|ROM\2\117.DAT|2|r_1m|373|117|589|ROM\2\117.DAT|Mhaura|mhaura|ROM|1
+zones_subrooms.json|subrooms|ROM\2\121.DAT|2|r_1m|377|121|593|ROM\2\121.DAT|Mhaura|mhaura|ROM|1
+zones_subrooms.json|subrooms|ROM\2\116.DAT|2|r_1m|372|116|588|ROM\2\116.DAT|Mhaura|mhaura|ROM|1
+zones_subrooms.json|subrooms|ROM\2\118.DAT|2|r_1m|374|118|590|ROM\2\118.DAT|Mhaura|mhaura|ROM|1
+zones_subrooms.json|subrooms|ROM\2\119.DAT|2|r_1m|375|119|591|ROM\2\119.DAT|Mhaura|mhaura|ROM|1
+zones_subrooms.json|subrooms|ROM\2\119.DAT|2|r_1m|375|119|591|ROM\2\119.DAT|Mhaura|mhaura|ROM|1
+zones_subrooms.json|subrooms|ROM2\0\29.DAT|0|r_1k|29|29|606|ROM2\0\29.DAT|Kazham|kazham|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\30.DAT|0|r_1k|30|30|607|ROM2\0\30.DAT|Kazham|kazham|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\31.DAT|0|r_1k|31|31|608|ROM2\0\31.DAT|Kazham|kazham|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\32.DAT|0|r_1k|32|32|609|ROM2\0\32.DAT|Kazham|kazham|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\33.DAT|0|r_1k|33|33|610|ROM2\0\33.DAT|Kazham|kazham|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\34.DAT|0|r_1k|34|34|611|ROM2\0\34.DAT|Kazham|kazham|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\35.DAT|0|r_1k|35|35|612|ROM2\0\35.DAT|Kazham|kazham|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\37.DAT|0|r_1n|37|37|615|ROM2\0\37.DAT|Norg|norg|ROM2|2
+zones_subrooms.json|subrooms|ROM2\0\36.DAT|0|r_1n|36|36|614|ROM2\0\36.DAT|Norg|norg|ROM2|2
+zones_subrooms.json|subrooms|ROM9\5\49.DAT|5|r_1a|689|49|685|ROM9\5\49.DAT|Western_Adoulin|western_adoulin|ROM9|9
+zones_subrooms.json|subrooms|ROM9\5\50.DAT|5|r_1a|690|50|686|ROM9\5\50.DAT|Western_Adoulin|western_adoulin|ROM9|9
+zones_subrooms.json|subrooms|ROM9\5\52.DAT|5|r_1a|692|52|688|ROM9\5\52.DAT|Western_Adoulin|western_adoulin|ROM9|9
+zones_subrooms.json|subrooms|ROM9\5\51.DAT|5|r_1a|691|51|687|ROM9\5\51.DAT|Western_Adoulin|western_adoulin|ROM9|9
+zones_subrooms.json|subrooms|ROM9\3\84.DAT|3|r_2a|468|84|689|ROM9\3\84.DAT|Eastern_Adoulin|eastern_adoulin|ROM9|9
+zones_subrooms.json|subrooms|ROM9\3\85.DAT|3|r_2a|469|85|690|ROM9\3\85.DAT|Eastern_Adoulin|eastern_adoulin|ROM9|9
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\0.DAT|0|s_gg|0|0|146|ROM4\0\0.DAT|Open sea route to Al Zahbi|open_sea_route_to_al_zahbi|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\1.DAT|0|s_gg|1|1|147|ROM4\0\1.DAT|Open sea route to Mhaura|open_sea_route_to_mhaura|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\2.DAT|0|d_gu|2|2|148|ROM4\0\2.DAT|Al Zahbi|al_zahbi|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\3.DAT|0|t_gu|3|3|150|ROM4\0\3.DAT|Aht Urhgan Whitegate|aht_urhgan_whitegate|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\1\99.DAT|1|wf_g|227|99|151|ROM4\1\99.DAT|Wajaom Woodlands|wajaom_woodlands|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\7\55.DAT|7|wf_g|951|55|152|ROM4\7\55.DAT|Bhaflau Thickets|bhaflau_thickets|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\6.DAT|0|t_gu|6|6|153|ROM4\0\6.DAT|Nashmau|nashmau|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\7.DAT|0|d_pa|7|7|154|ROM4\0\7.DAT|Arrapago Reef|arrapago_reef|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\8.DAT|0|d_pa|8|8|155|ROM4\0\8.DAT|Ilrusi Atoll|ilrusi_atoll|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\9.DAT|0|d_pa|9|9|156|ROM4\0\9.DAT|Periqia|periqia|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\10.DAT|0|d_pa|10|10|157|ROM4\0\10.DAT|Talacca Cove|talacca_cove|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\11.DAT|0|s_go|11|11|158|ROM4\0\11.DAT|Silver Sea route to Nashmau|silver_sea_route_to_nashmau|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\12.DAT|0|s_go|12|12|159|ROM4\0\12.DAT|Silver Sea route to Al Zahbi|silver_sea_route_to_al_zahbi|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\13.DAT|0|s_gs|13|13|160|ROM4\0\13.DAT|The Ashu Talif|the_ashu_talif|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\14.DAT|0|f_ma|14|14|161|ROM4\0\14.DAT|Mount Zhayolm|mount_zhayolm|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\15.DAT|0|d_ma|15|15|162|ROM4\0\15.DAT|Halvung|halvung|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\16.DAT|0|d_ma|16|16|163|ROM4\0\16.DAT|Lebros Cavern|lebros_cavern|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\17.DAT|0|d_ma|17|17|164|ROM4\0\17.DAT|Navukgo Execution Chamber|navukgo_execution_chamber|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\18.DAT|0|d_ri|18|18|165|ROM4\0\18.DAT|Mamook|mamook|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\19.DAT|0|d_ri|19|19|166|ROM4\0\19.DAT|Mamool Ja Training Grounds|mamool_ja_training_grounds|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\20.DAT|0|d_ri|20|20|167|ROM4\0\20.DAT|Jade Sepulcher|jade_sepulcher|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\21.DAT|0|d_ri|21|21|168|ROM4\0\21.DAT|Aydeewa Subterrane|aydeewa_subterrane|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\22.DAT|0|d_ri|22|22|169|ROM4\0\22.DAT|Leujaoam Sanctum|leujaoam_sanctum|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\5\106.DAT|5|wt_c|746|106|170|ROM4\5\106.DAT|Chocobo Circuit|chocobo_circuit|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\24.DAT|0|d_cr|24|24|171|ROM4\0\24.DAT|The Colosseum|the_colosseum|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\25.DAT|0|d_at|25|25|172|ROM4\0\25.DAT|Alzadaal Undersea Ruins|alzadaal_undersea_ruins|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\26.DAT|0|d_at|26|26|173|ROM4\0\26.DAT|Zhayolm Remnants|zhayolm_remnants|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\27.DAT|0|d_at|27|27|174|ROM4\0\27.DAT|Arrapago Remnants|arrapago_remnants|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\28.DAT|0|d_at|28|28|175|ROM4\0\28.DAT|Bhaflau Remnants|bhaflau_remnants|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\29.DAT|0|d_at|29|29|176|ROM4\0\29.DAT|Silver Sea Remnants|silver_sea_remnants|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\30.DAT|0|d_at|30|30|177|ROM4\0\30.DAT|Nyzul Isle|nyzul_isle|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\31.DAT|0|d_ug|31|31|178|ROM4\0\31.DAT|Hazhalm Testing Grounds|hazhalm_testing_grounds|ROM4|4
+zones_treasures_of_aht_urhgan.json|treasures_of_aht_urhgan|ROM4\0\32.DAT|0|f_go|32|32|179|ROM4\0\32.DAT|Caedarva Mire|caedarva_mire|ROM4|4
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\0.DAT|0|d_sa|0|0|180|ROM5\0\0.DAT|Southern San dOria S|southern_san_doria_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\1.DAT|0|f_ro|1|1|181|ROM5\0\1.DAT|East Ronfaure S|east_ronfaure_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\2.DAT|0|f_ju|2|2|182|ROM5\0\2.DAT|Jugner Forest S|jugner_forest_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\3.DAT|0|f_gi|3|3|183|ROM5\0\3.DAT|Vunkerl Inlet S|vunkerl_inlet_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\4.DAT|0|f_no|4|4|184|ROM5\0\4.DAT|Batallia Downs S|batallia_downs_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\5.DAT|0|d_da|5|5|185|ROM5\0\5.DAT|La Vaule S|la_vaule_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\6.DAT|0|d_la|6|6|186|ROM5\0\6.DAT|Everbloom Hollow|everbloom_hollow|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\7.DAT|0|d_ba|7|7|187|ROM5\0\7.DAT|Bastok Markets S|bastok_markets_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\8.DAT|0|f_gu|8|8|188|ROM5\0\8.DAT|North Gustaberg S|north_gustaberg_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\9.DAT|0|f_dr|9|9|189|ROM5\0\9.DAT|Grauberg S|grauberg_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\10.DAT|0|f_or|10|10|190|ROM5\0\10.DAT|Pashhow Marshlands S|pashhow_marshlands_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\11.DAT|0|f_ro|11|11|191|ROM5\0\11.DAT|Rolanberry Fields S|rolanberry_fields_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\12.DAT|0|d_be|12|12|192|ROM5\0\12.DAT|Beadeaux S|beadeaux_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\13.DAT|0|d_ko|13|13|193|ROM5\0\13.DAT|Ruhotz Silvermines|ruhotz_silvermines|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\14.DAT|0|d_wi|14|14|194|ROM5\0\14.DAT|Windurst Waters S|windurst_waters_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\15.DAT|0|f_sa|15|15|195|ROM5\0\15.DAT|West Sarutabaruta S|west_sarutabaruta_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\16.DAT|0|f_cr|16|16|196|ROM5\0\16.DAT|Fort Karugo-Narugo S|fort_karugo-narugo_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\17.DAT|0|f_me|17|17|197|ROM5\0\17.DAT|Meriphataud Mountains S|meriphataud_mountains_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\18.DAT|0|f_al|18|18|198|ROM5\0\18.DAT|Sauromugue Champaign S|sauromugue_champaign_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\19.DAT|0|d_oz|19|19|199|ROM5\0\19.DAT|Castle Oztroja S|castle_oztroja_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\20.DAT|0|d_el|20|20|229|ROM5\0\20.DAT|Ghoyus Reverie|ghoyus_reverie|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\21.DAT|0|f_ga|21|21|236|ROM5\0\21.DAT|Beaucedine Glacier S|beaucedine_glacier_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\22.DAT|0|f_xa|22|22|237|ROM5\0\22.DAT|Xarcabard S|xarcabard_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\23.DAT|0|d_zv|23|23|238|ROM5\0\23.DAT|Castle Zvahl Baileys S|castle_zvahl_baileys_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\24.DAT|0|d_zv|24|24|255|ROM5\0\24.DAT|Castle Zvahl Keep S|castle_zvahl_keep_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\25.DAT|0|d_zv|25|25|256|ROM5\0\25.DAT|Throne Room S|throne_room_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\26.DAT|0|d_al|26|26|264|ROM5\0\26.DAT|Garlaige Citadel S|garlaige_citadel_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\27.DAT|0|d_ro|27|27|271|ROM5\0\27.DAT|Crawlers Nest S|crawlers_nest_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\28.DAT|0|d_no|28|28|275|ROM5\0\28.DAT|The Eldieme Necropolis S|the_eldieme_necropolis_s|ROM5|5
+zones_wings_of_the_goddess.json|wings_of_the_goddess|ROM5\0\29.DAT|0|d_at|29|29|282|ROM5\0\29.DAT|Walk of Echoes|walk_of_echoes|ROM5|5

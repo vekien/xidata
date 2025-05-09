@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/67.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/91.DAT",
+        "ModelID": 15,
+        "FileID": 26407,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/118.DAT",
+        "ModelID": 7,
+        "FileID": 26655,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/27.DAT",
+        "ModelID": 0,
+        "FileID": 26904,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/62.DAT",
+        "ModelID": 3,
+        "FileID": 27164,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/96.DAT",
+        "ModelID": 7,
+        "FileID": 27423,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17739797",
+        "name": "Belizieg",
+        "zone": "Bastok_Markets",
+        "look": "010003080F100720003003400750006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "253",
+            "x": "-323.673",
+            "y": "-15.001",
+            "z": "-49.930"
+        }
+    }
+}

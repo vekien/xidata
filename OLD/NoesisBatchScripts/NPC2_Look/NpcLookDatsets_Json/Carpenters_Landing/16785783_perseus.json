@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/88.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/131\/18.DAT",
+        "ModelID": 77,
+        "FileID": 7189,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/131\/35.DAT",
+        "ModelID": 77,
+        "FileID": 7445,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/131\/52.DAT",
+        "ModelID": 77,
+        "FileID": 7701,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/131\/69.DAT",
+        "ModelID": 77,
+        "FileID": 7957,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/131\/85.DAT",
+        "ModelID": 77,
+        "FileID": 8213,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo9_",
+        "Race": "Hume Male",
+        "Path": "ROM\/30\/123.DAT",
+        "ModelID": 278,
+        "FileID": 8670,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_lshie",
+        "Race": "Hume Male",
+        "Path": "ROM\/155\/82.DAT",
+        "ModelID": 51,
+        "FileID": 41250,
+        "Type": "Shield"
+    },
+    "ranged": null,
+    "data": {
+        "id": "16785783",
+        "name": "Perseus",
+        "zone": "Carpenters_Landing",
+        "look": "010001014D104D204D304D404D50166133700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/39.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/57.DAT",
+        "ModelID": 6,
+        "FileID": 13470,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/89.DAT",
+        "ModelID": 6,
+        "FileID": 13726,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/5.DAT",
+        "ModelID": 6,
+        "FileID": 13982,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/36.DAT",
+        "ModelID": 6,
+        "FileID": 14238,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/67.DAT",
+        "ModelID": 6,
+        "FileID": 14494,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17723510",
+        "name": "Mevaloud",
+        "zone": "Northern_San_dOria",
+        "look": "0100030306100620063006400650006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "122",
+            "x": "9.960",
+            "y": "-0.199",
+            "z": "-9.012"
+        }
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/91.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/11.DAT",
+        "ModelID": 4,
+        "FileID": 7372,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/56.DAT",
+        "ModelID": 4,
+        "FileID": 7628,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/101.DAT",
+        "ModelID": 17,
+        "FileID": 7897,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/5.DAT",
+        "ModelID": 17,
+        "FileID": 8153,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17780981",
+        "name": "Domenic",
+        "zone": "Lower_Jeuno",
+        "look": "0100040100100420043011401150006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "227",
+            "x": "32.776",
+            "y": "-0.100",
+            "z": "-15.281"
+        }
+    }
+}

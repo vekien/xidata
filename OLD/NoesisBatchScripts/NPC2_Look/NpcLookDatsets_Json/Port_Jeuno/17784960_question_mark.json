@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/90.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/158\/82.DAT",
+        "ModelID": 161,
+        "FileID": 7529,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/97.DAT",
+        "ModelID": 104,
+        "FileID": 7728,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/108.DAT",
+        "ModelID": 24,
+        "FileID": 7904,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/12.DAT",
+        "ModelID": 24,
+        "FileID": 8160,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17784960",
+        "name": "???",
+        "zone": "Port_Jeuno",
+        "look": "010003010010A120683018401850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "192",
+            "x": "5.187",
+            "y": "0.000",
+            "z": "6.898"
+        }
+    }
+}

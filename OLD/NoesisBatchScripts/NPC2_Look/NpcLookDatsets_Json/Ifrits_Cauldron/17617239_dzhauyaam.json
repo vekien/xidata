@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/101.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/134\/71.DAT",
+        "ModelID": 91,
+        "FileID": 23307,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/134\/89.DAT",
+        "ModelID": 91,
+        "FileID": 23563,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/134\/107.DAT",
+        "ModelID": 91,
+        "FileID": 23819,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/99\/73.DAT",
+        "ModelID": 91,
+        "FileID": 24076,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/135\/14.DAT",
+        "ModelID": 91,
+        "FileID": 24331,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_spea7",
+        "Race": "Mithra",
+        "Path": "ROM\/54\/64.DAT",
+        "ModelID": 217,
+        "FileID": 24713,
+        "Type": "Polearm"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17617239",
+        "name": "Dzhau Yaam",
+        "zone": "Ifrits_Cauldron",
+        "look": "010007075B105B205B305B405B50D96000700000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

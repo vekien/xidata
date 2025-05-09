@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/56.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/22.DAT",
+        "ModelID": 5,
+        "FileID": 20077,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/84.DAT",
+        "ModelID": 23,
+        "FileID": 20351,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/115.DAT",
+        "ModelID": 23,
+        "FileID": 20607,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/18.DAT",
+        "ModelID": 23,
+        "FileID": 20863,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17253039",
+        "name": "Pore-Ohre",
+        "zone": "East_Sarutabaruta",
+        "look": "0100010500100520173017401750006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "173",
+            "x": "262.275",
+            "y": "-17.249",
+            "z": "-459.613"
+        }
+    }
+}

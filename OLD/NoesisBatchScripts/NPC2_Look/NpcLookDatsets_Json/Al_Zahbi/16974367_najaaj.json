@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/94.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/37.DAT",
+        "ModelID": 96,
+        "FileID": 7464,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/38.DAT",
+        "ModelID": 96,
+        "FileID": 7720,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/39.DAT",
+        "ModelID": 96,
+        "FileID": 7976,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/40.DAT",
+        "ModelID": 96,
+        "FileID": 8232,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974367",
+        "name": "Najaaj",
+        "zone": "Al_Zahbi",
+        "look": "0100070100106020603060406050006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "128",
+            "x": "61.563",
+            "y": "0.000",
+            "z": "36.264"
+        }
+    }
+}

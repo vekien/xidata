@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/68.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/84.DAT",
+        "ModelID": 5,
+        "FileID": 26397,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/29.DAT",
+        "ModelID": 2,
+        "FileID": 26906,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_axe5_",
+        "Race": "Galka",
+        "Path": "ROM\/58\/32.DAT",
+        "ModelID": 87,
+        "FileID": 27759,
+        "Type": "Axe"
+    },
+    "sub": {
+        "Identifier": "hf_lshi2",
+        "Race": "Galka",
+        "Path": "ROM\/60\/7.DAT",
+        "ModelID": 30,
+        "FileID": 48909,
+        "Type": "Shield"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17212068",
+        "name": "Heavy Fog, I.M.",
+        "zone": "North_Gustaberg",
+        "look": "010004080510022002300240025057601E700000",
+        "content": "",
+        "pos": {
+            "rotation": "205",
+            "x": "-520.704",
+            "y": "39.750",
+            "z": "560.258"
+        }
+    }
+}

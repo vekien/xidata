@@ -1,0 +1,33 @@
+Open sea route to Al Zahbi	ROM4/0/0.DAT
+Open sea route to Mhaura	ROM4/0/1.DAT
+Al Zahbi	ROM4/0/2.DAT
+Aht Urhgan Whitegate	ROM4/0/3.DAT
+Wajaom Woodlands	ROM4/1/99.DAT
+Bhaflau Thickets	ROM4/7/55.DAT
+Nashmau	ROM4/0/6.DAT
+Arrapago Reef	ROM4/0/7.DAT
+Ilrusi Atoll	ROM4/0/8.DAT
+Periqia	ROM4/0/9.DAT
+Talacca Cove	ROM4/0/10.DAT
+Silver Sea route to Nashmau	ROM4/0/11.DAT
+Silver Sea route to Al Zahbi	ROM4/0/12.DAT
+The Ashu Talif	ROM4/0/13.DAT
+Mount Zhayolm	ROM4/0/14.DAT
+Halvung	ROM4/0/15.DAT
+Lebros Cavern	ROM4/0/16.DAT
+Navukgo Execution Chamber	ROM4/0/17.DAT
+Mamook	ROM4/0/18.DAT
+Mamool Ja Training Grounds	ROM4/0/19.DAT
+Jade Sepulcher	ROM4/0/20.DAT
+Aydeewa Subterrane	ROM4/0/21.DAT
+Leujaoam Sanctum	ROM4/0/22.DAT
+Chocobo Circuit	ROM4/5/106.DAT
+The Colosseum	ROM4/0/24.DAT
+Alzadaal Undersea Ruins	ROM4/0/25.DAT
+Zhayolm Remnants	ROM4/0/26.DAT
+Arrapago Remnants	ROM4/0/27.DAT
+Bhaflau Remnants	ROM4/0/28.DAT
+Silver Sea Remnants	ROM4/0/29.DAT
+Nyzul Isle	ROM4/0/30.DAT
+Hazhalm Testing Grounds	ROM4/0/31.DAT
+Caedarva Mire	ROM4/0/32.DAT

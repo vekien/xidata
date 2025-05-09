@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/19.DAT",
+        "ModelID": 2,
+        "FileID": 20074,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/63.DAT",
+        "ModelID": 2,
+        "FileID": 20330,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/94.DAT",
+        "ModelID": 2,
+        "FileID": 20586,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/125.DAT",
+        "ModelID": 2,
+        "FileID": 20842,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17756259",
+        "name": "Shinchai-Tocchai",
+        "zone": "Windurst_Walls",
+        "look": "0100020500100220023002400250006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "249",
+            "x": "-220.551",
+            "y": "0.999",
+            "z": "-116.916"
+        }
+    }
+}

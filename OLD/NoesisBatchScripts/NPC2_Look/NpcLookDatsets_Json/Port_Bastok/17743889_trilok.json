@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/90.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/13.DAT",
+        "ModelID": 6,
+        "FileID": 7374,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/58.DAT",
+        "ModelID": 6,
+        "FileID": 7630,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/91.DAT",
+        "ModelID": 7,
+        "FileID": 7887,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/123.DAT",
+        "ModelID": 7,
+        "FileID": 8143,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17743889",
+        "name": "Trilok",
+        "zone": "Port_Bastok",
+        "look": "0100030100100620063007400750006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "96",
+            "x": "-163.787",
+            "y": "-7.482",
+            "z": "5.594"
+        }
+    }
+}

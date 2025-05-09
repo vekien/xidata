@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/69.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/82.DAT",
+        "ModelID": 4,
+        "FileID": 10292,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/115.DAT",
+        "ModelID": 4,
+        "FileID": 10548,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/98\/67.DAT",
+        "ModelID": 88,
+        "FileID": 10888,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/98\/71.DAT",
+        "ModelID": 88,
+        "FileID": 11144,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/98\/75.DAT",
+        "ModelID": 88,
+        "FileID": 11400,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17793104",
+        "name": "Yomi",
+        "zone": "Selbina",
+        "look": "0100060204100420583058405850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "0.000",
+            "y": "0.000",
+            "z": "0.000"
+        }
+    }
+}

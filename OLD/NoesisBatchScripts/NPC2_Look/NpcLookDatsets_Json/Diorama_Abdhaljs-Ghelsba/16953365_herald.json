@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/97.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/125\/61.DAT",
+        "ModelID": 96,
+        "FileID": 23312,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/56.DAT",
+        "ModelID": 44,
+        "FileID": 23516,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/83.DAT",
+        "ModelID": 58,
+        "FileID": 23786,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/92.DAT",
+        "ModelID": 58,
+        "FileID": 24043,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/121\/99.DAT",
+        "ModelID": 58,
+        "FileID": 24298,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_wand5",
+        "Race": "Mithra",
+        "Path": "ROM\/55\/23.DAT",
+        "ModelID": 304,
+        "FileID": 24800,
+        "Type": "Staff"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16953365",
+        "name": "Herald",
+        "zone": "Diorama_Abdhaljs-Ghelsba",
+        "look": "0100030760102C203A303A403A50306100700000",
+        "content": "",
+        "pos": {
+            "rotation": "3",
+            "x": "-203.652",
+            "y": "-10.000",
+            "z": "252.509"
+        }
+    }
+}

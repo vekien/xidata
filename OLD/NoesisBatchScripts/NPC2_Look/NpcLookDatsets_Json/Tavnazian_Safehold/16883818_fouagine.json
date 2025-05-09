@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/13.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/49.DAT",
+        "ModelID": 28,
+        "FileID": 16668,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/129\/74.DAT",
+        "ModelID": 110,
+        "FileID": 17006,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/144\/68.DAT",
+        "ModelID": 131,
+        "FileID": 17283,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/144\/71.DAT",
+        "ModelID": 128,
+        "FileID": 17536,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/126\/115.DAT",
+        "ModelID": 104,
+        "FileID": 17768,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_clw5_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/44\/21.DAT",
+        "ModelID": 131,
+        "FileID": 18051,
+        "Type": "Hand2Hand"
+    },
+    "sub": {
+        "Identifier": "hf_clw5_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/45\/111.DAT",
+        "ModelID": 131,
+        "FileID": 45170,
+        "Type": "Hand2Hand"
+    },
+    "ranged": null,
+    "data": {
+        "id": "16883818",
+        "name": "Fouagine",
+        "zone": "Tavnazian_Safehold",
+        "look": "010004041C106E20833080406850836083700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "124",
+            "x": "25.313",
+            "y": "-35.911",
+            "z": "-20.944"
+        }
+    }
+}

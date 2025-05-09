@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/11.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/63.DAT",
+        "ModelID": 7,
+        "FileID": 16903,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/104.DAT",
+        "ModelID": 4,
+        "FileID": 17156,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/8.DAT",
+        "ModelID": 5,
+        "FileID": 17413,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/36.DAT",
+        "ModelID": 2,
+        "FileID": 17666,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17772546",
+        "name": "Jima",
+        "zone": "RuLude_Gardens",
+        "look": "0100020400100720043005400250006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "193",
+            "x": "-32.167",
+            "y": "8.999",
+            "z": "-74.322"
+        }
+    }
+}

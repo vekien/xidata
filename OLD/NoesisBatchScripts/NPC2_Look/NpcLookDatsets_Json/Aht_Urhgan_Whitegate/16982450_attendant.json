@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/88.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/45.DAT",
+        "ModelID": 38,
+        "FileID": 7406,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/52.DAT",
+        "ModelID": 0,
+        "FileID": 7624,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/143\/94.DAT",
+        "ModelID": 131,
+        "FileID": 8011,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/125\/40.DAT",
+        "ModelID": 96,
+        "FileID": 8232,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982450",
+        "name": "Attendant",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100010100102620003083406050006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "128",
+            "x": "187.590",
+            "y": "-6.000",
+            "z": "-84.760"
+        }
+    }
+}

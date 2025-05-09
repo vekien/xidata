@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/70.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/84.DAT",
+        "ModelID": 5,
+        "FileID": 26397,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/29.DAT",
+        "ModelID": 2,
+        "FileID": 26906,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/104.DAT",
+        "ModelID": 15,
+        "FileID": 27431,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo4_",
+        "Race": "Galka",
+        "Path": "ROM\/59\/77.DAT",
+        "ModelID": 260,
+        "FileID": 27932,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_shie3",
+        "Race": "Galka",
+        "Path": "ROM\/60\/22.DAT",
+        "ModelID": 45,
+        "FileID": 48924,
+        "Type": "Katana"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17248838",
+        "name": "Slow Axe, I.M.",
+        "zone": "West_Sarutabaruta",
+        "look": "0100060805100220023002400F5004612D700000",
+        "content": "",
+        "pos": {
+            "rotation": "68",
+            "x": "399.450",
+            "y": "-24.858",
+            "z": "727.545"
+        }
+    }
+}

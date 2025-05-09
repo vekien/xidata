@@ -1,0 +1,10 @@
+Abyssea - Konschtat	ROM/240/106.DAT
+Abyssea - Tahrongi	ROM/240/107.DAT
+Abyssea - La Theine	ROM/240/108.DAT
+Abyssea - Attohwa	ROM/254/7.DAT
+Abyssea - Misareaux	ROM/254/8.DAT
+Abyssea - Vunkerl	ROM/254/9.DAT
+Abyssea - Altepa	ROM/258/110.DAT
+Abyssea - Uleguerand	ROM/258/111.DAT
+Abyssea - Grauberg	ROM/258/112.DAT
+Abyssea - Empyreal Paradox	ROM/258/113.DAT

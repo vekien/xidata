@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/90.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/20.DAT",
+        "ModelID": 174,
+        "FileID": 7286,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/22.DAT",
+        "ModelID": 171,
+        "FileID": 7539,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/25.DAT",
+        "ModelID": 171,
+        "FileID": 7795,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/158\/13.DAT",
+        "ModelID": 159,
+        "FileID": 8039,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/158\/14.DAT",
+        "ModelID": 159,
+        "FileID": 8295,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982047",
+        "name": "Zhamwaa",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000301AE10AB20AB309F409F50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "0",
+            "x": "-103.323",
+            "y": "0.001",
+            "z": "-76.504"
+        }
+    }
+}

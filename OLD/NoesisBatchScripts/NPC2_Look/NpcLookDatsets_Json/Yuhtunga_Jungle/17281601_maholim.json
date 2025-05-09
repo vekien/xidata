@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/64.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/83.DAT",
+        "ModelID": 5,
+        "FileID": 10293,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/50.DAT",
+        "ModelID": 22,
+        "FileID": 10822,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/65.DAT",
+        "ModelID": 5,
+        "FileID": 11061,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/97.DAT",
+        "ModelID": 5,
+        "FileID": 11317,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_rap4_",
+        "Race": "Hume Female",
+        "Path": "ROM\/35\/9.DAT",
+        "ModelID": 188,
+        "FileID": 11756,
+        "Type": "Sword"
+    },
+    "sub": {
+        "Identifier": "hf_rap3_",
+        "Race": "Hume Female",
+        "Path": "ROM\/110\/104.DAT",
+        "ModelID": 184,
+        "FileID": 42663,
+        "Type": "Sword"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17281601",
+        "name": "Mahol, I.M.",
+        "zone": "Yuhtunga_Jungle",
+        "look": "0100010205100520163005400550BC60B8700000",
+        "content": "",
+        "pos": {
+            "rotation": "191",
+            "x": "-242.487",
+            "y": "0.000",
+            "z": "-402.772"
+        }
+    }
+}

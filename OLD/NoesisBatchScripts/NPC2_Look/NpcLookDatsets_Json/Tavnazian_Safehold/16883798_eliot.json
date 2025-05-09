@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/88.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/119.DAT",
+        "ModelID": 20,
+        "FileID": 7132,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/46.DAT",
+        "ModelID": 39,
+        "FileID": 7407,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/75.DAT",
+        "ModelID": 23,
+        "FileID": 7647,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/105.DAT",
+        "ModelID": 21,
+        "FileID": 7901,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/9.DAT",
+        "ModelID": 21,
+        "FileID": 8157,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883798",
+        "name": "Eliot",
+        "zone": "Tavnazian_Safehold",
+        "look": "0100010114102720173015401550006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "191",
+            "x": "-115.348",
+            "y": "-27.250",
+            "z": "-42.060"
+        }
+    }
+}

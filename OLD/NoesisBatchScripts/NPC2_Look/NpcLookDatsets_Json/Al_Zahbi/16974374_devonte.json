@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/88.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/33.DAT",
+        "ModelID": 26,
+        "FileID": 7394,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/78.DAT",
+        "ModelID": 26,
+        "FileID": 7650,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/110.DAT",
+        "ModelID": 26,
+        "FileID": 7906,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/14.DAT",
+        "ModelID": 26,
+        "FileID": 8162,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo6_",
+        "Race": "Hume Male",
+        "Path": "ROM\/30\/113.DAT",
+        "ModelID": 268,
+        "FileID": 8660,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974374",
+        "name": "Devonte",
+        "zone": "Al_Zahbi",
+        "look": "0100010100101A201A301A401A500C6100700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "167",
+            "x": "29.449",
+            "y": "0.000",
+            "z": "142.671"
+        }
+    }
+}

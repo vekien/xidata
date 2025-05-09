@@ -1,0 +1,196 @@
+@elvaan_female
+42/9,F1A
+42/10,F1B
+42/11,F2A
+42/12,F2B
+42/13,F3A
+42/14,F3B
+42/15,F4A
+42/16,F4B
+42/17,F5A
+42/18,F5B
+42/19,F6A
+42/20,F6B
+42/21,F7A
+42/22,F7B
+42/23,F8A
+42/24,F8B
+143/22,Mannequin
+168/96,Curilla
+186/66,Fomor
+200/91,Areuhat
+
+@elvaan_male
+37/36,F1A
+37/37,F1B
+37/38,F2A
+37/39,F2B
+37/40,F3A
+37/41,F3B
+37/42,F4A
+37/43,F4B
+37/44,F5A
+37/45,F5B
+37/46,F6A
+37/47,F6B
+37/48,F7A
+37/49,F7B
+37/50,F8A
+37/51,F8B
+143/17,Mannequin
+137/47,Fomor
+3/8/37,Fomer 2
+196/16,Valaineral R Davilles
+239/34,Unknown
+239/44,Unknown
+
+@galka
+56/64,F1A
+56/65,F1B
+56/66,F2A
+56/67,F2B
+56/68,F3A
+56/69,F3B
+56/70,F4A
+56/71,F4B
+56/72,F5A
+56/73,F5B
+56/74,F6A
+56/75,F6B
+56/76,F7A
+56/77,F7B
+56/78,F8A
+56/79,F8B
+143/42,Mannequin
+154/87,Fomor
+3/8/40,Fomor 2
+255/0,Unknown
+
+@hume_female
+32/63,F1A
+32/64,F1B
+32/65,F2A
+32/66,F2B
+32/67,F3A
+32/68,F3B
+32/69,F4A
+32/70,F4B
+32/71,F5A
+32/72,F5B
+32/73,F6A
+32/74,F6B
+32/75,F7A
+32/76,F7B
+32/77,F8A
+32/78,F8B
+143/12,Mannequin
+196/15,Elvira
+200/78,Fomor
+204/86,Portia
+239/33,Unknown
+
+@hume_male
+27/87,F1A
+27/88,F1B
+27/89,F2A
+27/90,F2B
+27/91,F3A
+27/92,F3B
+27/93,F4A
+27/94,F4B
+27/95,F5A
+27/96,F5B
+27/97,F6A
+27/98,F6B
+27/99,F7A
+27/100,F7B
+27/101,F8A
+27/102,F8B
+143/7,Mannequin
+154/48,Fomor
+3/8/36,Fomor 2
+200/71,Maximilian
+239/38,Unknown
+
+@lil_boy
+61/65,Hume blonde hair
+61/66,Hume brunette hair
+61/67,Elvaan hair 1
+61/68,Elvaan hair 2
+61/69,Elvaan hair 3
+61/70,Elvaan hair 4
+
+@lil_girl
+61/36,Hume brunette hair
+61/37,Hume blonde hair
+61/38,Elvaan silver hair
+61/39,Elvaan red hair
+
+@lil_mithra
+61/95,Normal 1
+61/98,Normal 2
+61/96,White 1
+61/97,White 2
+
+@mithra
+51/94,F1A
+51/95,F1B
+51/96,F2A
+51/97,F2B
+51/98,F3A
+51/99,F3B
+51/100,F4A
+51/101,F4B
+51/102,F5A
+51/103,F5B
+51/104,F6A
+51/105,F6B
+51/106,F7A
+51/107,F7B
+51/108,F8A
+51/109,F8B
+143/37,Mannequin
+154/80,Fomor
+3/8/39,Fomor 2
+196/17,Haja Zhwan
+223/49,Unknown
+
+@tarutaru
+51/55,Female F1A
+51/56,Female F1B
+51/57,Female F2A
+51/58,Female F2B
+51/59,Female F3A
+51/60,Female F3B
+51/61,Female F4A
+51/62,Female F4B
+51/63,Female F5A
+51/64,Female F5B
+51/65,Female F6A
+51/66,Female F6B
+51/67,Female F7A
+51/68,Female F7B
+51/69,Female F8A
+51/70,Female F8B
+143/33,Female Mannequin
+46/98,Male F1A
+46/99,Male F1B
+46/100,Male F2A
+46/101,Male F2B
+46/102,Male F3A
+46/103,Male F3B
+46/104,Male F4A
+46/105,Male F4B
+46/106,Male F5A
+46/107,Male F5B
+46/108,Male F6A
+46/109,Male F6B
+46/110,Male F7A
+46/111,Male F7B
+46/112,Male F8A
+46/113,Male F8B
+143/27,Male Mannequin
+154/73,Fomor
+3/8/38,Fomor 2
+196/19,Robel-Akbel
+225/4,Unknown

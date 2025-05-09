@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/64.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/80.DAT",
+        "ModelID": 1,
+        "FileID": 10289,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/112.DAT",
+        "ModelID": 1,
+        "FileID": 10545,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/29.DAT",
+        "ModelID": 1,
+        "FileID": 10801,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/61.DAT",
+        "ModelID": 1,
+        "FileID": 11057,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/93.DAT",
+        "ModelID": 1,
+        "FileID": 11313,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17764506",
+        "name": "Hlif",
+        "zone": "Windurst_Woods",
+        "look": "0100010201100120013001400150006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "229",
+            "x": "140.088",
+            "y": "-6.250",
+            "z": "-139.616"
+        }
+    }
+}

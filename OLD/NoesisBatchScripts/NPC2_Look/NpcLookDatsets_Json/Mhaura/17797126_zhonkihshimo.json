@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/21.DAT",
+        "ModelID": 8,
+        "FileID": 23480,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/57.DAT",
+        "ModelID": 0,
+        "FileID": 23728,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/92.DAT",
+        "ModelID": 3,
+        "FileID": 23988,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/12.DAT",
+        "ModelID": 21,
+        "FileID": 24261,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17797126",
+        "name": "Zhon Kihshimo",
+        "zone": "Mhaura",
+        "look": "0100010700100820003003401550006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "64",
+            "x": "19.416",
+            "y": "-8.000",
+            "z": "69.215"
+        }
+    }
+}

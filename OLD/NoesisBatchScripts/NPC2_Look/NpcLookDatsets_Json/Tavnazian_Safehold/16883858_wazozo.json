@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/62.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Female",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/16.DAT",
+        "ModelID": 36,
+        "FileID": 19852,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/47.DAT",
+        "ModelID": 31,
+        "FileID": 20103,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/91.DAT",
+        "ModelID": 31,
+        "FileID": 20359,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/122.DAT",
+        "ModelID": 31,
+        "FileID": 20615,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/48\/25.DAT",
+        "ModelID": 31,
+        "FileID": 20871,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883858",
+        "name": "Wazozo",
+        "zone": "Tavnazian_Safehold",
+        "look": "0100070624101F201F301F401F50006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "185",
+            "x": "82.285",
+            "y": "-33.981",
+            "z": "65.050"
+        }
+    }
+}

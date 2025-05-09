@@ -1,0 +1,885 @@
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ability.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton Weapon Skills.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlackMagic.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlueMagic.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Corsair.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect1.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect2.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect3.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect4.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect5.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect6.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect7.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect8.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect9.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Geomancer.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\index.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Item.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ninjutsu.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Others.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Skillchain.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Song.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\SummoningMagic.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown Effects.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\WhiteMagic.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Elvaan_Female.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Elvaan_Male.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Galka.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Hume_Female.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Hume_Male.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Mithra.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Tarutaru.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\abyssea.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\campaign.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\cs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\dynamis.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ffxi.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\goddess.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\index.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\other.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\promathia.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\rhapsodies.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\salvage.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\seekers.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\skirmish.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\treasures.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ui.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\unused.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\zilart.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\index.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music1.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music2.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music3.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music4.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music5.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music6.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music9.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\abyssea.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\amorphs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\aquans.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\arcana.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\avatars.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beastmen.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beasts.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\birds.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\chairs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\creatures.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\demons.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\dragons.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\elementals.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\empty.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\event.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\gods.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\index.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\lizards.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\misc.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\mounts.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\naakuals.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\npcs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\objects.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\odyssey.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\peculiar_foes.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\plantoids.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\sea.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\test.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\trusts.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\undead.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\unidentified.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\vermin.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Main.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Motion.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Range.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Sub.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\WS.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Main.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Motion.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Range.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Sub.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\WS.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Main.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Motion.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Range.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Sub.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\WS.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Main.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Motion.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Range.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Sub.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\WS.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Main.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Motion.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Range.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Sub.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\WS.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\index.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Main.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Motion.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Range.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Sub.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\WS.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Action.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Body.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Face.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Feet.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Hands.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Head.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Legs.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Main.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Motion.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Range.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Sub.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\WS.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookNpcData.csv
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookTable.json
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Abyssea.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_BaseGame.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_ChainsOfPromathia.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Rhapsodies.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_RizeOfZilart.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_SeekersOfAdoulin.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_TreasuresOfAhtUrhgan.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_WingsOfTheGoddess.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\ZoneRoomsDats.txt
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookQuery.sql
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe.config
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.pdb
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Gma.System.MouseKeyHook.dll
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.dll
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.dll
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.dll
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.xml
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.pdb
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.pdb
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.AssemblyReference.cache
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.SuggestedBindingRedirects.cache
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Form1.resources
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Properties.Resources.resources
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.GenerateResource.cache
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CoreCompileInputs.cache
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CopyComplete
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.exe
+X:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.pdb
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ability.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton Weapon Skills.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlackMagic.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlueMagic.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Corsair.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect1.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect2.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect3.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect4.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect5.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect6.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect7.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect8.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect9.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Geomancer.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\index.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Item.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ninjutsu.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Others.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Skillchain.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Song.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\SummoningMagic.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown Effects.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\WhiteMagic.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Elvaan_Female.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Elvaan_Male.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Galka.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Hume_Female.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Hume_Male.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Mithra.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaListAnims\Animations_Tarutaru.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\abyssea.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\campaign.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\cs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\dynamis.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ffxi.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\goddess.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\index.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\other.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\promathia.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\rhapsodies.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\salvage.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\seekers.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\skirmish.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\treasures.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ui.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\unused.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\zilart.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\index.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music1.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music2.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music3.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music4.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music5.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music6.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music9.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\abyssea.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\amorphs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\aquans.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\arcana.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\avatars.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beastmen.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beasts.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\birds.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\chairs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\creatures.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\demons.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\dragons.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\elementals.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\empty.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\event.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\gods.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\index.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\lizards.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\misc.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\mounts.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\naakuals.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\npcs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\objects.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\odyssey.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\peculiar_foes.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\plantoids.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\sea.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\test.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\trusts.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\undead.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\unidentified.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\vermin.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Main.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Motion.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Range.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Sub.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\WS.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Main.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Motion.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Range.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Sub.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\WS.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Main.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Motion.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Range.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Sub.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\WS.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Main.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Motion.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Range.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Sub.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\WS.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Main.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Motion.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Range.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Sub.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\WS.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\index.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Main.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Motion.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Range.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Sub.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\WS.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Action.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Body.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Face.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Feet.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Hands.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Head.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Legs.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Main.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Motion.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Range.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Sub.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\WS.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookNpcData.csv
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookTable.json
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Abyssea.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_BaseGame.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_ChainsOfPromathia.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Rhapsodies.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_RizeOfZilart.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_SeekersOfAdoulin.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_TreasuresOfAhtUrhgan.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_WingsOfTheGoddess.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\ZoneRoomsDats.txt
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookQuery.sql
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe.config
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.pdb
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Gma.System.MouseKeyHook.dll
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.dll
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.dll
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.dll
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.xml
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.pdb
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.pdb
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.AssemblyReference.cache
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.SuggestedBindingRedirects.cache
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Form1.resources
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Properties.Resources.resources
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.GenerateResource.cache
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CoreCompileInputs.cache
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CopyComplete
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.exe
+E:\project-vr\Scripts\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.pdb
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ability.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton Weapon Skills.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlackMagic.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlueMagic.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Corsair.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect1.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect2.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect3.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect4.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect5.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect6.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect7.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect8.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect9.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Geomancer.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\index.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Item.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ninjutsu.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Others.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Skillchain.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Song.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\SummoningMagic.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown Effects.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\WhiteMagic.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\abyssea.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\campaign.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\cs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\dynamis.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ffxi.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\goddess.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\index.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\other.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\promathia.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\rhapsodies.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\salvage.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\seekers.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\skirmish.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\treasures.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ui.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\unused.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\zilart.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\index.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music1.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music2.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music3.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music4.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music5.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music6.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music9.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\abyssea.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\amorphs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\aquans.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\arcana.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\avatars.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beastmen.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beasts.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\birds.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\chairs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\creatures.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\demons.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\dragons.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\elementals.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\empty.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\event.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\gods.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\index.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\lizards.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\misc.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\mounts.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\naakuals.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\npcs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\objects.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\odyssey.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\peculiar_foes.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\plantoids.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\sea.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\test.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\trusts.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\undead.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\unidentified.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\vermin.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Main.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Motion.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Range.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Sub.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\WS.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Main.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Motion.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Range.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Sub.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\WS.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Main.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Motion.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Range.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Sub.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\WS.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Main.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Motion.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Range.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Sub.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\WS.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Main.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Motion.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Range.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Sub.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\WS.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\index.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Main.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Motion.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Range.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Sub.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\WS.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Action.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Body.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Face.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Feet.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Hands.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Head.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Legs.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Main.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Motion.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Range.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Sub.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\WS.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookNpcData.csv
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookTable.json
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Abyssea.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_BaseGame.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_ChainsOfPromathia.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Rhapsodies.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_RizeOfZilart.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_SeekersOfAdoulin.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_TreasuresOfAhtUrhgan.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_WingsOfTheGoddess.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\ZoneRoomsDats.txt
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookQuery.sql
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe.config
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.pdb
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Gma.System.MouseKeyHook.dll
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.dll
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.dll
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.dll
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.xml
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.pdb
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.pdb
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.AssemblyReference.cache
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.SuggestedBindingRedirects.cache
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Form1.resources
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Properties.Resources.resources
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.GenerateResource.cache
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CoreCompileInputs.cache
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CopyComplete
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.exe
+E:\FF11 Assets\xi-data\xidata\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.pdb
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ability.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton Weapon Skills.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Automaton.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlackMagic.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\BlueMagic.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Corsair.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect1.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect2.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect3.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect4.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect5.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect6.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect7.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect8.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Effect9.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Geomancer.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\index.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Item.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Ninjutsu.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Others.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Skillchain.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Song.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\SummoningMagic.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown Effects.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\Unknown.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Effect\WhiteMagic.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\abyssea.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\campaign.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\cs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\dynamis.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ffxi.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\goddess.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\index.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\other.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\promathia.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\rhapsodies.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\salvage.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\seekers.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\skirmish.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\treasures.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\ui.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\unused.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Image\zilart.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\index.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music1.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music2.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music3.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music4.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music5.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music6.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\Music\Music9.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\abyssea.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\amorphs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\aquans.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\arcana.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\avatars.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beastmen.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\beasts.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\birds.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\chairs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\creatures.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\demons.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\dragons.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\elementals.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\empty.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\event.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\gods.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\index.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\lizards.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\misc.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\mounts.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\naakuals.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\npcs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\objects.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\odyssey.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\peculiar_foes.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\plantoids.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\sea.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\test.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\trusts.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\undead.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\unidentified.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\NPC\vermin.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Chocobo\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Main.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Motion.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Range.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\Sub.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanF\WS.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Main.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Motion.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Range.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\Sub.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\ElvaanM\WS.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Main.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Motion.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Range.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\Sub.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Galka\WS.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Main.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Motion.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Range.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\Sub.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeF\WS.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Main.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Motion.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Range.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\Sub.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\HumeM\WS.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\index.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilGirl\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\LilMithra\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Main.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Motion.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Range.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\Sub.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Mithra\WS.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Action.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Body.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Face.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Feet.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Hands.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Head.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Legs.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Main.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Motion.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Range.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\Sub.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\AltanaList\PC\Tarutaru\WS.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookNpcData.csv
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookTable.json
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Abyssea.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_BaseGame.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_ChainsOfPromathia.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_Rhapsodies.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_RizeOfZilart.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_SeekersOfAdoulin.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_TreasuresOfAhtUrhgan.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\Zones_WingsOfTheGoddess.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\ZoneList\ZoneRoomsDats.txt
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Resources\LookData\LookQuery.sql
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe.config
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.exe
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\FFXIBatchApp.pdb
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Gma.System.MouseKeyHook.dll
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.dll
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.dll
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.dll
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\Newtonsoft.Json.xml
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.Core.pdb
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\bin\Debug\PlayOnline.FFXI.pdb
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.AssemblyReference.cache
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Form1.resources
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.Properties.Resources.resources
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.GenerateResource.cache
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CoreCompileInputs.cache
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.csproj.CopyComplete
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.exe
+E:\FF11 Assets\xi-data\FFXIBatchApp\FFXIBatchApp\FFXIBatchApp\obj\Debug\FFXIBatchApp.pdb

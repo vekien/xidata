@@ -1,0 +1,83 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/72.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/84.DAT",
+        "ModelID": 5,
+        "FileID": 26397,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/113.DAT",
+        "ModelID": 2,
+        "FileID": 26650,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/29.DAT",
+        "ModelID": 2,
+        "FileID": 26906,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/61.DAT",
+        "ModelID": 2,
+        "FileID": 27163,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/91.DAT",
+        "ModelID": 2,
+        "FileID": 27418,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_clb6_",
+        "Race": "Galka",
+        "Path": "ROM\/58\/58.DAT",
+        "ModelID": 113,
+        "FileID": 27785,
+        "Type": "Club"
+    },
+    "sub": {
+        "Identifier": "hf_lshi4",
+        "Race": "Galka",
+        "Path": "ROM\/60\/10.DAT",
+        "ModelID": 33,
+        "FileID": 48912,
+        "Type": "Shield"
+    },
+    "ranged": null,
+    "data": {
+        "id": "17265279",
+        "name": "Three Steps, I.M.",
+        "zone": "Meriphataud_Mountains",
+        "look": "0100080805100220023002400250716021700000",
+        "content": "",
+        "pos": {
+            "rotation": "74",
+            "x": "-120.393",
+            "y": "-24.822",
+            "z": "-592.604"
+        }
+    }
+}

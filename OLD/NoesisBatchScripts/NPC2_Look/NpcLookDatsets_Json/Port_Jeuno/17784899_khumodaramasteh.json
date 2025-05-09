@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/14.DAT",
+        "ModelID": 1,
+        "FileID": 23473,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/64.DAT",
+        "ModelID": 7,
+        "FileID": 23735,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/96.DAT",
+        "ModelID": 7,
+        "FileID": 23992,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/10.DAT",
+        "ModelID": 19,
+        "FileID": 24259,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17784899",
+        "name": "Khumo Daramasteh",
+        "zone": "Port_Jeuno",
+        "look": "0100010700100120073007401350006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "42",
+            "x": "23.839",
+            "y": "0.000",
+            "z": "6.017"
+        }
+    }
+}

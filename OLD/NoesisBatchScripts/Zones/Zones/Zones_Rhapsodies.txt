@@ -1,0 +1,10 @@
+Escha - Zi'Tah	ROM/332/99.DAT
+Escha - Ru'Aun	ROM/337/59.DAT
+Desuetia - Empyreal Paradox	ROM/342/72.DAT
+Reisenjima	ROM/342/73.DAT
+Reisenjima Henge	ROM/351/58.DAT
+Reisenjima Sanctorium	ROM/342/74.DAT
+Dynamis - San d'Oria [D]	ROM/354/109.DAT
+Dynamis - Bastok [D]	ROM/355/3.DAT
+Dynamis - Windurst [D]	ROM/355/32.DAT
+Dynamis - Jeuno [D]	ROM/355/47.DAT

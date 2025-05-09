@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/124\/117.DAT",
+        "ModelID": 94,
+        "FileID": 23310,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/124\/122.DAT",
+        "ModelID": 94,
+        "FileID": 23566,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/124\/127.DAT",
+        "ModelID": 94,
+        "FileID": 23822,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/125\/5.DAT",
+        "ModelID": 94,
+        "FileID": 24079,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/125\/9.DAT",
+        "ModelID": 94,
+        "FileID": 24334,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982178",
+        "name": "Bhoy Yhupplo",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010001075E105E205E305E405E50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "63",
+            "x": "127.474",
+            "y": "1.161",
+            "z": "-30.418"
+        }
+    }
+}

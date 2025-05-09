@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/96.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/15.DAT",
+        "ModelID": 2,
+        "FileID": 23474,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/59.DAT",
+        "ModelID": 2,
+        "FileID": 23730,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/91.DAT",
+        "ModelID": 2,
+        "FileID": 23987,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/121.DAT",
+        "ModelID": 2,
+        "FileID": 24242,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17756251",
+        "name": "Naih Arihmepp",
+        "zone": "Windurst_Walls",
+        "look": "0100020700100220023002400250006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "205",
+            "x": "-64.578",
+            "y": "-12.465",
+            "z": "202.147"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/15.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/41.DAT",
+        "ModelID": 20,
+        "FileID": 16660,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/79.DAT",
+        "ModelID": 23,
+        "FileID": 16919,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/100.DAT",
+        "ModelID": 0,
+        "FileID": 17152,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/14.DAT",
+        "ModelID": 11,
+        "FileID": 17419,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/37.DAT",
+        "ModelID": 3,
+        "FileID": 17667,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16785745",
+        "name": "Ratoulle",
+        "zone": "Carpenters_Landing",
+        "look": "010006041410172000300B400350006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "103",
+            "x": "-133.959",
+            "y": "-2.000",
+            "z": "60.839"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/69.DAT",
+        "ModelID": 6,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/153\/50.DAT",
+        "ModelID": 149,
+        "FileID": 10437,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/165\/123.DAT",
+        "ModelID": 174,
+        "FileID": 10718,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/157\/83.DAT",
+        "ModelID": 160,
+        "FileID": 10960,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/166\/1.DAT",
+        "ModelID": 174,
+        "FileID": 11230,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/166\/4.DAT",
+        "ModelID": 174,
+        "FileID": 11486,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "knfa",
+        "Race": "Hume Female",
+        "Path": "ROM\/163\/105.DAT",
+        "ModelID": 379,
+        "FileID": 11947,
+        "Type": "Dagger"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974304",
+        "name": "Najelith",
+        "zone": "Al_Zahbi",
+        "look": "010006029510AE20A030AE40AE507B6100700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "144",
+            "x": "-64.526",
+            "y": "-7.000",
+            "z": "39.372"
+        }
+    }
+}

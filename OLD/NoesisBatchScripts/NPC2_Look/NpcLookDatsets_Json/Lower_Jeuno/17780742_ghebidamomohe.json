@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/101.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/17.DAT",
+        "ModelID": 4,
+        "FileID": 23476,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/61.DAT",
+        "ModelID": 4,
+        "FileID": 23732,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/106.DAT",
+        "ModelID": 17,
+        "FileID": 24002,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/8.DAT",
+        "ModelID": 17,
+        "FileID": 24257,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17780742",
+        "name": "Ghebi Damomohe",
+        "zone": "Lower_Jeuno",
+        "look": "0100070700100420043011401150006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "213",
+            "x": "15.535",
+            "y": "-0.111",
+            "z": "-7.603"
+        }
+    }
+}

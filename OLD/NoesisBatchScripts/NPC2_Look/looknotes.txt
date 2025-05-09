@@ -1,0 +1,23 @@
+Old notes ..
+
+Look:
+
+0x01
+00 -- look/style
+0A -- race
+03
+0010
+04 20  look->body + 0x2000;
+04 30    look->hands + 0x3000;
+04 40    look->legs + 0x4000;
+04 50    look->feet + 0x5000;
+00 60    look->main + 0x6000;
+00 70    look->sub + 0x7000;
+00 00    look->ranged + 0x8000;
+
+
+Looking for:
+    37/87       Shinobi Gi
+    38/3        
+    38/34
+    38/65

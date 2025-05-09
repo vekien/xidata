@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Galka",
+        "Path": "ROM\/56\/65.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Galkae",
+        "dat": "ROM\/56\/59.DAT",
+        "look": "Galka"
+    },
+    "head": {
+        "Identifier": "1gl_",
+        "Race": "Galka",
+        "Path": "ROM\/56\/96.DAT",
+        "ModelID": 20,
+        "FileID": 26412,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/6.DAT",
+        "ModelID": 23,
+        "FileID": 26671,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/35.DAT",
+        "ModelID": 8,
+        "FileID": 26912,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/69.DAT",
+        "ModelID": 10,
+        "FileID": 27171,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4gl_",
+        "Race": "Galka",
+        "Path": "ROM\/57\/92.DAT",
+        "ModelID": 3,
+        "FileID": 27419,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982039",
+        "name": "Somnolent Rooster",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010001081410172008300A400350006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "64",
+            "x": "0.349",
+            "y": "-2.000",
+            "z": "104.819"
+        }
+    }
+}

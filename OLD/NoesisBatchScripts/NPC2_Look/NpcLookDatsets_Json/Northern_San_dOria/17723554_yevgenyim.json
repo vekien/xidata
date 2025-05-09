@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/68.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/83.DAT",
+        "ModelID": 5,
+        "FileID": 10293,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/116.DAT",
+        "ModelID": 5,
+        "FileID": 10549,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/50.DAT",
+        "ModelID": 22,
+        "FileID": 10822,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/65.DAT",
+        "ModelID": 5,
+        "FileID": 11061,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/99.DAT",
+        "ModelID": 7,
+        "FileID": 11319,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo3_",
+        "Race": "Hume Female",
+        "Path": "ROM\/35\/76.DAT",
+        "ModelID": 255,
+        "FileID": 11823,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17723554",
+        "name": "Yevgeny, I.M.",
+        "zone": "Northern_San_dOria",
+        "look": "0100050205100520163005400750FF6000700000",
+        "content": "",
+        "pos": {
+            "rotation": "126",
+            "x": "46.954",
+            "y": "-1.999",
+            "z": "-1.920"
+        }
+    }
+}

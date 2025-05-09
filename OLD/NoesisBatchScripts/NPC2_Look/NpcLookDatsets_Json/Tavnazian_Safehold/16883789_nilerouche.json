@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/10.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/98.DAT",
+        "ModelID": 43,
+        "FileID": 16939,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/129\/75.DAT",
+        "ModelID": 105,
+        "FileID": 17257,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/129\/81.DAT",
+        "ModelID": 105,
+        "FileID": 17513,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/129\/86.DAT",
+        "ModelID": 105,
+        "FileID": 17769,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883789",
+        "name": "Nilerouche",
+        "zone": "Tavnazian_Safehold",
+        "look": "0100010400102B20693069406950006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "36",
+            "x": "-83.413",
+            "y": "-20.018",
+            "z": "72.440"
+        }
+    }
+}

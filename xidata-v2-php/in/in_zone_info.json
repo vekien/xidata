@@ -1,0 +1,29 @@
+{
+    "base_game": {
+      "category": "Base Game"
+    },
+    "rize_of_zilart": {
+      "category": "Rize Of Zilart"
+    },
+    "chains_of_promathia": {
+      "category": "Chains Of Promathia"
+    },
+    "treasures_of_aht_urhgan": {
+      "category": "Treasures of Aht Urhgan"
+    },
+    "wings_of_the_goddess": {
+      "category": "Wings of the Goddess"
+    },
+    "abyssea": {
+      "category": "Abyssea"
+    },
+    "seekers_of_adoulin": {
+      "category": "Seekers of Adoulin"
+    },
+    "rhapsodies": {
+      "category": "Rhapsodies"
+    },
+    "subrooms": {
+      "category": "Subrooms"
+    }
+  }

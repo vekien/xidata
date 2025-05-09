@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/91.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/44.DAT",
+        "ModelID": 37,
+        "FileID": 7405,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/67.DAT",
+        "ModelID": 15,
+        "FileID": 7639,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/101.DAT",
+        "ModelID": 17,
+        "FileID": 7897,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/5.DAT",
+        "ModelID": 17,
+        "FileID": 8153,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982309",
+        "name": "Zasshal",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "01000401001025200F3011401150006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "46",
+            "x": "101.468",
+            "y": "0.000",
+            "z": "-20.088"
+        }
+    }
+}

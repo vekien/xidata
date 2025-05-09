@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/89.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/9.DAT",
+        "ModelID": 2,
+        "FileID": 7370,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/54.DAT",
+        "ModelID": 2,
+        "FileID": 7626,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/86.DAT",
+        "ModelID": 2,
+        "FileID": 7882,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/118.DAT",
+        "ModelID": 2,
+        "FileID": 8138,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_swo3_",
+        "Race": "Hume Male",
+        "Path": "ROM\/30\/101.DAT",
+        "ModelID": 256,
+        "FileID": 8648,
+        "Type": "Sword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17134049",
+        "name": "Clemens",
+        "zone": "Bastok_Markets_[S]",
+        "look": "0100020100100220023002400250006100700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "162",
+            "x": "-183.019",
+            "y": "1.999",
+            "z": "-139.104"
+        }
+    }
+}

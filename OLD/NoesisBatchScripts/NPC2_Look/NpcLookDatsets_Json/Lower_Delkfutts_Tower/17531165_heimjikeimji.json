@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/57.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/23.DAT",
+        "ModelID": 6,
+        "FileID": 20078,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/63.DAT",
+        "ModelID": 2,
+        "FileID": 20330,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/96.DAT",
+        "ModelID": 4,
+        "FileID": 20588,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/123.DAT",
+        "ModelID": 0,
+        "FileID": 20840,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17531165",
+        "name": "Heimji-Keimji",
+        "zone": "Lower_Delkfutts_Tower",
+        "look": "0100020500100620023004400050046000700000",
+        "content": "",
+        "pos": {
+            "rotation": "156",
+            "x": "638.458",
+            "y": "15.999",
+            "z": "57.069"
+        }
+    }
+}

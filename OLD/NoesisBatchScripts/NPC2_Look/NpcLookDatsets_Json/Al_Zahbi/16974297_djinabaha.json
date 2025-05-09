@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/88.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/148\/8.DAT",
+        "ModelID": 138,
+        "FileID": 7250,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/22.DAT",
+        "ModelID": 171,
+        "FileID": 7539,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/143\/89.DAT",
+        "ModelID": 132,
+        "FileID": 7756,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/161\/28.DAT",
+        "ModelID": 171,
+        "FileID": 8051,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/153\/12.DAT",
+        "ModelID": 148,
+        "FileID": 8284,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974297",
+        "name": "Djinabaha",
+        "zone": "Al_Zahbi",
+        "look": "010001018A10AB208430AB409450006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "147",
+            "x": "-17.661",
+            "y": "0.000",
+            "z": "-117.352"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/89.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/117.DAT",
+        "ModelID": 18,
+        "FileID": 7130,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/31.DAT",
+        "ModelID": 24,
+        "FileID": 7392,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/67.DAT",
+        "ModelID": 15,
+        "FileID": 7639,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/91.DAT",
+        "ModelID": 7,
+        "FileID": 7887,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/29\/5.DAT",
+        "ModelID": 17,
+        "FileID": 8153,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16875875",
+        "name": "Jersey",
+        "zone": "Lufaise_Meadows",
+        "look": "01000201121018200F3007401150006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "51",
+            "x": "-548.706",
+            "y": "-6.197",
+            "z": "-53.897"
+        }
+    }
+}

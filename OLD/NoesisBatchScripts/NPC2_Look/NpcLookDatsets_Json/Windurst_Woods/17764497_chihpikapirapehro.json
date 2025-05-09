@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/95.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/21.DAT",
+        "ModelID": 8,
+        "FileID": 23480,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/65.DAT",
+        "ModelID": 8,
+        "FileID": 23736,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/97.DAT",
+        "ModelID": 8,
+        "FileID": 23993,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/127.DAT",
+        "ModelID": 8,
+        "FileID": 24248,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17764497",
+        "name": "Chihpi Kapirapehro",
+        "zone": "Windurst_Woods",
+        "look": "0100010700100820083008400850006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "0",
+            "x": "2.282",
+            "y": "-4.000",
+            "z": "-146.234"
+        }
+    }
+}

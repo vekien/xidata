@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/43.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/91.DAT",
+        "ModelID": 8,
+        "FileID": 13728,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/19.DAT",
+        "ModelID": 20,
+        "FileID": 13996,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/50.DAT",
+        "ModelID": 20,
+        "FileID": 14252,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/81.DAT",
+        "ModelID": 20,
+        "FileID": 14508,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17772590",
+        "name": "Pitenorelieu",
+        "zone": "RuLude_Gardens",
+        "look": "0100070300100820143014401450006000700000",
+        "content": "",
+        "pos": {
+            "rotation": "194",
+            "x": "-24.227",
+            "y": "2.999",
+            "z": "-1.190"
+        }
+    }
+}

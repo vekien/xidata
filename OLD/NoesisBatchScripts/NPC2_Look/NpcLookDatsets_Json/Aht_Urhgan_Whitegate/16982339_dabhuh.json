@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/90.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/136\/83.DAT",
+        "ModelID": 119,
+        "FileID": 7231,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/42.DAT",
+        "ModelID": 35,
+        "FileID": 7403,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/53.DAT",
+        "ModelID": 35,
+        "FileID": 7659,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/128\/123.DAT",
+        "ModelID": 110,
+        "FileID": 7990,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/117.DAT",
+        "ModelID": 35,
+        "FileID": 8171,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982339",
+        "name": "Dabhuh",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010003017710232023306E402350006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "126",
+            "x": "97.939",
+            "y": "0.000",
+            "z": "-91.530"
+        }
+    }
+}

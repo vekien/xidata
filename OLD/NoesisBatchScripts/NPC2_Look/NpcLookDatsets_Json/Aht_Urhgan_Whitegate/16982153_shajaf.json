@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/92.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Male",
+        "dat": "ROM\/27\/82.DAT",
+        "look": "HumeMale"
+    },
+    "head": {
+        "Identifier": "1hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/27\/115.DAT",
+        "ModelID": 16,
+        "FileID": 7128,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/131\/45.DAT",
+        "ModelID": 115,
+        "FileID": 7483,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/28\/52.DAT",
+        "ModelID": 0,
+        "FileID": 7624,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hm_",
+        "Race": "Hume Male",
+        "Path": "ROM\/157\/21.DAT",
+        "ModelID": 157,
+        "FileID": 8037,
+        "Type": "Legs"
+    },
+    "feet": null,
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982153",
+        "name": "Shajaf",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "010005011010732000309D409D50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "33",
+            "x": "-116.939",
+            "y": "-5.999",
+            "z": "29.059"
+        }
+    }
+}

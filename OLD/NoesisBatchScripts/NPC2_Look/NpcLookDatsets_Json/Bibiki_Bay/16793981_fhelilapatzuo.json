@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/101.DAT",
+        "ModelID": 7,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": {
+        "Identifier": "1mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/51\/126.DAT",
+        "ModelID": 20,
+        "FileID": 23236,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/43.DAT",
+        "ModelID": 31,
+        "FileID": 23503,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/57.DAT",
+        "ModelID": 0,
+        "FileID": 23728,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/146\/63.DAT",
+        "ModelID": 135,
+        "FileID": 24120,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/122.DAT",
+        "ModelID": 3,
+        "FileID": 24243,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16793981",
+        "name": "Fheli Lapatzuo",
+        "zone": "Bibiki_Bay",
+        "look": "0100070714101F20003087400350006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "196",
+            "x": "488.793",
+            "y": "-3.003",
+            "z": "709.473"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/38.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": {
+        "Identifier": "1em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/61.DAT",
+        "ModelID": 13,
+        "FileID": 13477,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/89.DAT",
+        "ModelID": 6,
+        "FileID": 13726,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/11.DAT",
+        "ModelID": 12,
+        "FileID": 13988,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/36.DAT",
+        "ModelID": 6,
+        "FileID": 14238,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/73.DAT",
+        "ModelID": 12,
+        "FileID": 14500,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17670768",
+        "name": "Maunadolace",
+        "zone": "Abyssea-Altepa",
+        "look": "010002030D1006200C3006400C50006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "246",
+            "x": "395.999",
+            "y": "0.611",
+            "z": "305.425"
+        }
+    }
+}

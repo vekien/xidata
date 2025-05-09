@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/63.DAT",
+        "ModelID": 8,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/138\/16.DAT",
+        "ModelID": 119,
+        "FileID": 19935,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/138\/25.DAT",
+        "ModelID": 119,
+        "FileID": 20191,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/47\/61.DAT",
+        "ModelID": 0,
+        "FileID": 20328,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/46.DAT",
+        "ModelID": 59,
+        "FileID": 20643,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/121\/54.DAT",
+        "ModelID": 59,
+        "FileID": 20899,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16974282",
+        "name": "Taten-Bilten",
+        "zone": "Al_Zahbi",
+        "look": "010008057710772000303B403B50006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "111",
+            "x": "71.598",
+            "y": "-6.000",
+            "z": "-56.930"
+        }
+    }
+}

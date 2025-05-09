@@ -1,0 +1,76 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/12.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/30.DAT",
+        "ModelID": 6,
+        "FileID": 16646,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/62.DAT",
+        "ModelID": 6,
+        "FileID": 16902,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/106.DAT",
+        "ModelID": 6,
+        "FileID": 17158,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/15.DAT",
+        "ModelID": 12,
+        "FileID": 17420,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/40.DAT",
+        "ModelID": 6,
+        "FileID": 17670,
+        "Type": "Feet"
+    },
+    "main": {
+        "Identifier": "hf_2hs1_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/84.DAT",
+        "ModelID": 66,
+        "FileID": 17986,
+        "Type": "GreatSword"
+    },
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17203855",
+        "name": "Taumiale, R.K.",
+        "zone": "Jugner_Forest",
+        "look": "010003040610062006300C400650426000700000",
+        "content": "",
+        "pos": {
+            "rotation": "152",
+            "x": "570.732",
+            "y": "-1.637",
+            "z": "553.508"
+        }
+    }
+}

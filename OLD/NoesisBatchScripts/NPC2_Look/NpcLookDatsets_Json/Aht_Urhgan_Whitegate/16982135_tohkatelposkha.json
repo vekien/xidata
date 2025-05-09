@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/98.DAT",
+        "ModelID": 4,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/17.DAT",
+        "ModelID": 4,
+        "FileID": 23476,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/61.DAT",
+        "ModelID": 4,
+        "FileID": 23732,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/93.DAT",
+        "ModelID": 4,
+        "FileID": 23989,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/123.DAT",
+        "ModelID": 4,
+        "FileID": 24244,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16982135",
+        "name": "Tohka Telposkha",
+        "zone": "Aht_Urhgan_Whitegate",
+        "look": "0100040700100420043004400450006000700000",
+        "content": "TOAU",
+        "pos": {
+            "rotation": "32",
+            "x": "22.105",
+            "y": "0.000",
+            "z": "22.759"
+        }
+    }
+}

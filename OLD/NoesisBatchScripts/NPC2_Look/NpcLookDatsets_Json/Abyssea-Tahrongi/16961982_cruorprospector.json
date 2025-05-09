@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Tarutaru Female",
+        "Path": "ROM\/51\/58.DAT",
+        "ModelID": 3,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Tarutaru Male",
+        "dat": "ROM\/46\/93.DAT",
+        "look": "Tarutaru"
+    },
+    "head": {
+        "Identifier": "1tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/229\/1.DAT",
+        "ModelID": 252,
+        "FileID": 20068,
+        "Type": "Head"
+    },
+    "body": null,
+    "hands": {
+        "Identifier": "2tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/186\/15.DAT",
+        "ModelID": 201,
+        "FileID": 20529,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/176\/11.DAT",
+        "ModelID": 185,
+        "FileID": 20769,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4tr_",
+        "Race": "Tarutaru",
+        "Path": "ROM\/146\/98.DAT",
+        "ModelID": 137,
+        "FileID": 20977,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16961982",
+        "name": "Cruor Prospector",
+        "zone": "Abyssea-Tahrongi",
+        "look": "01000305FC100221C930B9408950006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "148",
+            "x": "2.611",
+            "y": "40.000",
+            "z": "-681.093"
+        }
+    }
+}

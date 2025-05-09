@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/41.DAT",
+        "ModelID": 5,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Male",
+        "dat": "ROM\/37\/31.DAT",
+        "look": "ElvaanMale"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/37\/91.DAT",
+        "ModelID": 8,
+        "FileID": 13728,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/7.DAT",
+        "ModelID": 8,
+        "FileID": 13984,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/35.DAT",
+        "ModelID": 5,
+        "FileID": 14237,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4em_",
+        "Race": "Elvaan Male",
+        "Path": "ROM\/38\/67.DAT",
+        "ModelID": 6,
+        "FileID": 14494,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "17318610",
+        "name": "Namonutice",
+        "zone": "Abyssea-La_Theine",
+        "look": "010005030A100820083005400650006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "4",
+            "x": "-490.886",
+            "y": "-2.971",
+            "z": "775.714"
+        }
+    }
+}

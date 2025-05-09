@@ -1,0 +1,62 @@
+{
+    "face": {
+        "Race": "Mithra",
+        "Path": "ROM\/51\/96.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Mithra",
+        "dat": "ROM\/51\/89.DAT",
+        "look": "Mithra"
+    },
+    "head": null,
+    "body": {
+        "Identifier": "0mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/24.DAT",
+        "ModelID": 11,
+        "FileID": 23483,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/60.DAT",
+        "ModelID": 3,
+        "FileID": 23731,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/52\/114.DAT",
+        "ModelID": 25,
+        "FileID": 24010,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4mt_",
+        "Race": "Mithra",
+        "Path": "ROM\/53\/16.DAT",
+        "ModelID": 25,
+        "FileID": 24265,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16962143",
+        "name": "Shaz Norem",
+        "zone": "Abyssea-Tahrongi",
+        "look": "0100020700100B20033019401950006000700000",
+        "content": "ABYSSEA",
+        "pos": {
+            "rotation": "80",
+            "x": "3.000",
+            "y": "31.000",
+            "z": "-632.000"
+        }
+    }
+}

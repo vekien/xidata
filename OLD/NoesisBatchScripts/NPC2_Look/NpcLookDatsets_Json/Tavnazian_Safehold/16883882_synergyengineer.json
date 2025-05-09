@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Hume Female",
+        "Path": "ROM\/32\/65.DAT",
+        "ModelID": 2,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Hume Female",
+        "dat": "ROM\/32\/58.DAT",
+        "look": "HumeFemale"
+    },
+    "head": {
+        "Identifier": "1hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/137\/2.DAT",
+        "ModelID": 119,
+        "FileID": 10407,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/137\/12.DAT",
+        "ModelID": 120,
+        "FileID": 10664,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/38.DAT",
+        "ModelID": 10,
+        "FileID": 10810,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/70.DAT",
+        "ModelID": 10,
+        "FileID": 11066,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4hf_",
+        "Race": "Hume Female",
+        "Path": "ROM\/33\/102.DAT",
+        "ModelID": 10,
+        "FileID": 11322,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16883882",
+        "name": "Synergy Engineer",
+        "zone": "Tavnazian_Safehold",
+        "look": "01000202771078200A300A400A50006000700000",
+        "content": "WOTG",
+        "pos": {
+            "rotation": "0",
+            "x": "69.000",
+            "y": "-25.500",
+            "z": "0.000"
+        }
+    }
+}

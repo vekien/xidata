@@ -1,0 +1,69 @@
+{
+    "face": {
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/10.DAT",
+        "ModelID": 1,
+        "Type": "Face"
+    },
+    "race": {
+        "name": "Elvaan Female",
+        "dat": "ROM\/42\/4.DAT",
+        "look": "ElvaanFemale"
+    },
+    "head": {
+        "Identifier": "1ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/41.DAT",
+        "ModelID": 20,
+        "FileID": 16660,
+        "Type": "Head"
+    },
+    "body": {
+        "Identifier": "0ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/79.DAT",
+        "ModelID": 23,
+        "FileID": 16919,
+        "Type": "Body"
+    },
+    "hands": {
+        "Identifier": "2ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/42\/100.DAT",
+        "ModelID": 0,
+        "FileID": 17152,
+        "Type": "Hands"
+    },
+    "legs": {
+        "Identifier": "3ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/6.DAT",
+        "ModelID": 3,
+        "FileID": 17411,
+        "Type": "Legs"
+    },
+    "feet": {
+        "Identifier": "4ef_",
+        "Race": "Elvaan Female",
+        "Path": "ROM\/43\/37.DAT",
+        "ModelID": 3,
+        "FileID": 17667,
+        "Type": "Feet"
+    },
+    "main": null,
+    "sub": null,
+    "ranged": null,
+    "data": {
+        "id": "16785777",
+        "name": "Cofisephe",
+        "zone": "Carpenters_Landing",
+        "look": "0100010414101720003003400350006000700000",
+        "content": "COP",
+        "pos": {
+            "rotation": "177",
+            "x": "210.327",
+            "y": "-2.885",
+            "z": "-532.511"
+        }
+    }
+}

@@ -7,14 +7,20 @@ $faces = load_json("\\out\\faces.json");
 $sets = [];
 
 $altana_viewer_ini = "E:\\FF11 Tools\\3D - Altana Viewer";
-$altana_viewer_files = [
-    "Gearsets.ini",
-    "Gearsets_Altepa.ini",
-    "Gearsets_Jeuno.ini",
-    "Gearsets_Basic.ini",
-];
 
-foreach($altana_viewer_files as $file) {
+$altana_viewer_ini_files = scandir($altana_viewer_ini);
+$altana_viewer_ini_files_found = [];
+
+// Loop and grab all gearset ini files.
+foreach ($altana_viewer_ini_files as $file) {
+    if (is_file($altana_viewer_ini . DIRECTORY_SEPARATOR . $file) && pathinfo($file, PATHINFO_EXTENSION) === 'ini') {
+        if (strpos($file, 'Gearsets') !== false) {
+            $altana_viewer_ini_files_found[] = $file;
+        }
+    }
+}
+
+foreach($altana_viewer_ini_files_found as $file) {
     echo("{$file}\n");
 
     $ini_file = "{$altana_viewer_ini}\\{$file}";

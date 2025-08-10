@@ -88,3 +88,6 @@ Npcs:
 27/85 have all flappy animations
 
 i think every race has 9 animation files, the main one plus 2 that work with main, 3 for WS and 3 for emotes and other stuff
+
+
+

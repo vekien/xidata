@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Iroha",
+        "name_clean": "iroha_1",
+        "output_path": "Trusts\\npc1\\ROM\\1",
+        "skeleton": "ROM\\310\\3.DAT",
+        "anims": [
+            "ROM\\338\\15.DAT",
+            "ROM\\338\\16.DAT",
+            "ROM\\338\\17.DAT",
+            "ROM\\338\\18.DAT",
+            "ROM\\338\\19.DAT",
+            "ROM\\338\\20.DAT"
+        ]
+    }
+]

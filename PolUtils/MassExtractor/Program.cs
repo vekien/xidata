@@ -275,13 +275,32 @@ namespace MassExtractor
 						Console.ForegroundColor = ConsoleColor.White;
 					}
 
+					//Program.ExtractFile(63, "test.xml");
+
+
+					Program.ExtractFile(73, "75--ROM_118_108--General.xml");
+					Program.ExtractFile(74, "75--ROM_118_108--Usable.xml");
+					Program.ExtractFile(75, "75--ROM_118_108--Weapons.DAT.xml");
+					Program.ExtractFile(76, "76--ROM_118_108--Armor.DAT.xml");
+
+
+					Program.ExtractFile(63, "76--ROM_118_103--XIST-unknown1.xml");
+
+					//Program.ExtractFile(75, "armorE.xml");
+
+
+					//Program.ExtractFile(55671, "general2E.xml");
+
+
+					//Program.ExtractFile(55668, "armor2E.xml");
+
+					/*
 					Program.ExtractFile(81, "spellAbilCommon.xml");
 
-					Program.ExtractFile(73, "generalE.xml");
-					Program.ExtractFile(74, "usableE.xml");
+					
 					Program.ExtractFile(75, "weaponE.xml");
-					Program.ExtractFile(76, "armorE.xml");
-					Program.ExtractFile(55668, "armor2E.xml");
+					
+	
 					Program.ExtractFile(77, "puppetE.xml");
 					Program.ExtractFile(91, "currencyE.xml");
 					Program.ExtractFile(55667, "slipE.xml");
@@ -295,7 +314,7 @@ namespace MassExtractor
 
 					/*
                      * French > German > Japanese
-                     */
+                     *
 					Program.ExtractFile(56235, "generalF.xml");
 					Program.ExtractFile(56211, "general2F.xml");
 					Program.ExtractFile(56236, "usableF.xml");
@@ -341,7 +360,7 @@ namespace MassExtractor
 					// Interesting Data
 					Program.ExtractFile(11, "old-spells-1.xml");
 					Program.ExtractFile(73, "items-general.xml");
-					Program.ExtractFile(55671, "items-general2.xml");
+					
 					Program.ExtractFile(74, "items-usable.xml");
 					Program.ExtractFile(75, "items-weapons.xml");
 					Program.ExtractFile(76, "items-armor.xml");
@@ -432,6 +451,7 @@ namespace MassExtractor
 					Program.ExtractFile(55735, "missions-prophecy.xml");
 					Program.ExtractFile(55736, "missions-moogle.xml");
 					Program.ExtractFile(55737, "missions-shantotto.xml");
+					*/
 
 				}
 				DateTime ExtractionEnd = DateTime.Now;

@@ -1,0 +1,5 @@
+NOESIS_FF11_DAT_SET
+
+setPathAbs "D:\catseyexi\catseyexi-client\Game\FINAL FANTASY XI\"
+dat "__skeleton" "ROM\46\93.DAT"
+dat "gear" "ROM\225\4.DAT"

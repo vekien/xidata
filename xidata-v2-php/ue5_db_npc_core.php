@@ -33,7 +33,6 @@ foreach($gearsets as $set) {
     $arr = [
         "Name" => $set['name'],
 		"Race" => $race,
-        "BlendSpace" => $race,
         "Face" => "None",
 		"Head" => "None",
 		"Body" => "None",

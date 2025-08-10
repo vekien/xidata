@@ -45,6 +45,11 @@ namespace xidata_v2.source
 				data["xidata"]["noesis_path"] = "D:\\path\\to\\noesis.exe";
 			}
 
+			if (data["xidata"]["noesis_args"] == null)
+			{
+				data["xidata"]["noesis_args"] = "-ff11bumpdir normals -ff11noshiny -ff11hton 16 -ff11optimizegeo -ff11keepnames -fbxtexrelonly -fbxtexext .png -rotate 180 0 270 -scale 120";
+			}
+
 			if (data["xidata"]["ffxi_path"] == null)
 			{
 				data["xidata"]["ffxi_path"] = "D:\\path\\to\\FINAL FANTASY XI";
@@ -71,6 +76,11 @@ namespace xidata_v2.source
 		public static string GetNoesisPath()
 		{
 			return IniSettings["xidata"]["noesis_path"];
+		}
+
+		public static string GetNoesisArgs()
+		{
+			return IniSettings["xidata"]["noesis_args"];
 		}
 
 		public static string GetFFxiPath()

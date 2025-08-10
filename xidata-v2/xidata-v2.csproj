@@ -20,6 +20,7 @@
     <None Remove="assets\close.png" />
     <None Remove="assets\pol.png" />
     <None Remove="data\xidata_animations.txt" />
+    <None Remove="data\xidata_anims_iroha.txt" />
     <None Remove="data\xidata_faces.txt" />
     <None Remove="data\xidata_fx.txt" />
     <None Remove="data\xidata_gear.txt" />
@@ -39,6 +40,9 @@
 
   <ItemGroup>
     <EmbeddedResource Include="data\xidata_animations.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data\xidata_anims_iroha.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
     <EmbeddedResource Include="data\xidata_faces.txt">
@@ -61,6 +65,7 @@
   <ItemGroup>
     <PackageReference Include="ini-parser-new" Version="2.6.2" />
     <PackageReference Include="MouseKeyHook" Version="5.7.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>

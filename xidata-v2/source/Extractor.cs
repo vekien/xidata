@@ -17,7 +17,7 @@ namespace xidata_v2.source
 
 		private static BackgroundWorker ExtractWorker;
 		private static List<string> ContentData;
-		private static bool IsEnabled = false;
+		public static bool IsEnabled = false;
 
 		public static void Init(string ct, string na, int nl)
 		{
@@ -63,6 +63,10 @@ namespace xidata_v2.source
 				{
 					case "Animations":
 						ExtractAnimations();
+						break;
+
+					case "Anims: Trust: Iroha":
+						ExtractAnimsTrust();
 						break;
 				}
 
@@ -202,6 +206,158 @@ namespace xidata_v2.source
 						}
 
 						// Escape any popups as we'll handle the skeleton later
+						Thread.Sleep(100);
+						Auto.SendKeyN(4, "{ESCAPE}", 200, "");
+
+						// Now open the Export Window
+						Auto.SendKey("%f");
+						Auto.SendKey("e");
+
+						if (!IsEnabled) return;
+
+						// Wait for the Export Media window to open
+						if (Auto.WaitForActiveWindow("Export Media"))
+						{
+							if (!IsEnabled) return;
+
+							// Destination
+							Auto.SendKeyTabN(3);
+							Auto.SendText(out_filename, 0, "Export Media");
+
+							// Animation output type
+							Auto.SendKeyTabN(4);
+
+							// Loop down to noemultifbx
+							Auto.SendKeyN(12, "{DOWN}");
+
+							// Advanced options
+							Auto.SendKeyTabN(1);
+
+							if (!IsEnabled) return;
+
+							// Paste Noesis args
+							Auto.SendText(XiNoesisArgs, 0, "Export Media");
+							Auto.SendKey("{ENTER}", 0, "Export Media");
+							Thread.Sleep(500);
+
+							if (!IsEnabled) return;
+
+							// If an "Open" modal popped up, it's the skeleton, so we'll insert that
+							if (Auto.GetActiveWindowTitle() == "Open")
+							{
+								Auto.SendText(source_skeleton, 0, "Open");
+								Auto.SendKey("{ENTER}", 0, "Open");
+								Thread.Sleep(500);
+							}
+
+							if (!IsEnabled) return;
+
+							// The complete window is called Noesis
+							// We wait a long time here because exports can have a lot of files
+							if (Auto.WaitForActiveWindowCount("Noesis", 2))
+							{
+								Auto.SendKeyN(4, "{ESCAPE}", 200, "");
+							}
+						}
+					}
+
+					Thread.Sleep(250);
+				}
+				catch (Exception ex)
+				{
+					Logger.Add($"Error: {anim} = {ex.Message}");
+					Logger.Exception(ex);
+				}
+
+				// Limit check
+				if (XiNoesisLimit > 0 && count >= XiNoesisLimit)
+				{
+					break;
+				}
+			}
+		}
+
+		/// <summary>
+		/// Perform the data extract for animations for trusts
+		/// </summary>
+		private static void ExtractAnimsTrust()
+		{
+			int count = 0;
+			int skipped = 0;
+			int total = XiNoesisLimit > 0 ? XiNoesisLimit : ContentData.Count;
+
+			// set the output path
+			string xi_output_path = ContentData[0].ToString();
+
+			// skeleton
+			string xi_trust_skeleton = ContentData[1].ToString();
+			Logger.Add($"Trust Skeleton: {xi_trust_skeleton}");
+
+			// remove output path and skeleton
+			ContentData.RemoveRange(0, 2);
+
+			// export!
+			foreach (string anim in ContentData)
+			{
+				if (!IsEnabled) return;
+
+				string out_folder = xi_output_path + Path.GetFileNameWithoutExtension(anim) + "\\";
+				string out_filename = out_folder + Path.GetFileNameWithoutExtension(anim) + ".fbx";
+
+				// Source data
+				string source_filename = $"{Settings.GetFFxiPath()}\\{anim}";
+				string source_skeleton = $"{Settings.GetFFxiPath()}\\{xi_trust_skeleton}";
+
+				// create output folder
+				if (!Directory.Exists(out_folder))
+				{
+					Directory.CreateDirectory(out_folder);
+				}
+
+				bool fbx_found = Directory.GetFiles(out_folder, "*.fbx").Length > 0;
+				bool png_found = Directory.GetFiles(out_folder, "*.png").Length > 0;
+
+				Logger.Add($"Exporting: {anim}");
+
+				// Skip if already processed
+				if (fbx_found || png_found)
+				{
+					skipped++;
+					total--;
+					continue;
+				}
+
+				try
+				{
+					// Focus Noesis
+					Auto.FocusNoesis();
+
+					// Begin extract send key logic.
+					Auto.SendKey("%f");
+					Auto.SendKey("o");
+
+					if (Auto.WaitForActiveWindow("Open"))
+					{
+						if (!IsEnabled) return;
+
+						Thread.Sleep(500);
+						Auto.SendText(source_filename, 0, "Open");
+
+						Auto.SendKey("{ENTER}", 0, "Open");
+						Thread.Sleep(500);
+
+						if (!IsEnabled) return;
+
+						// If there are 2 Noesis windows, it's usually an error.
+						if (Auto.CountActiveWindows("Noesis") == 2)
+						{
+							Logger.Add($"-- Error: Could not process {anim} as the preview error showed up. Skipping!");
+							Auto.SendKeyN(4, "{ESCAPE}", 200, "");
+							continue;
+						}
+
+						// Escape any popups as we'll handle the skeleton later
+						Thread.Sleep(100);
 						Auto.SendKeyN(4, "{ESCAPE}", 200, "");
 
 						// Now open the Export Window

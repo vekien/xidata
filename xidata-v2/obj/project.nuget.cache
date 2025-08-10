@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mqkeODc1fQQXB3X5p8DRluwUGm4h1MfjJA6Mi50IpNs5R8CP7k6wzn0cvNq5TgojUcTo+Qc9gGBrUZC7qyQfng==",
+  "dgSpecHash": "3AjuLWwktos=",
   "success": true,
   "projectFilePath": "E:\\FF11 Assets\\xi-data\\xidata-v2\\xidata-v2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Josh\\.nuget\\packages\\ini-parser-new\\2.6.2\\ini-parser-new.2.6.2.nupkg.sha512",
-    "C:\\Users\\Josh\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512"
+    "C:\\Users\\Josh\\.nuget\\packages\\mousekeyhook\\5.7.1\\mousekeyhook.5.7.1.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

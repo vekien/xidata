@@ -5,6 +5,17 @@ namespace xidata_v2.source
 {
 	internal class Data
 	{
+		public static string[] ContentType = [
+			"Zones",
+			"Armor",
+			"Weapons",
+			"Weapons Race",
+			"NPC",
+			"Animations",
+
+			"Anims: Trust: Iroha"
+		];
+
 		public static List<string> GetDataForContentType(string contentType)
 		{
 			switch (contentType)
@@ -15,6 +26,10 @@ namespace xidata_v2.source
 				case "Weapons Race": return GetResourceData("xidata_gear");
 				case "NPC": return GetResourceData("xidata_npc");
 				case "Animations": return GetResourceData("xidata_animations");
+
+				// trusts
+				case "Anims: Trust: Iroha": return GetResourceData("xidata_anims_iroha");
+
 				default: break;
 			}
 

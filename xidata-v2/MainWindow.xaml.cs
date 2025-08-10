@@ -43,8 +43,10 @@ namespace xidata_v2
 			// Set background image
 			SetBackground("background.png");
 
-			// Set some defaults
+			// Setup content type dropdown
 			InputContentType.Get().SelectedIndex = 0;
+			InputContentType.DepSelectItems = String.Join(",", Data.ContentType);
+			InputNoesisArguments.DepText = Settings.GetNoesisArgs();
 
 			// Subscribe to hook listener
 			HookSubscribe();

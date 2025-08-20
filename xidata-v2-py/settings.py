@@ -20,6 +20,7 @@ extract_overwrite_existing = False
 send_key_delay = 0.1
 send_key_loop_delay = 0.01
 send_text_delay = 0.01
+send_window_wait_delay = 0.3
 
 # If enabled, debug messages will be printed for key presses
 enable_send_key_debug = False

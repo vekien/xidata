@@ -39,8 +39,8 @@ def extract_animations():
             if "file_id" not in data:
                 continue
 
-            if data['category'] != "basic" or "anims_hume_male.json" != file:
-                continue
+            # if data['category'] != "basic" or "anims_hume_male.json" != file:
+            #     continue
 
             race_name = data['race_name']
             output_path_temp = os.path.join(extract_output_path, "animations", race_name, f"{data['category']}_{data['name_clean']}_{data['file_id']}")
@@ -48,10 +48,14 @@ def extract_animations():
             input_path = os.path.join(ffxi_path, data['dat'])
             output_path = os.path.join(output_path_temp, f"{data['name_clean']}_{data['file_id']}.fbx")
 
-            print(f"{current} / {len(rows)} - {race_name} - Extracting: {data['category']} {data['name']}")
+            print(f"{current} / {len(rows)} - {race_name} - Extracting: {data['category']} {data['name']} {data['dat']}")
 
             # if the fbx file exists, we skip!
-            if not extract_overwrite_existing and os.path.exists(output_path):
+            if not extract_overwrite_existing and Noesis().files_exists(output_path_temp, extension=".fbx"):
+                continue
+
+            # special condition for basic animations
+            if not extract_overwrite_existing and os.path.exists(output_path_temp) and data['category'] == "basic":
                 continue
 
             # ensure the output directory exists
@@ -66,19 +70,23 @@ def extract_animations():
                 skeleton = None
 
             # handle the Noesis export via cmode
-            Noesis().export(input_path, output_path, skip_textures=True, skeleton=skeleton)
+            try:
+                Noesis().export(input_path, output_path, skip_textures=True, skeleton=skeleton)
 
-            # Cleanup the noefbxmulti files
-            Noesis().noefbxmulti_cleanup(output_path_temp)
+                # Cleanup the noefbxmulti files
+                Noesis().noefbxmulti_cleanup(output_path_temp)
 
-            # special setup for basic, as it's 3 separate dats. We will move all files into 1 folder
-            if data['category'] == "basic":
-                os.makedirs(output_path_basic, exist_ok=True)
+                # special setup for basic, as it's 3 separate dats. We will move all files into 1 folder
+                if data['category'] == "basic":
+                    os.makedirs(output_path_basic, exist_ok=True)
 
-                # move all files from output_path_temp/* to output_path_basic
-                for file_name in os.listdir(output_path_temp):
-                    source = os.path.join(output_path_temp, file_name)
-                    destination = os.path.join(output_path_basic, file_name)
-                    shutil.move(source, destination)
+                    # move all files from output_path_temp/* to output_path_basic
+                    for file_name in os.listdir(output_path_temp):
+                        source = os.path.join(output_path_temp, file_name)
+                        destination = os.path.join(output_path_basic, file_name)
+                        shutil.move(source, destination)
 
-                shutil.rmtree(output_path_temp)
+                    #shutil.rmtree(output_path_temp)
+            except Exception as e:
+                print(f"Error processing {data['name']} ({data['file_id']}): {e}")
+                continue

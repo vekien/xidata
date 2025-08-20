@@ -7,6 +7,7 @@ from settings import (
     send_key_delay,
     send_key_loop_delay,
     send_text_delay,
+    send_window_wait_delay,
     enable_send_key_debug
 )
 
@@ -70,9 +71,9 @@ def count_active_windows(window_title):
     return len(exact_matches)
 
 
-def wait_for_active_window_count(window_title, delay=30, window_count=1, must_be_exact=False,stop_on_error=False):
+def wait_for_active_window_count(window_title, delay=100, window_count=1, must_be_exact=False,stop_on_error=False):
     for _ in range(delay + 1):
-        time.sleep(1)
+        time.sleep(send_window_wait_delay)
         window_count_active = count_active_windows(window_title) 
 
         if enable_send_key_debug:
@@ -92,9 +93,9 @@ def wait_for_active_window_count(window_title, delay=30, window_count=1, must_be
     return False
 
 
-def wait_for_active_window(window_title, delay=30, stop_on_error=False):
+def wait_for_active_window(window_title, delay=100, stop_on_error=False):
     for _ in range(delay + 1):
-        time.sleep(1)
+        time.sleep(send_window_wait_delay)
 
         if enable_send_key_debug:
             print(f"Waiting for windows titled '{window_title}'...")

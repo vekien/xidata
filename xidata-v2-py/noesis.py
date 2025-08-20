@@ -72,18 +72,18 @@ class Noesis():
         send_key('o')
 
         if wait_for_active_window_count("Open", window_count=1):
-            time.sleep(0.5)
+            time.sleep(0.2)
 
             paste_text(source)
             send_key('enter')
 
             # if we pass in a skele, we skip the 1st prompt
             if skeleton:
-                if wait_for_active_window("Open", stop_on_error=True):
+                if wait_for_active_window("Open", stop_on_error=True, delay=5):
                     paste_text(skeleton)
-                    send_key('enter', 1.0)
+                    send_key('enter')
 
-            time.sleep(1)
+            time.sleep(0.5)
 
             # Now open the Export Window
             send_alt_key('f')
@@ -115,13 +115,14 @@ class Noesis():
 
                 # Paste Noesis args
                 paste_text(noesis_args)
-                send_key('enter', 1.0)
-                
+                send_key('enter')
+
                 # If the open window, opens again, it means this model has a skeleton
                 if skeleton:
-                    if wait_for_active_window("Open", stop_on_error=True):
+                    if wait_for_active_window("Open", stop_on_error=True, delay=5):
                         paste_text(skeleton)
-                        send_key('enter', 1.0)
+                        send_key('enter')
+                        time.sleep(0.5)
 
                 # The complete window is called Noesis
                 if wait_for_active_window_count("Noesis", window_count=2, must_be_exact=True):
@@ -178,3 +179,13 @@ class Noesis():
                     os.remove(os.path.join(output_path_temp, file))
         except Exception as e:
             print(f"Exception: {e}")
+
+
+    def files_exists(self, output_path_temp, extension=".fbx"):
+        """
+        Check if any .fbx files exist in the output path.
+        """
+        if not os.path.exists(output_path_temp):
+            return False
+        
+        return any(file.lower().endswith(extension) for file in os.listdir(output_path_temp))
